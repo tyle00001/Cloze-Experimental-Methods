@@ -1,0 +1,321 @@
+id;Item;Condition;Group;Context;Sentence;Target;Question;QuestionCorrect;Left;Right;IsQuestion
+89;1;A;1;Some of the scientists were conducting experiments today.;Because the apparatus broke down, the scientist in the laboratory decided to;stop;;;No;Yes;no
+112;1;B;2;Some of the scientists were conducting experiments today.;The scientist in the laboratory, because the apparatus broke down, decided to;stop;;;No;Yes;no
+125;1;C;3;Some of the scientists were conducting experiments today.;Because the apparatus broke down, the scientist in the parking garage decided to;park;;;No;Yes;no
+129;1;D;4;Some of the scientists were conducting experiments today.;The scientist in the parking garage, because the apparatus broke down, decided to;park;;;No;Yes;no
+4;2;A;2;New books arrive at the library.;As his colleague left, the librarian by the library cart would;sort;;;No;Yes;no
+33;2;B;3;New books arrive at the library.;The librarian by the library cart, as his colleague left, would;sort;;;No;Yes;no
+62;2;C;4;New books arrive at the library.;As his colleague left, the librarian in the bar would;drink;;;No;Yes;no
+261;2;D;1;New books arrive at the library.;The librarian in the bar, as his colleague left, would;drink;;;No;Yes;no
+87;3;A;3;Everybody was excited about their vacations.;As people started lining up, the traveler at the gate would;board;;;No;Yes;no
+135;3;B;4;Everybody was excited about their vacations.;The traveler at the gate, as people started lining up, would;board;;;No;Yes;no
+153;3;C;1;Everybody was excited about their vacations.;As people started lining up, the traveler in the lake would;swim;;;No;Yes;no
+267;3;D;2;Everybody was excited about their vacations.;The traveler in the lake, as people started lining up, would;swim;;;No;Yes;no
+25;4;A;4;The show was being prepared.;When the beat dropped, the rapper on the stage began to;sing;;;No;Yes;no
+48;4;B;1;The show was being prepared.;The rapper on the stage, when the beat dropped, began to;sing;;;No;Yes;no
+279;4;C;2;The show was being prepared.;When the beat dropped, the rapper in the studio began to;record;;;No;Yes;no
+313;4;D;3;The show was being prepared.;The rapper in the studio, when the beat dropped, began to;record;;;No;Yes;no
+157;5;A;1;It is almost summer and the temperature is rising.;Because he was thirsty, the athlete on the track decided to;hydrate;;;No;Yes;no
+161;5;B;2;It is almost summer and the temperature is rising.;The athlete on the track, because he was thirsty, decided to;hydrate;;;No;Yes;no
+255;5;C;3;It is almost summer and the temperature is rising.;Because he was thirsty, the athlete in the taxi decided to;get off;;;No;Yes;no
+265;5;D;4;It is almost summer and the temperature is rising.;The athlete in the taxi, because he was thirsty, decided to;get off;;;No;Yes;no
+158;6;A;2;The restaurant was making preparations for the evening.;After the potatoes were delivered, the cook in the kitchen had to;peel;Was the restaurant preparing lunch?;No;No;Yes;yes
+160;6;B;3;The restaurant was making preparations for the evening.;The cook in the kitchen, after the potatoes were delivered, had to;peel;Was the restaurant preparing lunch?;No;No;Yes;yes
+221;6;C;4;The restaurant was making preparations for the evening.;After the potatoes were delivered, the cook in the garden had to;prune;Was the restaurant preparing lunch?;No;No;Yes;yes
+260;6;D;1;The restaurant was making preparations for the evening.;The cook in the garden, after the potatoes were delivered, had to;prune;Was the restaurant preparing lunch?;No;No;Yes;yes
+30;7;A;3;A rock concert is about to begin.;As the lights dimmed, the fan in the front row will;cheer;Is an opera about to begin?;No;No;Yes;yes
+34;7;B;4;A rock concert is about to begin.;The fan in the front row, as the lights dimmed, will;cheer;Is an opera about to begin?;No;No;Yes;yes
+190;7;C;1;A rock concert is about to begin.;As the lights dimmed, the fan stuck in traffic will;sigh;Is an opera about to begin?;No;No;Yes;yes
+237;7;D;2;A rock concert is about to begin.;The fan stuck in traffic, as the lights dimmed, will;sigh;Is an opera about to begin?;No;No;Yes;yes
+53;8;A;4;The passenger was getting ready for the journey.;As the train arrives, the traveler on the platform must;board;Does the train arrive?;Yes;No;Yes;yes
+136;8;B;1;The passenger was getting ready for the journey.;The traveler on the platform, as the train arrives, must;board;Does the train arrive?;Yes;No;Yes;yes
+150;8;C;2;The passenger was getting ready for the journey.;As the train arrives, the traveler in the caf� must;pay;Does the train arrive?;Yes;No;Yes;yes
+263;8;D;3;The passenger was getting ready for the journey.;The traveler in the caf�, as the train arrives, must;pay;Does the train arrive?;Yes;No;Yes;yes
+146;9;A;1;The teacher was setting up the class.;As the bell rings, the student outside the classroom had to;enter;;;No;Yes;no
+165;9;B;2;The teacher was setting up the class.;The student outside the classroom, as the bell rings, had to;enter;;;No;Yes;no
+277;9;C;3;The teacher was setting up the class.;As the bell rings, the student on the playground had to;come back;;;No;Yes;no
+301;9;D;4;The teacher was setting up the class.;The student on the playground, as the bell rings, had to;come back;;;No;Yes;no
+32;10;A;2;A meeting is about to begin.;As the meeting starts, the manager in the conference room must;speak;;;No;Yes;no
+152;10;B;3;A meeting is about to begin.;The manager in the conference room, as the meeting starts, must;speak;;;No;Yes;no
+207;10;C;4;A meeting is about to begin.;As the meeting starts, the manager in the subway must;hurry;;;No;Yes;no
+245;10;D;1;A meeting is about to begin.;The manager in the subway, as the meeting starts, must;hurry;;;No;Yes;no
+5;11;A;3;The director was setting up the shoot.;As the camera rolls, the actor on the set must;perform;;;No;Yes;no
+109;11;B;4;The director was setting up the shoot.;The actor on the set, as the camera rolls, must;perform;;;No;Yes;no
+228;11;C;1;The director was setting up the shoot.;As the camera rolls, the actor behind the camera must;be silent;;;No;Yes;no
+293;11;D;2;The director was setting up the shoot.;The actor behind the camera, as the camera rolls, must;be silent;;;No;Yes;no
+50;12;A;4;The athlete is well prepared for the competition.;As soon as the game begins, the player on the court will;play;;;No;Yes;no
+107;12;B;1;The athlete is well prepared for the competition.;The player on the court, as soon as the game begins, will;play;;;No;Yes;no
+116;12;C;2;The athlete is well prepared for the competition.;As soon as the game begins, the player at the food stand will;order;;;No;Yes;no
+181;12;D;3;The athlete is well prepared for the competition.;The player at the food stand, as soon as the game begins, will;order;;;No;Yes;no
+54;13;A;1;The coach was coaching the team for the big game.;Because it was raining, the players in the locker room had to;wait;Was it raining?;Yes;No;Yes;yes
+164;13;B;2;The coach was coaching the team for the big game.;The players in the locker room, because it was raining, had to;wait;Was it raining?;Yes;No;Yes;yes
+205;13;C;3;The coach was coaching the team for the big game.;Because it was raining, the players in the park had to;leave;Was it raining?;Yes;No;Yes;yes
+208;13;D;4;The coach was coaching the team for the big game.;The players in the park, because it was raining, had to;leave;Was it raining?;Yes;No;Yes;yes
+123;14;A;2;There were some workers in the yard.;When the rain started, the gardener in the yard had to;stop;;;No;Yes;no
+147;14;B;3;There were some workers in the yard.;The gardener in the yard, when the rain started, had to;stop;;;No;Yes;no
+222;14;C;4;There were some workers in the yard.;When the rain started, the gardener in the kitchen had to;cook;;;No;Yes;no
+319;14;D;1;There were some workers in the yard.;The gardener in the kitchen, when the rain started, had to;cook;;;No;Yes;no
+39;15;A;3;Military personnel are being called to duty.;When the order was given, the soldier on the base had to;move;;;No;Yes;no
+49;15;B;4;Military personnel are being called to duty.;The soldier on the base, when the order was given, had to;move;;;No;Yes;no
+71;15;C;1;Military personnel are being called to duty.;When the order was given, the soldier on the train had to;get back;;;No;Yes;no
+177;15;D;2;Military personnel are being called to duty.;The soldier on the train, when the order was given, had to;get back;;;No;Yes;no
+57;16;A;4;The bus was crowded.;When he was approaching the final station, the driver in the driver's seat had to;stop;Was the bus crowded?;Yes;No;Yes;yes
+120;16;B;1;The bus was crowded.;The driver in the driver's seat, when he was approaching the final station, had to;stop;Was the bus crowded?;Yes;No;Yes;yes
+122;16;C;2;The bus was crowded.;When he was approaching the final station, the driver on the sidewalk had to;walk;Was the bus crowded?;Yes;No;Yes;yes
+275;16;D;3;The bus was crowded.;The driver on the sidewalk, when he was approaching the final station, had to;walk;Was the bus crowded?;Yes;No;Yes;yes
+63;17;A;1;Today was a hectic day for the couple.;Since it was very late, the woman in the bedroom decided to;sleep;Was it late?;Yes;No;Yes;yes
+93;17;B;2;Today was a hectic day for the couple.;The woman in the bedroom, since it was very late, decided to;sleep;Was it late?;Yes;No;Yes;yes
+235;17;C;3;Today was a hectic day for the couple.;Since it was very late, the woman in the park decided to;leave;Was it late?;Yes;No;Yes;yes
+249;17;D;4;Today was a hectic day for the couple.;The woman in the park, since it was very late, decided to;leave;Was it late?;Yes;No;Yes;yes
+29;18;A;2;The competition is approaching.;Because he was preparing for a competition, the runner in the gym had to;train;;;No;Yes;no
+183;18;B;3;The competition is approaching.;The runner in the gym, because he was preparing for a competition, had to;train;;;No;Yes;no
+224;18;C;4;The competition is approaching.;Because he was preparing for a competition, the runner in the kitchen had to;eat;;;No;Yes;no
+236;18;D;1;The competition is approaching.;The runner in the kitchen, because he was preparing for a competition, had to;eat;;;No;Yes;no
+21;19;A;3;The doors opened and the audience was seated.;As the musical started, the actor on the stage had to;sing;Had the musical started?;Yes;No;Yes;yes
+83;19;B;4;The doors opened and the audience was seated.;The actor on the stage, as the musical started, had to;sing;Had the musical started?;Yes;No;Yes;yes
+91;19;C;1;The doors opened and the audience was seated.;As the musical started, the actor in the bathroom had to;shower;Had the musical started?;Yes;No;Yes;yes
+166;19;D;2;The doors opened and the audience was seated.;The actor in the bathroom, as the musical started, had to;shower;Had the musical started?;Yes;No;Yes;yes
+6;20;A;4;The weather is nice and the restaurant is full.;Because a customer had ordered something, the chef in the kitchen had to;cook;Had the customer ordered?;Yes;No;Yes;yes
+40;20;B;1;The weather is nice and the restaurant is full.;The chef in the kitchen, because a customer had ordered something, had to;cook;Had the customer ordered?;Yes;No;Yes;yes
+43;20;C;2;The weather is nice and the restaurant is full.;Because a customer had ordered something, the chef in the car had to;drive;Had the customer ordered?;Yes;No;Yes;yes
+238;20;D;3;The weather is nice and the restaurant is full.;The chef in the car, because a customer had ordered something, had to;drive;Had the customer ordered?;Yes;No;Yes;yes
+18;21;A;1;The conference has just started.;Once everyone was quiet, the speaker at the podium started to;speak;;;No;Yes;no
+58;21;B;2;The conference has just started.;The speaker at the podium, once everyone was quiet, started to;speak;;;No;Yes;no
+74;21;C;3;The conference has just started.;Once everyone was quiet, the speaker on the train started to;stream;;;No;Yes;no
+191;21;D;4;The conference has just started.;The speaker on the train, once everyone was quiet, started to;stream;;;No;Yes;no
+16;22;A;2;The publisher had asked the writers to write several articles.;Because the deadline was approaching, the author in the study room had to;write;Was the deadline approaching?;Yes;No;Yes;yes
+46;22;B;3;The publisher had asked the writers to write several articles.;The author in the study room, because the deadline was approaching, had to;write;Was the deadline approaching?;Yes;No;Yes;yes
+218;22;C;4;The publisher had asked the writers to write several articles.;Because the deadline was approaching, the author in his car had to;hurry;Was the deadline approaching?;Yes;No;Yes;yes
+262;22;D;1;The publisher had asked the writers to write several articles.;The author in his car, because the deadline was approaching, had to;hurry;Was the deadline approaching?;Yes;No;Yes;yes
+9;23;A;3;The family went camping in the summer.;After they had set up the camp, the family at the lake prepared to ;swim;Did the family go camping?;Yes;No;Yes;yes
+130;23;B;4;The family went camping in the summer.;The family at the lake, after they had set up the camp, prepared to ;swim;Did the family go camping?;Yes;No;Yes;yes
+248;23;C;1;The family went camping in the summer.;After they had set up the camp, the family in the tent prepared to ;sleep;Did the family go camping?;Yes;No;Yes;yes
+303;23;D;2;The family went camping in the summer.;The family in the tent, after they had set up the camp, prepared to ;sleep;Did the family go camping?;Yes;No;Yes;yes
+247;24;A;4;The packages needed to be delivered urgently.;Because he was in a rush, the deliveryman at the door needed to ;knock;;;No;Yes;no
+288;24;B;1;The packages needed to be delivered urgently.;The deliveryman at the door, because he was in a rush, needed to ;knock;;;No;Yes;no
+299;24;C;2;The packages needed to be delivered urgently.;Because he was in a rush, the deliveryman in the gym needed to ;leave;;;No;Yes;no
+304;24;D;3;The packages needed to be delivered urgently.;The deliveryman in the gym, because he was in a rush, needed to ;leave;;;No;Yes;no
+117;25;A;1;The office opens every day at 9:00 am.;Because a transcript was needed urgently, the trainee at her desk had to ;type;Does the office open every day at 9:00 am?;Yes;No;Yes;yes
+134;25;B;2;The office opens every day at 9:00 am.;The trainee at her desk, because a transcript was needed urgently, had to ;type;Does the office open every day at 9:00 am?;Yes;No;Yes;yes
+172;25;C;3;The office opens every day at 9:00 am.;Because a transcript was needed urgently, the trainee in the lunchroom, had to ;eat;Does the office open every day at 9:00 am?;Yes;No;Yes;yes
+246;25;D;4;The office opens every day at 9:00 am.;The trainee at the lunchroom, because a transcript was needed urgently, had to ;eat;Does the office open every day at 9:00 am?;Yes;No;Yes;yes
+45;26;A;2;The hospital staff had just changed shifts.;Because a patient needs brain surgery, the surgeon in the surgery room must;operate;Does the patient need a tooth extraction?;No;No;Yes;yes
+269;26;B;3;The hospital staff had just changed shifts.;The surgeon in the surgery room, because a patient needs brain surgery, must;operate;Does the patient need a tooth extraction?;No;No;Yes;yes
+272;26;C;4;The hospital staff had just changed shifts.;Because a patient needs brain surgery, the surgeon in the pub must;pay;Does the patient need a tooth extraction?;No;No;Yes;yes
+312;26;D;1;The hospital staff had just changed shifts.;The surgeon in the pub, because a patient needs brain surgery, must;pay;Does the patient need a tooth extraction?;No;No;Yes;yes
+24;27;A;3;The doctor was seeing a lot of patients.;Because there was a long line, the patient at the back had to ;wait;Was the doctor seeing many patients?;Yes;No;Yes;yes
+95;27;B;4;The doctor was seeing a lot of patients.;The patient at the back, because there was a long line, had to ;wait;Was the doctor seeing many patients?;Yes;No;Yes;yes
+144;27;C;1;The doctor was seeing a lot of patients.;Because there was a long line, the patient at home had to;reschedule;Was the doctor seeing many patients?;Yes;No;Yes;yes
+282;27;D;2;The doctor was seeing a lot of patients.;The patient at home, because there was a long line, had to;reschedule;Was the doctor seeing many patients?;Yes;No;Yes;yes
+73;28;A;4;The grandchildren needed clothes for the winter.;Since she wanted to make them a sweater, the grandmother in the living room started to;knit;Does the grandmother plan to make some T-shirts?;No;No;Yes;yes
+88;28;B;1;The grandchildren needed clothes for the winter.;The grandmother in the living room, since she wanted to make them a sweater, started to;knit;Does the grandmother plan to make some T-shirts?;No;No;Yes;yes
+297;28;C;2;The grandchildren needed clothes for the winter.;Since she wanted to make them a sweater, the grandmother in the store started to;shop;Does the grandmother plan to make some T-shirts?;No;No;Yes;yes
+314;28;D;3;The grandchildren needed clothes for the winter.;The grandmother in the store, since she wanted to make them a sweater, started to;shop;Does the grandmother plan to make some T-shirts?;No;No;Yes;yes
+3;29;A;1;The victim called 911.;Since the burglar escaped before the police arrived, the police officer at the crime scene must;investigate;Does the burglar get arrested?;No;No;Yes;yes
+139;29;B;2;The victim called 911.;The police officer at the crime scene, since the burglar escaped before the police arrived, must;investigate;Does the burglar get arrested?;No;No;Yes;yes
+184;29;C;3;The victim called 911.;Since the burglar escaped before the police arrived, the police officer in the coffee shop must;leave;Does the burglar get arrested?;No;No;Yes;yes
+193;29;D;4;The victim called 911.;The police officer in the coffee shop, since the burglar escaped before the police arrived, must;leave;Does the burglar get arrested?;No;No;Yes;yes
+111;30;A;2;The store manager is not satisfied with the new cashier.;As the goods on the belt approach, the cashier behind the counter will;scan;Is the store manager satisfied with the new cashier?;No;No;Yes;yes
+167;30;B;3;The store manager is not satisfied with the new cashier.;The cashier behind the counter, as the goods on the belt approach, will;scan;Is the store manager satisfied with the new cashier?;No;No;Yes;yes
+258;30;C;4;The store manager is not satisfied with the new cashier.;As the goods on the belt approach, the cashier in the restroom will;return;Is the store manager satisfied with the new cashier?;No;No;Yes;yes
+305;30;D;1;The store manager is not satisfied with the new cashier.;The cashier in the restroom, as the goods on the belt approach, will;return;Is the store manager satisfied with the new cashier?;No;No;Yes;yes
+56;31;A;3;The race begins.;As the starting gun blasts, the sprinter on the track will;run;;;No;Yes;no
+75;31;B;4;The race begins.;The sprinter on the track, as the starting gun blasts, will;run;;;No;Yes;no
+140;31;C;1;The race begins.;As the starting gun blasts, the sprinter in the living room will;watch;;;No;Yes;no
+159;31;D;2;The race begins.;The sprinter in the living room, as the starting gun blasts, will;watch;;;No;Yes;no
+44;32;A;4;The pilot is getting ready for the next flight.;As the guests are ready for the boarding, the stewardess at the gate will;greet;;;No;Yes;no
+113;32;B;1;The pilot is getting ready for the next flight.;The stewardess at the gate, as the guests are ready for the boarding, will;greet;;;No;Yes;no
+142;32;C;2;The pilot is getting ready for the next flight.;As the guests are ready for the boarding, the stewardess in the train will;arrive;;;No;Yes;no
+283;32;D;3;The pilot is getting ready for the next flight.;The stewardess in the train, as the guests are ready for the boarding, will;arrive;;;No;Yes;no
+82;33;A;1;The audience applauds.;As the concert begins, the guitarist on the stage will;play;;;No;Yes;no
+211;33;B;2;The audience applauds.;The guitarist on the stage, as the concert begins, will;play;;;No;Yes;no
+225;33;C;3;The audience applauds.;As the concert begins, the guitarist in the van will;drive;;;No;Yes;no
+292;33;D;4;The audience applauds.;The guitarist in the van, as the concert begins, will;drive;;;No;Yes;no
+132;34;A;2;The bartender gets ready for the nightshift.;Because the bartender was polite and the drinks were nice, the customer at the counter will;tip;;;No;Yes;no
+199;34;B;3;The bartender gets ready for the nightshift.;The customer at the counter, because the bartender was polite and the drinks were nice, will;tip;;;No;Yes;no
+239;34;C;4;The bartender gets ready for the nightshift.;Because the bartender was polite and the drinks were nice, the customer at home will;sleep;;;No;Yes;no
+271;34;D;1;The bartender gets ready for the nightshift.;The customer at home, because the bartender was polite and the drinks were nice, will;sleep;;;No;Yes;no
+27;35;A;3;The boss set the deadline.;As the warning message has appeared on her phone, the programmer in the office must;debug;Has the warning message appeared?;Yes;No;Yes;yes
+42;35;B;4;The boss set the deadline.;The programmer in the office, as the warning message has appeared on her phone, must;debug;Has the warning message appeared?;Yes;No;Yes;yes
+81;35;C;1;The boss set the deadline.;As the warning message has appeared on her phone, the programmer in the garden must;return;Has the warning message appeared?;Yes;No;Yes;yes
+141;35;D;2;The boss set the deadline.;The programmer in the garden, as the warning message has appeared on her phone, must;return;Has the warning message appeared?;Yes;No;Yes;yes
+156;36;A;4;The barber has a few more slots available for haircuts after noon.;Before the next customer comes in, the barber in the barbershop will;clean up;;;No;Yes;no
+162;36;B;1;The barber has a few more slots available for haircuts after noon.;The barber in the barbershop, before the next customer comes in, will;clean up;;;No;Yes;no
+178;36;C;2;The barber has a few more slots available for haircuts after noon.;Before the next customer comes in, the barber in the kitchen will;cook;;;No;Yes;no
+302;36;D;3;The barber has a few more slots available for haircuts after noon.;The barber in the kitchen, before the next customer comes in, will;cook;;;No;Yes;no
+51;37;A;1;The mother is�not home today.;As the baby cannot fall asleep, the babysitter next to the cradle should;sing;Is the baby able to fall asleep?;No;No;Yes;yes
+149;37;B;2;The mother is�not home today.;The babysitter next to the cradle, as the baby cannot fall asleep, should�;sing;Is the baby able to fall asleep?;No;No;Yes;yes
+154;37;C;3;The mother is�not home today.;As the baby cannot fall asleep, the babysitter in the yard should;return;Is the baby able to fall asleep?;No;No;Yes;yes
+286;37;D;4;The mother is�not home today.;The babysitter in the yard, as the baby cannot fall asleep, should�;return;Is the baby able to fall asleep?;No;No;Yes;yes
+60;38;A;2;The gallery sent the invitation.;As he accepted the invitation, the sculptor in the atelier needs to;sculpt;;;No;Yes;no
+66;38;B;3;The gallery sent the invitation.;The sculptor in the atelier, as he accepted the invitation, needs to;sculpt;;;No;Yes;no
+170;38;C;4;The gallery sent the invitation.;As he accepted the invitation, the sculptor in the restaurant needs to;order;;;No;Yes;no
+201;38;D;1;The gallery sent the invitation.;The sculptor in the restaurant, as he accepted the invitation, needs to;order;;;No;Yes;no
+67;39;A;3;The hunt has begun.;As the deer approaches, the hunter behind the tree will;shoot;Is there a bear approaching the hunter?;No;No;Yes;yes
+86;39;B;4;The hunt has begun.;The hunter behind the tree, as the deer approaches, will;shoot;Is there a bear approaching the hunter?;No;No;Yes;yes
+187;39;C;1;The hunt has begun.;As the deer approaches, the hunter on the beach will;swim;Is there a bear approaching the hunter?;No;No;Yes;yes
+276;39;D;2;The hunt has begun.;The hunter on the beach, as the deer approaches, will;swim;Is there a bear approaching the hunter?;No;No;Yes;yes
+41;40;A;4;The touristic season started.;As they have a selfie stick in hand, the tourists at the monument would;pose;Do the tourists have a selfie stick in hand?;Yes;No;Yes;yes
+110;40;B;1;The touristic season started.;The tourists at the monument, as they have a selfie stick in hand, would;pose;Do the tourists have a selfie stick in hand?;Yes;No;Yes;yes
+194;40;C;2;The touristic season started.;As they have a selfie stick in hand, the tourists in the tavern would;eat;Do the tourists have a selfie stick in hand?;Yes;No;Yes;yes
+195;40;D;3;The touristic season started.;The tourists in the tavern, as they have a selfie stick in hand, would;eat;Do the tourists have a selfie stick in hand?;Yes;No;Yes;yes
+180;41;A;1;The reporters were covering a breaking news story.;Because it was very loud outside, the reporters at the scene had to;yell;Was it quiet outside?;No;No;Yes;yes
+240;41;B;2;The reporters were covering a breaking news story.;The reporters at the scene, because it was very loud outside, had to;yell;Was it quiet outside?;No;No;Yes;yes
+259;41;C;3;The reporters were covering a breaking news story.;Because it was very loud outside, the reporters in the studio had to;record;Was it quiet outside?;No;No;Yes;yes
+274;41;D;4;The reporters were covering a breaking news story.;The reporters in the studio, because it was very loud outside, had to;record;Was it quiet outside?;No;No;Yes;yes
+52;42;A;2;The models were putting on their clothes for a fashion show.;As soon as they are dressed, the models on the runway should;walk;;;No;Yes;no
+85;42;B;3;The models were putting on their clothes for a fashion show.;The models on the runway, as soon as they are dressed, should;walk;;;No;Yes;no
+179;42;C;4;The models were putting on their clothes for a fashion show.;As soon as they are dressed, the models at the bus stop should;wait;;;No;Yes;no
+320;42;D;1;The models were putting on their clothes for a fashion show.;The models at the bus stop, as soon as they are dressed, should;wait;;;No;Yes;no
+31;43;A;3;The mountaineering expedition was underway.;As they had an ice axe, the mountaineer on the cliff face would;climb ;Is the mountaineer holding a snow shovel?;No;No;Yes;yes
+35;43;B;4;The mountaineering expedition was underway.;The mountaineer on the cliff face, as they had an ice axe, would;climb ;Is the mountaineer holding a snow shovel?;No;No;Yes;yes
+98;43;C;1;The mountaineering expedition was underway.;As they had an ice axe, the mountaineer at the convenience store would;shop;Is the mountaineer holding a snow shovel?;No;No;Yes;yes
+185;43;D;2;The mountaineering expedition was underway.;The mountaineer at the convenience store, as they had an ice axe, would;shop;Is the mountaineer holding a snow shovel?;No;No;Yes;yes
+8;44;A;4;The deep-sea divers were exploring a shipwreck.;As they had a flashlight in hand, the divers near the wreck would;investigate;Were the divers exploring a shipwreck?;Yes;No;Yes;yes
+26;44;B;1;The deep-sea divers were exploring a shipwreck.;The divers near the wreck, as they had a flashlight in hand, would;investigate;Were the divers exploring a shipwreck?;Yes;No;Yes;yes
+230;44;C;2;The deep-sea divers were exploring a shipwreck.;As they had a flashlight in hand, the divers at the port would;depart;Were the divers exploring a shipwreck?;Yes;No;Yes;yes
+284;44;D;3;The deep-sea divers were exploring a shipwreck.;The divers at the port, as they had a flashlight in hand, would;depart;Were the divers exploring a shipwreck?;Yes;No;Yes;yes
+182;45;A;1;Medical professionals were handling different aspects of patient care.;As the patient laid down, the pathologist in the office will;examine;Did the patient lay down?;Yes;No;Yes;yes
+206;45;B;2;Medical professionals were handling different aspects of patient care.;The pathologist in the office, as the patient laid down, will;examine;Did the patient lay down?;Yes;No;Yes;yes
+232;45;C;3;Medical professionals were handling different aspects of patient care.;As the patient laid down, the pathologist in the bedroom will;sleep;Did the patient lay down?;Yes;No;Yes;yes
+273;45;D;4;Medical professionals were handling different aspects of patient care.;The pathologist in the bedroom, as the patient laid down, will;sleep;Did the patient lay down?;Yes;No;Yes;yes
+138;46;A;2;The startup is developing rapidly.;As the stock price soars, the banker in the stock exchange will;invest;Is the stock price plummeting?;No;No;Yes;yes
+256;46;B;3;The startup is developing rapidly.;The banker in the stock exchange, as the stock price soars, will;invest;Is the stock price plummeting?;No;No;Yes;yes
+317;46;C;4;The startup is developing rapidly.;As the stock price soars, the banker in the luxury suite will;celebrate;Is the stock price plummeting?;No;No;Yes;yes
+318;46;D;1;The startup is developing rapidly.;The banker in the luxury suite, as the stock price soars, will;celebrate;Is the stock price plummeting?;No;No;Yes;yes
+7;47;A;3;The patient suffers from tooth pain.;As the patient is under local anesthesia, the orthodontist in the operating room will;operate;Does the patient suffer from tooth pain?;Yes;No;Yes;yes
+69;47;B;4;The patient suffers from tooth pain.;The orthodontist in the operating room, as the patient is under local anesthesia, will;operate;Does the patient suffer from tooth pain?;Yes;No;Yes;yes
+108;47;C;1;The patient suffers from tooth pain.;As the patient is under local anesthesia, the orthodontist in the bathroom will;freshen up;Does the patient suffer from tooth pain?;Yes;No;Yes;yes
+186;47;D;2;The patient suffers from tooth pain.;The orthodontist in the bathroom, as the patient is under local anesthesia, will;freshen up;Does the patient suffer from tooth pain?;Yes;No;Yes;yes
+59;48;A;4;The family ordered a chair.;As the package is loaded on the van, the courier in the package station will;deliver;Did the family order a table?;No;No;Yes;yes
+278;48;B;1;The family ordered a chair.;The courier in the package station, as the package is loaded on the van, will;deliver;Did the family order a table?;No;No;Yes;yes
+306;48;C;2;The family ordered a chair.;As the package is loaded on the van, the courier on the couch will;rest;Did the family order a table?;No;No;Yes;yes
+307;48;D;3;The family ordered a chair.;The courier on the couch, as the package is loaded on the van, will;rest;Did the family order a table?;No;No;Yes;yes
+61;49;A;1;Emergency responders were being alerted to various situations.;As the fire spreads fast, the firefighter in the building needs to;evacuate;;;No;Yes;no
+102;49;B;2;Emergency responders were being alerted to various situations.;The firefighter in the building, as the fire spreads fast, needs to;evacuate;;;No;Yes;no
+202;49;C;3;Emergency responders were being alerted to various situations.;As the fire spreads fast, the firefighter in bed needs to;sleep;;;No;Yes;no
+295;49;D;4;Emergency responders were being alerted to various situations.;The firefighter in bed, as the fire spreads fast, needs to;sleep;;;No;Yes;no
+105;50;A;2;The company is short-handed.;As the client has complained, the agent on the service line will;explain;Has the client complained?;Yes;No;Yes;yes
+119;50;B;3;The company is short-handed.;The agent on the service line, as the client has complained, will;explain;Has the client complained?;Yes;No;Yes;yes
+189;50;C;4;The company is short-handed.;As the client has complained, the agent in the gaming room will;ignore;Has the client complained?;Yes;No;Yes;yes
+197;50;D;1;The company is short-handed.;The agent in the gaming room, as the client has complained, will;ignore;Has the client complained?;Yes;No;Yes;yes
+106;51;A;3;Academics were balancing research responsibilities and personal time.;Since the student is asking for supervision, the professor in the office will;agree;Does the student want to ask for supervision?;Yes;No;Yes;yes
+143;51;B;4;Academics were balancing research responsibilities and personal time.;The professor in the office, since the student is asking for supervision, will;agree;Does the student want to ask for supervision?;Yes;No;Yes;yes
+231;51;C;1;Academics were balancing research responsibilities and personal time.;Since the student is asking for supervision, the professor at the resort will;relax;Does the student want to ask for supervision?;Yes;No;Yes;yes
+281;51;D;2;Academics were balancing research responsibilities and personal time.;The professor at the resort, since the student is asking for supervision, will;relax;Does the student want to ask for supervision?;Yes;No;Yes;yes
+12;52;A;4;The marriage of the couple is hanging by a thread.;When the couple starts talking, the therapist in the office will;listen;;;No;Yes;no
+96;52;B;1;The marriage of the couple is hanging by a thread.;The therapist in the office, when the couple starts talking, will;listen;;;No;Yes;no
+115;52;C;2;The marriage of the couple is hanging by a thread.;When the couple starts talking, the therapist in the break room  will;get back;;;No;Yes;no
+242;52;D;3;The marriage of the couple is hanging by a thread.;The therapist in the break room, when the couple starts talking, will;get back;;;No;Yes;no
+169;53;A;1;The song is becoming popular.;As the singer promoted a new collab, the author in the studio will;compose;Is the song becoming popular?;Yes;No;Yes;yes
+215;53;B;2;The song is becoming popular.;The author in the studio, as the singer promoted a new collab, will;compose;Is the song becoming popular?;Yes;No;Yes;yes
+289;53;C;3;The song is becoming popular.;As the singer promoted a new collab, the author in the park will;jog;Is the song becoming popular?;Yes;No;Yes;yes
+300;53;D;4;The song is becoming popular.;The author in the park, as the singer promoted a new collab, will;jog;Is the song becoming popular?;Yes;No;Yes;yes
+36;54;A;2;A new project was finished.;As the meeting began, the team leader in the meeting room started to;present;Did the meeting begin?;Yes;No;Yes;yes
+55;54;B;3;A new project was finished.;The team leader in the meeting room, as the meeting began, started to;present;Did the meeting begin?;Yes;No;Yes;yes
+97;54;C;4;A new project was finished.;As the meeting began, the team leader in the lunchroom started to;rush;Did the meeting begin?;Yes;No;Yes;yes
+155;54;D;1;A new project was finished.;The team leader in the lunchroom, as the meeting began, started to;rush;Did the meeting begin?;Yes;No;Yes;yes
+127;55;A;3;The red engine light in the car had come on.;Because the engine broke down, the mechanic in the shop had to;repair;Had the red engine light in the car come on?;Yes;No;Yes;yes
+212;55;B;4;The red engine light in the car had come on.;The mechanic in the shop, because the engine broke down, had to;repair;Had the red engine light in the car come on?;Yes;No;Yes;yes
+252;55;C;1;The red engine light in the car had come on.;Because the engine broke down, the mechanic on the street had to;stop;Had the red engine light in the car come on?;Yes;No;Yes;yes
+315;55;D;2;The red engine light in the car had come on.;The mechanic on the street, because the engine broke down, had to;stop;Had the red engine light in the car come on?;Yes;No;Yes;yes
+68;56;A;4;A terrorist attack in the city center happened.;As the photographer arrives, the journalist in front of the camera will;report;;;No;Yes;no
+101;56;B;1;A terrorist attack in the city center happened.;The journalist in front of the camera, as the photographer arrives, will;report;;;No;Yes;no
+128;56;C;2;A terrorist attack in the city center happened.;As the photographer arrives, the journalist behind the counter will;order;;;No;Yes;no
+210;56;D;3;A terrorist attack in the city center happened.;The journalist behind the counter, as the photographer arrives, will;order;;;No;Yes;no
+17;57;A;1;The newly wedded couple started building their house.;After meeting with the couple about the blueprint ideas, the architect in his office starts to ;design;;;No;Yes;no
+22;57;B;2;The newly wedded couple started building their house.;The architect in his office, after meeting with the couple about the blueprint ideas, had to;design;;;No;Yes;no
+148;57;C;3;The newly wedded couple started building their house.;After meeting with the couple about the blueprint ideas, the architect in the kitchen had to ;eat;;;No;Yes;no
+233;57;D;4;The newly wedded couple started building their house.;The architect in the kitchen, after meeting with the couple about the blueprint ideas, had to;eat;;;No;Yes;no
+64;58;A;2;There is a big event in the city tonight.;As one of the performers got sick at the last minute, the choreographer on stage had to;dance;Did the performer get sick at the last minute?;Yes;No;Yes;yes
+76;58;B;3;There is a big event in the city tonight.;The choreographer on stage, as one of the performers got sick at the last minute, had to;dance;Did the performer get sick at the last minute?;Yes;No;Yes;yes
+266;58;C;4;There is a big event in the city tonight.;As one of the performers got sick at the last minute, the choreographer in the dressing room had to;dress up;Did the performer get sick at the last minute?;Yes;No;Yes;yes
+287;58;D;1;There is a big event in the city tonight.;The choreographer in the dressing room, as one of the performers got sick at the last minute, had to;dress up;Did the performer get sick at the last minute?;Yes;No;Yes;yes
+28;59;A;3;Athletes were managing their daily routines during training.;After the schedule was announced, the athlete in the stadium must;train;Was the schedule announced?;Yes;No;Yes;yes
+90;59;B;4;Athletes were managing their daily routines during training.;The athlete in the stadium, after the schedule was announced, must;train;Was the schedule announced?;Yes;No;Yes;yes
+204;59;C;1;Athletes were managing their daily routines during training.;After the schedule was announced, the athlete in the kitchen must;cook;Was the schedule announced?;Yes;No;Yes;yes
+226;59;D;2;Athletes were managing their daily routines during training.;The athlete in the kitchen, after the schedule was announced, must;cook;Was the schedule announced?;Yes;No;Yes;yes
+173;60;A;4;The company is trying to expand in many different countries.;As the marketing department prepares some campaigns for their products, the salesman in the store has to;advertise;;;No;Yes;no
+174;60;B;1;The company is trying to expand in many different countries.;The salesman in the store, as the marketing department prepares some campaigns for their products, has to;advertise;;;No;Yes;no
+243;60;C;2;The company is trying to expand in many different countries.;As the marketing department prepares some campaigns for their products, the salesman in the hotel room has to;relax;;;No;Yes;no
+257;60;D;3;The company is trying to expand in many different countries.;The salesman in the hotel room, as the marketing department prepares some campaigns for their products, has to;relax;;;No;Yes;no
+23;61;A;1;The publisher needs to make more sales in the next few months.;After being notified that the new book needs to be published soon, the author in his office, should;write;Does the publisher need to make fewer sales in the next few months?;No;No;Yes;yes
+70;61;B;2;The publisher needs to make more sales in the next few months.;The author in his office, after being notified that the new book needs to be published soon, should;write;Does the publisher need to make fewer sales in the next few months?;No;No;Yes;yes
+151;61;C;3;The publisher needs to make more sales in the next few months.;After being notified that the new book needs to be published soon, the author in the restaurant should;order;Does the publisher need to make fewer sales in the next few months?;No;No;Yes;yes
+311;61;D;4;The publisher needs to make more sales in the next few months.;The author in the restaurant, after being notified that the new book needs to be published soon, should;order;Does the publisher need to make fewer sales in the next few months?;No;No;Yes;yes
+1;62;A;2;This illness is very rare.;As the patient was getting sicker and sicker, the doctor in the hospital had to;operate;Was the patient getting sicker?;Yes;No;Yes;yes
+13;62;B;3;This illness is very rare.;The doctor in the hospital, as the patient was getting sicker and sicker, had to;operate;Was the patient getting sicker?;Yes;No;Yes;yes
+99;62;C;4;This illness is very rare.;As the patient was getting sicker and sicker, the doctor in the car had to;drive;Was the patient getting sicker?;Yes;No;Yes;yes
+137;62;D;1;This illness is very rare.;The doctor in the car, as the patient was getting sicker and sicker, had to;drive;Was the patient getting sicker?;Yes;No;Yes;yes
+84;63;A;3;The European Parliament voted for the new law. ;Since all countries need to implement the new law, the translator in his office had to;translate;Do all countries need to implement the new law?;Yes;No;Yes;yes
+114;63;B;4;The European Parliament voted for the new law. ;The translator in his office, since all countries need to implement the new law, had to;translate;Do all countries need to implement the new law?;Yes;No;Yes;yes
+234;63;C;1;The European Parliament voted for the new law. ;Since all countries need to implement the new law, the translator in the bathroom had to;freshen up;Do all countries need to implement the new law?;Yes;No;Yes;yes
+309;63;D;2;The European Parliament voted for the new law. ;The translator in the bathroom, since all countries need to implement the new law, had to;freshen up;Do all countries need to implement the new law?;Yes;No;Yes;yes
+37;64;A;4;Farmers were busy with seasonal activities as spring was approaching.;As the weather is still good and it hasn't been raining, the farmer in the tractor must;drive;Is winter approaching?;No;No;Yes;yes
+72;64;B;1;Farmers were busy with seasonal activities as spring was approaching.;The farmer in the tractor, as the weather is still good and it hasn't been raining, must;drive;Is winter approaching?;No;No;Yes;yes
+79;64;C;2;Farmers were busy with seasonal activities as spring was approaching.;As the weather is still good and it hasn't been raining, the farmer at the counter must;pay;Is winter approaching?;No;No;Yes;yes
+217;64;D;3;Farmers were busy with seasonal activities as spring was approaching.;The farmer at the counter, as the weather is still good and it hasn't been raining, must;pay;Is winter approaching?;No;No;Yes;yes
+241;65;A;1;There is some turbulence during the flight.;As the passengers are quite distressed, the flight attendant in the cabin must;assist;;;No;Yes;no
+244;65;B;2;There is some turbulence during the flight.;The flight attendant in the cabin, as the passengers are quite distressed, must;assist;;;No;Yes;no
+268;65;C;3;There is some turbulence during the flight.;As the passengers are quite distressed, the flight attendant in the bathroom must;return;;;No;Yes;no
+308;65;D;4;There is some turbulence during the flight.;The flight attendant in the bathroom, as the passengers are quite distressed, must;return;;;No;Yes;no
+20;66;A;2;Many clients came to the restaurant without reservation.;As the restaurant was busy and there was some waiting time, the hostess at the door should;apologize;Did many clients come to the restaurant with reservations?;No;No;Yes;yes
+176;66;B;3;Many clients came to the restaurant without reservation.;The hostess at the door, as the restaurant was busy and there was some waiting time, should;apologize;Did many clients come to the restaurant with reservations?;No;No;Yes;yes
+253;66;C;4;Many clients came to the restaurant without reservation.;As the restaurant was busy and there was some waiting time, the hostess behind the bar should;serve;Did many clients come to the restaurant with reservations?;No;No;Yes;yes
+296;66;D;1;Many clients came to the restaurant without reservation.;The hostess behind the bar, as the restaurant was busy and there was some waiting time, should;serve;Did many clients come to the restaurant with reservations?;No;No;Yes;yes
+124;67;A;3;Behind the scenes, the models were rushing through final preparations for Paris Fashion Week.;As people were seated and the show started, the model on the catwalk had to;pose;Is Fashion Week happening in New York?;No;No;Yes;yes
+126;67;B;4;Behind the scenes, the models were rushing through final preparations for Paris Fashion Week.;The model on the catwalk, as people were seated and the show started, had to;pose;Is Fashion Week happening in New York?;No;No;Yes;yes
+213;67;C;1;Behind the scenes, the models were rushing through final preparations for Paris Fashion Week.;As people were seated and the show started, the model in the bathroom had to;shower;Is Fashion Week happening in New York?;No;No;Yes;yes
+251;67;D;2;Behind the scenes, the models were rushing through final preparations for Paris Fashion Week.;The model in the bathroom, as people were seated and the show started, had to;shower;Is Fashion Week happening in New York?;No;No;Yes;yes
+92;68;A;4;The elections are approaching.;As the interviews with the politicians are completed, the journalist in his office must;write;Are the interviews with the politicians completed?;Yes;No;Yes;yes
+104;68;B;1;The elections are approaching.;The journalist in his office, as the interviews with the politicians are completed, must;write;Are the interviews with the politicians completed?;Yes;No;Yes;yes
+227;68;C;2;The elections are approaching.;As the interviews with the politicians are completed, the journalist on the street must;walk;Are the interviews with the politicians completed?;Yes;No;Yes;yes
+291;68;D;3;The elections are approaching.;The journalist on the street, as the interviews with the politicians are completed, must;walk;Are the interviews with the politicians completed?;Yes;No;Yes;yes
+77;69;A;1;Event staff were managing various responsibilities before the celebration.;While the preparations are in progress and the time is approaching, the hotel manager in the ballroom must;supervise;Have the preparations already done?;No;No;Yes;yes
+121;69;B;2;Event staff were managing various responsibilities before the celebration.;The hotel manager in the ballroom, while the preparations are in progress and the time is approaching, must;supervise;Have the preparations already done?;No;No;Yes;yes
+175;69;C;3;Event staff were managing various responsibilities before the celebration.;While the preparations are in progress and the time is approaching, the hotel manager on the sailing boat must;sail;Have the preparations already done?;No;No;Yes;yes
+285;69;D;4;Event staff were managing various responsibilities before the celebration.;The hotel manager on the sailing boat, while the preparations are in progress and the time is approaching, must;sail;Have the preparations already done?;No;No;Yes;yes
+10;70;A;2;One of the biggest European conferences is taking place.;While talks in all European languages are held, the interpreter in the booth must;interpret;;;No;Yes;no
+38;70;B;3;One of the biggest European conferences is taking place.;The interpreter in the booth, while talks in all European languages are held, must;interpret;;;No;Yes;no
+100;70;C;4;One of the biggest European conferences is taking place.;While talks in all European languages are held, the interpreter in her hotel room must;rest;;;No;Yes;no
+298;70;D;1;One of the biggest European conferences is taking place.;The interpreter in her hotel room, while talks in all European languages are held, must;rest;;;No;Yes;no
+11;71;A;3;The construction of the new house is ready.;As the blueprints for the electricity are prepared, the electrician at the construction site has to;install;Is the construction of the new house ready?;Yes;No;Yes;yes
+65;71;B;4;The construction of the new house is ready.;The electrician at the construction site, as the blueprints for the electricity are prepared, has to;install;Is the construction of the new house ready?;Yes;No;Yes;yes
+118;71;C;1;The construction of the new house is ready.;As the blueprints for the electricity are prepared, the electrician in the store has to;shop;Is the construction of the new house ready?;Yes;No;Yes;yes
+196;71;D;2;The construction of the new house is ready.;The electrician in the store, as the blueprints for the electricity are prepared, has to;shop;Is the construction of the new house ready?;Yes;No;Yes;yes
+2;72;A;4;A homicide happened.;As the victim's wife wanted to know more about what happened, the detective at the crime scene must;investigate;Did the homicide happen?;Yes;No;Yes;yes
+163;72;B;1;A homicide happened.;The detective at the crime scene, as the victim's wife wanted to know more about what happened, must;investigate;Did the homicide happen?;Yes;No;Yes;yes
+200;72;C;2;A homicide happened.;As the victim's wife wanted to know more about what happened, the detective at the car wash must;return;Did the homicide happen?;Yes;No;Yes;yes
+229;72;D;3;A homicide happened.;The detective at the car wash, as the victim's wife wanted to know more about what happened, must;return;Did the homicide happen?;Yes;No;Yes;yes
+94;73;A;1;The economy seems to be improving.;As the timing seems appropriate to take more risks, the banker in the bank must;invest;Does the timing seem inappropriate to take more risks?;No;No;Yes;yes
+131;73;B;2;The economy seems to be improving.;The banker in the bank, as the timing seems appropriate to take more risks, must;invest;Does the timing seem inappropriate to take more risks?;No;No;Yes;yes
+219;73;C;3;The economy seems to be improving.;As the timing seems appropriate to take more risks, the banker in the conference room must;present;Does the timing seem inappropriate to take more risks?;No;No;Yes;yes
+250;73;D;4;The economy seems to be improving.;The banker in the conference room, as the timing seems appropriate to take more risks, must;present;Does the timing seem inappropriate to take more risks?;No;No;Yes;yes
+209;74;A;2;The gallery made a new contract with a new artist.;After arranging all the details for next month's installation, the artist in his studio must;paint;;;No;Yes;no
+216;74;B;3;The gallery made a new contract with a new artist.;The artist in his studio, after arranging all the details for next month's installation, must;paint;;;No;Yes;no
+223;74;C;4;The gallery made a new contract with a new artist.;After arranging all the details for next month's installation, the artist in his bed must;sleep;;;No;Yes;no
+280;74;D;1;The gallery made a new contract with a new artist.;The artist in his bed, after arranging all the details for next month's installation, must;sleep;;;No;Yes;no
+47;75;A;3;The astronomers were balancing work and leisure activities.;As the sky was clear and the weather was good, the astronomer at the telescope must;observe;Was the weather bad?;No;No;Yes;yes
+168;75;B;4;The astronomers were balancing work and leisure activities.;The astronomer at the telescope, as the sky was clear and the weather was good, must;observe;Was the weather bad?;No;No;Yes;yes
+171;75;C;1;The astronomers were balancing work and leisure activities.;As the sky was clear and the weather was good, the astronomer at the beach must;relax;Was the weather bad?;No;No;Yes;yes
+214;75;D;2;The astronomers were balancing work and leisure activities.;The astronomer at the beach, as the sky was clear and the weather was good, must;relax;Was the weather bad?;No;No;Yes;yes
+14;76;A;4;The company proceeded with some acquisitions.;As the company needs some guidance on its workflows, the consultant in the meeting room should;consult;;;No;Yes;no
+19;76;B;1;The company proceeded with some acquisitions.;The consultant in the meeting room, as the company needs some guidance on its workflows, should;consult;;;No;Yes;no
+145;76;C;2;The company proceeded with some acquisitions.;As the company needs some guidance on its workflows, the consultant in the library should;study;;;No;Yes;no
+316;76;D;3;The company proceeded with some acquisitions.;The consultant in the library, as the company needs some guidance on its workflows, should;study;;;No;Yes;no
+80;77;A;1;The fishing season was in full swing.;As the weather is good and the sea is calm, the fisherman in the boat must;fish;Is the sea rough?;No;No;Yes;yes
+133;77;B;2;The fishing season was in full swing.;The fisherman in the boat, as the weather is good and the sea is calm, must;fish;Is the sea rough?;No;No;Yes;yes
+220;77;C;3;The fishing season was in full swing.;As the weather is good and the sea is calm, the fisherman at the dock must;prepare;Is the sea rough?;No;No;Yes;yes
+310;77;D;4;The fishing season was in full swing.;The fisherman at the dock, as the weather is good and the sea is calm, must;prepare;Is the sea rough?;No;No;Yes;yes
+78;78;A;2;The hairdressers are working today.;Because the girl hates her long hair, the hairdresser in the hair salon has to;cut;Does the girl like her long hair?;No;No;Yes;yes
+192;78;B;3;The hairdressers are working today.;The hairdresser in the hair salon, because the girl hates her long hair, has to;cut;Does the girl like her long hair?;No;No;Yes;yes
+254;78;C;4;The hairdressers are working today.;Because the girl hates her long hair, the hairdresser in the waiting room has to;wait;Does the girl like her long hair?;No;No;Yes;yes
+264;78;D;1;The hairdressers are working today.;The hairdresser in the waiting room, because the girl hates her long hair, has to;wait;Does the girl like her long hair?;No;No;Yes;yes
+103;79;A;3;The doctor prescribed some medicine.;While the patient needs to take her medicine, the pharmacist in the lab must;work;;;No;Yes;no
+198;79;B;4;The doctor prescribed some medicine.;The pharmacist in the lab, while the patient needs to take her medicine, must;work;;;No;Yes;no
+203;79;C;1;The doctor prescribed some medicine.;While the patient needs to take her medicine, the pharmacist at the computer must;order it;;;No;Yes;no
+290;79;D;2;The doctor prescribed some medicine.;The pharmacist at the computer, while the patient needs to take her medicine, must;order it;;;No;Yes;no
+15;80;A;4;A terrible car accident happened.;As there were some victims due to the accident, the paramedics at the scene must;help;;;No;Yes;no
+188;80;B;1;A terrible car accident happened.;The paramedics at the scene, as there were some victims due to the accident, must;help;;;No;Yes;no
+270;80;C;2;A terrible car accident happened.;As there were some victims due to the accident, the paramedics in the elevator must;get out;;;No;Yes;no
+294;80;D;3;A terrible car accident happened.;The paramedics in the elevator, as there were some victims due to the accident, must;get out;;;No;Yes;no
