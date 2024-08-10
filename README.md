@@ -11,9 +11,17 @@
 │   ├── completions_by_item.txt
 │   └── completions_by_subject.txt
 ├── preprocessing
-│   └── extract_exp_lines.py
+│   ├── PreprocessedData.csv
+│   ├── Preprocessing.ipynb
+│   ├── StimuliReview.xlsx
+│   ├── StimuliReviewCompleted.csv
+│   ├── excluded
+│   │   ├── excluded_data.xlsx
+│   │   └── excluded_values.txt
+│   ├── extract_exp_lines.py
+│   └── questionable_rate.csv
 └── stimuli
     └── Stimuli(Sheet1).csv
 
-6 directories, 9 files
+7 directories, 16 files
 ```
