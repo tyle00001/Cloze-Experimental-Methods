@@ -21,26 +21,36 @@ ClausePlacement and Location to categorical since they are just binary factors
 
 ```{r}
 data <- read.csv('../data/PreprocessedData.csv')
+data$ClausePlacement <- as.factor(data$ClausePlacement)
+data$Location <- as.factor(data$Location)
 summary(data)
 ```
 
-Setting up our contrasts (this is still no good)
+Setting up our contrasts (is this right? lol)
 ```{r}
 contrasts.Tri <- 
-  matrix(c(1/4, 1/4, 1/4,
-           -1, 1/2, 1/2, 
-           0, -1, 1), ncol = 3) %>%
+  matrix(c(1/2, 1/2,
+           -1, 1), 
+         ncol = 2) %>%
   t(.) %>%
   solve(.) %>%
-  .[,2:3]
+  .[,2:2]
+
 contrasts(data$ClausePlacement) <- contrasts.Tri
 contrasts(data$Location) <- c(-.5,.5)
+
+model_matrix <- model.matrix( ~ ClausePlacement * Location, data)
+
+data$cp1 <- model_matrix[,2]
+data$l1 <- model_matrix[,3]
+summary(data)
 ```
 
+Model
 ```{r}
-model <- lmer(Preprocessed.value ~ 1 + Item * Condition +
-                (Item * Condition || MD5.hash.of.participant.s.IP.address) +
-                   ( || Item),, 
+model <- lmer(Response ~ 1 + cp1 * l1 +
+                (1 + cp1 + l1 + cp1:l1|| Participant) + 
+                (1 + cp1 * l1 + cp1:l1|| Item), 
               data=data, 
               REML=F,
               control = lmerControl(calc.derivs=FALSE), 
