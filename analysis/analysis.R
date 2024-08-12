@@ -1,0 +1,11 @@
+knitr::opts_chunk$set(echo = TRUE)
+suppressPackageStartupMessages(library(Rmisc))
+suppressPackageStartupMessages(library(data.table))
+suppressPackageStartupMessages(library(stringr))
+suppressPackageStartupMessages(library(dplyr))
+suppressPackageStartupMessages(library(ggplot2))
+suppressPackageStartupMessages(library(ez))
+suppressPackageStartupMessages(library(lme4))
+suppressPackageStartupMessages(library(gridExtra))
+
+options(scipen=999)
