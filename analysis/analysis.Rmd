@@ -1,0 +1,39 @@
+---
+title: "Cloze Project Data Analysis"
+output: html_notebook
+---
+
+Load our packages
+```{r}
+knitr::opts_chunk$set(echo = TRUE)
+suppressPackageStartupMessages(library(Rmisc))
+suppressPackageStartupMessages(library(data.table))
+suppressPackageStartupMessages(library(stringr))
+suppressPackageStartupMessages(library(dplyr))
+suppressPackageStartupMessages(library(ggplot2))
+suppressPackageStartupMessages(library(ez))
+suppressPackageStartupMessages(library(lme4))
+suppressPackageStartupMessages(library(gridExtra))
+```
+
+Load and summarize the data
+```{r}
+data <- read.csv('../data/PreprocessedData.csv')
+summary(data)
+```
+
+Setting up our contrasts (this is still no good)
+```{r}
+contrasts.Tri <- 
+  matrix(c(1/4, 1/4, 1/4,
+           -1, 1/2, 1/2, 
+           0, -1, 1), ncol = 3) %>%
+  t(.) %>%
+  solve(.) %>%
+  .[,2:3]
+contrasts(data$Condition) <- contrasts.Tri
+contrasts(RandSample$Order) <- c(-.5,.5)
+```
+
+
+
