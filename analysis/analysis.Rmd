@@ -16,7 +16,9 @@ suppressPackageStartupMessages(library(lme4))
 suppressPackageStartupMessages(library(gridExtra))
 ```
 
-Load and summarize the data
+Load and summarize the data. We also want to switch the data types of 
+ClausePlacement and Location to categorical since they are just binary factors
+
 ```{r}
 data <- read.csv('../data/PreprocessedData.csv')
 summary(data)
@@ -31,9 +33,17 @@ contrasts.Tri <-
   t(.) %>%
   solve(.) %>%
   .[,2:3]
-contrasts(data$Condition) <- contrasts.Tri
-contrasts(RandSample$Order) <- c(-.5,.5)
+contrasts(data$ClausePlacement) <- contrasts.Tri
+contrasts(data$Location) <- c(-.5,.5)
 ```
 
-
-
+```{r}
+model <- lmer(Preprocessed.value ~ 1 + Item * Condition +
+                (Item * Condition || MD5.hash.of.participant.s.IP.address) +
+                   ( || Item),, 
+              data=data, 
+              REML=F,
+              control = lmerControl(calc.derivs=FALSE), 
+              na.action = na.omit)
+summary(model)
+```
