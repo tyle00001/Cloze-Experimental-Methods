@@ -1,4 +1,4 @@
-Participant,Item,Condition,Preprocessed value,ClausePlacement,Location
+Participant,Item,Condition,Response,ClausePlacement,Location
 2817aa3ba5ce3496c4222adb7a6aa37c,1,A,think,Beginning,Original
 83d8403f227baca0464166c404dc0dc2,1,A,pause,Beginning,Original
 14399e53229004f2c85ec3810d5cf776,1,A,replace,Beginning,Original
