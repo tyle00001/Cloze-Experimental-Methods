@@ -14,6 +14,7 @@ suppressPackageStartupMessages(library(ggplot2))
 suppressPackageStartupMessages(library(ez))
 suppressPackageStartupMessages(library(lme4))
 suppressPackageStartupMessages(library(gridExtra))
+
 ```
 
 Load and summarize the data. We also want to switch the data types of 
@@ -45,15 +46,14 @@ data$cp1 <- model_matrix[,2]
 data$l1 <- model_matrix[,3]
 summary(data)
 ```
-
 Model
 ```{r}
 model <- lmer(Response ~ 1 + cp1 * l1 +
                 (1 + cp1 + l1 + cp1:l1|| Participant) + 
                 (1 + cp1 * l1 + cp1:l1|| Item), 
               data=data, 
-              REML=F,
-              control = lmerControl(calc.derivs=FALSE), 
+              REML=FALSE, 
+              control = lmerControl(calc.derivs=FALSE),
               na.action = na.omit)
 summary(model)
 ```
