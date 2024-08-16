@@ -1,0 +1,70 @@
+
+```{r}
+knitr::opts_chunk$set(echo = TRUE)
+suppressPackageStartupMessages(library(dplyr))
+
+data <- read.csv('../data/PreprocessedData.csv')
+data$ClausePlacement <- as.factor(data$ClausePlacement)
+data$Location <- as.factor(data$Location)
+summary(data)
+```
+The data has the following columns:
+
+Participants: the hash of the subject' IP address (used to identify them)
+Item: the item number (1-80)
+Condition: the condition (A, B, C, D)
+  A = Beginning, Original
+  B = Middle, Original
+  C = Beginning, Replacement
+  D = Middle, Replacement
+Response: the subject's completion
+ClausePlacement: is the dependent clause at the Beginning or in the Middle 
+  i.e. intervening between the subject and the verb?
+Location: is the subjects' location the Original location or the Replacement
+  location?
+
+```{r}
+data %>%
+  group_by(Item, ClausePlacement, Location) %>%
+  count(Response) 
+  # get counts of unique responses for each Item - ClausePlacement - Location
+```
+The first Item is sufficient to illustrate the problem, so we can disregard the 
+rest.
+---Our initial plan---
+Our initial plan was to get the cloze probability of the most common word in the 
+A condition ( = Beginning, Original) and compare the probability with the same
+words probability in the other conditions.
+For example, if 'pause' was the most common word in 1A with a cloze probability
+of 70%, we would calculate the cloze probability of 'pause' in the 1B, 1C and 1D 
+conditions. Then, we would compare difference between those probabilities and 
+the probability of 'pause' in 1A. For example, if we have probabilities
+  1A: P('pause') = 70%
+  1B: P('pause') = 30%
+  1C: P('pause') = 40%
+  1D: P('pause') = 50%
+we would calculate the differences 
+  1A: 0%
+  1B: -40%
+  1C: -30%
+  1D: -20%
+That difference in cloze probability would be our response variable. In other
+words, our formula (omitting random effects) would be
+  DifferenceInCloze ~ ClausePlacement * Location
+---The problem---
+Unfortunately, we ran into a significant problem: for many items, all 
+completions were equally common. For example, in 1A, 'pause','replace' and 
+'think' were all provided once. Accordingly, we can't pick out a most probable
+completion. 
+We could, of course, just take the first alphabetically (here, it would be 
+'pause') or use our target word. However, unless we do that one of those, 
+the approach I described above won't work.
+---Our question--- 
+Is there any way we can quantify the difference between probability 
+distributions and use that quantity as our response variable? That is, our 
+formula (again omitting random effects) would be 
+  DifferenceBetweenDistributions ~ ClausePlacement * Location
+If that isn't workable or isn't desirable, what should we use as our response 
+variable? Sorry if any of this was unclear or we misunderstood something.
+
+
