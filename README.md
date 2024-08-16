@@ -1,15 +1,5 @@
+```
 .
-├── ExpMeth2024ExampleCode
-│   ├── AnalysisExample.Rmd
-│   ├── AnalysisExample.html
-│   ├── AnalysisExample.pdf
-│   ├── ExpMeth2024Env.RData
-│   ├── ExpMeth2024ExampleCode.Rproj
-│   ├── PreprocessedData.csv
-│   ├── PreprocessingExample.Rmd
-│   ├── PreprocessingExample.html
-│   ├── PreprocessingExample.pdf
-│   └── exampleData.csv
 ├── README.md
 ├── analysis
 │   ├── DemographicStatistics.ipynb
@@ -38,3 +28,4 @@
     └── Stimuli(Sheet1).csv
 
 8 directories, 30 files
+```
