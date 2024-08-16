@@ -1,9 +1,21 @@
-```
 .
+├── ExpMeth2024ExampleCode
+│   ├── AnalysisExample.Rmd
+│   ├── AnalysisExample.html
+│   ├── AnalysisExample.pdf
+│   ├── ExpMeth2024Env.RData
+│   ├── ExpMeth2024ExampleCode.Rproj
+│   ├── PreprocessedData.csv
+│   ├── PreprocessingExample.Rmd
+│   ├── PreprocessingExample.html
+│   ├── PreprocessingExample.pdf
+│   └── exampleData.csv
 ├── README.md
 ├── analysis
+│   ├── DemographicStatistics.ipynb
 │   ├── analysis.Rmd
 │   ├── analysis.nb.html
+│   ├── data_analysis_problem.Rmd
 │   └── get_summaries.ipynb
 ├── data
 │   ├── ClozeData(in).csv
@@ -25,5 +37,4 @@
 └── stimuli
     └── Stimuli(Sheet1).csv
 
-8 directories, 28 files
-```
+8 directories, 30 files
