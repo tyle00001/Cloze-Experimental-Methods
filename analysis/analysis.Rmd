@@ -2,7 +2,9 @@
 title: "Cloze Project Data Analysis"
 output: html_notebook
 ---
+```{r setup, include=FALSE}
 
+```
 Load our packages
 ```{r}
 knitr::opts_chunk$set(echo = TRUE)
@@ -14,7 +16,7 @@ suppressPackageStartupMessages(library(ggplot2))
 suppressPackageStartupMessages(library(ez))
 suppressPackageStartupMessages(library(lme4))
 suppressPackageStartupMessages(library(gridExtra))
-
+suppressPackageStartupMessages(library(car))
 ```
 
 Load and summarize the data. We also want to switch the data types of 
@@ -54,19 +56,6 @@ data$cp1 <- model_matrix[,2]
 data$l1 <- model_matrix[,3]
 summary(data)
 ```
-GLM model
-This one didn't converge with the maximal model. Therefore, interactions were 
-removed from the random effects.
-```{r}
-g_model <- glmer(ResponseIsTarget ~ 1 + cp1 * l1 +
-                (1 + cp1 + l1|| Participant) + 
-                (1 + cp1 + l1|| Item), 
-              data=data, 
-              family = 'poisson',
-              na.action = na.omit)
-summary(g_model)
-```
-
 Since we are interested in the cloze probability in each condition, we need to 
 calculate that, too. For this, we'll create a new dataframe called grouped_data 
 because crucially, we are grouping all of our data by Item and Condition. 
@@ -80,12 +69,14 @@ Cloze Prob: the cloze probability of the target word for each item and condition
 grouped_data <- data %>% 
   group_by(Item, cp1, l1) %>%
   summarise(ClozeProb = sum(ResponseIsTarget) / length(ResponseIsTarget), 
-            .groups = 'keep')
+            .groups = 'keep',
+            across(.cols=c('Condition','ClausePlacement','Location'))
+            )
 summary(grouped_data)
 ```
-Now we are ready to create our model. As mentioned before, we won't have any
-random effects by Subject, only by Item. With that restriction, we'll opt for
-the maximal model.
+LMM model
+Now we are ready to create our models As mentioned before, we won't have any
+random effects by Subject, only by Item. 
 ```{r} 
 lm_model1 <- lmer(ClozeProb ~ 1 + cp1 * l1 +
                    (1 + cp1 + l1 + cp1 * l1 || Item),
@@ -94,5 +85,69 @@ lm_model1 <- lmer(ClozeProb ~ 1 + cp1 * l1 +
                  control = lmerControl(calc.derivs=FALSE), 
                  na.action = na.omit
                  )
-summary(lm_model1)
+summary(lm_model1) # one with the interaction in the random effects
+```
+```{r}
+car::Anova(lm_model1)
+```
+In short, we observe a significant main effect for location. However, let's 
+create another model.
+
+An alternative: GLMM
+Here, our response variable is just ResponseIsTarget, a binary variable. We can
+use random effects by Subject since we aren't grouping our data by Item and 
+Condition as with the LMM. However, this model failed to converge with 
+random effects on the interaction, so we had to remove it.
+```{r}
+g_model <- glmer(ResponseIsTarget ~ 1 + cp1 * l1 +
+                (1 + cp1 + l1|| Participant) + 
+                (1 + cp1 + l1|| Item), 
+              data=data, 
+              family = 'poisson',
+              na.action = na.omit)
+summary(g_model)
+```
+
+```{r}
+car::Anova(g_model)
+```
+
+Once again, we only observe a significant main effect of Location.
+
+I'm going to make some figures.
+```{r}
+grouped_data.SE <- summarySE(
+  data = grouped_data, 
+  measurevar = 'ClozeProb',
+  groupvars = c('ClausePlacement','Location'))
+
+# first, a bar chart
+ggplot(grouped_data.SE, aes(x = Location,y = ClozeProb,fill=Location)) +
+  geom_bar(stat = "identity") +
+  scale_fill_manual(values = c('#00A36C','#BBA53D')) +
+  labs(title = 'Cloze Probability of Target by Clause Placement and Condition',
+       y = ' Cloze Probability of Target'
+  ) +
+  theme(plot.title = element_text(hjust = 0.5), legend.position="none") + 
+  facet_grid(~ClausePlacement) + 
+  geom_errorbar(aes(ymin = ClozeProb - se, ymax = ClozeProb + se), 
+                width = 0.1, 
+                size = 0.5)
+
+ggplot(grouped_data.SE, 
+       aes(x = Location, 
+           y = ClozeProb, 
+           group=ClausePlacement, 
+           color = ClausePlacement)
+       ) +
+  geom_line() +
+  geom_point() + 
+  scale_color_manual(values = c('#00A36C','#BBA53D')) +
+  labs(title = 'Cloze Probability of Target by Clause Placement and Condition',
+       y = ' Cloze Probability of Target'
+  ) +
+  geom_errorbar(aes(ymin = ClozeProb - se, ymax = ClozeProb + se), 
+                width = 0.1, 
+                size = 0.5)
+  
 ```
