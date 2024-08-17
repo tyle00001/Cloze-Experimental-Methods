@@ -1,1361 +1,1361 @@
-Participant,Item,Condition,Response,ClausePlacement,Location
-2817aa3ba5ce3496c4222adb7a6aa37c,1,A,think,Beginning,Original
-83d8403f227baca0464166c404dc0dc2,1,A,pause,Beginning,Original
-14399e53229004f2c85ec3810d5cf776,1,A,replace,Beginning,Original
-9a8edf1b84fcdd4e9692881d31a5a26e,1,B,do more science,Middle,Original
-559a558cc071b904f807f21b428370da,1,B,pause,Middle,Original
-6df37ff0405e34325f86235ab8e45b66,1,B,fix,Middle,Original
-b8b10c5c32c46a8f278dc868ef65fd9d,1,C,commence,Beginning,Replacement
-38515a2d399231bb4340622c162d7b1a,1,C,decided,Beginning,Replacement
-bac07a9a07d31bd971ed4288f10499d6,1,C,come back,Beginning,Replacement
-773048bc5ea832a6a6fb93f6da578bc6,1,C,leave,Beginning,Replacement
-bc3b5c51f98f643be9a99134572a2170,1,C,leave,Beginning,Replacement
-2b7058890eefa22341aa295a036985a9,1,D,recuperate,Middle,Replacement
-58538dcb3f84e420200c601a4903dbef,1,D,fix,Middle,Replacement
-64e64662aa8b1a57c3e5254b48652bcc,1,D,pause,Middle,Replacement
-8e6ad748c0685eaeffbadbae0050306d,1,D,pass,Middle,Replacement
-46c4212ded545ed717b0ff376752ae11,1,D,proceed,Middle,Replacement
-9f8736428d68ef86c654e1f0f0b1058e,1,D,go home,Middle,Replacement
-9a8edf1b84fcdd4e9692881d31a5a26e,2,A,return them,Beginning,Original
-559a558cc071b904f807f21b428370da,2,A,sort them,Beginning,Original
-6df37ff0405e34325f86235ab8e45b66,2,A,sort them,Beginning,Original
-b8b10c5c32c46a8f278dc868ef65fd9d,2,B,stock them,Middle,Original
-38515a2d399231bb4340622c162d7b1a,2,B,leave,Middle,Original
-bac07a9a07d31bd971ed4288f10499d6,2,B,sort them,Middle,Original
-773048bc5ea832a6a6fb93f6da578bc6,2,B,close it,Middle,Original
-bc3b5c51f98f643be9a99134572a2170,2,B,move it,Middle,Original
-2b7058890eefa22341aa295a036985a9,2,C,poor english,Beginning,Replacement
-58538dcb3f84e420200c601a4903dbef,2,C,leave,Beginning,Replacement
-64e64662aa8b1a57c3e5254b48652bcc,2,C,get them,Beginning,Replacement
-8e6ad748c0685eaeffbadbae0050306d,2,C,pay,Beginning,Replacement
-46c4212ded545ed717b0ff376752ae11,2,C,leave,Beginning,Replacement
-9f8736428d68ef86c654e1f0f0b1058e,2,C,stock them,Beginning,Replacement
-2817aa3ba5ce3496c4222adb7a6aa37c,2,D,leave,Middle,Replacement
-83d8403f227baca0464166c404dc0dc2,2,D,order,Middle,Replacement
-14399e53229004f2c85ec3810d5cf776,2,D,check the rest,Middle,Replacement
-b8b10c5c32c46a8f278dc868ef65fd9d,3,A,return,Beginning,Original
-38515a2d399231bb4340622c162d7b1a,3,A,gate,Beginning,Original
-bac07a9a07d31bd971ed4288f10499d6,3,A,get ready,Beginning,Original
-773048bc5ea832a6a6fb93f6da578bc6,3,A,leave,Beginning,Original
-bc3b5c51f98f643be9a99134572a2170,3,A,open,Beginning,Original
-2b7058890eefa22341aa295a036985a9,3,B,board,Middle,Original
-58538dcb3f84e420200c601a4903dbef,3,B,rush,Middle,Original
-64e64662aa8b1a57c3e5254b48652bcc,3,B,line up,Middle,Original
-8e6ad748c0685eaeffbadbae0050306d,3,B,board,Middle,Original
-46c4212ded545ed717b0ff376752ae11,3,B,proceed to depart,Middle,Original
-9f8736428d68ef86c654e1f0f0b1058e,3,B,line up,Middle,Original
-2817aa3ba5ce3496c4222adb7a6aa37c,3,C,swim,Beginning,Replacement
-83d8403f227baca0464166c404dc0dc2,3,C,jump,Beginning,Replacement
-14399e53229004f2c85ec3810d5cf776,3,C,exciting,Beginning,Replacement
-9a8edf1b84fcdd4e9692881d31a5a26e,3,D,talk,Middle,Replacement
-559a558cc071b904f807f21b428370da,3,D,be ready to go out on the water,Middle,Replacement
-6df37ff0405e34325f86235ab8e45b66,3,D,line up,Middle,Replacement
-2b7058890eefa22341aa295a036985a9,4,A,rap,Beginning,Original
-58538dcb3f84e420200c601a4903dbef,4,A,rap,Beginning,Original
-64e64662aa8b1a57c3e5254b48652bcc,4,A,rap,Beginning,Original
-8e6ad748c0685eaeffbadbae0050306d,4,A,rhyme,Beginning,Original
-46c4212ded545ed717b0ff376752ae11,4,A,perform,Beginning,Original
-9f8736428d68ef86c654e1f0f0b1058e,4,A,rap,Beginning,Original
-2817aa3ba5ce3496c4222adb7a6aa37c,4,B,rap,Middle,Original
-83d8403f227baca0464166c404dc0dc2,4,B,rap,Middle,Original
-14399e53229004f2c85ec3810d5cf776,4,B,prepare,Middle,Original
-9a8edf1b84fcdd4e9692881d31a5a26e,4,C,prepare,Beginning,Replacement
-559a558cc071b904f807f21b428370da,4,C,rap,Beginning,Replacement
-6df37ff0405e34325f86235ab8e45b66,4,C,sing,Beginning,Replacement
-b8b10c5c32c46a8f278dc868ef65fd9d,4,D,rap,Middle,Replacement
-38515a2d399231bb4340622c162d7b1a,4,D,rap,Middle,Replacement
-bac07a9a07d31bd971ed4288f10499d6,4,D,spit rhymes ,Middle,Replacement
-773048bc5ea832a6a6fb93f6da578bc6,4,D,rap,Middle,Replacement
-bc3b5c51f98f643be9a99134572a2170,4,D,rap,Middle,Replacement
-2817aa3ba5ce3496c4222adb7a6aa37c,5,A,drink water,Beginning,Original
-83d8403f227baca0464166c404dc0dc2,5,A,drink water,Beginning,Original
-14399e53229004f2c85ec3810d5cf776,5,A,drink water,Beginning,Original
-9a8edf1b84fcdd4e9692881d31a5a26e,5,B,drink water,Middle,Original
-559a558cc071b904f807f21b428370da,5,B,drink water,Middle,Original
-6df37ff0405e34325f86235ab8e45b66,5,B,drink water,Middle,Original
-b8b10c5c32c46a8f278dc868ef65fd9d,5,C,engage,Beginning,Replacement
-38515a2d399231bb4340622c162d7b1a,5,C,taxi,Beginning,Replacement
-bac07a9a07d31bd971ed4288f10499d6,5,C,drink water,Beginning,Replacement
-773048bc5ea832a6a6fb93f6da578bc6,5,C,drink water,Beginning,Replacement
-bc3b5c51f98f643be9a99134572a2170,5,C,grab some water,Beginning,Replacement
-2b7058890eefa22341aa295a036985a9,5,D,drive,Middle,Replacement
-58538dcb3f84e420200c601a4903dbef,5,D,stop and drink,Middle,Replacement
-64e64662aa8b1a57c3e5254b48652bcc,5,D,buy water,Middle,Replacement
-8e6ad748c0685eaeffbadbae0050306d,5,D,drink water,Middle,Replacement
-46c4212ded545ed717b0ff376752ae11,5,D,drink water,Middle,Replacement
-9f8736428d68ef86c654e1f0f0b1058e,5,D,stop and drink,Middle,Replacement
-9a8edf1b84fcdd4e9692881d31a5a26e,6,A,prepare,Beginning,Original
-559a558cc071b904f807f21b428370da,6,A,peel,Beginning,Original
-6df37ff0405e34325f86235ab8e45b66,6,A,peel,Beginning,Original
-b8b10c5c32c46a8f278dc868ef65fd9d,6,B,extreme,Middle,Original
-38515a2d399231bb4340622c162d7b1a,6,B,had,Middle,Original
-bac07a9a07d31bd971ed4288f10499d6,6,B,peel,Middle,Original
-773048bc5ea832a6a6fb93f6da578bc6,6,B,prepare,Middle,Original
-bc3b5c51f98f643be9a99134572a2170,6,B,bring them in,Middle,Original
-2b7058890eefa22341aa295a036985a9,6,C,stop,Beginning,Replacement
-58538dcb3f84e420200c601a4903dbef,6,C,pull up more potatoes,Beginning,Replacement
-64e64662aa8b1a57c3e5254b48652bcc,6,C,cook,Beginning,Replacement
-8e6ad748c0685eaeffbadbae0050306d,6,C,return,Beginning,Replacement
-46c4212ded545ed717b0ff376752ae11,6,C,cut,Beginning,Replacement
-9f8736428d68ef86c654e1f0f0b1058e,6,C,pick fresh produce,Beginning,Replacement
-2817aa3ba5ce3496c4222adb7a6aa37c,6,D,check the rest of the vegetables. ,Middle,Replacement
-83d8403f227baca0464166c404dc0dc2,6,D,peel,Middle,Replacement
-14399e53229004f2c85ec3810d5cf776,6,D,must go to the resturant,Middle,Replacement
-b8b10c5c32c46a8f278dc868ef65fd9d,7,A,cool,Beginning,Original
-38515a2d399231bb4340622c162d7b1a,7,A,front,Beginning,Original
-bac07a9a07d31bd971ed4288f10499d6,7,A,scream,Beginning,Original
-773048bc5ea832a6a6fb93f6da578bc6,7,A,shine,Beginning,Original
-bc3b5c51f98f643be9a99134572a2170,7,A,sit down,Beginning,Original
-2b7058890eefa22341aa295a036985a9,7,B,scream,Middle,Original
-58538dcb3f84e420200c601a4903dbef,7,B,scream,Middle,Original
-64e64662aa8b1a57c3e5254b48652bcc,7,B,scream,Middle,Original
-8e6ad748c0685eaeffbadbae0050306d,7,B,scream,Middle,Original
-46c4212ded545ed717b0ff376752ae11,7,B,scream,Middle,Original
-9f8736428d68ef86c654e1f0f0b1058e,7,B,scream,Middle,Original
-2817aa3ba5ce3496c4222adb7a6aa37c,7,C,pushed around,Beginning,Replacement
-83d8403f227baca0464166c404dc0dc2,7,C,try to get there fast,Beginning,Replacement
-14399e53229004f2c85ec3810d5cf776,7,C,continue,Beginning,Replacement
-9a8edf1b84fcdd4e9692881d31a5a26e,7,D,the rock concert started to play,Middle,Replacement
-559a558cc071b904f807f21b428370da,7,D,be frustrated,Middle,Replacement
-6df37ff0405e34325f86235ab8e45b66,7,D,be frustrated,Middle,Replacement
-2b7058890eefa22341aa295a036985a9,8,A,sit down,Beginning,Original
-58538dcb3f84e420200c601a4903dbef,8,A,step backwards ,Beginning,Original
-64e64662aa8b1a57c3e5254b48652bcc,8,A,alight,Beginning,Original
-8e6ad748c0685eaeffbadbae0050306d,8,A,enter,Beginning,Original
-46c4212ded545ed717b0ff376752ae11,8,A,prepare,Beginning,Original
-9f8736428d68ef86c654e1f0f0b1058e,8,A,get ready,Beginning,Original
-2817aa3ba5ce3496c4222adb7a6aa37c,8,B,grab,Middle,Original
-83d8403f227baca0464166c404dc0dc2,8,B,get ready,Middle,Original
-14399e53229004f2c85ec3810d5cf776,8,B,get ready,Middle,Original
-9a8edf1b84fcdd4e9692881d31a5a26e,8,C,get ready,Beginning,Replacement
-559a558cc071b904f807f21b428370da,8,C,run,Beginning,Replacement
-6df37ff0405e34325f86235ab8e45b66,8,C,leave,Beginning,Replacement
-b8b10c5c32c46a8f278dc868ef65fd9d,8,D,fire ,Middle,Replacement
-38515a2d399231bb4340622c162d7b1a,8,D,train,Middle,Replacement
-bac07a9a07d31bd971ed4288f10499d6,8,D,hurry,Middle,Replacement
-773048bc5ea832a6a6fb93f6da578bc6,8,D,more,Middle,Replacement
-bc3b5c51f98f643be9a99134572a2170,8,D,board,Middle,Replacement
-2817aa3ba5ce3496c4222adb7a6aa37c,9,A,rush,Beginning,Original
-83d8403f227baca0464166c404dc0dc2,9,A,use the bathroom,Beginning,Original
-14399e53229004f2c85ec3810d5cf776,9,A,go on a break,Beginning,Original
-9a8edf1b84fcdd4e9692881d31a5a26e,9,B,get ready,Middle,Original
-559a558cc071b904f807f21b428370da,9,B,run,Middle,Original
-6df37ff0405e34325f86235ab8e45b66,9,B,enter,Middle,Original
-b8b10c5c32c46a8f278dc868ef65fd9d,9,C,sleep,Beginning,Replacement
-38515a2d399231bb4340622c162d7b1a,9,C,had,Beginning,Replacement
-bac07a9a07d31bd971ed4288f10499d6,9,C,come back,Beginning,Replacement
-773048bc5ea832a6a6fb93f6da578bc6,9,C,leave,Beginning,Replacement
-bc3b5c51f98f643be9a99134572a2170,9,C,go home,Beginning,Replacement
-2b7058890eefa22341aa295a036985a9,9,D,come back,Middle,Replacement
-58538dcb3f84e420200c601a4903dbef,9,D,come back,Middle,Replacement
-64e64662aa8b1a57c3e5254b48652bcc,9,D,stop playing,Middle,Replacement
-8e6ad748c0685eaeffbadbae0050306d,9,D,come back,Middle,Replacement
-46c4212ded545ed717b0ff376752ae11,9,D,gather the students,Middle,Replacement
-9f8736428d68ef86c654e1f0f0b1058e,9,D,get to class,Middle,Replacement
-9a8edf1b84fcdd4e9692881d31a5a26e,10,A,prepare,Beginning,Original
-559a558cc071b904f807f21b428370da,10,A,prepare,Beginning,Original
-6df37ff0405e34325f86235ab8e45b66,10,A,speak,Beginning,Original
-b8b10c5c32c46a8f278dc868ef65fd9d,10,B,present,Middle,Original
-38515a2d399231bb4340622c162d7b1a,10,B,start,Middle,Original
-bac07a9a07d31bd971ed4288f10499d6,10,B,prepare,Middle,Original
-773048bc5ea832a6a6fb93f6da578bc6,10,B,sit,Middle,Original
-bc3b5c51f98f643be9a99134572a2170,10,B,start,Middle,Original
-2b7058890eefa22341aa295a036985a9,10,C,run,Beginning,Replacement
-58538dcb3f84e420200c601a4903dbef,10,C,hurry,Beginning,Replacement
-64e64662aa8b1a57c3e5254b48652bcc,10,C,keep quiet,Beginning,Replacement
-8e6ad748c0685eaeffbadbae0050306d,10,C,travel,Beginning,Replacement
-46c4212ded545ed717b0ff376752ae11,10,C,decide next steps,Beginning,Replacement
-9f8736428d68ef86c654e1f0f0b1058e,10,C,hurry,Beginning,Replacement
-2817aa3ba5ce3496c4222adb7a6aa37c,10,D,start,Middle,Replacement
-83d8403f227baca0464166c404dc0dc2,10,D,do his job,Middle,Replacement
-14399e53229004f2c85ec3810d5cf776,10,D,prepare,Middle,Replacement
-b8b10c5c32c46a8f278dc868ef65fd9d,11,A,engage,Beginning,Original
-38515a2d399231bb4340622c162d7b1a,11,A,camera,Beginning,Original
-bac07a9a07d31bd971ed4288f10499d6,11,A,perform,Beginning,Original
-773048bc5ea832a6a6fb93f6da578bc6,11,A,set up,Beginning,Original
-bc3b5c51f98f643be9a99134572a2170,11,A,act,Beginning,Original
-2b7058890eefa22341aa295a036985a9,11,B,record,Middle,Original
-58538dcb3f84e420200c601a4903dbef,11,B,take a picture,Middle,Original
-64e64662aa8b1a57c3e5254b48652bcc,11,B,talk,Middle,Original
-8e6ad748c0685eaeffbadbae0050306d,11,B,peform,Middle,Original
-46c4212ded545ed717b0ff376752ae11,11,B,prepare,Middle,Original
-9f8736428d68ef86c654e1f0f0b1058e,11,B,get into character,Middle,Original
-2817aa3ba5ce3496c4222adb7a6aa37c,11,C,take a picture,Beginning,Replacement
-83d8403f227baca0464166c404dc0dc2,11,C,get ready to act,Beginning,Replacement
-14399e53229004f2c85ec3810d5cf776,11,C,start,Beginning,Replacement
-9a8edf1b84fcdd4e9692881d31a5a26e,11,D,set up,Middle,Replacement
-559a558cc071b904f807f21b428370da,11,D,wonder why he is behind the camera instead of in front of it,Middle,Replacement
-6df37ff0405e34325f86235ab8e45b66,11,D,act,Middle,Replacement
-2b7058890eefa22341aa295a036985a9,12,A,dribble,Beginning,Original
-58538dcb3f84e420200c601a4903dbef,12,A,shoot,Beginning,Original
-64e64662aa8b1a57c3e5254b48652bcc,12,A,play,Beginning,Original
-8e6ad748c0685eaeffbadbae0050306d,12,A,hustle,Beginning,Original
-46c4212ded545ed717b0ff376752ae11,12,A,play,Beginning,Original
-9f8736428d68ef86c654e1f0f0b1058e,12,A,serve,Beginning,Original
-2817aa3ba5ce3496c4222adb7a6aa37c,12,B,serve,Middle,Original
-83d8403f227baca0464166c404dc0dc2,12,B,get in the zone,Middle,Original
-14399e53229004f2c85ec3810d5cf776,12,B,start,Middle,Original
-9a8edf1b84fcdd4e9692881d31a5a26e,12,C,be ready,Beginning,Replacement
-559a558cc071b904f807f21b428370da,12,C,panic and hurry,Beginning,Replacement
-6df37ff0405e34325f86235ab8e45b66,12,C,run,Beginning,Replacement
-b8b10c5c32c46a8f278dc868ef65fd9d,12,D,pay attention,Middle,Replacement
-38515a2d399231bb4340622c162d7b1a,12,D,game,Middle,Replacement
-bac07a9a07d31bd971ed4288f10499d6,12,D,wait to eat,Middle,Replacement
-773048bc5ea832a6a6fb93f6da578bc6,12,D,play,Middle,Replacement
-bc3b5c51f98f643be9a99134572a2170,12,D,play,Middle,Replacement
-2817aa3ba5ce3496c4222adb7a6aa37c,13,A,wait,Beginning,Original
-83d8403f227baca0464166c404dc0dc2,13,A,wait,Beginning,Original
-14399e53229004f2c85ec3810d5cf776,13,A,take the order,Beginning,Original
-9a8edf1b84fcdd4e9692881d31a5a26e,13,B,wait,Middle,Original
-559a558cc071b904f807f21b428370da,13,B,wear jackets and sweaters over their uniforms to go outside,Middle,Original
-6df37ff0405e34325f86235ab8e45b66,13,B,change,Middle,Original
-b8b10c5c32c46a8f278dc868ef65fd9d,13,C,target,Beginning,Replacement
-38515a2d399231bb4340622c162d7b1a,13,C,park,Beginning,Replacement
-bac07a9a07d31bd971ed4288f10499d6,13,C,head inside,Beginning,Replacement
-773048bc5ea832a6a6fb93f6da578bc6,13,C,leave,Beginning,Replacement
-bc3b5c51f98f643be9a99134572a2170,13,C,leave,Beginning,Replacement
-2b7058890eefa22341aa295a036985a9,13,D,suffer,Middle,Replacement
-58538dcb3f84e420200c601a4903dbef,13,D,head inside,Middle,Replacement
-64e64662aa8b1a57c3e5254b48652bcc,13,D,stop,Middle,Replacement
-8e6ad748c0685eaeffbadbae0050306d,13,D,shelter,Middle,Replacement
-46c4212ded545ed717b0ff376752ae11,13,D,shelter,Middle,Replacement
-9f8736428d68ef86c654e1f0f0b1058e,13,D,shelter,Middle,Replacement
-9a8edf1b84fcdd4e9692881d31a5a26e,14,A,prepare,Beginning,Original
-559a558cc071b904f807f21b428370da,14,A,continue working,Beginning,Original
-6df37ff0405e34325f86235ab8e45b66,14,A,go inside,Beginning,Original
-b8b10c5c32c46a8f278dc868ef65fd9d,14,B,be mistaken,Middle,Original
-38515a2d399231bb4340622c162d7b1a,14,B,rain,Middle,Original
-bac07a9a07d31bd971ed4288f10499d6,14,B,get the supplies put up quickly,Middle,Original
-773048bc5ea832a6a6fb93f6da578bc6,14,B,stop,Middle,Original
-bc3b5c51f98f643be9a99134572a2170,14,B,shelter,Middle,Original
-2b7058890eefa22341aa295a036985a9,14,C,plant,Beginning,Replacement
-58538dcb3f84e420200c601a4903dbef,14,C,go inside,Beginning,Replacement
-64e64662aa8b1a57c3e5254b48652bcc,14,C,get ready,Beginning,Replacement
-8e6ad748c0685eaeffbadbae0050306d,14,C,rush,Beginning,Replacement
-46c4212ded545ed717b0ff376752ae11,14,C,stay,Beginning,Replacement
-9f8736428d68ef86c654e1f0f0b1058e,14,C,wait,Beginning,Replacement
-2817aa3ba5ce3496c4222adb7a6aa37c,14,D,get ready,Middle,Replacement
-83d8403f227baca0464166c404dc0dc2,14,D,put his tools away,Middle,Replacement
-14399e53229004f2c85ec3810d5cf776,14,D,check the garden,Middle,Replacement
-b8b10c5c32c46a8f278dc868ef65fd9d,15,A,regroup,Beginning,Original
-38515a2d399231bb4340622c162d7b1a,15,A,soldier,Beginning,Original
-bac07a9a07d31bd971ed4288f10499d6,15,A,get to work,Beginning,Original
-773048bc5ea832a6a6fb93f6da578bc6,15,A,leave,Beginning,Original
-bc3b5c51f98f643be9a99134572a2170,15,A,listen closely,Beginning,Original
-2b7058890eefa22341aa295a036985a9,15,B,comply,Middle,Original
-58538dcb3f84e420200c601a4903dbef,15,B,comply,Middle,Original
-64e64662aa8b1a57c3e5254b48652bcc,15,B,comply,Middle,Original
-8e6ad748c0685eaeffbadbae0050306d,15,B,comply,Middle,Original
-46c4212ded545ed717b0ff376752ae11,15,B,comply,Middle,Original
-9f8736428d68ef86c654e1f0f0b1058e,15,B,deploy,Middle,Original
-2817aa3ba5ce3496c4222adb7a6aa37c,15,C,return,Beginning,Replacement
-83d8403f227baca0464166c404dc0dc2,15,C,prepare,Beginning,Replacement
-14399e53229004f2c85ec3810d5cf776,15,C,hurry,Beginning,Replacement
-9a8edf1b84fcdd4e9692881d31a5a26e,15,D,report to duty,Middle,Replacement
-559a558cc071b904f807f21b428370da,15,D,prepare,Middle,Replacement
-6df37ff0405e34325f86235ab8e45b66,15,D,pack,Middle,Replacement
-2b7058890eefa22341aa295a036985a9,16,A,brake,Beginning,Original
-58538dcb3f84e420200c601a4903dbef,16,A,look back,Beginning,Original
-64e64662aa8b1a57c3e5254b48652bcc,16,A,brake,Beginning,Original
-8e6ad748c0685eaeffbadbae0050306d,16,A,stop,Beginning,Original
-46c4212ded545ed717b0ff376752ae11,16,A,stop,Beginning,Original
-9f8736428d68ef86c654e1f0f0b1058e,16,A,stop,Beginning,Original
-2817aa3ba5ce3496c4222adb7a6aa37c,16,B,pull over. ,Middle,Original
-83d8403f227baca0464166c404dc0dc2,16,B,slow down,Middle,Original
-14399e53229004f2c85ec3810d5cf776,16,B,stop,Middle,Original
-9a8edf1b84fcdd4e9692881d31a5a26e,16,C,get back on,Beginning,Replacement
-559a558cc071b904f807f21b428370da,16,C,stop,Beginning,Replacement
-6df37ff0405e34325f86235ab8e45b66,16,C,slow down,Beginning,Replacement
-b8b10c5c32c46a8f278dc868ef65fd9d,16,D,grab,Middle,Replacement
-38515a2d399231bb4340622c162d7b1a,16,D,final,Middle,Replacement
-bac07a9a07d31bd971ed4288f10499d6,16,D,get out of the way,Middle,Replacement
-773048bc5ea832a6a6fb93f6da578bc6,16,D,move,Middle,Replacement
-bc3b5c51f98f643be9a99134572a2170,16,D,get off,Middle,Replacement
-2817aa3ba5ce3496c4222adb7a6aa37c,17,A,relax,Beginning,Original
-83d8403f227baca0464166c404dc0dc2,17,A,go to sleep,Beginning,Original
-14399e53229004f2c85ec3810d5cf776,17,A,check up,Beginning,Original
-9a8edf1b84fcdd4e9692881d31a5a26e,17,B,relax,Middle,Original
-559a558cc071b904f807f21b428370da,17,B,go to sleep,Middle,Original
-6df37ff0405e34325f86235ab8e45b66,17,B,hurry,Middle,Original
-b8b10c5c32c46a8f278dc868ef65fd9d,17,C,leave,Beginning,Replacement
-38515a2d399231bb4340622c162d7b1a,17,C,park,Beginning,Replacement
-bac07a9a07d31bd971ed4288f10499d6,17,C,head home,Beginning,Replacement
-773048bc5ea832a6a6fb93f6da578bc6,17,C,close,Beginning,Replacement
-bc3b5c51f98f643be9a99134572a2170,17,C,head home,Beginning,Replacement
-2b7058890eefa22341aa295a036985a9,17,D,run,Middle,Replacement
-58538dcb3f84e420200c601a4903dbef,17,D,think of ways,Middle,Replacement
-64e64662aa8b1a57c3e5254b48652bcc,17,D,leave,Middle,Replacement
-8e6ad748c0685eaeffbadbae0050306d,17,D,skip,Middle,Replacement
-46c4212ded545ed717b0ff376752ae11,17,D,shorten time at park,Middle,Replacement
-9f8736428d68ef86c654e1f0f0b1058e,17,D,go home,Middle,Replacement
-9a8edf1b84fcdd4e9692881d31a5a26e,18,A,hydrate and relax,Beginning,Original
-559a558cc071b904f807f21b428370da,18,A,train,Beginning,Original
-6df37ff0405e34325f86235ab8e45b66,18,A,train,Beginning,Original
-b8b10c5c32c46a8f278dc868ef65fd9d,18,B,train,Middle,Original
-38515a2d399231bb4340622c162d7b1a,18,B,train,Middle,Original
-bac07a9a07d31bd971ed4288f10499d6,18,B,go,Middle,Original
-773048bc5ea832a6a6fb93f6da578bc6,18,B,begin,Middle,Original
-bc3b5c51f98f643be9a99134572a2170,18,B,start practicing,Middle,Original
-2b7058890eefa22341aa295a036985a9,18,C,prepare,Beginning,Replacement
-58538dcb3f84e420200c601a4903dbef,18,C,stretch,Beginning,Replacement
-64e64662aa8b1a57c3e5254b48652bcc,18,C,exit,Beginning,Replacement
-8e6ad748c0685eaeffbadbae0050306d,18,C,eat,Beginning,Replacement
-46c4212ded545ed717b0ff376752ae11,18,C,eat,Beginning,Replacement
-9f8736428d68ef86c654e1f0f0b1058e,18,C,eat,Beginning,Replacement
-2817aa3ba5ce3496c4222adb7a6aa37c,18,D,prepare a healthy meal,Middle,Replacement
-83d8403f227baca0464166c404dc0dc2,18,D,eat,Middle,Replacement
-14399e53229004f2c85ec3810d5cf776,18,D,win,Middle,Replacement
-b8b10c5c32c46a8f278dc868ef65fd9d,19,A,perform,Beginning,Original
-38515a2d399231bb4340622c162d7b1a,19,A,stage,Beginning,Original
-bac07a9a07d31bd971ed4288f10499d6,19,A,project ,Beginning,Original
-773048bc5ea832a6a6fb93f6da578bc6,19,A,act,Beginning,Original
-bc3b5c51f98f643be9a99134572a2170,19,A,act,Beginning,Original
-2b7058890eefa22341aa295a036985a9,19,B,perform,Middle,Original
-58538dcb3f84e420200c601a4903dbef,19,B,get ready,Middle,Original
-64e64662aa8b1a57c3e5254b48652bcc,19,B,sit down,Middle,Original
-8e6ad748c0685eaeffbadbae0050306d,19,B,dance,Middle,Original
-46c4212ded545ed717b0ff376752ae11,19,B,perform,Middle,Original
-9f8736428d68ef86c654e1f0f0b1058e,19,B,get into character,Middle,Original
-2817aa3ba5ce3496c4222adb7a6aa37c,19,C,walk back to his seat,Beginning,Replacement
-83d8403f227baca0464166c404dc0dc2,19,C,get into character,Beginning,Replacement
-14399e53229004f2c85ec3810d5cf776,19,C,hurry up,Beginning,Replacement
-9a8edf1b84fcdd4e9692881d31a5a26e,19,D,go,Middle,Replacement
-559a558cc071b904f807f21b428370da,19,D,calm down,Middle,Replacement
-6df37ff0405e34325f86235ab8e45b66,19,D,get ready,Middle,Replacement
-2b7058890eefa22341aa295a036985a9,20,A,cook,Beginning,Original
-58538dcb3f84e420200c601a4903dbef,20,A,make it,Beginning,Original
-64e64662aa8b1a57c3e5254b48652bcc,20,A,wake,Beginning,Original
-8e6ad748c0685eaeffbadbae0050306d,20,A,cook,Beginning,Original
-46c4212ded545ed717b0ff376752ae11,20,A,cook,Beginning,Original
-9f8736428d68ef86c654e1f0f0b1058e,20,A,prepare,Beginning,Original
-2817aa3ba5ce3496c4222adb7a6aa37c,20,B,make it,Middle,Original
-83d8403f227baca0464166c404dc0dc2,20,B,cook,Middle,Original
-14399e53229004f2c85ec3810d5cf776,20,B,make it,Middle,Original
-9a8edf1b84fcdd4e9692881d31a5a26e,20,C,get ready,Beginning,Replacement
-559a558cc071b904f807f21b428370da,20,C,go into the restaurant to start cooking the customer's order,Beginning,Replacement
-6df37ff0405e34325f86235ab8e45b66,20,C,hurry,Beginning,Replacement
-b8b10c5c32c46a8f278dc868ef65fd9d,20,D,fallen,Middle,Replacement
-38515a2d399231bb4340622c162d7b1a,20,D,chef,Middle,Replacement
-bac07a9a07d31bd971ed4288f10499d6,20,D,hurry,Middle,Replacement
-773048bc5ea832a6a6fb93f6da578bc6,20,D,deliver it,Middle,Replacement
-bc3b5c51f98f643be9a99134572a2170,20,D,deliver it,Middle,Replacement
-2817aa3ba5ce3496c4222adb7a6aa37c,21,A,read the speech,Beginning,Original
-83d8403f227baca0464166c404dc0dc2,21,A,speak,Beginning,Original
-14399e53229004f2c85ec3810d5cf776,21,A,read the speech,Beginning,Original
-9a8edf1b84fcdd4e9692881d31a5a26e,21,B,prepare,Middle,Original
-559a558cc071b904f807f21b428370da,21,B,speak,Middle,Original
-6df37ff0405e34325f86235ab8e45b66,21,B,speak,Middle,Original
-b8b10c5c32c46a8f278dc868ef65fd9d,21,C,inform,Beginning,Replacement
-38515a2d399231bb4340622c162d7b1a,21,C,speak,Beginning,Replacement
-bac07a9a07d31bd971ed4288f10499d6,21,C,run,Beginning,Replacement
-773048bc5ea832a6a6fb93f6da578bc6,21,C,speak,Beginning,Replacement
-bc3b5c51f98f643be9a99134572a2170,21,C,speak,Beginning,Replacement
-2b7058890eefa22341aa295a036985a9,21,D,yell,Middle,Replacement
-58538dcb3f84e420200c601a4903dbef,21,D,speak,Middle,Replacement
-64e64662aa8b1a57c3e5254b48652bcc,21,D,read the speech,Middle,Replacement
-8e6ad748c0685eaeffbadbae0050306d,21,D,play,Middle,Replacement
-46c4212ded545ed717b0ff376752ae11,21,D,speak,Middle,Replacement
-9f8736428d68ef86c654e1f0f0b1058e,21,D,introduce themselves,Middle,Replacement
-9a8edf1b84fcdd4e9692881d31a5a26e,22,A,write,Beginning,Original
-559a558cc071b904f807f21b428370da,22,A,focus,Beginning,Original
-6df37ff0405e34325f86235ab8e45b66,22,A,submit,Beginning,Original
-b8b10c5c32c46a8f278dc868ef65fd9d,22,B,grimace,Middle,Original
-38515a2d399231bb4340622c162d7b1a,22,B,had,Middle,Original
-bac07a9a07d31bd971ed4288f10499d6,22,B,focus,Middle,Original
-773048bc5ea832a6a6fb93f6da578bc6,22,B,of the project,Middle,Original
-bc3b5c51f98f643be9a99134572a2170,22,B,rush,Middle,Original
-2b7058890eefa22341aa295a036985a9,22,C,rush,Beginning,Replacement
-58538dcb3f84e420200c601a4903dbef,22,C,finish,Beginning,Replacement
-64e64662aa8b1a57c3e5254b48652bcc,22,C,pause,Beginning,Replacement
-8e6ad748c0685eaeffbadbae0050306d,22,C,hurry,Beginning,Replacement
-46c4212ded545ed717b0ff376752ae11,22,C,leave the car and perform requirements,Beginning,Replacement
-9f8736428d68ef86c654e1f0f0b1058e,22,C,hurry,Beginning,Replacement
-2817aa3ba5ce3496c4222adb7a6aa37c,22,D,hurry,Middle,Replacement
-83d8403f227baca0464166c404dc0dc2,22,D,finish,Middle,Replacement
-14399e53229004f2c85ec3810d5cf776,22,D,finish,Middle,Replacement
-b8b10c5c32c46a8f278dc868ef65fd9d,23,A,cook,Beginning,Original
-38515a2d399231bb4340622c162d7b1a,23,A,family,Beginning,Original
-bac07a9a07d31bd971ed4288f10499d6,23,A,swim and cook,Beginning,Original
-773048bc5ea832a6a6fb93f6da578bc6,23,A,duty,Beginning,Original
-bc3b5c51f98f643be9a99134572a2170,23,A,swim,Beginning,Original
-2b7058890eefa22341aa295a036985a9,23,B,cook,Middle,Original
-58538dcb3f84e420200c601a4903dbef,23,B,take out their tent,Middle,Original
-64e64662aa8b1a57c3e5254b48652bcc,23,B,settle,Middle,Original
-8e6ad748c0685eaeffbadbae0050306d,23,B,cook,Middle,Original
-46c4212ded545ed717b0ff376752ae11,23,B,relax,Middle,Original
-9f8736428d68ef86c654e1f0f0b1058e,23,B,swim,Middle,Original
-2817aa3ba5ce3496c4222adb7a6aa37c,23,C,make a fire to cook food. ,Beginning,Replacement
-83d8403f227baca0464166c404dc0dc2,23,C,roast marshmallows,Beginning,Replacement
-14399e53229004f2c85ec3810d5cf776,23,C,play games,Beginning,Replacement
-9a8edf1b84fcdd4e9692881d31a5a26e,23,D,get ready,Middle,Replacement
-559a558cc071b904f807f21b428370da,23,D,sleep,Middle,Replacement
-6df37ff0405e34325f86235ab8e45b66,23,D,cook,Middle,Replacement
-2b7058890eefa22341aa295a036985a9,24,A,hurry,Beginning,Original
-58538dcb3f84e420200c601a4903dbef,24,A,place it by the steps,Beginning,Original
-64e64662aa8b1a57c3e5254b48652bcc,24,A,hurry,Beginning,Original
-8e6ad748c0685eaeffbadbae0050306d,24,A,hurry,Beginning,Original
-46c4212ded545ed717b0ff376752ae11,24,A,carry multiple packages at a time,Beginning,Original
-9f8736428d68ef86c654e1f0f0b1058e,24,A,hurry,Beginning,Original
-2817aa3ba5ce3496c4222adb7a6aa37c,24,B,deliver,Middle,Original
-83d8403f227baca0464166c404dc0dc2,24,B,run,Middle,Original
-14399e53229004f2c85ec3810d5cf776,24,B,deliver,Middle,Original
-9a8edf1b84fcdd4e9692881d31a5a26e,24,C,deliver ,Beginning,Replacement
-559a558cc071b904f807f21b428370da,24,C,hurry,Beginning,Replacement
-6df37ff0405e34325f86235ab8e45b66,24,C,hurry,Beginning,Replacement
-b8b10c5c32c46a8f278dc868ef65fd9d,24,D,drive,Middle,Replacement
-38515a2d399231bb4340622c162d7b1a,24,D,gym,Middle,Replacement
-bac07a9a07d31bd971ed4288f10499d6,24,D,leave,Middle,Replacement
-773048bc5ea832a6a6fb93f6da578bc6,24,D,hurry,Middle,Replacement
-bc3b5c51f98f643be9a99134572a2170,24,D,leave,Middle,Replacement
-2817aa3ba5ce3496c4222adb7a6aa37c,25,A,rush,Beginning,Original
-83d8403f227baca0464166c404dc0dc2,25,A,write,Beginning,Original
-14399e53229004f2c85ec3810d5cf776,25,A,get new trainees,Beginning,Original
-9a8edf1b84fcdd4e9692881d31a5a26e,25,B,open the office at 9am,Middle,Original
-559a558cc071b904f807f21b428370da,25,B,work,Middle,Original
-6df37ff0405e34325f86235ab8e45b66,25,B,type,Middle,Original
-b8b10c5c32c46a8f278dc868ef65fd9d,25,C,leave,Beginning,Replacement
-38515a2d399231bb4340622c162d7b1a,25,C,trainee,Beginning,Replacement
-bac07a9a07d31bd971ed4288f10499d6,25,C,finish,Beginning,Replacement
-773048bc5ea832a6a6fb93f6da578bc6,25,C,finish,Beginning,Replacement
-bc3b5c51f98f643be9a99134572a2170,25,C,write,Beginning,Replacement
-2b7058890eefa22341aa295a036985a9,25,D,dash,Middle,Replacement
-58538dcb3f84e420200c601a4903dbef,25,D,finish,Middle,Replacement
-64e64662aa8b1a57c3e5254b48652bcc,25,D,go find one,Middle,Replacement
-8e6ad748c0685eaeffbadbae0050306d,25,D,rush,Middle,Replacement
-46c4212ded545ed717b0ff376752ae11,25,D,create and deliver it,Middle,Replacement
-9f8736428d68ef86c654e1f0f0b1058e,25,D,finish lunch,Middle,Replacement
-9a8edf1b84fcdd4e9692881d31a5a26e,26,A,get ready,Beginning,Original
-559a558cc071b904f807f21b428370da,26,A,get ready,Beginning,Original
-6df37ff0405e34325f86235ab8e45b66,26,A,wash his hands,Beginning,Original
-b8b10c5c32c46a8f278dc868ef65fd9d,26,B,me,Middle,Original
-38515a2d399231bb4340622c162d7b1a,26,B,brain,Middle,Original
-bac07a9a07d31bd971ed4288f10499d6,26,B,focus,Middle,Original
-773048bc5ea832a6a6fb93f6da578bc6,26,B,change shifts,Middle,Original
-bc3b5c51f98f643be9a99134572a2170,26,B,assist,Middle,Original
-2b7058890eefa22341aa295a036985a9,26,C,come,Beginning,Replacement
-58538dcb3f84e420200c601a4903dbef,26,C,get ready,Beginning,Replacement
-64e64662aa8b1a57c3e5254b48652bcc,26,C,be patient,Beginning,Replacement
-8e6ad748c0685eaeffbadbae0050306d,26,C,decline,Beginning,Replacement
-46c4212ded545ed717b0ff376752ae11,26,C,call another doctor to support,Beginning,Replacement
-9f8736428d68ef86c654e1f0f0b1058e,26,C,decline,Beginning,Replacement
-2817aa3ba5ce3496c4222adb7a6aa37c,26,D,call,Middle,Replacement
-83d8403f227baca0464166c404dc0dc2,26,D,call,Middle,Replacement
-14399e53229004f2c85ec3810d5cf776,26,D,hurry,Middle,Replacement
-b8b10c5c32c46a8f278dc868ef65fd9d,27,A,wait,Beginning,Original
-38515a2d399231bb4340622c162d7b1a,27,A,back,Beginning,Original
-bac07a9a07d31bd971ed4288f10499d6,27,A,be patient,Beginning,Original
-773048bc5ea832a6a6fb93f6da578bc6,27,A,wait,Beginning,Original
-bc3b5c51f98f643be9a99134572a2170,27,A,wait,Beginning,Original
-2b7058890eefa22341aa295a036985a9,27,B,rest,Middle,Original
-58538dcb3f84e420200c601a4903dbef,27,B,get him first,Middle,Original
-64e64662aa8b1a57c3e5254b48652bcc,27,B,cut the line,Middle,Original
-8e6ad748c0685eaeffbadbae0050306d,27,B,wait,Middle,Original
-46c4212ded545ed717b0ff376752ae11,27,B,wait,Middle,Original
-9f8736428d68ef86c654e1f0f0b1058e,27,B,wait,Middle,Original
-2817aa3ba5ce3496c4222adb7a6aa37c,27,C,wait,Beginning,Replacement
-83d8403f227baca0464166c404dc0dc2,27,C,rush,Beginning,Replacement
-14399e53229004f2c85ec3810d5cf776,27,C,come,Beginning,Replacement
-9a8edf1b84fcdd4e9692881d31a5a26e,27,D,call,Middle,Replacement
-559a558cc071b904f807f21b428370da,27,D,give up,Middle,Replacement
-6df37ff0405e34325f86235ab8e45b66,27,D,wait,Middle,Replacement
-2b7058890eefa22341aa295a036985a9,28,A,knit,Beginning,Original
-58538dcb3f84e420200c601a4903dbef,28,A,knit,Beginning,Original
-64e64662aa8b1a57c3e5254b48652bcc,28,A,get ready,Beginning,Original
-8e6ad748c0685eaeffbadbae0050306d,28,A,knit,Beginning,Original
-46c4212ded545ed717b0ff376752ae11,28,A,knit,Beginning,Original
-9f8736428d68ef86c654e1f0f0b1058e,28,A,knit,Beginning,Original
-2817aa3ba5ce3496c4222adb7a6aa37c,28,B,knit,Middle,Original
-83d8403f227baca0464166c404dc0dc2,28,B,knit,Middle,Original
-14399e53229004f2c85ec3810d5cf776,28,B,knit,Middle,Original
-9a8edf1b84fcdd4e9692881d31a5a26e,28,C,worry,Beginning,Replacement
-559a558cc071b904f807f21b428370da,28,C,buy yarn,Beginning,Replacement
-6df37ff0405e34325f86235ab8e45b66,28,C,buy yarn,Beginning,Replacement
-b8b10c5c32c46a8f278dc868ef65fd9d,28,D,meet,Middle,Replacement
-38515a2d399231bb4340622c162d7b1a,28,D,sweater,Middle,Replacement
-bac07a9a07d31bd971ed4288f10499d6,28,D,buy yarn,Middle,Replacement
-773048bc5ea832a6a6fb93f6da578bc6,28,D,knit ,Middle,Replacement
-bc3b5c51f98f643be9a99134572a2170,28,D,knit,Middle,Replacement
-2817aa3ba5ce3496c4222adb7a6aa37c,29,A,take a statement,Beginning,Original
-83d8403f227baca0464166c404dc0dc2,29,A,take a statement,Beginning,Original
-14399e53229004f2c85ec3810d5cf776,29,A,investigate,Beginning,Original
-9a8edf1b84fcdd4e9692881d31a5a26e,29,B,call 911,Middle,Original
-559a558cc071b904f807f21b428370da,29,B,go back,Middle,Original
-6df37ff0405e34325f86235ab8e45b66,29,B,write a report,Middle,Original
-b8b10c5c32c46a8f278dc868ef65fd9d,29,C,begin,Beginning,Replacement
-38515a2d399231bb4340622c162d7b1a,29,C,police,Beginning,Replacement
-bac07a9a07d31bd971ed4288f10499d6,29,C,leave,Beginning,Replacement
-773048bc5ea832a6a6fb93f6da578bc6,29,C,arrive,Beginning,Replacement
-bc3b5c51f98f643be9a99134572a2170,29,C,take a statement,Beginning,Replacement
-2b7058890eefa22341aa295a036985a9,29,D,find him,Middle,Replacement
-58538dcb3f84e420200c601a4903dbef,29,D,look for him,Middle,Replacement
-64e64662aa8b1a57c3e5254b48652bcc,29,D,be lazy,Middle,Replacement
-8e6ad748c0685eaeffbadbae0050306d,29,D,resign,Middle,Replacement
-46c4212ded545ed717b0ff376752ae11,29,D,call for help,Middle,Replacement
-9f8736428d68ef86c654e1f0f0b1058e,29,D,write a report,Middle,Replacement
-9a8edf1b84fcdd4e9692881d31a5a26e,30,A,scan them,Beginning,Original
-559a558cc071b904f807f21b428370da,30,A,do their best,Beginning,Original
-6df37ff0405e34325f86235ab8e45b66,30,A,scan them,Beginning,Original
-b8b10c5c32c46a8f278dc868ef65fd9d,30,B,appear,Middle,Original
-38515a2d399231bb4340622c162d7b1a,30,B,approach,Middle,Original
-bac07a9a07d31bd971ed4288f10499d6,30,B,not move fast enough to keep up,Middle,Original
-773048bc5ea832a6a6fb93f6da578bc6,30,B,do the calculations,Middle,Original
-bc3b5c51f98f643be9a99134572a2170,30,B,prepare,Middle,Original
-2b7058890eefa22341aa295a036985a9,30,C,be late,Beginning,Replacement
-58538dcb3f84e420200c601a4903dbef,30,C,come out,Beginning,Replacement
-64e64662aa8b1a57c3e5254b48652bcc,30,C,adjust,Beginning,Replacement
-8e6ad748c0685eaeffbadbae0050306d,30,C,delay,Beginning,Replacement
-46c4212ded545ed717b0ff376752ae11,30,C,be talked to about their performance,Beginning,Replacement
-9f8736428d68ef86c654e1f0f0b1058e,30,C,be late,Beginning,Replacement
-2817aa3ba5ce3496c4222adb7a6aa37c,30,D,scan them,Middle,Replacement
-83d8403f227baca0464166c404dc0dc2,30,D,scan them,Middle,Replacement
-14399e53229004f2c85ec3810d5cf776,30,D,cause the problems for the boss,Middle,Replacement
-b8b10c5c32c46a8f278dc868ef65fd9d,31,A,run,Beginning,Original
-38515a2d399231bb4340622c162d7b1a,31,A,track,Beginning,Original
-bac07a9a07d31bd971ed4288f10499d6,31,A,take off ,Beginning,Original
-773048bc5ea832a6a6fb93f6da578bc6,31,A,the space,Beginning,Original
-bc3b5c51f98f643be9a99134572a2170,31,A,go,Beginning,Original
-2b7058890eefa22341aa295a036985a9,31,B,run,Middle,Original
-58538dcb3f84e420200c601a4903dbef,31,B,take off,Middle,Original
-64e64662aa8b1a57c3e5254b48652bcc,31,B,run,Middle,Original
-8e6ad748c0685eaeffbadbae0050306d,31,B,run,Middle,Original
-46c4212ded545ed717b0ff376752ae11,31,B,start,Middle,Original
-9f8736428d68ef86c654e1f0f0b1058e,31,B,run,Middle,Original
-2817aa3ba5ce3496c4222adb7a6aa37c,31,C,take off,Beginning,Replacement
-83d8403f227baca0464166c404dc0dc2,31,C,put on his shoes,Beginning,Replacement
-14399e53229004f2c85ec3810d5cf776,31,C,come out to watch the game,Beginning,Replacement
-9a8edf1b84fcdd4e9692881d31a5a26e,31,D,run,Middle,Replacement
-559a558cc071b904f807f21b428370da,31,D,wish they were at the race and racing themselves,Middle,Replacement
-6df37ff0405e34325f86235ab8e45b66,31,D,run,Middle,Replacement
-2b7058890eefa22341aa295a036985a9,32,A,close it,Beginning,Original
-58538dcb3f84e420200c601a4903dbef,32,A,greet,Beginning,Original
-64e64662aa8b1a57c3e5254b48652bcc,32,A,prepare them,Beginning,Original
-8e6ad748c0685eaeffbadbae0050306d,32,A,smile,Beginning,Original
-46c4212ded545ed717b0ff376752ae11,32,A,announce the status,Beginning,Original
-9f8736428d68ef86c654e1f0f0b1058e,32,A,greet,Beginning,Original
-2817aa3ba5ce3496c4222adb7a6aa37c,32,B,check them in,Middle,Original
-83d8403f227baca0464166c404dc0dc2,32,B,greet,Middle,Original
-14399e53229004f2c85ec3810d5cf776,32,B,wait,Middle,Original
-9a8edf1b84fcdd4e9692881d31a5a26e,32,C,seat them,Beginning,Replacement
-559a558cc071b904f807f21b428370da,32,C,worry,Beginning,Replacement
-6df37ff0405e34325f86235ab8e45b66,32,C,greet,Beginning,Replacement
-b8b10c5c32c46a8f278dc868ef65fd9d,32,D,begin,Middle,Replacement
-38515a2d399231bb4340622c162d7b1a,32,D,will,Middle,Replacement
-bac07a9a07d31bd971ed4288f10499d6,32,D,greet them,Middle,Replacement
-773048bc5ea832a6a6fb93f6da578bc6,32,D,begin,Middle,Replacement
-bc3b5c51f98f643be9a99134572a2170,32,D,board,Middle,Replacement
-2817aa3ba5ce3496c4222adb7a6aa37c,33,A,play,Beginning,Original
-83d8403f227baca0464166c404dc0dc2,33,A,strum,Beginning,Original
-14399e53229004f2c85ec3810d5cf776,33,A,wait,Beginning,Original
-9a8edf1b84fcdd4e9692881d31a5a26e,33,B,listen,Middle,Original
-559a558cc071b904f807f21b428370da,33,B,play,Middle,Original
-6df37ff0405e34325f86235ab8e45b66,33,B,play,Middle,Original
-b8b10c5c32c46a8f278dc868ef65fd9d,33,C,rehearse,Beginning,Replacement
-38515a2d399231bb4340622c162d7b1a,33,C,van,Beginning,Replacement
-bac07a9a07d31bd971ed4288f10499d6,33,C,run,Beginning,Replacement
-773048bc5ea832a6a6fb93f6da578bc6,33,C,play,Beginning,Replacement
-bc3b5c51f98f643be9a99134572a2170,33,C,get ready,Beginning,Replacement
-2b7058890eefa22341aa295a036985a9,33,D,cheer,Middle,Replacement
-58538dcb3f84e420200c601a4903dbef,33,D,play,Middle,Replacement
-64e64662aa8b1a57c3e5254b48652bcc,33,D,try to do his best ,Middle,Replacement
-8e6ad748c0685eaeffbadbae0050306d,33,D,enter,Middle,Replacement
-46c4212ded545ed717b0ff376752ae11,33,D,depart,Middle,Replacement
-9f8736428d68ef86c654e1f0f0b1058e,33,D,be late,Middle,Replacement
-9a8edf1b84fcdd4e9692881d31a5a26e,34,A,get ready,Beginning,Original
-559a558cc071b904f807f21b428370da,34,A,tip,Beginning,Original
-6df37ff0405e34325f86235ab8e45b66,34,A,tip,Beginning,Original
-b8b10c5c32c46a8f278dc868ef65fd9d,34,B,pour,Middle,Original
-38515a2d399231bb4340622c162d7b1a,34,B,drink,Middle,Original
-bac07a9a07d31bd971ed4288f10499d6,34,B,tip,Middle,Original
-773048bc5ea832a6a6fb93f6da578bc6,34,B,buy more,Middle,Original
-bc3b5c51f98f643be9a99134572a2170,34,B,tip,Middle,Original
-2b7058890eefa22341aa295a036985a9,34,C,tip,Beginning,Replacement
-58538dcb3f84e420200c601a4903dbef,34,C,be very nice,Beginning,Replacement
-64e64662aa8b1a57c3e5254b48652bcc,34,C,consider,Beginning,Replacement
-8e6ad748c0685eaeffbadbae0050306d,34,C,drive,Beginning,Replacement
-46c4212ded545ed717b0ff376752ae11,34,C,tip,Beginning,Replacement
-9f8736428d68ef86c654e1f0f0b1058e,34,C,remember them,Beginning,Replacement
-2817aa3ba5ce3496c4222adb7a6aa37c,34,D,serve,Middle,Replacement
-83d8403f227baca0464166c404dc0dc2,34,D,tip,Middle,Replacement
-14399e53229004f2c85ec3810d5cf776,34,D,come,Middle,Replacement
-b8b10c5c32c46a8f278dc868ef65fd9d,35,A,faint,Beginning,Original
-38515a2d399231bb4340622c162d7b1a,35,A,her,Beginning,Original
-bac07a9a07d31bd971ed4288f10499d6,35,A,stay alert,Beginning,Original
-773048bc5ea832a6a6fb93f6da578bc6,35,A,submit it,Beginning,Original
-bc3b5c51f98f643be9a99134572a2170,35,A,write it down,Beginning,Original
-2b7058890eefa22341aa295a036985a9,35,B,complete it,Middle,Original
-58538dcb3f84e420200c601a4903dbef,35,B,repair it,Middle,Original
-64e64662aa8b1a57c3e5254b48652bcc,35,B,get rid of the phone,Middle,Original
-8e6ad748c0685eaeffbadbae0050306d,35,B,work,Middle,Original
-46c4212ded545ed717b0ff376752ae11,35,B,resolve the issue,Middle,Original
-9f8736428d68ef86c654e1f0f0b1058e,35,B,fix it,Middle,Original
-2817aa3ba5ce3496c4222adb7a6aa37c,35,C,rush back,Beginning,Replacement
-83d8403f227baca0464166c404dc0dc2,35,C,get ready,Beginning,Replacement
-14399e53229004f2c85ec3810d5cf776,35,C,set another time,Beginning,Replacement
-9a8edf1b84fcdd4e9692881d31a5a26e,35,D,be prepared,Middle,Replacement
-559a558cc071b904f807f21b428370da,35,D,panic later,Middle,Replacement
-6df37ff0405e34325f86235ab8e45b66,35,D,work,Middle,Replacement
-2b7058890eefa22341aa295a036985a9,36,A,clean,Beginning,Original
-58538dcb3f84e420200c601a4903dbef,36,A,have a seat available,Beginning,Original
-64e64662aa8b1a57c3e5254b48652bcc,36,A,rest,Beginning,Original
-8e6ad748c0685eaeffbadbae0050306d,36,A,prepare,Beginning,Original
-46c4212ded545ed717b0ff376752ae11,36,A,clean,Beginning,Original
-9f8736428d68ef86c654e1f0f0b1058e,36,A,sweep,Beginning,Original
-2817aa3ba5ce3496c4222adb7a6aa37c,36,B,prepare,Middle,Original
-83d8403f227baca0464166c404dc0dc2,36,B,clean,Middle,Original
-14399e53229004f2c85ec3810d5cf776,36,B,had to take a snap,Middle,Original
-9a8edf1b84fcdd4e9692881d31a5a26e,36,C,wait,Beginning,Replacement
-559a558cc071b904f807f21b428370da,36,C,prepare,Beginning,Replacement
-6df37ff0405e34325f86235ab8e45b66,36,C,clean,Beginning,Replacement
-b8b10c5c32c46a8f278dc868ef65fd9d,36,D,eat,Middle,Replacement
-38515a2d399231bb4340622c162d7b1a,36,D,barber,Middle,Replacement
-bac07a9a07d31bd971ed4288f10499d6,36,D,eat,Middle,Replacement
-773048bc5ea832a6a6fb93f6da578bc6,36,D,come,Middle,Replacement
-bc3b5c51f98f643be9a99134572a2170,36,D,clean,Middle,Replacement
-2817aa3ba5ce3496c4222adb7a6aa37c,37,A,try and make the baby fall asleep,Beginning,Original
-83d8403f227baca0464166c404dc0dc2,37,A,sing,Beginning,Original
-14399e53229004f2c85ec3810d5cf776,37,A,try and make the baby fall asleep,Beginning,Original
-9a8edf1b84fcdd4e9692881d31a5a26e,37,B,wait,Middle,Original
-559a558cc071b904f807f21b428370da,37,B,rock the cradle,Middle,Original
-6df37ff0405e34325f86235ab8e45b66,37,B,rock the cradle,Middle,Original
-b8b10c5c32c46a8f278dc868ef65fd9d,37,C,return,Beginning,Replacement
-38515a2d399231bb4340622c162d7b1a,37,C,baby,Beginning,Replacement
-bac07a9a07d31bd971ed4288f10499d6,37,C,take the baby inside,Beginning,Replacement
-773048bc5ea832a6a6fb93f6da578bc6,37,C,help,Beginning,Replacement
-bc3b5c51f98f643be9a99134572a2170,37,C,play,Beginning,Replacement
-2b7058890eefa22341aa295a036985a9,37,D,help,Middle,Replacement
-58538dcb3f84e420200c601a4903dbef,37,D,come inside,Middle,Replacement
-64e64662aa8b1a57c3e5254b48652bcc,37,D,sing,Middle,Replacement
-8e6ad748c0685eaeffbadbae0050306d,37,D,play,Middle,Replacement
-46c4212ded545ed717b0ff376752ae11,37,D,comfort,Middle,Replacement
-9f8736428d68ef86c654e1f0f0b1058e,37,D,keep them awake,Middle,Replacement
-9a8edf1b84fcdd4e9692881d31a5a26e,38,A,set it up,Beginning,Original
-559a558cc071b904f807f21b428370da,38,A,prepare,Beginning,Original
-6df37ff0405e34325f86235ab8e45b66,38,A,work,Beginning,Original
-b8b10c5c32c46a8f278dc868ef65fd9d,38,B,arrive,Middle,Original
-38515a2d399231bb4340622c162d7b1a,38,B,invite,Middle,Original
-bac07a9a07d31bd971ed4288f10499d6,38,B,rsvp,Middle,Original
-773048bc5ea832a6a6fb93f6da578bc6,38,B,attended,Middle,Original
-bc3b5c51f98f643be9a99134572a2170,38,B,greet,Middle,Original
-2b7058890eefa22341aa295a036985a9,38,C,rest,Beginning,Replacement
-58538dcb3f84e420200c601a4903dbef,38,C,make sure his display is safe,Beginning,Replacement
-64e64662aa8b1a57c3e5254b48652bcc,38,C,measure,Beginning,Replacement
-8e6ad748c0685eaeffbadbae0050306d,38,C,celebrate,Beginning,Replacement
-46c4212ded545ed717b0ff376752ae11,38,C,decide what to make,Beginning,Replacement
-9f8736428d68ef86c654e1f0f0b1058e,38,C,finish eating,Beginning,Replacement
-2817aa3ba5ce3496c4222adb7a6aa37c,38,D,sculpt,Middle,Replacement
-83d8403f227baca0464166c404dc0dc2,38,D,gather his best works,Middle,Replacement
-14399e53229004f2c85ec3810d5cf776,38,D,make it known,Middle,Replacement
-b8b10c5c32c46a8f278dc868ef65fd9d,39,A,aim,Beginning,Original
-38515a2d399231bb4340622c162d7b1a,39,A,tree,Beginning,Original
-bac07a9a07d31bd971ed4288f10499d6,39,A,aim,Beginning,Original
-773048bc5ea832a6a6fb93f6da578bc6,39,A,climb,Beginning,Original
-bc3b5c51f98f643be9a99134572a2170,39,A,aim,Beginning,Original
-2b7058890eefa22341aa295a036985a9,39,B,shoot,Middle,Original
-58538dcb3f84e420200c601a4903dbef,39,B,shoot,Middle,Original
-64e64662aa8b1a57c3e5254b48652bcc,39,B,give up,Middle,Original
-8e6ad748c0685eaeffbadbae0050306d,39,B,shoot,Middle,Original
-46c4212ded545ed717b0ff376752ae11,39,B,hunt,Middle,Original
-9f8736428d68ef86c654e1f0f0b1058e,39,B,aim,Middle,Original
-2817aa3ba5ce3496c4222adb7a6aa37c,39,C,shoot,Beginning,Replacement
-83d8403f227baca0464166c404dc0dc2,39,C,aim,Beginning,Replacement
-14399e53229004f2c85ec3810d5cf776,39,C,set a trap,Beginning,Replacement
-9a8edf1b84fcdd4e9692881d31a5a26e,39,D,be hunted down,Middle,Replacement
-559a558cc071b904f807f21b428370da,39,D,aim,Middle,Replacement
-6df37ff0405e34325f86235ab8e45b66,39,D,hide,Middle,Replacement
-2b7058890eefa22341aa295a036985a9,40,A,take a photo,Beginning,Original
-58538dcb3f84e420200c601a4903dbef,40,A,take a photo,Beginning,Original
-64e64662aa8b1a57c3e5254b48652bcc,40,A,utilize it,Beginning,Original
-8e6ad748c0685eaeffbadbae0050306d,40,A,pose,Beginning,Original
-46c4212ded545ed717b0ff376752ae11,40,A,take a photo,Beginning,Original
-9f8736428d68ef86c654e1f0f0b1058e,40,A,take a photo,Beginning,Original
-2817aa3ba5ce3496c4222adb7a6aa37c,40,B,take a photo,Middle,Original
-83d8403f227baca0464166c404dc0dc2,40,B,take a photo,Middle,Original
-14399e53229004f2c85ec3810d5cf776,40,B,earn profit,Middle,Original
-9a8edf1b84fcdd4e9692881d31a5a26e,40,C,enjoy the tourist season,Beginning,Replacement
-559a558cc071b904f807f21b428370da,40,C,"be insufferable, because that is not an appropriate location to be using a selfie stick",Beginning,Replacement
-6df37ff0405e34325f86235ab8e45b66,40,C,take a photo,Beginning,Replacement
-b8b10c5c32c46a8f278dc868ef65fd9d,40,D,take a photo,Middle,Replacement
-38515a2d399231bb4340622c162d7b1a,40,D,take a selfie,Middle,Replacement
-bac07a9a07d31bd971ed4288f10499d6,40,D,bump into other patrons occasionally,Middle,Replacement
-773048bc5ea832a6a6fb93f6da578bc6,40,D,take a photo,Middle,Replacement
-bc3b5c51f98f643be9a99134572a2170,40,D,take a photo,Middle,Replacement
-2817aa3ba5ce3496c4222adb7a6aa37c,41,A,tell them to quiet down,Beginning,Original
-83d8403f227baca0464166c404dc0dc2,41,A,talk loudly,Beginning,Original
-14399e53229004f2c85ec3810d5cf776,41,A,wait,Beginning,Original
-9a8edf1b84fcdd4e9692881d31a5a26e,41,B,report on the incident,Middle,Original
-559a558cc071b904f807f21b428370da,41,B,listen,Middle,Original
-6df37ff0405e34325f86235ab8e45b66,41,B,talk loudly,Middle,Original
-b8b10c5c32c46a8f278dc868ef65fd9d,41,C,talk loudly,Beginning,Replacement
-38515a2d399231bb4340622c162d7b1a,41,C,report,Beginning,Replacement
-bac07a9a07d31bd971ed4288f10499d6,41,C,listen ,Beginning,Replacement
-773048bc5ea832a6a6fb93f6da578bc6,41,C,stop,Beginning,Replacement
-bc3b5c51f98f643be9a99134572a2170,41,C,cover their ears,Beginning,Replacement
-2b7058890eefa22341aa295a036985a9,41,D,turn it down,Middle,Replacement
-58538dcb3f84e420200c601a4903dbef,41,D,go inside,Middle,Replacement
-64e64662aa8b1a57c3e5254b48652bcc,41,D,leave,Middle,Replacement
-8e6ad748c0685eaeffbadbae0050306d,41,D,cut,Middle,Replacement
-46c4212ded545ed717b0ff376752ae11,41,D,proceed,Middle,Replacement
-9f8736428d68ef86c654e1f0f0b1058e,41,D,stay inside,Middle,Replacement
-9a8edf1b84fcdd4e9692881d31a5a26e,42,A,be ready,Beginning,Original
-559a558cc071b904f807f21b428370da,42,A,be ready,Beginning,Original
-6df37ff0405e34325f86235ab8e45b66,42,A,walk,Beginning,Original
-b8b10c5c32c46a8f278dc868ef65fd9d,42,B,practice,Middle,Original
-38515a2d399231bb4340622c162d7b1a,42,B,dress,Middle,Original
-bac07a9a07d31bd971ed4288f10499d6,42,B,prance,Middle,Original
-773048bc5ea832a6a6fb93f6da578bc6,42,B,be on stage,Middle,Original
-bc3b5c51f98f643be9a99134572a2170,42,B,go ,Middle,Original
-2b7058890eefa22341aa295a036985a9,42,C,dress,Beginning,Replacement
-58538dcb3f84e420200c601a4903dbef,42,C,head,Beginning,Replacement
-64e64662aa8b1a57c3e5254b48652bcc,42,C,go ,Beginning,Replacement
-8e6ad748c0685eaeffbadbae0050306d,42,C,travel,Beginning,Replacement
-46c4212ded545ed717b0ff376752ae11,42,C,go ,Beginning,Replacement
-9f8736428d68ef86c654e1f0f0b1058e,42,C,get on the bus,Beginning,Replacement
-2817aa3ba5ce3496c4222adb7a6aa37c,42,D,get ready,Middle,Replacement
-83d8403f227baca0464166c404dc0dc2,42,D,get ready,Middle,Replacement
-14399e53229004f2c85ec3810d5cf776,42,D,head straight to the model hall,Middle,Replacement
-b8b10c5c32c46a8f278dc868ef65fd9d,43,A,climb,Beginning,Original
-38515a2d399231bb4340622c162d7b1a,43,A,cliff,Beginning,Original
-bac07a9a07d31bd971ed4288f10499d6,43,A,hack into the ice,Beginning,Original
-773048bc5ea832a6a6fb93f6da578bc6,43,A,break,Beginning,Original
-bc3b5c51f98f643be9a99134572a2170,43,A,climb,Beginning,Original
-2b7058890eefa22341aa295a036985a9,43,B,intimidate ,Middle,Original
-58538dcb3f84e420200c601a4903dbef,43,B,be trying to save his life,Middle,Original
-64e64662aa8b1a57c3e5254b48652bcc,43,B,be terrified,Middle,Original
-8e6ad748c0685eaeffbadbae0050306d,43,B,climb,Middle,Original
-46c4212ded545ed717b0ff376752ae11,43,B,use the axe,Middle,Original
-9f8736428d68ef86c654e1f0f0b1058e,43,B,climb,Middle,Original
-2817aa3ba5ce3496c4222adb7a6aa37c,43,C,make sure his gear was good,Beginning,Replacement
-83d8403f227baca0464166c404dc0dc2,43,C,plan,Beginning,Replacement
-14399e53229004f2c85ec3810d5cf776,43,C,okay,Beginning,Replacement
-9a8edf1b84fcdd4e9692881d31a5a26e,43,D,prepare,Middle,Replacement
-559a558cc071b904f807f21b428370da,43,D,prepare,Middle,Replacement
-6df37ff0405e34325f86235ab8e45b66,43,D,embark,Middle,Replacement
-2b7058890eefa22341aa295a036985a9,44,A,find,Beginning,Original
-58538dcb3f84e420200c601a4903dbef,44,A,shine the light,Beginning,Original
-64e64662aa8b1a57c3e5254b48652bcc,44,A,get damaged,Beginning,Original
-8e6ad748c0685eaeffbadbae0050306d,44,A,see,Beginning,Original
-46c4212ded545ed717b0ff376752ae11,44,A,search,Beginning,Original
-9f8736428d68ef86c654e1f0f0b1058e,44,A,scan,Beginning,Original
-2817aa3ba5ce3496c4222adb7a6aa37c,44,B,look,Middle,Original
-83d8403f227baca0464166c404dc0dc2,44,B,shine the light,Middle,Original
-14399e53229004f2c85ec3810d5cf776,44,B,make it easier,Middle,Original
-9a8edf1b84fcdd4e9692881d31a5a26e,44,C,explore,Beginning,Replacement
-559a558cc071b904f807f21b428370da,44,C,use it,Beginning,Replacement
-6df37ff0405e34325f86235ab8e45b66,44,C,get ready,Beginning,Replacement
-b8b10c5c32c46a8f278dc868ef65fd9d,44,D,scavenge,Middle,Replacement
-38515a2d399231bb4340622c162d7b1a,44,D,light,Middle,Replacement
-bac07a9a07d31bd971ed4288f10499d6,44,D,look,Middle,Replacement
-773048bc5ea832a6a6fb93f6da578bc6,44,D,switch it on,Middle,Replacement
-bc3b5c51f98f643be9a99134572a2170,44,D,use it,Middle,Replacement
-2817aa3ba5ce3496c4222adb7a6aa37c,45,A,start,Beginning,Original
-83d8403f227baca0464166c404dc0dc2,45,A,draw blood,Beginning,Original
-14399e53229004f2c85ec3810d5cf776,45,A,get to know,Beginning,Original
-9a8edf1b84fcdd4e9692881d31a5a26e,45,B,handle,Middle,Original
-559a558cc071b904f807f21b428370da,45,B,tell,Middle,Original
-6df37ff0405e34325f86235ab8e45b66,45,B,diagnose,Middle,Original
-b8b10c5c32c46a8f278dc868ef65fd9d,45,C,examine,Beginning,Replacement
-38515a2d399231bb4340622c162d7b1a,45,C,bedroom,Beginning,Replacement
-bac07a9a07d31bd971ed4288f10499d6,45,C,work,Beginning,Replacement
-773048bc5ea832a6a6fb93f6da578bc6,45,C,take care,Beginning,Replacement
-bc3b5c51f98f643be9a99134572a2170,45,C,get checked out,Beginning,Replacement
-2b7058890eefa22341aa295a036985a9,45,D,rest,Middle,Replacement
-58538dcb3f84e420200c601a4903dbef,45,D,begin,Middle,Replacement
-64e64662aa8b1a57c3e5254b48652bcc,45,D,examine,Middle,Replacement
-8e6ad748c0685eaeffbadbae0050306d,45,D,examine,Middle,Replacement
-46c4212ded545ed717b0ff376752ae11,45,D,perform a procedure,Middle,Replacement
-9f8736428d68ef86c654e1f0f0b1058e,45,D,work,Middle,Replacement
-9a8edf1b84fcdd4e9692881d31a5a26e,46,A,invest,Beginning,Original
-559a558cc071b904f807f21b428370da,46,A,invest,Beginning,Original
-6df37ff0405e34325f86235ab8e45b66,46,A,profit,Beginning,Original
-b8b10c5c32c46a8f278dc868ef65fd9d,46,B,sell,Middle,Original
-38515a2d399231bb4340622c162d7b1a,46,B,banker,Middle,Original
-bac07a9a07d31bd971ed4288f10499d6,46,B,sell,Middle,Original
-773048bc5ea832a6a6fb93f6da578bc6,46,B,go high,Middle,Original
-bc3b5c51f98f643be9a99134572a2170,46,B,sell,Middle,Original
-2b7058890eefa22341aa295a036985a9,46,C,be thrilled,Beginning,Replacement
-58538dcb3f84e420200c601a4903dbef,46,C,keep an eye on his stocks,Beginning,Replacement
-64e64662aa8b1a57c3e5254b48652bcc,46,C,profit,Beginning,Replacement
-8e6ad748c0685eaeffbadbae0050306d,46,C,exult,Beginning,Replacement
-46c4212ded545ed717b0ff376752ae11,46,C,monitor,Beginning,Replacement
-9f8736428d68ef86c654e1f0f0b1058e,46,C,get richer,Beginning,Replacement
-2817aa3ba5ce3496c4222adb7a6aa37c,46,D,let their client know how it is going,Middle,Replacement
-83d8403f227baca0464166c404dc0dc2,46,D,profit,Middle,Replacement
-14399e53229004f2c85ec3810d5cf776,46,D,be happy,Middle,Replacement
-b8b10c5c32c46a8f278dc868ef65fd9d,47,A,operate,Beginning,Original
-38515a2d399231bb4340622c162d7b1a,47,A,room,Beginning,Original
-bac07a9a07d31bd971ed4288f10499d6,47,A,finish,Beginning,Original
-773048bc5ea832a6a6fb93f6da578bc6,47,A,take charge,Beginning,Original
-bc3b5c51f98f643be9a99134572a2170,47,A,start,Beginning,Original
-2b7058890eefa22341aa295a036985a9,47,B,check their vitals,Middle,Original
-58538dcb3f84e420200c601a4903dbef,47,B,feel sleepy,Middle,Original
-64e64662aa8b1a57c3e5254b48652bcc,47,B,take care,Middle,Original
-8e6ad748c0685eaeffbadbae0050306d,47,B,operate,Middle,Original
-46c4212ded545ed717b0ff376752ae11,47,B,proceed,Middle,Original
-9f8736428d68ef86c654e1f0f0b1058e,47,B,start,Middle,Original
-2817aa3ba5ce3496c4222adb7a6aa37c,47,C,finish,Beginning,Replacement
-83d8403f227baca0464166c404dc0dc2,47,C,wash his hands,Beginning,Replacement
-14399e53229004f2c85ec3810d5cf776,47,C,find some medicine to reduce the pain,Beginning,Replacement
-9a8edf1b84fcdd4e9692881d31a5a26e,47,D,fix the patient's teeth,Middle,Replacement
-559a558cc071b904f807f21b428370da,47,D,hurry,Middle,Replacement
-6df37ff0405e34325f86235ab8e45b66,47,D,pull it,Middle,Replacement
-2b7058890eefa22341aa295a036985a9,48,A,deliver,Beginning,Original
-58538dcb3f84e420200c601a4903dbef,48,A,be tired,Beginning,Original
-64e64662aa8b1a57c3e5254b48652bcc,48,A,be safe,Beginning,Original
-8e6ad748c0685eaeffbadbae0050306d,48,A,signal,Beginning,Original
-46c4212ded545ed717b0ff376752ae11,48,A,unload,Beginning,Original
-9f8736428d68ef86c654e1f0f0b1058e,48,A,deliver,Beginning,Original
-2817aa3ba5ce3496c4222adb7a6aa37c,48,B,verify,Middle,Original
-83d8403f227baca0464166c404dc0dc2,48,B,lift,Middle,Original
-14399e53229004f2c85ec3810d5cf776,48,B,have to take it to where the event is been held,Middle,Original
-9a8edf1b84fcdd4e9692881d31a5a26e,48,C,wait,Beginning,Replacement
-559a558cc071b904f807f21b428370da,48,C,make sure it is not damaged in loading it for delivery,Beginning,Replacement
-6df37ff0405e34325f86235ab8e45b66,48,C,deliver,Beginning,Replacement
-b8b10c5c32c46a8f278dc868ef65fd9d,48,D,be there,Middle,Replacement
-38515a2d399231bb4340622c162d7b1a,48,D,van,Middle,Replacement
-bac07a9a07d31bd971ed4288f10499d6,48,D,have to get up and go,Middle,Replacement
-773048bc5ea832a6a6fb93f6da578bc6,48,D,be replaced,Middle,Replacement
-bc3b5c51f98f643be9a99134572a2170,48,D,drive off,Middle,Replacement
-2817aa3ba5ce3496c4222adb7a6aa37c,49,A,fight the fire,Beginning,Original
-83d8403f227baca0464166c404dc0dc2,49,A,rush,Beginning,Original
-14399e53229004f2c85ec3810d5cf776,49,A,call,Beginning,Original
-9a8edf1b84fcdd4e9692881d31a5a26e,49,B,stop the fire,Middle,Original
-559a558cc071b904f807f21b428370da,49,B,work quickly and be mindful of any potential for a backdraft,Middle,Original
-6df37ff0405e34325f86235ab8e45b66,49,B,stop the fire,Middle,Original
-b8b10c5c32c46a8f278dc868ef65fd9d,49,C,wake up,Beginning,Replacement
-38515a2d399231bb4340622c162d7b1a,49,C,go to bed,Beginning,Replacement
-bac07a9a07d31bd971ed4288f10499d6,49,C,get up,Beginning,Replacement
-773048bc5ea832a6a6fb93f6da578bc6,49,C,spray,Beginning,Replacement
-bc3b5c51f98f643be9a99134572a2170,49,C,rush,Beginning,Replacement
-2b7058890eefa22341aa295a036985a9,49,D,stop the fire,Middle,Replacement
-58538dcb3f84e420200c601a4903dbef,49,D,stop the fire,Middle,Replacement
-64e64662aa8b1a57c3e5254b48652bcc,49,D,stop the fire,Middle,Replacement
-8e6ad748c0685eaeffbadbae0050306d,49,D,wake up,Middle,Replacement
-46c4212ded545ed717b0ff376752ae11,49,D,react quickly,Middle,Replacement
-9f8736428d68ef86c654e1f0f0b1058e,49,D,get up,Middle,Replacement
-9a8edf1b84fcdd4e9692881d31a5a26e,50,A,be short handed,Beginning,Original
-559a558cc071b904f807f21b428370da,50,A,do their best,Beginning,Original
-6df37ff0405e34325f86235ab8e45b66,50,A,calm them down,Beginning,Original
-b8b10c5c32c46a8f278dc868ef65fd9d,50,B,apologize,Middle,Original
-38515a2d399231bb4340622c162d7b1a,50,B,client,Middle,Original
-bac07a9a07d31bd971ed4288f10499d6,50,B,do their best,Middle,Original
-773048bc5ea832a6a6fb93f6da578bc6,50,B,fix ,Middle,Original
-bc3b5c51f98f643be9a99134572a2170,50,B,write ,Middle,Original
-2b7058890eefa22341aa295a036985a9,50,C,not help,Beginning,Replacement
-58538dcb3f84e420200c601a4903dbef,50,C,leave,Beginning,Replacement
-64e64662aa8b1a57c3e5254b48652bcc,50,C,fix ,Beginning,Replacement
-8e6ad748c0685eaeffbadbae0050306d,50,C,celebrate,Beginning,Replacement
-46c4212ded545ed717b0ff376752ae11,50,C,address ,Beginning,Replacement
-9f8736428d68ef86c654e1f0f0b1058e,50,C,take note,Beginning,Replacement
-2817aa3ba5ce3496c4222adb7a6aa37c,50,D,get help,Middle,Replacement
-83d8403f227baca0464166c404dc0dc2,50,D,fix ,Middle,Replacement
-14399e53229004f2c85ec3810d5cf776,50,D,bout the behaviors of the team members,Middle,Replacement
-b8b10c5c32c46a8f278dc868ef65fd9d,51,A,confess,Beginning,Original
-38515a2d399231bb4340622c162d7b1a,51,A,student,Beginning,Original
-bac07a9a07d31bd971ed4288f10499d6,51,A,do his best,Beginning,Original
-773048bc5ea832a6a6fb93f6da578bc6,51,A,supervise,Beginning,Original
-bc3b5c51f98f643be9a99134572a2170,51,A,give it to him,Beginning,Original
-2b7058890eefa22341aa295a036985a9,51,B,help,Middle,Original
-58538dcb3f84e420200c601a4903dbef,51,B,i dont know,Middle,Original
-64e64662aa8b1a57c3e5254b48652bcc,51,B,make time,Middle,Original
-8e6ad748c0685eaeffbadbae0050306d,51,B,supervise,Middle,Original
-46c4212ded545ed717b0ff376752ae11,51,B,respond,Middle,Original
-9f8736428d68ef86c654e1f0f0b1058e,51,B,help,Middle,Original
-2817aa3ba5ce3496c4222adb7a6aa37c,51,C,help,Beginning,Replacement
-83d8403f227baca0464166c404dc0dc2,51,C,help,Beginning,Replacement
-14399e53229004f2c85ec3810d5cf776,51,C,to do what they think is right,Beginning,Replacement
-9a8edf1b84fcdd4e9692881d31a5a26e,51,D,balance,Middle,Replacement
-559a558cc071b904f807f21b428370da,51,D,make time,Middle,Replacement
-6df37ff0405e34325f86235ab8e45b66,51,D,help,Middle,Replacement
-2b7058890eefa22341aa295a036985a9,52,A,mediate ,Beginning,Original
-58538dcb3f84e420200c601a4903dbef,52,A,interrupt,Beginning,Original
-64e64662aa8b1a57c3e5254b48652bcc,52,A,listen,Beginning,Original
-8e6ad748c0685eaeffbadbae0050306d,52,A,listen,Beginning,Original
-46c4212ded545ed717b0ff376752ae11,52,A,mediate,Beginning,Original
-9f8736428d68ef86c654e1f0f0b1058e,52,A,mediate,Beginning,Original
-2817aa3ba5ce3496c4222adb7a6aa37c,52,B,evaluate,Middle,Original
-83d8403f227baca0464166c404dc0dc2,52,B,listen,Middle,Original
-14399e53229004f2c85ec3810d5cf776,52,B,hang,Middle,Original
-9a8edf1b84fcdd4e9692881d31a5a26e,52,C,listen,Beginning,Replacement
-559a558cc071b904f807f21b428370da,52,C,take a deep breath,Beginning,Replacement
-6df37ff0405e34325f86235ab8e45b66,52,C,help,Beginning,Replacement
-b8b10c5c32c46a8f278dc868ef65fd9d,52,D,decompress,Middle,Replacement
-38515a2d399231bb4340622c162d7b1a,52,D,will,Middle,Replacement
-bac07a9a07d31bd971ed4288f10499d6,52,D,hurry back,Middle,Replacement
-773048bc5ea832a6a6fb93f6da578bc6,52,D,listen ,Middle,Replacement
-bc3b5c51f98f643be9a99134572a2170,52,D,listen,Middle,Replacement
-2817aa3ba5ce3496c4222adb7a6aa37c,53,A,start to sing,Beginning,Original
-83d8403f227baca0464166c404dc0dc2,53,A,write the next hit,Beginning,Original
-14399e53229004f2c85ec3810d5cf776,53,A,talk about it ,Beginning,Original
-9a8edf1b84fcdd4e9692881d31a5a26e,53,B,make the song popular,Middle,Original
-559a558cc071b904f807f21b428370da,53,B,prepare to do the same,Middle,Original
-6df37ff0405e34325f86235ab8e45b66,53,B,write,Middle,Original
-b8b10c5c32c46a8f278dc868ef65fd9d,53,C,danced,Beginning,Replacement
-38515a2d399231bb4340622c162d7b1a,53,C,park,Beginning,Replacement
-bac07a9a07d31bd971ed4288f10499d6,53,C,spread the news,Beginning,Replacement
-773048bc5ea832a6a6fb93f6da578bc6,53,C,promote it,Beginning,Replacement
-bc3b5c51f98f643be9a99134572a2170,53,C,read aloud,Beginning,Replacement
-2b7058890eefa22341aa295a036985a9,53,D,also perform,Middle,Replacement
-58538dcb3f84e420200c601a4903dbef,53,D,start to sing,Middle,Replacement
-64e64662aa8b1a57c3e5254b48652bcc,53,D,good friends,Middle,Replacement
-8e6ad748c0685eaeffbadbae0050306d,53,D,write,Middle,Replacement
-46c4212ded545ed717b0ff376752ae11,53,D,perform,Middle,Replacement
-9f8736428d68ef86c654e1f0f0b1058e,53,D,write about it,Middle,Replacement
-9a8edf1b84fcdd4e9692881d31a5a26e,54,A,talk about the finished project,Beginning,Original
-559a558cc071b904f807f21b428370da,54,A,prepare their notes and presentation,Beginning,Original
-6df37ff0405e34325f86235ab8e45b66,54,A,speak,Beginning,Original
-b8b10c5c32c46a8f278dc868ef65fd9d,54,B,progress,Middle,Original
-38515a2d399231bb4340622c162d7b1a,54,B,team,Middle,Original
-bac07a9a07d31bd971ed4288f10499d6,54,B,tell the team what changes will be made,Middle,Original
-773048bc5ea832a6a6fb93f6da578bc6,54,B,talk,Middle,Original
-bc3b5c51f98f643be9a99134572a2170,54,B,preform,Middle,Original
-2b7058890eefa22341aa295a036985a9,54,C,leave,Beginning,Replacement
-58538dcb3f84e420200c601a4903dbef,54,C,express gratitude for the meeting,Beginning,Replacement
-64e64662aa8b1a57c3e5254b48652bcc,54,C,maintain composure,Beginning,Replacement
-8e6ad748c0685eaeffbadbae0050306d,54,C,speak,Beginning,Replacement
-46c4212ded545ed717b0ff376752ae11,54,C,speak with the team,Beginning,Replacement
-9f8736428d68ef86c654e1f0f0b1058e,54,C,praise the team,Beginning,Replacement
-2817aa3ba5ce3496c4222adb7a6aa37c,54,D,talk to the people,Middle,Replacement
-83d8403f227baca0464166c404dc0dc2,54,D,eat lunch,Middle,Replacement
-14399e53229004f2c85ec3810d5cf776,54,D,to take lunch,Middle,Replacement
-b8b10c5c32c46a8f278dc868ef65fd9d,55,A,untie,Beginning,Original
-38515a2d399231bb4340622c162d7b1a,55,A,mechanic,Beginning,Original
-bac07a9a07d31bd971ed4288f10499d6,55,A,completely rebuild it ,Beginning,Original
-773048bc5ea832a6a6fb93f6da578bc6,55,A,to pause,Beginning,Original
-bc3b5c51f98f643be9a99134572a2170,55,A,fix it ,Beginning,Original
-2b7058890eefa22341aa295a036985a9,55,B,fix it,Middle,Original
-58538dcb3f84e420200c601a4903dbef,55,B,fix it,Middle,Original
-64e64662aa8b1a57c3e5254b48652bcc,55,B,take another look at the car,Middle,Original
-8e6ad748c0685eaeffbadbae0050306d,55,B,order,Middle,Original
-46c4212ded545ed717b0ff376752ae11,55,B,tow the car,Middle,Original
-9f8736428d68ef86c654e1f0f0b1058e,55,B,fix it,Middle,Original
-2817aa3ba5ce3496c4222adb7a6aa37c,55,C,repair the engine. ,Beginning,Replacement
-83d8403f227baca0464166c404dc0dc2,55,C,put out cones,Beginning,Replacement
-14399e53229004f2c85ec3810d5cf776,55,C,fix,Beginning,Replacement
-9a8edf1b84fcdd4e9692881d31a5a26e,55,D,consider the red engine light,Middle,Replacement
-559a558cc071b904f807f21b428370da,55,D,help out the driver with their malfunctioning car,Middle,Replacement
-6df37ff0405e34325f86235ab8e45b66,55,D,repair it,Middle,Replacement
-2b7058890eefa22341aa295a036985a9,56,A,broadcast,Beginning,Original
-58538dcb3f84e420200c601a4903dbef,56,A,take photos,Beginning,Original
-64e64662aa8b1a57c3e5254b48652bcc,56,A,plan his actions,Beginning,Original
-8e6ad748c0685eaeffbadbae0050306d,56,A,report,Beginning,Original
-46c4212ded545ed717b0ff376752ae11,56,A,be filmed,Beginning,Original
-9f8736428d68ef86c654e1f0f0b1058e,56,A,report,Beginning,Original
-2817aa3ba5ce3496c4222adb7a6aa37c,56,B,begin talking into the camera,Middle,Original
-83d8403f227baca0464166c404dc0dc2,56,B,report the news,Middle,Original
-14399e53229004f2c85ec3810d5cf776,56,B,give her speech,Middle,Original
-9a8edf1b84fcdd4e9692881d31a5a26e,56,C,hide from the terrorist attack,Beginning,Replacement
-559a558cc071b904f807f21b428370da,56,C,realize they need to document what is happening as quickly as possible,Beginning,Replacement
-6df37ff0405e34325f86235ab8e45b66,56,C,document it,Beginning,Replacement
-b8b10c5c32c46a8f278dc868ef65fd9d,56,D,report,Middle,Replacement
-38515a2d399231bb4340622c162d7b1a,56,D,arrives,Middle,Replacement
-bac07a9a07d31bd971ed4288f10499d6,56,D,get ready to make news happen,Middle,Replacement
-773048bc5ea832a6a6fb93f6da578bc6,56,D,take pictures,Middle,Replacement
-bc3b5c51f98f643be9a99134572a2170,56,D,take pictures,Middle,Replacement
-2817aa3ba5ce3496c4222adb7a6aa37c,57,A,brainstorm ideas,Beginning,Original
-83d8403f227baca0464166c404dc0dc2,57,A,draw,Beginning,Original
-14399e53229004f2c85ec3810d5cf776,57,A,realize the capability of the couples,Beginning,Original
-9a8edf1b84fcdd4e9692881d31a5a26e,57,B,help the newly wedded couple build their home,Middle,Original
-559a558cc071b904f807f21b428370da,57,B,begin work on making the final blueprints a reality,Middle,Original
-6df37ff0405e34325f86235ab8e45b66,57,B,design,Middle,Original
-b8b10c5c32c46a8f278dc868ef65fd9d,57,C,adjust,Beginning,Replacement
-38515a2d399231bb4340622c162d7b1a,57,C,kitchen,Beginning,Replacement
-bac07a9a07d31bd971ed4288f10499d6,57,C,revise a few things,Beginning,Replacement
-773048bc5ea832a6a6fb93f6da578bc6,57,C,draw the plan,Beginning,Replacement
-bc3b5c51f98f643be9a99134572a2170,57,C,draw the rest,Beginning,Replacement
-2b7058890eefa22341aa295a036985a9,57,D,make haste on it,Middle,Replacement
-58538dcb3f84e420200c601a4903dbef,57,D,come up with,Middle,Replacement
-64e64662aa8b1a57c3e5254b48652bcc,57,D,explain his paln,Middle,Replacement
-8e6ad748c0685eaeffbadbae0050306d,57,D,revise,Middle,Replacement
-46c4212ded545ed717b0ff376752ae11,57,D,record their desires for the build,Middle,Replacement
-9f8736428d68ef86c654e1f0f0b1058e,57,D,finish the design,Middle,Replacement
-9a8edf1b84fcdd4e9692881d31a5a26e,58,A,fill in for the big event,Beginning,Original
-559a558cc071b904f807f21b428370da,58,A,make quick changes to the performance routine and choreography,Beginning,Original
-6df37ff0405e34325f86235ab8e45b66,58,A,fill in,Beginning,Original
-b8b10c5c32c46a8f278dc868ef65fd9d,58,B,investigate,Middle,Original
-38515a2d399231bb4340622c162d7b1a,58,B,minute,Middle,Original
-bac07a9a07d31bd971ed4288f10499d6,58,B,be flexible and call the stand-in,Middle,Original
-773048bc5ea832a6a6fb93f6da578bc6,58,B,leave the group,Middle,Original
-bc3b5c51f98f643be9a99134572a2170,58,B,cancel the show,Middle,Original
-2b7058890eefa22341aa295a036985a9,58,C,perform,Beginning,Replacement
-58538dcb3f84e420200c601a4903dbef,58,C,substitute for him,Beginning,Replacement
-64e64662aa8b1a57c3e5254b48652bcc,58,C,replace him,Beginning,Replacement
-8e6ad748c0685eaeffbadbae0050306d,58,C,substitute,Beginning,Replacement
-46c4212ded545ed717b0ff376752ae11,58,C,find a substitute,Beginning,Replacement
-9f8736428d68ef86c654e1f0f0b1058e,58,C,adjust accordingly,Beginning,Replacement
-2817aa3ba5ce3496c4222adb7a6aa37c,58,D,find a replacement,Middle,Replacement
-83d8403f227baca0464166c404dc0dc2,58,D,call a back up,Middle,Replacement
-14399e53229004f2c85ec3810d5cf776,58,D,go to the hospital,Middle,Replacement
-b8b10c5c32c46a8f278dc868ef65fd9d,59,A,practiced,Beginning,Original
-38515a2d399231bb4340622c162d7b1a,59,A,stadium,Beginning,Original
-bac07a9a07d31bd971ed4288f10499d6,59,A,get ready%0aget ready,Beginning,Original
-773048bc5ea832a6a6fb93f6da578bc6,59,A,before the match,Beginning,Original
-bc3b5c51f98f643be9a99134572a2170,59,A,play hard,Beginning,Original
-2b7058890eefa22341aa295a036985a9,59,B,train,Middle,Original
-58538dcb3f84e420200c601a4903dbef,59,B,get prepared,Middle,Original
-64e64662aa8b1a57c3e5254b48652bcc,59,B,follow the instructions,Middle,Original
-8e6ad748c0685eaeffbadbae0050306d,59,B,train,Middle,Original
-46c4212ded545ed717b0ff376752ae11,59,B,participate in the game,Middle,Original
-9f8736428d68ef86c654e1f0f0b1058e,59,B,prepare,Middle,Original
-2817aa3ba5ce3496c4222adb7a6aa37c,59,C,check his calendar. ,Beginning,Replacement
-83d8403f227baca0464166c404dc0dc2,59,C,work out,Beginning,Replacement
-14399e53229004f2c85ec3810d5cf776,59,C,come and join the rest,Beginning,Replacement
-9a8edf1b84fcdd4e9692881d31a5a26e,59,D,prepare for their events,Middle,Replacement
-559a558cc071b904f807f21b428370da,59,D,make note of their role/assignments on the calendar,Middle,Replacement
-6df37ff0405e34325f86235ab8e45b66,59,D,train,Middle,Replacement
-2b7058890eefa22341aa295a036985a9,60,A,pitch,Beginning,Original
-58538dcb3f84e420200c601a4903dbef,60,A,pitch,Beginning,Original
-64e64662aa8b1a57c3e5254b48652bcc,60,A,increase sales,Beginning,Original
-8e6ad748c0685eaeffbadbae0050306d,60,A,hustle,Beginning,Original
-46c4212ded545ed717b0ff376752ae11,60,A,prepare,Beginning,Original
-9f8736428d68ef86c654e1f0f0b1058e,60,A,rehearse,Beginning,Original
-2817aa3ba5ce3496c4222adb7a6aa37c,60,B,prepare,Middle,Original
-83d8403f227baca0464166c404dc0dc2,60,B,come up with a pitch,Middle,Original
-14399e53229004f2c85ec3810d5cf776,60,B,help,Middle,Original
-9a8edf1b84fcdd4e9692881d31a5a26e,60,C,expand,Beginning,Replacement
-559a558cc071b904f807f21b428370da,60,C,prepare,Beginning,Replacement
-6df37ff0405e34325f86235ab8e45b66,60,C,practice,Beginning,Replacement
-b8b10c5c32c46a8f278dc868ef65fd9d,60,D,sell,Middle,Replacement
-38515a2d399231bb4340622c162d7b1a,60,D,products,Middle,Replacement
-bac07a9a07d31bd971ed4288f10499d6,60,D,be ready,Middle,Replacement
-773048bc5ea832a6a6fb93f6da578bc6,60,D,advertise,Middle,Replacement
-bc3b5c51f98f643be9a99134572a2170,60,D,check,Middle,Replacement
-2817aa3ba5ce3496c4222adb7a6aa37c,61,A,prepare the final work on the book,Beginning,Original
-83d8403f227baca0464166c404dc0dc2,61,A,prepare,Beginning,Original
-14399e53229004f2c85ec3810d5cf776,61,A,prepare,Beginning,Original
-9a8edf1b84fcdd4e9692881d31a5a26e,61,B,make more sales,Middle,Original
-559a558cc071b904f807f21b428370da,61,B,write,Middle,Original
-6df37ff0405e34325f86235ab8e45b66,61,B,write,Middle,Original
-b8b10c5c32c46a8f278dc868ef65fd9d,61,C,rewrite,Beginning,Replacement
-38515a2d399231bb4340622c162d7b1a,61,C,restaurant,Beginning,Replacement
-bac07a9a07d31bd971ed4288f10499d6,61,C,get back to work,Beginning,Replacement
-773048bc5ea832a6a6fb93f6da578bc6,61,C,continue,Beginning,Replacement
-bc3b5c51f98f643be9a99134572a2170,61,C,be proofread,Beginning,Replacement
-2b7058890eefa22341aa295a036985a9,61,D,edit,Middle,Replacement
-58538dcb3f84e420200c601a4903dbef,61,D,be prepared,Middle,Replacement
-64e64662aa8b1a57c3e5254b48652bcc,61,D,be prepared ,Middle,Replacement
-8e6ad748c0685eaeffbadbae0050306d,61,D,hurry,Middle,Replacement
-46c4212ded545ed717b0ff376752ae11,61,D,prepare,Middle,Replacement
-9f8736428d68ef86c654e1f0f0b1058e,61,D,finish,Middle,Replacement
-9a8edf1b84fcdd4e9692881d31a5a26e,62,A,consider,Beginning,Original
-559a558cc071b904f807f21b428370da,62,A,write letters,Beginning,Original
-6df37ff0405e34325f86235ab8e45b66,62,A,treat,Beginning,Original
-b8b10c5c32c46a8f278dc868ef65fd9d,62,B,redo,Middle,Original
-38515a2d399231bb4340622c162d7b1a,62,B,sicker,Middle,Original
-bac07a9a07d31bd971ed4288f10499d6,62,B,prepare them,Middle,Original
-773048bc5ea832a6a6fb93f6da578bc6,62,B,run tests,Middle,Original
-bc3b5c51f98f643be9a99134572a2170,62,B,take medicine,Middle,Original
-2b7058890eefa22341aa295a036985a9,62,C,shock him,Beginning,Replacement
-58538dcb3f84e420200c601a4903dbef,62,C,hurry,Beginning,Replacement
-64e64662aa8b1a57c3e5254b48652bcc,62,C,hurry,Beginning,Replacement
-8e6ad748c0685eaeffbadbae0050306d,62,C,consult,Beginning,Replacement
-46c4212ded545ed717b0ff376752ae11,62,C,help,Beginning,Replacement
-9f8736428d68ef86c654e1f0f0b1058e,62,C,hurry,Beginning,Replacement
-2817aa3ba5ce3496c4222adb7a6aa37c,62,D,hurry,Middle,Replacement
-83d8403f227baca0464166c404dc0dc2,62,D,look through his medical book,Middle,Replacement
-14399e53229004f2c85ec3810d5cf776,62,D,bout the thing,Middle,Replacement
-b8b10c5c32c46a8f278dc868ef65fd9d,63,A,begin,Beginning,Original
-38515a2d399231bb4340622c162d7b1a,63,A,law,Beginning,Original
-bac07a9a07d31bd971ed4288f10499d6,63,A,go back,Beginning,Original
-773048bc5ea832a6a6fb93f6da578bc6,63,A,translate,Beginning,Original
-bc3b5c51f98f643be9a99134572a2170,63,A,listen,Beginning,Original
-2b7058890eefa22341aa295a036985a9,63,B,sign,Middle,Original
-58538dcb3f84e420200c601a4903dbef,63,B,come up with ideas,Middle,Original
-64e64662aa8b1a57c3e5254b48652bcc,63,B,be subservient,Middle,Original
-8e6ad748c0685eaeffbadbae0050306d,63,B,transcribe,Middle,Original
-46c4212ded545ed717b0ff376752ae11,63,B,listen,Middle,Original
-9f8736428d68ef86c654e1f0f0b1058e,63,B,listen,Middle,Original
-2817aa3ba5ce3496c4222adb7a6aa37c,63,C,translate,Beginning,Replacement
-83d8403f227baca0464166c404dc0dc2,63,C,get ready,Beginning,Replacement
-14399e53229004f2c85ec3810d5cf776,63,C,hurry,Beginning,Replacement
-9a8edf1b84fcdd4e9692881d31a5a26e,63,D,follow the rules,Middle,Replacement
-559a558cc071b904f807f21b428370da,63,D,rush back,Middle,Replacement
-6df37ff0405e34325f86235ab8e45b66,63,D,pass thd law,Middle,Replacement
-2b7058890eefa22341aa295a036985a9,64,A,water them,Beginning,Original
-58538dcb3f84e420200c601a4903dbef,64,A,get his work done,Beginning,Original
-64e64662aa8b1a57c3e5254b48652bcc,64,A,optimize,Beginning,Original
-8e6ad748c0685eaeffbadbae0050306d,64,A,plow,Beginning,Original
-46c4212ded545ed717b0ff376752ae11,64,A,proceed,Beginning,Original
-9f8736428d68ef86c654e1f0f0b1058e,64,A,get as much done as possible,Beginning,Original
-2817aa3ba5ce3496c4222adb7a6aa37c,64,B,clean ,Middle,Original
-83d8403f227baca0464166c404dc0dc2,64,B,take advantage,Middle,Original
-14399e53229004f2c85ec3810d5cf776,64,B,plant,Middle,Original
-9a8edf1b84fcdd4e9692881d31a5a26e,64,C,prepare,Beginning,Replacement
-559a558cc071b904f807f21b428370da,64,C,prepare,Beginning,Replacement
-6df37ff0405e34325f86235ab8e45b66,64,C,prepare,Beginning,Replacement
-b8b10c5c32c46a8f278dc868ef65fd9d,64,D,gauge,Middle,Replacement
-38515a2d399231bb4340622c162d7b1a,64,D,farmer,Middle,Replacement
-bac07a9a07d31bd971ed4288f10499d6,64,D,work,Middle,Replacement
-773048bc5ea832a6a6fb93f6da578bc6,64,D,be warm,Middle,Replacement
-bc3b5c51f98f643be9a99134572a2170,64,D,go out,Middle,Replacement
-2817aa3ba5ce3496c4222adb7a6aa37c,65,A,calm them down,Beginning,Original
-83d8403f227baca0464166c404dc0dc2,65,A,tell everyone to remain calm,Beginning,Original
-14399e53229004f2c85ec3810d5cf776,65,A,help,Beginning,Original
-9a8edf1b84fcdd4e9692881d31a5a26e,65,B,announce,Middle,Original
-559a558cc071b904f807f21b428370da,65,B,announce,Middle,Original
-6df37ff0405e34325f86235ab8e45b66,65,B,calm them down,Middle,Original
-b8b10c5c32c46a8f278dc868ef65fd9d,65,C,gain,Beginning,Replacement
-38515a2d399231bb4340622c162d7b1a,65,C,bathroom,Beginning,Replacement
-bac07a9a07d31bd971ed4288f10499d6,65,C,finish and go reassure the passengers to stay calm,Beginning,Replacement
-773048bc5ea832a6a6fb93f6da578bc6,65,C,hurry,Beginning,Replacement
-bc3b5c51f98f643be9a99134572a2170,65,C,finish,Beginning,Replacement
-2b7058890eefa22341aa295a036985a9,65,D,calm down,Middle,Replacement
-58538dcb3f84e420200c601a4903dbef,65,D,calm down,Middle,Replacement
-64e64662aa8b1a57c3e5254b48652bcc,65,D,finish up,Middle,Replacement
-8e6ad748c0685eaeffbadbae0050306d,65,D,calm them down,Middle,Replacement
-46c4212ded545ed717b0ff376752ae11,65,D,support them,Middle,Replacement
-9f8736428d68ef86c654e1f0f0b1058e,65,D,calm them down,Middle,Replacement
-9a8edf1b84fcdd4e9692881d31a5a26e,66,A,seat them,Beginning,Original
-559a558cc071b904f807f21b428370da,66,A,keep track,Beginning,Original
-6df37ff0405e34325f86235ab8e45b66,66,A,inform,Beginning,Original
-b8b10c5c32c46a8f278dc868ef65fd9d,66,B,wait,Middle,Original
-38515a2d399231bb4340622c162d7b1a,66,B,wait,Middle,Original
-bac07a9a07d31bd971ed4288f10499d6,66,B,do their best to assure the waiting customers that the wait won't be long,Middle,Original
-773048bc5ea832a6a6fb93f6da578bc6,66,B,make reservations,Middle,Original
-bc3b5c51f98f643be9a99134572a2170,66,B,relax,Middle,Original
-2b7058890eefa22341aa295a036985a9,66,C,attend,Beginning,Replacement
-58538dcb3f84e420200c601a4903dbef,66,C,greet,Beginning,Replacement
-64e64662aa8b1a57c3e5254b48652bcc,66,C,attend,Beginning,Replacement
-8e6ad748c0685eaeffbadbae0050306d,66,C,stall,Beginning,Replacement
-46c4212ded545ed717b0ff376752ae11,66,C,offer,Beginning,Replacement
-9f8736428d68ef86c654e1f0f0b1058e,66,C,seat them,Beginning,Replacement
-2817aa3ba5ce3496c4222adb7a6aa37c,66,D,check,Middle,Replacement
-83d8403f227baca0464166c404dc0dc2,66,D,be polite,Middle,Replacement
-14399e53229004f2c85ec3810d5cf776,66,D,wait,Middle,Replacement
-b8b10c5c32c46a8f278dc868ef65fd9d,67,A,pose,Beginning,Original
-38515a2d399231bb4340622c162d7b1a,67,A,show,Beginning,Original
-bac07a9a07d31bd971ed4288f10499d6,67,A,be careful,Beginning,Original
-773048bc5ea832a6a6fb93f6da578bc6,67,A,stage,Beginning,Original
-bc3b5c51f98f643be9a99134572a2170,67,A,walk,Beginning,Original
-2b7058890eefa22341aa295a036985a9,67,B,settle down,Middle,Original
-58538dcb3f84e420200c601a4903dbef,67,B,prepare,Middle,Original
-64e64662aa8b1a57c3e5254b48652bcc,67,B,watch,Middle,Original
-8e6ad748c0685eaeffbadbae0050306d,67,B,proceed,Middle,Original
-46c4212ded545ed717b0ff376752ae11,67,B,proceed,Middle,Original
-9f8736428d68ef86c654e1f0f0b1058e,67,B,cheer,Middle,Original
-2817aa3ba5ce3496c4222adb7a6aa37c,67,C,rush,Beginning,Replacement
-83d8403f227baca0464166c404dc0dc2,67,C,put on makeup,Beginning,Replacement
-14399e53229004f2c85ec3810d5cf776,67,C,rush,Beginning,Replacement
-9a8edf1b84fcdd4e9692881d31a5a26e,67,D,wait,Middle,Replacement
-559a558cc071b904f807f21b428370da,67,D,rush,Middle,Replacement
-6df37ff0405e34325f86235ab8e45b66,67,D,walk,Middle,Replacement
-2b7058890eefa22341aa295a036985a9,68,A,report,Beginning,Original
-58538dcb3f84e420200c601a4903dbef,68,A,write ,Beginning,Original
-64e64662aa8b1a57c3e5254b48652bcc,68,A,do research,Beginning,Original
-8e6ad748c0685eaeffbadbae0050306d,68,A,publish,Beginning,Original
-46c4212ded545ed717b0ff376752ae11,68,A,interview,Beginning,Original
-9f8736428d68ef86c654e1f0f0b1058e,68,A,write ,Beginning,Original
-2817aa3ba5ce3496c4222adb7a6aa37c,68,B,record,Middle,Original
-83d8403f227baca0464166c404dc0dc2,68,B,ask,Middle,Original
-14399e53229004f2c85ec3810d5cf776,68,B,send it,Middle,Original
-9a8edf1b84fcdd4e9692881d31a5a26e,68,C,talk,Beginning,Replacement
-559a558cc071b904f807f21b428370da,68,C,resist the urge to panic and fear for how the election will go,Beginning,Replacement
-6df37ff0405e34325f86235ab8e45b66,68,C,interview,Beginning,Replacement
-b8b10c5c32c46a8f278dc868ef65fd9d,68,D,hurry,Middle,Replacement
-38515a2d399231bb4340622c162d7b1a,68,D,politicians,Middle,Replacement
-bac07a9a07d31bd971ed4288f10499d6,68,D,see what comments people have ,Middle,Replacement
-773048bc5ea832a6a6fb93f6da578bc6,68,D,campaign ,Middle,Replacement
-bc3b5c51f98f643be9a99134572a2170,68,D,write ,Middle,Replacement
-2817aa3ba5ce3496c4222adb7a6aa37c,69,A,prepare,Beginning,Original
-83d8403f227baca0464166c404dc0dc2,69,A,clean,Beginning,Original
-14399e53229004f2c85ec3810d5cf776,69,A,prepare,Beginning,Original
-9a8edf1b84fcdd4e9692881d31a5a26e,69,B,manage,Middle,Original
-559a558cc071b904f807f21b428370da,69,B,double-check,Middle,Original
-6df37ff0405e34325f86235ab8e45b66,69,B,hurry,Middle,Original
-b8b10c5c32c46a8f278dc868ef65fd9d,69,C,work,Beginning,Replacement
-38515a2d399231bb4340622c162d7b1a,69,C,boat,Beginning,Replacement
-bac07a9a07d31bd971ed4288f10499d6,69,C,get to the event,Beginning,Replacement
-773048bc5ea832a6a6fb93f6da578bc6,69,C,take off,Beginning,Replacement
-bc3b5c51f98f643be9a99134572a2170,69,C,take off,Beginning,Replacement
-2b7058890eefa22341aa295a036985a9,69,D,complete,Middle,Replacement
-58538dcb3f84e420200c601a4903dbef,69,D,prepare,Middle,Replacement
-64e64662aa8b1a57c3e5254b48652bcc,69,D,be careful,Middle,Replacement
-8e6ad748c0685eaeffbadbae0050306d,69,D,prepare,Middle,Replacement
-46c4212ded545ed717b0ff376752ae11,69,D,proceed,Middle,Replacement
-9f8736428d68ef86c654e1f0f0b1058e,69,D,plan,Middle,Replacement
-9a8edf1b84fcdd4e9692881d31a5a26e,70,A,be european,Beginning,Original
-559a558cc071b904f807f21b428370da,70,A,be ready,Beginning,Original
-6df37ff0405e34325f86235ab8e45b66,70,A,translate,Beginning,Original
-b8b10c5c32c46a8f278dc868ef65fd9d,70,B,inform,Middle,Original
-38515a2d399231bb4340622c162d7b1a,70,B,talk,Middle,Original
-bac07a9a07d31bd971ed4288f10499d6,70,B,translate,Middle,Original
-773048bc5ea832a6a6fb93f6da578bc6,70,B,interpret,Middle,Original
-bc3b5c51f98f643be9a99134572a2170,70,B,speak european,Middle,Original
-2b7058890eefa22341aa295a036985a9,70,C,interpret,Beginning,Replacement
-58538dcb3f84e420200c601a4903dbef,70,C,translate,Beginning,Replacement
-64e64662aa8b1a57c3e5254b48652bcc,70,C,leave,Beginning,Replacement
-8e6ad748c0685eaeffbadbae0050306d,70,C,translate,Beginning,Replacement
-46c4212ded545ed717b0ff376752ae11,70,C,translate,Beginning,Replacement
-9f8736428d68ef86c654e1f0f0b1058e,70,C,translate,Beginning,Replacement
-2817aa3ba5ce3496c4222adb7a6aa37c,70,D,get ready,Middle,Replacement
-83d8403f227baca0464166c404dc0dc2,70,D,stay focused,Middle,Replacement
-14399e53229004f2c85ec3810d5cf776,70,D,bout the program about to be held,Middle,Replacement
-b8b10c5c32c46a8f278dc868ef65fd9d,71,A,placemat,Beginning,Original
-38515a2d399231bb4340622c162d7b1a,71,A,electrician,Beginning,Original
-bac07a9a07d31bd971ed4288f10499d6,71,A,let the workers know what needs to be done first,Beginning,Original
-773048bc5ea832a6a6fb93f6da578bc6,71,A,connect,Beginning,Original
-bc3b5c51f98f643be9a99134572a2170,71,A,use,Beginning,Original
-2b7058890eefa22341aa295a036985a9,71,B,read,Middle,Original
-58538dcb3f84e420200c601a4903dbef,71,B,clean,Middle,Original
-64e64662aa8b1a57c3e5254b48652bcc,71,B,start,Middle,Original
-8e6ad748c0685eaeffbadbae0050306d,71,B,oversee,Middle,Original
-46c4212ded545ed717b0ff376752ae11,71,B,implement them,Middle,Original
-9f8736428d68ef86c654e1f0f0b1058e,71,B,prepare,Middle,Original
-2817aa3ba5ce3496c4222adb7a6aa37c,71,C,look for,Beginning,Replacement
-83d8403f227baca0464166c404dc0dc2,71,C,get them,Beginning,Replacement
-14399e53229004f2c85ec3810d5cf776,71,C,go,Beginning,Replacement
-9a8edf1b84fcdd4e9692881d31a5a26e,71,D,finish,Middle,Replacement
-559a558cc071b904f807f21b428370da,71,D,prepare,Middle,Replacement
-6df37ff0405e34325f86235ab8e45b66,71,D,get them,Middle,Replacement
-2b7058890eefa22341aa295a036985a9,72,A,respond,Beginning,Original
-58538dcb3f84e420200c601a4903dbef,72,A,ask questions,Beginning,Original
-64e64662aa8b1a57c3e5254b48652bcc,72,A,calm her down,Beginning,Original
-8e6ad748c0685eaeffbadbae0050306d,72,A,withhold,Beginning,Original
-46c4212ded545ed717b0ff376752ae11,72,A,ask questions,Beginning,Original
-9f8736428d68ef86c654e1f0f0b1058e,72,A,explain,Beginning,Original
-2817aa3ba5ce3496c4222adb7a6aa37c,72,B,examine it,Middle,Original
-83d8403f227baca0464166c404dc0dc2,72,B,gather ,Middle,Original
-14399e53229004f2c85ec3810d5cf776,72,B,interview,Middle,Original
-9a8edf1b84fcdd4e9692881d31a5a26e,72,C,talk,Beginning,Replacement
-559a558cc071b904f807f21b428370da,72,C,resist the urge to tell her sensitive information about the case in an inappropriate location for that conversation,Beginning,Replacement
-6df37ff0405e34325f86235ab8e45b66,72,C,interview,Beginning,Replacement
-b8b10c5c32c46a8f278dc868ef65fd9d,72,D,wash,Middle,Replacement
-38515a2d399231bb4340622c162d7b1a,72,D,wife,Middle,Replacement
-bac07a9a07d31bd971ed4288f10499d6,72,D,tell,Middle,Replacement
-773048bc5ea832a6a6fb93f6da578bc6,72,D,report,Middle,Replacement
-bc3b5c51f98f643be9a99134572a2170,72,D,ask questions,Middle,Replacement
-2817aa3ba5ce3496c4222adb7a6aa37c,73,A,look at possible investments. ,Beginning,Original
-83d8403f227baca0464166c404dc0dc2,73,A,invest,Beginning,Original
-14399e53229004f2c85ec3810d5cf776,73,A,do well,Beginning,Original
-9a8edf1b84fcdd4e9692881d31a5a26e,73,B,consider,Middle,Original
-559a558cc071b904f807f21b428370da,73,B,evaluate,Middle,Original
-6df37ff0405e34325f86235ab8e45b66,73,B,invest,Middle,Original
-b8b10c5c32c46a8f278dc868ef65fd9d,73,C,explain,Beginning,Replacement
-38515a2d399231bb4340622c162d7b1a,73,C,room,Beginning,Replacement
-bac07a9a07d31bd971ed4288f10499d6,73,C,stay alert,Beginning,Replacement
-773048bc5ea832a6a6fb93f6da578bc6,73,C,take advantage,Beginning,Replacement
-bc3b5c51f98f643be9a99134572a2170,73,C,take risks,Beginning,Replacement
-2b7058890eefa22341aa295a036985a9,73,D,take risks,Middle,Replacement
-58538dcb3f84e420200c601a4903dbef,73,D,think about it before he does it,Middle,Replacement
-64e64662aa8b1a57c3e5254b48652bcc,73,D,take risks,Middle,Replacement
-8e6ad748c0685eaeffbadbae0050306d,73,D,invest,Middle,Replacement
-46c4212ded545ed717b0ff376752ae11,73,D,evaluate,Middle,Replacement
-9f8736428d68ef86c654e1f0f0b1058e,73,D,advise,Middle,Replacement
-9a8edf1b84fcdd4e9692881d31a5a26e,74,A,prepare,Beginning,Original
-559a558cc071b904f807f21b428370da,74,A,take a moment,Beginning,Original
-6df37ff0405e34325f86235ab8e45b66,74,A,work,Beginning,Original
-b8b10c5c32c46a8f278dc868ef65fd9d,74,B,fish,Middle,Original
-38515a2d399231bb4340622c162d7b1a,74,B,must,Middle,Original
-bac07a9a07d31bd971ed4288f10499d6,74,B,prepare,Middle,Original
-773048bc5ea832a6a6fb93f6da578bc6,74,B,prepare,Middle,Original
-bc3b5c51f98f643be9a99134572a2170,74,B,prepare,Middle,Original
-2b7058890eefa22341aa295a036985a9,74,C,complete,Beginning,Replacement
-58538dcb3f84e420200c601a4903dbef,74,C,get up and prepare,Beginning,Replacement
-64e64662aa8b1a57c3e5254b48652bcc,74,C,get new art,Beginning,Replacement
-8e6ad748c0685eaeffbadbae0050306d,74,C,imagine,Beginning,Replacement
-46c4212ded545ed717b0ff376752ae11,74,C,prepare,Beginning,Replacement
-9f8736428d68ef86c654e1f0f0b1058e,74,C,paint,Beginning,Replacement
-2817aa3ba5ce3496c4222adb7a6aa37c,74,D,prepare,Middle,Replacement
-83d8403f227baca0464166c404dc0dc2,74,D,plan,Middle,Replacement
-14399e53229004f2c85ec3810d5cf776,74,D,be successful,Middle,Replacement
-b8b10c5c32c46a8f278dc868ef65fd9d,75,A,investigate,Beginning,Original
-38515a2d399231bb4340622c162d7b1a,75,A,telescope,Beginning,Original
-bac07a9a07d31bd971ed4288f10499d6,75,A,see,Beginning,Original
-773048bc5ea832a6a6fb93f6da578bc6,75,A,see,Beginning,Original
-bc3b5c51f98f643be9a99134572a2170,75,A,check,Beginning,Original
-2b7058890eefa22341aa295a036985a9,75,B,evaluate,Middle,Original
-58538dcb3f84e420200c601a4903dbef,75,B,look,Middle,Original
-64e64662aa8b1a57c3e5254b48652bcc,75,B,organize,Middle,Original
-8e6ad748c0685eaeffbadbae0050306d,75,B,observe,Middle,Original
-46c4212ded545ed717b0ff376752ae11,75,B,record,Middle,Original
-9f8736428d68ef86c654e1f0f0b1058e,75,B,work,Middle,Original
-2817aa3ba5ce3496c4222adb7a6aa37c,75,C,look,Beginning,Replacement
-83d8403f227baca0464166c404dc0dc2,75,C,relax,Beginning,Replacement
-14399e53229004f2c85ec3810d5cf776,75,C,relax,Beginning,Replacement
-9a8edf1b84fcdd4e9692881d31a5a26e,75,D,balance,Middle,Replacement
-559a558cc071b904f807f21b428370da,75,D,"know that they cannot peer into the sky much at this time, to avoid staring into the sun and damaging their eyes",Middle,Replacement
-6df37ff0405e34325f86235ab8e45b66,75,D,head to work,Middle,Replacement
-2b7058890eefa22341aa295a036985a9,76,A,provide intel,Beginning,Original
-58538dcb3f84e420200c601a4903dbef,76,A,brainstorm,Beginning,Original
-64e64662aa8b1a57c3e5254b48652bcc,76,A,provide guidance,Beginning,Original
-8e6ad748c0685eaeffbadbae0050306d,76,A,analyze,Beginning,Original
-46c4212ded545ed717b0ff376752ae11,76,A,brainstorm,Beginning,Original
-9f8736428d68ef86c654e1f0f0b1058e,76,A,assist,Beginning,Original
-2817aa3ba5ce3496c4222adb7a6aa37c,76,B,prepare,Middle,Original
-83d8403f227baca0464166c404dc0dc2,76,B,prepare ,Middle,Original
-14399e53229004f2c85ec3810d5cf776,76,B,efficient,Middle,Original
-9a8edf1b84fcdd4e9692881d31a5a26e,76,C,prepare ,Beginning,Replacement
-559a558cc071b904f807f21b428370da,76,C,research,Beginning,Replacement
-6df37ff0405e34325f86235ab8e45b66,76,C,assist,Beginning,Replacement
-b8b10c5c32c46a8f278dc868ef65fd9d,76,D,provide guidance,Middle,Replacement
-38515a2d399231bb4340622c162d7b1a,76,D,company,Middle,Replacement
-bac07a9a07d31bd971ed4288f10499d6,76,D,make a plan,Middle,Replacement
-773048bc5ea832a6a6fb93f6da578bc6,76,D,make enquires,Middle,Replacement
-bc3b5c51f98f643be9a99134572a2170,76,D,ask,Middle,Replacement
-2817aa3ba5ce3496c4222adb7a6aa37c,77,A,prepare,Beginning,Original
-83d8403f227baca0464166c404dc0dc2,77,A,cast his lines,Beginning,Original
-14399e53229004f2c85ec3810d5cf776,77,A,prepare,Beginning,Original
-9a8edf1b84fcdd4e9692881d31a5a26e,77,B,consider,Middle,Original
-559a558cc071b904f807f21b428370da,77,B,stay out,Middle,Original
-6df37ff0405e34325f86235ab8e45b66,77,B,sail,Middle,Original
-b8b10c5c32c46a8f278dc868ef65fd9d,77,C,prepare,Beginning,Replacement
-38515a2d399231bb4340622c162d7b1a,77,C,fisherman,Beginning,Replacement
-bac07a9a07d31bd971ed4288f10499d6,77,C,catch fish,Beginning,Replacement
-773048bc5ea832a6a6fb93f6da578bc6,77,C,be careful ,Beginning,Replacement
-bc3b5c51f98f643be9a99134572a2170,77,C,fish,Beginning,Replacement
-2b7058890eefa22341aa295a036985a9,77,D,fish,Middle,Replacement
-58538dcb3f84e420200c601a4903dbef,77,D,cast ,Middle,Replacement
-64e64662aa8b1a57c3e5254b48652bcc,77,D,fish,Middle,Replacement
-8e6ad748c0685eaeffbadbae0050306d,77,D,continue,Middle,Replacement
-46c4212ded545ed717b0ff376752ae11,77,D,prepare,Middle,Replacement
-9f8736428d68ef86c654e1f0f0b1058e,77,D,cast,Middle,Replacement
-9a8edf1b84fcdd4e9692881d31a5a26e,78,A,cut it,Beginning,Original
-559a558cc071b904f807f21b428370da,78,A,cut it,Beginning,Original
-6df37ff0405e34325f86235ab8e45b66,78,A,cut it,Beginning,Original
-b8b10c5c32c46a8f278dc868ef65fd9d,78,B,cut it,Middle,Original
-38515a2d399231bb4340622c162d7b1a,78,B,long,Middle,Original
-bac07a9a07d31bd971ed4288f10499d6,78,B,cut it,Middle,Original
-773048bc5ea832a6a6fb93f6da578bc6,78,B,cut it,Middle,Original
-bc3b5c51f98f643be9a99134572a2170,78,B,cut it,Middle,Original
-2b7058890eefa22341aa295a036985a9,78,C,cut it,Beginning,Replacement
-58538dcb3f84e420200c601a4903dbef,78,C,cut it,Beginning,Replacement
-64e64662aa8b1a57c3e5254b48652bcc,78,C,cut it,Beginning,Replacement
-8e6ad748c0685eaeffbadbae0050306d,78,C,shear,Beginning,Replacement
-46c4212ded545ed717b0ff376752ae11,78,C,ask,Beginning,Replacement
-9f8736428d68ef86c654e1f0f0b1058e,78,C,cut it,Beginning,Replacement
-2817aa3ba5ce3496c4222adb7a6aa37c,78,D,think,Middle,Replacement
-83d8403f227baca0464166c404dc0dc2,78,D,get ready,Middle,Replacement
-14399e53229004f2c85ec3810d5cf776,78,D,wait,Middle,Replacement
-b8b10c5c32c46a8f278dc868ef65fd9d,79,A,distribute,Beginning,Original
-38515a2d399231bb4340622c162d7b1a,79,A,lab,Beginning,Original
-bac07a9a07d31bd971ed4288f10499d6,79,A,prepare them,Beginning,Original
-773048bc5ea832a6a6fb93f6da578bc6,79,A,give them out,Beginning,Original
-bc3b5c51f98f643be9a99134572a2170,79,A,write it out,Beginning,Original
-2b7058890eefa22341aa295a036985a9,79,B,compy,Middle,Original
-58538dcb3f84e420200c601a4903dbef,79,B,wait,Middle,Original
-64e64662aa8b1a57c3e5254b48652bcc,79,B,be careful,Middle,Original
-8e6ad748c0685eaeffbadbae0050306d,79,B,deliver,Middle,Original
-46c4212ded545ed717b0ff376752ae11,79,B,support ,Middle,Original
-9f8736428d68ef86c654e1f0f0b1058e,79,B,instruct,Middle,Original
-2817aa3ba5ce3496c4222adb7a6aa37c,79,C,finish,Beginning,Replacement
-83d8403f227baca0464166c404dc0dc2,79,C,fill,Beginning,Replacement
-14399e53229004f2c85ec3810d5cf776,79,C,check,Beginning,Replacement
-9a8edf1b84fcdd4e9692881d31a5a26e,79,D,follow,Middle,Replacement
-559a558cc071b904f807f21b428370da,79,D,hurry,Middle,Replacement
-6df37ff0405e34325f86235ab8e45b66,79,D,dispense,Middle,Replacement
-2b7058890eefa22341aa295a036985a9,80,A,revitalize him,Beginning,Original
-58538dcb3f84e420200c601a4903dbef,80,A,do what they can,Beginning,Original
-64e64662aa8b1a57c3e5254b48652bcc,80,A,treat them,Beginning,Original
-8e6ad748c0685eaeffbadbae0050306d,80,A,triage,Beginning,Original
-46c4212ded545ed717b0ff376752ae11,80,A,treat them,Beginning,Original
-9f8736428d68ef86c654e1f0f0b1058e,80,A,transport them,Beginning,Original
-2817aa3ba5ce3496c4222adb7a6aa37c,80,B,help,Middle,Original
-83d8403f227baca0464166c404dc0dc2,80,B,act,Middle,Original
-14399e53229004f2c85ec3810d5cf776,80,B,in a dangerous situation,Middle,Original
-9a8edf1b84fcdd4e9692881d31a5a26e,80,C,transport them,Beginning,Replacement
-559a558cc071b904f807f21b428370da,80,C,hurry,Beginning,Replacement
-6df37ff0405e34325f86235ab8e45b66,80,C,save them,Beginning,Replacement
-b8b10c5c32c46a8f278dc868ef65fd9d,80,D,save then,Middle,Replacement
-38515a2d399231bb4340622c162d7b1a,80,D,accident,Middle,Replacement
-bac07a9a07d31bd971ed4288f10499d6,80,D,damage,Middle,Replacement
-773048bc5ea832a6a6fb93f6da578bc6,80,D,be rushed,Middle,Replacement
-bc3b5c51f98f643be9a99134572a2170,80,D,treat them,Middle,Replacement
+Participant,Item,Condition,Response,Target,ClausePlacement,Location
+2817aa3ba5ce3496c4222adb7a6aa37c,1,A,think,stop,Beginning,Original
+83d8403f227baca0464166c404dc0dc2,1,A,pause,stop,Beginning,Original
+14399e53229004f2c85ec3810d5cf776,1,A,replace,stop,Beginning,Original
+9a8edf1b84fcdd4e9692881d31a5a26e,1,B,do more science,stop,Middle,Original
+559a558cc071b904f807f21b428370da,1,B,pause,stop,Middle,Original
+6df37ff0405e34325f86235ab8e45b66,1,B,fix,stop,Middle,Original
+b8b10c5c32c46a8f278dc868ef65fd9d,1,C,commence,park,Beginning,Replacement
+38515a2d399231bb4340622c162d7b1a,1,C,decided,park,Beginning,Replacement
+bac07a9a07d31bd971ed4288f10499d6,1,C,come back,park,Beginning,Replacement
+773048bc5ea832a6a6fb93f6da578bc6,1,C,leave,park,Beginning,Replacement
+bc3b5c51f98f643be9a99134572a2170,1,C,leave,park,Beginning,Replacement
+2b7058890eefa22341aa295a036985a9,1,D,recuperate,park,Middle,Replacement
+58538dcb3f84e420200c601a4903dbef,1,D,fix,park,Middle,Replacement
+64e64662aa8b1a57c3e5254b48652bcc,1,D,pause,park,Middle,Replacement
+8e6ad748c0685eaeffbadbae0050306d,1,D,pass,park,Middle,Replacement
+46c4212ded545ed717b0ff376752ae11,1,D,proceed,park,Middle,Replacement
+9f8736428d68ef86c654e1f0f0b1058e,1,D,go home,park,Middle,Replacement
+9a8edf1b84fcdd4e9692881d31a5a26e,2,A,return them,sort,Beginning,Original
+559a558cc071b904f807f21b428370da,2,A,sort them,sort,Beginning,Original
+6df37ff0405e34325f86235ab8e45b66,2,A,sort them,sort,Beginning,Original
+b8b10c5c32c46a8f278dc868ef65fd9d,2,B,stock them,sort,Middle,Original
+38515a2d399231bb4340622c162d7b1a,2,B,leave,sort,Middle,Original
+bac07a9a07d31bd971ed4288f10499d6,2,B,sort them,sort,Middle,Original
+773048bc5ea832a6a6fb93f6da578bc6,2,B,close it,sort,Middle,Original
+bc3b5c51f98f643be9a99134572a2170,2,B,move it,sort,Middle,Original
+2b7058890eefa22341aa295a036985a9,2,C,poor english,drink,Beginning,Replacement
+58538dcb3f84e420200c601a4903dbef,2,C,leave,drink,Beginning,Replacement
+64e64662aa8b1a57c3e5254b48652bcc,2,C,get them,drink,Beginning,Replacement
+8e6ad748c0685eaeffbadbae0050306d,2,C,pay,drink,Beginning,Replacement
+46c4212ded545ed717b0ff376752ae11,2,C,leave,drink,Beginning,Replacement
+9f8736428d68ef86c654e1f0f0b1058e,2,C,stock them,drink,Beginning,Replacement
+2817aa3ba5ce3496c4222adb7a6aa37c,2,D,leave,drink,Middle,Replacement
+83d8403f227baca0464166c404dc0dc2,2,D,order,drink,Middle,Replacement
+14399e53229004f2c85ec3810d5cf776,2,D,check the rest,drink,Middle,Replacement
+b8b10c5c32c46a8f278dc868ef65fd9d,3,A,return,board,Beginning,Original
+38515a2d399231bb4340622c162d7b1a,3,A,gate,board,Beginning,Original
+bac07a9a07d31bd971ed4288f10499d6,3,A,get ready,board,Beginning,Original
+773048bc5ea832a6a6fb93f6da578bc6,3,A,leave,board,Beginning,Original
+bc3b5c51f98f643be9a99134572a2170,3,A,open,board,Beginning,Original
+2b7058890eefa22341aa295a036985a9,3,B,board,board,Middle,Original
+58538dcb3f84e420200c601a4903dbef,3,B,rush,board,Middle,Original
+64e64662aa8b1a57c3e5254b48652bcc,3,B,line up,board,Middle,Original
+8e6ad748c0685eaeffbadbae0050306d,3,B,board,board,Middle,Original
+46c4212ded545ed717b0ff376752ae11,3,B,proceed to depart,board,Middle,Original
+9f8736428d68ef86c654e1f0f0b1058e,3,B,line up,board,Middle,Original
+2817aa3ba5ce3496c4222adb7a6aa37c,3,C,swim,swim,Beginning,Replacement
+83d8403f227baca0464166c404dc0dc2,3,C,jump,swim,Beginning,Replacement
+14399e53229004f2c85ec3810d5cf776,3,C,exciting,swim,Beginning,Replacement
+9a8edf1b84fcdd4e9692881d31a5a26e,3,D,talk,swim,Middle,Replacement
+559a558cc071b904f807f21b428370da,3,D,be ready to go out on the water,swim,Middle,Replacement
+6df37ff0405e34325f86235ab8e45b66,3,D,line up,swim,Middle,Replacement
+2b7058890eefa22341aa295a036985a9,4,A,rap,sing,Beginning,Original
+58538dcb3f84e420200c601a4903dbef,4,A,rap,sing,Beginning,Original
+64e64662aa8b1a57c3e5254b48652bcc,4,A,rap,sing,Beginning,Original
+8e6ad748c0685eaeffbadbae0050306d,4,A,rhyme,sing,Beginning,Original
+46c4212ded545ed717b0ff376752ae11,4,A,perform,sing,Beginning,Original
+9f8736428d68ef86c654e1f0f0b1058e,4,A,rap,sing,Beginning,Original
+2817aa3ba5ce3496c4222adb7a6aa37c,4,B,rap,sing,Middle,Original
+83d8403f227baca0464166c404dc0dc2,4,B,rap,sing,Middle,Original
+14399e53229004f2c85ec3810d5cf776,4,B,prepare,sing,Middle,Original
+9a8edf1b84fcdd4e9692881d31a5a26e,4,C,prepare,record,Beginning,Replacement
+559a558cc071b904f807f21b428370da,4,C,rap,record,Beginning,Replacement
+6df37ff0405e34325f86235ab8e45b66,4,C,sing,record,Beginning,Replacement
+b8b10c5c32c46a8f278dc868ef65fd9d,4,D,rap,record,Middle,Replacement
+38515a2d399231bb4340622c162d7b1a,4,D,rap,record,Middle,Replacement
+bac07a9a07d31bd971ed4288f10499d6,4,D,spit rhymes ,record,Middle,Replacement
+773048bc5ea832a6a6fb93f6da578bc6,4,D,rap,record,Middle,Replacement
+bc3b5c51f98f643be9a99134572a2170,4,D,rap,record,Middle,Replacement
+2817aa3ba5ce3496c4222adb7a6aa37c,5,A,drink water,hydrate,Beginning,Original
+83d8403f227baca0464166c404dc0dc2,5,A,drink water,hydrate,Beginning,Original
+14399e53229004f2c85ec3810d5cf776,5,A,drink water,hydrate,Beginning,Original
+9a8edf1b84fcdd4e9692881d31a5a26e,5,B,drink water,hydrate,Middle,Original
+559a558cc071b904f807f21b428370da,5,B,drink water,hydrate,Middle,Original
+6df37ff0405e34325f86235ab8e45b66,5,B,drink water,hydrate,Middle,Original
+b8b10c5c32c46a8f278dc868ef65fd9d,5,C,engage,get off,Beginning,Replacement
+38515a2d399231bb4340622c162d7b1a,5,C,taxi,get off,Beginning,Replacement
+bac07a9a07d31bd971ed4288f10499d6,5,C,drink water,get off,Beginning,Replacement
+773048bc5ea832a6a6fb93f6da578bc6,5,C,drink water,get off,Beginning,Replacement
+bc3b5c51f98f643be9a99134572a2170,5,C,grab some water,get off,Beginning,Replacement
+2b7058890eefa22341aa295a036985a9,5,D,drive,get off,Middle,Replacement
+58538dcb3f84e420200c601a4903dbef,5,D,stop and drink,get off,Middle,Replacement
+64e64662aa8b1a57c3e5254b48652bcc,5,D,buy water,get off,Middle,Replacement
+8e6ad748c0685eaeffbadbae0050306d,5,D,drink water,get off,Middle,Replacement
+46c4212ded545ed717b0ff376752ae11,5,D,drink water,get off,Middle,Replacement
+9f8736428d68ef86c654e1f0f0b1058e,5,D,stop and drink,get off,Middle,Replacement
+9a8edf1b84fcdd4e9692881d31a5a26e,6,A,prepare,peel,Beginning,Original
+559a558cc071b904f807f21b428370da,6,A,peel,peel,Beginning,Original
+6df37ff0405e34325f86235ab8e45b66,6,A,peel,peel,Beginning,Original
+b8b10c5c32c46a8f278dc868ef65fd9d,6,B,extreme,peel,Middle,Original
+38515a2d399231bb4340622c162d7b1a,6,B,had,peel,Middle,Original
+bac07a9a07d31bd971ed4288f10499d6,6,B,peel,peel,Middle,Original
+773048bc5ea832a6a6fb93f6da578bc6,6,B,prepare,peel,Middle,Original
+bc3b5c51f98f643be9a99134572a2170,6,B,bring them in,peel,Middle,Original
+2b7058890eefa22341aa295a036985a9,6,C,stop,prune,Beginning,Replacement
+58538dcb3f84e420200c601a4903dbef,6,C,pull up more potatoes,prune,Beginning,Replacement
+64e64662aa8b1a57c3e5254b48652bcc,6,C,cook,prune,Beginning,Replacement
+8e6ad748c0685eaeffbadbae0050306d,6,C,return,prune,Beginning,Replacement
+46c4212ded545ed717b0ff376752ae11,6,C,cut,prune,Beginning,Replacement
+9f8736428d68ef86c654e1f0f0b1058e,6,C,pick fresh produce,prune,Beginning,Replacement
+2817aa3ba5ce3496c4222adb7a6aa37c,6,D,check the rest of the vegetables. ,prune,Middle,Replacement
+83d8403f227baca0464166c404dc0dc2,6,D,peel,prune,Middle,Replacement
+14399e53229004f2c85ec3810d5cf776,6,D,must go to the resturant,prune,Middle,Replacement
+b8b10c5c32c46a8f278dc868ef65fd9d,7,A,cool,cheer,Beginning,Original
+38515a2d399231bb4340622c162d7b1a,7,A,front,cheer,Beginning,Original
+bac07a9a07d31bd971ed4288f10499d6,7,A,scream,cheer,Beginning,Original
+773048bc5ea832a6a6fb93f6da578bc6,7,A,shine,cheer,Beginning,Original
+bc3b5c51f98f643be9a99134572a2170,7,A,sit down,cheer,Beginning,Original
+2b7058890eefa22341aa295a036985a9,7,B,scream,cheer,Middle,Original
+58538dcb3f84e420200c601a4903dbef,7,B,scream,cheer,Middle,Original
+64e64662aa8b1a57c3e5254b48652bcc,7,B,scream,cheer,Middle,Original
+8e6ad748c0685eaeffbadbae0050306d,7,B,scream,cheer,Middle,Original
+46c4212ded545ed717b0ff376752ae11,7,B,scream,cheer,Middle,Original
+9f8736428d68ef86c654e1f0f0b1058e,7,B,scream,cheer,Middle,Original
+2817aa3ba5ce3496c4222adb7a6aa37c,7,C,pushed around,sigh,Beginning,Replacement
+83d8403f227baca0464166c404dc0dc2,7,C,try to get there fast,sigh,Beginning,Replacement
+14399e53229004f2c85ec3810d5cf776,7,C,continue,sigh,Beginning,Replacement
+9a8edf1b84fcdd4e9692881d31a5a26e,7,D,the rock concert started to play,sigh,Middle,Replacement
+559a558cc071b904f807f21b428370da,7,D,be frustrated,sigh,Middle,Replacement
+6df37ff0405e34325f86235ab8e45b66,7,D,be frustrated,sigh,Middle,Replacement
+2b7058890eefa22341aa295a036985a9,8,A,sit down,board,Beginning,Original
+58538dcb3f84e420200c601a4903dbef,8,A,step backwards ,board,Beginning,Original
+64e64662aa8b1a57c3e5254b48652bcc,8,A,alight,board,Beginning,Original
+8e6ad748c0685eaeffbadbae0050306d,8,A,enter,board,Beginning,Original
+46c4212ded545ed717b0ff376752ae11,8,A,prepare,board,Beginning,Original
+9f8736428d68ef86c654e1f0f0b1058e,8,A,get ready,board,Beginning,Original
+2817aa3ba5ce3496c4222adb7a6aa37c,8,B,grab,board,Middle,Original
+83d8403f227baca0464166c404dc0dc2,8,B,get ready,board,Middle,Original
+14399e53229004f2c85ec3810d5cf776,8,B,get ready,board,Middle,Original
+9a8edf1b84fcdd4e9692881d31a5a26e,8,C,get ready,pay,Beginning,Replacement
+559a558cc071b904f807f21b428370da,8,C,run,pay,Beginning,Replacement
+6df37ff0405e34325f86235ab8e45b66,8,C,leave,pay,Beginning,Replacement
+b8b10c5c32c46a8f278dc868ef65fd9d,8,D,fire ,pay,Middle,Replacement
+38515a2d399231bb4340622c162d7b1a,8,D,train,pay,Middle,Replacement
+bac07a9a07d31bd971ed4288f10499d6,8,D,hurry,pay,Middle,Replacement
+773048bc5ea832a6a6fb93f6da578bc6,8,D,more,pay,Middle,Replacement
+bc3b5c51f98f643be9a99134572a2170,8,D,board,pay,Middle,Replacement
+2817aa3ba5ce3496c4222adb7a6aa37c,9,A,rush,enter,Beginning,Original
+83d8403f227baca0464166c404dc0dc2,9,A,use the bathroom,enter,Beginning,Original
+14399e53229004f2c85ec3810d5cf776,9,A,go on a break,enter,Beginning,Original
+9a8edf1b84fcdd4e9692881d31a5a26e,9,B,get ready,enter,Middle,Original
+559a558cc071b904f807f21b428370da,9,B,run,enter,Middle,Original
+6df37ff0405e34325f86235ab8e45b66,9,B,enter,enter,Middle,Original
+b8b10c5c32c46a8f278dc868ef65fd9d,9,C,sleep,come back,Beginning,Replacement
+38515a2d399231bb4340622c162d7b1a,9,C,had,come back,Beginning,Replacement
+bac07a9a07d31bd971ed4288f10499d6,9,C,come back,come back,Beginning,Replacement
+773048bc5ea832a6a6fb93f6da578bc6,9,C,leave,come back,Beginning,Replacement
+bc3b5c51f98f643be9a99134572a2170,9,C,go home,come back,Beginning,Replacement
+2b7058890eefa22341aa295a036985a9,9,D,come back,come back,Middle,Replacement
+58538dcb3f84e420200c601a4903dbef,9,D,come back,come back,Middle,Replacement
+64e64662aa8b1a57c3e5254b48652bcc,9,D,stop playing,come back,Middle,Replacement
+8e6ad748c0685eaeffbadbae0050306d,9,D,come back,come back,Middle,Replacement
+46c4212ded545ed717b0ff376752ae11,9,D,gather the students,come back,Middle,Replacement
+9f8736428d68ef86c654e1f0f0b1058e,9,D,get to class,come back,Middle,Replacement
+9a8edf1b84fcdd4e9692881d31a5a26e,10,A,prepare,speak,Beginning,Original
+559a558cc071b904f807f21b428370da,10,A,prepare,speak,Beginning,Original
+6df37ff0405e34325f86235ab8e45b66,10,A,speak,speak,Beginning,Original
+b8b10c5c32c46a8f278dc868ef65fd9d,10,B,present,speak,Middle,Original
+38515a2d399231bb4340622c162d7b1a,10,B,start,speak,Middle,Original
+bac07a9a07d31bd971ed4288f10499d6,10,B,prepare,speak,Middle,Original
+773048bc5ea832a6a6fb93f6da578bc6,10,B,sit,speak,Middle,Original
+bc3b5c51f98f643be9a99134572a2170,10,B,start,speak,Middle,Original
+2b7058890eefa22341aa295a036985a9,10,C,run,hurry,Beginning,Replacement
+58538dcb3f84e420200c601a4903dbef,10,C,hurry,hurry,Beginning,Replacement
+64e64662aa8b1a57c3e5254b48652bcc,10,C,keep quiet,hurry,Beginning,Replacement
+8e6ad748c0685eaeffbadbae0050306d,10,C,travel,hurry,Beginning,Replacement
+46c4212ded545ed717b0ff376752ae11,10,C,decide next steps,hurry,Beginning,Replacement
+9f8736428d68ef86c654e1f0f0b1058e,10,C,hurry,hurry,Beginning,Replacement
+2817aa3ba5ce3496c4222adb7a6aa37c,10,D,start,hurry,Middle,Replacement
+83d8403f227baca0464166c404dc0dc2,10,D,do his job,hurry,Middle,Replacement
+14399e53229004f2c85ec3810d5cf776,10,D,prepare,hurry,Middle,Replacement
+b8b10c5c32c46a8f278dc868ef65fd9d,11,A,engage,perform,Beginning,Original
+38515a2d399231bb4340622c162d7b1a,11,A,camera,perform,Beginning,Original
+bac07a9a07d31bd971ed4288f10499d6,11,A,perform,perform,Beginning,Original
+773048bc5ea832a6a6fb93f6da578bc6,11,A,set up,perform,Beginning,Original
+bc3b5c51f98f643be9a99134572a2170,11,A,act,perform,Beginning,Original
+2b7058890eefa22341aa295a036985a9,11,B,record,perform,Middle,Original
+58538dcb3f84e420200c601a4903dbef,11,B,take a picture,perform,Middle,Original
+64e64662aa8b1a57c3e5254b48652bcc,11,B,talk,perform,Middle,Original
+8e6ad748c0685eaeffbadbae0050306d,11,B,peform,perform,Middle,Original
+46c4212ded545ed717b0ff376752ae11,11,B,prepare,perform,Middle,Original
+9f8736428d68ef86c654e1f0f0b1058e,11,B,get into character,perform,Middle,Original
+2817aa3ba5ce3496c4222adb7a6aa37c,11,C,take a picture,be silent,Beginning,Replacement
+83d8403f227baca0464166c404dc0dc2,11,C,get ready to act,be silent,Beginning,Replacement
+14399e53229004f2c85ec3810d5cf776,11,C,start,be silent,Beginning,Replacement
+9a8edf1b84fcdd4e9692881d31a5a26e,11,D,set up,be silent,Middle,Replacement
+559a558cc071b904f807f21b428370da,11,D,wonder why he is behind the camera instead of in front of it,be silent,Middle,Replacement
+6df37ff0405e34325f86235ab8e45b66,11,D,act,be silent,Middle,Replacement
+2b7058890eefa22341aa295a036985a9,12,A,dribble,play,Beginning,Original
+58538dcb3f84e420200c601a4903dbef,12,A,shoot,play,Beginning,Original
+64e64662aa8b1a57c3e5254b48652bcc,12,A,play,play,Beginning,Original
+8e6ad748c0685eaeffbadbae0050306d,12,A,hustle,play,Beginning,Original
+46c4212ded545ed717b0ff376752ae11,12,A,play,play,Beginning,Original
+9f8736428d68ef86c654e1f0f0b1058e,12,A,serve,play,Beginning,Original
+2817aa3ba5ce3496c4222adb7a6aa37c,12,B,serve,play,Middle,Original
+83d8403f227baca0464166c404dc0dc2,12,B,get in the zone,play,Middle,Original
+14399e53229004f2c85ec3810d5cf776,12,B,start,play,Middle,Original
+9a8edf1b84fcdd4e9692881d31a5a26e,12,C,be ready,order,Beginning,Replacement
+559a558cc071b904f807f21b428370da,12,C,panic and hurry,order,Beginning,Replacement
+6df37ff0405e34325f86235ab8e45b66,12,C,run,order,Beginning,Replacement
+b8b10c5c32c46a8f278dc868ef65fd9d,12,D,pay attention,order,Middle,Replacement
+38515a2d399231bb4340622c162d7b1a,12,D,game,order,Middle,Replacement
+bac07a9a07d31bd971ed4288f10499d6,12,D,wait to eat,order,Middle,Replacement
+773048bc5ea832a6a6fb93f6da578bc6,12,D,play,order,Middle,Replacement
+bc3b5c51f98f643be9a99134572a2170,12,D,play,order,Middle,Replacement
+2817aa3ba5ce3496c4222adb7a6aa37c,13,A,wait,wait,Beginning,Original
+83d8403f227baca0464166c404dc0dc2,13,A,wait,wait,Beginning,Original
+14399e53229004f2c85ec3810d5cf776,13,A,take the order,wait,Beginning,Original
+9a8edf1b84fcdd4e9692881d31a5a26e,13,B,wait,wait,Middle,Original
+559a558cc071b904f807f21b428370da,13,B,wear jackets and sweaters over their uniforms to go outside,wait,Middle,Original
+6df37ff0405e34325f86235ab8e45b66,13,B,change,wait,Middle,Original
+b8b10c5c32c46a8f278dc868ef65fd9d,13,C,target,leave,Beginning,Replacement
+38515a2d399231bb4340622c162d7b1a,13,C,park,leave,Beginning,Replacement
+bac07a9a07d31bd971ed4288f10499d6,13,C,head inside,leave,Beginning,Replacement
+773048bc5ea832a6a6fb93f6da578bc6,13,C,leave,leave,Beginning,Replacement
+bc3b5c51f98f643be9a99134572a2170,13,C,leave,leave,Beginning,Replacement
+2b7058890eefa22341aa295a036985a9,13,D,suffer,leave,Middle,Replacement
+58538dcb3f84e420200c601a4903dbef,13,D,head inside,leave,Middle,Replacement
+64e64662aa8b1a57c3e5254b48652bcc,13,D,stop,leave,Middle,Replacement
+8e6ad748c0685eaeffbadbae0050306d,13,D,shelter,leave,Middle,Replacement
+46c4212ded545ed717b0ff376752ae11,13,D,shelter,leave,Middle,Replacement
+9f8736428d68ef86c654e1f0f0b1058e,13,D,shelter,leave,Middle,Replacement
+9a8edf1b84fcdd4e9692881d31a5a26e,14,A,prepare,stop,Beginning,Original
+559a558cc071b904f807f21b428370da,14,A,continue working,stop,Beginning,Original
+6df37ff0405e34325f86235ab8e45b66,14,A,go inside,stop,Beginning,Original
+b8b10c5c32c46a8f278dc868ef65fd9d,14,B,be mistaken,stop,Middle,Original
+38515a2d399231bb4340622c162d7b1a,14,B,rain,stop,Middle,Original
+bac07a9a07d31bd971ed4288f10499d6,14,B,get the supplies put up quickly,stop,Middle,Original
+773048bc5ea832a6a6fb93f6da578bc6,14,B,stop,stop,Middle,Original
+bc3b5c51f98f643be9a99134572a2170,14,B,shelter,stop,Middle,Original
+2b7058890eefa22341aa295a036985a9,14,C,plant,cook,Beginning,Replacement
+58538dcb3f84e420200c601a4903dbef,14,C,go inside,cook,Beginning,Replacement
+64e64662aa8b1a57c3e5254b48652bcc,14,C,get ready,cook,Beginning,Replacement
+8e6ad748c0685eaeffbadbae0050306d,14,C,rush,cook,Beginning,Replacement
+46c4212ded545ed717b0ff376752ae11,14,C,stay,cook,Beginning,Replacement
+9f8736428d68ef86c654e1f0f0b1058e,14,C,wait,cook,Beginning,Replacement
+2817aa3ba5ce3496c4222adb7a6aa37c,14,D,get ready,cook,Middle,Replacement
+83d8403f227baca0464166c404dc0dc2,14,D,put his tools away,cook,Middle,Replacement
+14399e53229004f2c85ec3810d5cf776,14,D,check the garden,cook,Middle,Replacement
+b8b10c5c32c46a8f278dc868ef65fd9d,15,A,regroup,move,Beginning,Original
+38515a2d399231bb4340622c162d7b1a,15,A,soldier,move,Beginning,Original
+bac07a9a07d31bd971ed4288f10499d6,15,A,get to work,move,Beginning,Original
+773048bc5ea832a6a6fb93f6da578bc6,15,A,leave,move,Beginning,Original
+bc3b5c51f98f643be9a99134572a2170,15,A,listen closely,move,Beginning,Original
+2b7058890eefa22341aa295a036985a9,15,B,comply,move,Middle,Original
+58538dcb3f84e420200c601a4903dbef,15,B,comply,move,Middle,Original
+64e64662aa8b1a57c3e5254b48652bcc,15,B,comply,move,Middle,Original
+8e6ad748c0685eaeffbadbae0050306d,15,B,comply,move,Middle,Original
+46c4212ded545ed717b0ff376752ae11,15,B,comply,move,Middle,Original
+9f8736428d68ef86c654e1f0f0b1058e,15,B,deploy,move,Middle,Original
+2817aa3ba5ce3496c4222adb7a6aa37c,15,C,return,get back,Beginning,Replacement
+83d8403f227baca0464166c404dc0dc2,15,C,prepare,get back,Beginning,Replacement
+14399e53229004f2c85ec3810d5cf776,15,C,hurry,get back,Beginning,Replacement
+9a8edf1b84fcdd4e9692881d31a5a26e,15,D,report to duty,get back,Middle,Replacement
+559a558cc071b904f807f21b428370da,15,D,prepare,get back,Middle,Replacement
+6df37ff0405e34325f86235ab8e45b66,15,D,pack,get back,Middle,Replacement
+2b7058890eefa22341aa295a036985a9,16,A,brake,stop,Beginning,Original
+58538dcb3f84e420200c601a4903dbef,16,A,look back,stop,Beginning,Original
+64e64662aa8b1a57c3e5254b48652bcc,16,A,brake,stop,Beginning,Original
+8e6ad748c0685eaeffbadbae0050306d,16,A,stop,stop,Beginning,Original
+46c4212ded545ed717b0ff376752ae11,16,A,stop,stop,Beginning,Original
+9f8736428d68ef86c654e1f0f0b1058e,16,A,stop,stop,Beginning,Original
+2817aa3ba5ce3496c4222adb7a6aa37c,16,B,pull over. ,stop,Middle,Original
+83d8403f227baca0464166c404dc0dc2,16,B,slow down,stop,Middle,Original
+14399e53229004f2c85ec3810d5cf776,16,B,stop,stop,Middle,Original
+9a8edf1b84fcdd4e9692881d31a5a26e,16,C,get back on,walk,Beginning,Replacement
+559a558cc071b904f807f21b428370da,16,C,stop,walk,Beginning,Replacement
+6df37ff0405e34325f86235ab8e45b66,16,C,slow down,walk,Beginning,Replacement
+b8b10c5c32c46a8f278dc868ef65fd9d,16,D,grab,walk,Middle,Replacement
+38515a2d399231bb4340622c162d7b1a,16,D,final,walk,Middle,Replacement
+bac07a9a07d31bd971ed4288f10499d6,16,D,get out of the way,walk,Middle,Replacement
+773048bc5ea832a6a6fb93f6da578bc6,16,D,move,walk,Middle,Replacement
+bc3b5c51f98f643be9a99134572a2170,16,D,get off,walk,Middle,Replacement
+2817aa3ba5ce3496c4222adb7a6aa37c,17,A,relax,sleep,Beginning,Original
+83d8403f227baca0464166c404dc0dc2,17,A,go to sleep,sleep,Beginning,Original
+14399e53229004f2c85ec3810d5cf776,17,A,check up,sleep,Beginning,Original
+9a8edf1b84fcdd4e9692881d31a5a26e,17,B,relax,sleep,Middle,Original
+559a558cc071b904f807f21b428370da,17,B,go to sleep,sleep,Middle,Original
+6df37ff0405e34325f86235ab8e45b66,17,B,hurry,sleep,Middle,Original
+b8b10c5c32c46a8f278dc868ef65fd9d,17,C,leave,leave,Beginning,Replacement
+38515a2d399231bb4340622c162d7b1a,17,C,park,leave,Beginning,Replacement
+bac07a9a07d31bd971ed4288f10499d6,17,C,head home,leave,Beginning,Replacement
+773048bc5ea832a6a6fb93f6da578bc6,17,C,close,leave,Beginning,Replacement
+bc3b5c51f98f643be9a99134572a2170,17,C,head home,leave,Beginning,Replacement
+2b7058890eefa22341aa295a036985a9,17,D,run,leave,Middle,Replacement
+58538dcb3f84e420200c601a4903dbef,17,D,think of ways,leave,Middle,Replacement
+64e64662aa8b1a57c3e5254b48652bcc,17,D,leave,leave,Middle,Replacement
+8e6ad748c0685eaeffbadbae0050306d,17,D,skip,leave,Middle,Replacement
+46c4212ded545ed717b0ff376752ae11,17,D,shorten time at park,leave,Middle,Replacement
+9f8736428d68ef86c654e1f0f0b1058e,17,D,go home,leave,Middle,Replacement
+9a8edf1b84fcdd4e9692881d31a5a26e,18,A,hydrate and relax,train,Beginning,Original
+559a558cc071b904f807f21b428370da,18,A,train,train,Beginning,Original
+6df37ff0405e34325f86235ab8e45b66,18,A,train,train,Beginning,Original
+b8b10c5c32c46a8f278dc868ef65fd9d,18,B,train,train,Middle,Original
+38515a2d399231bb4340622c162d7b1a,18,B,train,train,Middle,Original
+bac07a9a07d31bd971ed4288f10499d6,18,B,go,train,Middle,Original
+773048bc5ea832a6a6fb93f6da578bc6,18,B,begin,train,Middle,Original
+bc3b5c51f98f643be9a99134572a2170,18,B,start practicing,train,Middle,Original
+2b7058890eefa22341aa295a036985a9,18,C,prepare,eat,Beginning,Replacement
+58538dcb3f84e420200c601a4903dbef,18,C,stretch,eat,Beginning,Replacement
+64e64662aa8b1a57c3e5254b48652bcc,18,C,exit,eat,Beginning,Replacement
+8e6ad748c0685eaeffbadbae0050306d,18,C,eat,eat,Beginning,Replacement
+46c4212ded545ed717b0ff376752ae11,18,C,eat,eat,Beginning,Replacement
+9f8736428d68ef86c654e1f0f0b1058e,18,C,eat,eat,Beginning,Replacement
+2817aa3ba5ce3496c4222adb7a6aa37c,18,D,prepare a healthy meal,eat,Middle,Replacement
+83d8403f227baca0464166c404dc0dc2,18,D,eat,eat,Middle,Replacement
+14399e53229004f2c85ec3810d5cf776,18,D,win,eat,Middle,Replacement
+b8b10c5c32c46a8f278dc868ef65fd9d,19,A,perform,sing,Beginning,Original
+38515a2d399231bb4340622c162d7b1a,19,A,stage,sing,Beginning,Original
+bac07a9a07d31bd971ed4288f10499d6,19,A,project ,sing,Beginning,Original
+773048bc5ea832a6a6fb93f6da578bc6,19,A,act,sing,Beginning,Original
+bc3b5c51f98f643be9a99134572a2170,19,A,act,sing,Beginning,Original
+2b7058890eefa22341aa295a036985a9,19,B,perform,sing,Middle,Original
+58538dcb3f84e420200c601a4903dbef,19,B,get ready,sing,Middle,Original
+64e64662aa8b1a57c3e5254b48652bcc,19,B,sit down,sing,Middle,Original
+8e6ad748c0685eaeffbadbae0050306d,19,B,dance,sing,Middle,Original
+46c4212ded545ed717b0ff376752ae11,19,B,perform,sing,Middle,Original
+9f8736428d68ef86c654e1f0f0b1058e,19,B,get into character,sing,Middle,Original
+2817aa3ba5ce3496c4222adb7a6aa37c,19,C,walk back to his seat,shower,Beginning,Replacement
+83d8403f227baca0464166c404dc0dc2,19,C,get into character,shower,Beginning,Replacement
+14399e53229004f2c85ec3810d5cf776,19,C,hurry up,shower,Beginning,Replacement
+9a8edf1b84fcdd4e9692881d31a5a26e,19,D,go,shower,Middle,Replacement
+559a558cc071b904f807f21b428370da,19,D,calm down,shower,Middle,Replacement
+6df37ff0405e34325f86235ab8e45b66,19,D,get ready,shower,Middle,Replacement
+2b7058890eefa22341aa295a036985a9,20,A,cook,cook,Beginning,Original
+58538dcb3f84e420200c601a4903dbef,20,A,make it,cook,Beginning,Original
+64e64662aa8b1a57c3e5254b48652bcc,20,A,wake,cook,Beginning,Original
+8e6ad748c0685eaeffbadbae0050306d,20,A,cook,cook,Beginning,Original
+46c4212ded545ed717b0ff376752ae11,20,A,cook,cook,Beginning,Original
+9f8736428d68ef86c654e1f0f0b1058e,20,A,prepare,cook,Beginning,Original
+2817aa3ba5ce3496c4222adb7a6aa37c,20,B,make it,cook,Middle,Original
+83d8403f227baca0464166c404dc0dc2,20,B,cook,cook,Middle,Original
+14399e53229004f2c85ec3810d5cf776,20,B,make it,cook,Middle,Original
+9a8edf1b84fcdd4e9692881d31a5a26e,20,C,get ready,drive,Beginning,Replacement
+559a558cc071b904f807f21b428370da,20,C,go into the restaurant to start cooking the customer's order,drive,Beginning,Replacement
+6df37ff0405e34325f86235ab8e45b66,20,C,hurry,drive,Beginning,Replacement
+b8b10c5c32c46a8f278dc868ef65fd9d,20,D,fallen,drive,Middle,Replacement
+38515a2d399231bb4340622c162d7b1a,20,D,chef,drive,Middle,Replacement
+bac07a9a07d31bd971ed4288f10499d6,20,D,hurry,drive,Middle,Replacement
+773048bc5ea832a6a6fb93f6da578bc6,20,D,deliver it,drive,Middle,Replacement
+bc3b5c51f98f643be9a99134572a2170,20,D,deliver it,drive,Middle,Replacement
+2817aa3ba5ce3496c4222adb7a6aa37c,21,A,read the speech,speak,Beginning,Original
+83d8403f227baca0464166c404dc0dc2,21,A,speak,speak,Beginning,Original
+14399e53229004f2c85ec3810d5cf776,21,A,read the speech,speak,Beginning,Original
+9a8edf1b84fcdd4e9692881d31a5a26e,21,B,prepare,speak,Middle,Original
+559a558cc071b904f807f21b428370da,21,B,speak,speak,Middle,Original
+6df37ff0405e34325f86235ab8e45b66,21,B,speak,speak,Middle,Original
+b8b10c5c32c46a8f278dc868ef65fd9d,21,C,inform,stream,Beginning,Replacement
+38515a2d399231bb4340622c162d7b1a,21,C,speak,stream,Beginning,Replacement
+bac07a9a07d31bd971ed4288f10499d6,21,C,run,stream,Beginning,Replacement
+773048bc5ea832a6a6fb93f6da578bc6,21,C,speak,stream,Beginning,Replacement
+bc3b5c51f98f643be9a99134572a2170,21,C,speak,stream,Beginning,Replacement
+2b7058890eefa22341aa295a036985a9,21,D,yell,stream,Middle,Replacement
+58538dcb3f84e420200c601a4903dbef,21,D,speak,stream,Middle,Replacement
+64e64662aa8b1a57c3e5254b48652bcc,21,D,read the speech,stream,Middle,Replacement
+8e6ad748c0685eaeffbadbae0050306d,21,D,play,stream,Middle,Replacement
+46c4212ded545ed717b0ff376752ae11,21,D,speak,stream,Middle,Replacement
+9f8736428d68ef86c654e1f0f0b1058e,21,D,introduce themselves,stream,Middle,Replacement
+9a8edf1b84fcdd4e9692881d31a5a26e,22,A,write,write,Beginning,Original
+559a558cc071b904f807f21b428370da,22,A,focus,write,Beginning,Original
+6df37ff0405e34325f86235ab8e45b66,22,A,submit,write,Beginning,Original
+b8b10c5c32c46a8f278dc868ef65fd9d,22,B,grimace,write,Middle,Original
+38515a2d399231bb4340622c162d7b1a,22,B,had,write,Middle,Original
+bac07a9a07d31bd971ed4288f10499d6,22,B,focus,write,Middle,Original
+773048bc5ea832a6a6fb93f6da578bc6,22,B,of the project,write,Middle,Original
+bc3b5c51f98f643be9a99134572a2170,22,B,rush,write,Middle,Original
+2b7058890eefa22341aa295a036985a9,22,C,rush,hurry,Beginning,Replacement
+58538dcb3f84e420200c601a4903dbef,22,C,finish,hurry,Beginning,Replacement
+64e64662aa8b1a57c3e5254b48652bcc,22,C,pause,hurry,Beginning,Replacement
+8e6ad748c0685eaeffbadbae0050306d,22,C,hurry,hurry,Beginning,Replacement
+46c4212ded545ed717b0ff376752ae11,22,C,leave the car and perform requirements,hurry,Beginning,Replacement
+9f8736428d68ef86c654e1f0f0b1058e,22,C,hurry,hurry,Beginning,Replacement
+2817aa3ba5ce3496c4222adb7a6aa37c,22,D,hurry,hurry,Middle,Replacement
+83d8403f227baca0464166c404dc0dc2,22,D,finish,hurry,Middle,Replacement
+14399e53229004f2c85ec3810d5cf776,22,D,finish,hurry,Middle,Replacement
+b8b10c5c32c46a8f278dc868ef65fd9d,23,A,cook,swim,Beginning,Original
+38515a2d399231bb4340622c162d7b1a,23,A,family,swim,Beginning,Original
+bac07a9a07d31bd971ed4288f10499d6,23,A,swim and cook,swim,Beginning,Original
+773048bc5ea832a6a6fb93f6da578bc6,23,A,duty,swim,Beginning,Original
+bc3b5c51f98f643be9a99134572a2170,23,A,swim,swim,Beginning,Original
+2b7058890eefa22341aa295a036985a9,23,B,cook,swim,Middle,Original
+58538dcb3f84e420200c601a4903dbef,23,B,take out their tent,swim,Middle,Original
+64e64662aa8b1a57c3e5254b48652bcc,23,B,settle,swim,Middle,Original
+8e6ad748c0685eaeffbadbae0050306d,23,B,cook,swim,Middle,Original
+46c4212ded545ed717b0ff376752ae11,23,B,relax,swim,Middle,Original
+9f8736428d68ef86c654e1f0f0b1058e,23,B,swim,swim,Middle,Original
+2817aa3ba5ce3496c4222adb7a6aa37c,23,C,make a fire to cook food. ,sleep,Beginning,Replacement
+83d8403f227baca0464166c404dc0dc2,23,C,roast marshmallows,sleep,Beginning,Replacement
+14399e53229004f2c85ec3810d5cf776,23,C,play games,sleep,Beginning,Replacement
+9a8edf1b84fcdd4e9692881d31a5a26e,23,D,get ready,sleep,Middle,Replacement
+559a558cc071b904f807f21b428370da,23,D,sleep,sleep,Middle,Replacement
+6df37ff0405e34325f86235ab8e45b66,23,D,cook,sleep,Middle,Replacement
+2b7058890eefa22341aa295a036985a9,24,A,hurry,knock,Beginning,Original
+58538dcb3f84e420200c601a4903dbef,24,A,place it by the steps,knock,Beginning,Original
+64e64662aa8b1a57c3e5254b48652bcc,24,A,hurry,knock,Beginning,Original
+8e6ad748c0685eaeffbadbae0050306d,24,A,hurry,knock,Beginning,Original
+46c4212ded545ed717b0ff376752ae11,24,A,carry multiple packages at a time,knock,Beginning,Original
+9f8736428d68ef86c654e1f0f0b1058e,24,A,hurry,knock,Beginning,Original
+2817aa3ba5ce3496c4222adb7a6aa37c,24,B,deliver,knock,Middle,Original
+83d8403f227baca0464166c404dc0dc2,24,B,run,knock,Middle,Original
+14399e53229004f2c85ec3810d5cf776,24,B,deliver,knock,Middle,Original
+9a8edf1b84fcdd4e9692881d31a5a26e,24,C,deliver ,leave,Beginning,Replacement
+559a558cc071b904f807f21b428370da,24,C,hurry,leave,Beginning,Replacement
+6df37ff0405e34325f86235ab8e45b66,24,C,hurry,leave,Beginning,Replacement
+b8b10c5c32c46a8f278dc868ef65fd9d,24,D,drive,leave,Middle,Replacement
+38515a2d399231bb4340622c162d7b1a,24,D,gym,leave,Middle,Replacement
+bac07a9a07d31bd971ed4288f10499d6,24,D,leave,leave,Middle,Replacement
+773048bc5ea832a6a6fb93f6da578bc6,24,D,hurry,leave,Middle,Replacement
+bc3b5c51f98f643be9a99134572a2170,24,D,leave,leave,Middle,Replacement
+2817aa3ba5ce3496c4222adb7a6aa37c,25,A,rush,type,Beginning,Original
+83d8403f227baca0464166c404dc0dc2,25,A,write,type,Beginning,Original
+14399e53229004f2c85ec3810d5cf776,25,A,get new trainees,type,Beginning,Original
+9a8edf1b84fcdd4e9692881d31a5a26e,25,B,open the office at 9am,type,Middle,Original
+559a558cc071b904f807f21b428370da,25,B,work,type,Middle,Original
+6df37ff0405e34325f86235ab8e45b66,25,B,type,type,Middle,Original
+b8b10c5c32c46a8f278dc868ef65fd9d,25,C,leave,eat,Beginning,Replacement
+38515a2d399231bb4340622c162d7b1a,25,C,trainee,eat,Beginning,Replacement
+bac07a9a07d31bd971ed4288f10499d6,25,C,finish,eat,Beginning,Replacement
+773048bc5ea832a6a6fb93f6da578bc6,25,C,finish,eat,Beginning,Replacement
+bc3b5c51f98f643be9a99134572a2170,25,C,write,eat,Beginning,Replacement
+2b7058890eefa22341aa295a036985a9,25,D,dash,eat,Middle,Replacement
+58538dcb3f84e420200c601a4903dbef,25,D,finish,eat,Middle,Replacement
+64e64662aa8b1a57c3e5254b48652bcc,25,D,go find one,eat,Middle,Replacement
+8e6ad748c0685eaeffbadbae0050306d,25,D,rush,eat,Middle,Replacement
+46c4212ded545ed717b0ff376752ae11,25,D,create and deliver it,eat,Middle,Replacement
+9f8736428d68ef86c654e1f0f0b1058e,25,D,finish lunch,eat,Middle,Replacement
+9a8edf1b84fcdd4e9692881d31a5a26e,26,A,get ready,operate,Beginning,Original
+559a558cc071b904f807f21b428370da,26,A,get ready,operate,Beginning,Original
+6df37ff0405e34325f86235ab8e45b66,26,A,wash his hands,operate,Beginning,Original
+b8b10c5c32c46a8f278dc868ef65fd9d,26,B,me,operate,Middle,Original
+38515a2d399231bb4340622c162d7b1a,26,B,brain,operate,Middle,Original
+bac07a9a07d31bd971ed4288f10499d6,26,B,focus,operate,Middle,Original
+773048bc5ea832a6a6fb93f6da578bc6,26,B,change shifts,operate,Middle,Original
+bc3b5c51f98f643be9a99134572a2170,26,B,assist,operate,Middle,Original
+2b7058890eefa22341aa295a036985a9,26,C,come,pay,Beginning,Replacement
+58538dcb3f84e420200c601a4903dbef,26,C,get ready,pay,Beginning,Replacement
+64e64662aa8b1a57c3e5254b48652bcc,26,C,be patient,pay,Beginning,Replacement
+8e6ad748c0685eaeffbadbae0050306d,26,C,decline,pay,Beginning,Replacement
+46c4212ded545ed717b0ff376752ae11,26,C,call another doctor to support,pay,Beginning,Replacement
+9f8736428d68ef86c654e1f0f0b1058e,26,C,decline,pay,Beginning,Replacement
+2817aa3ba5ce3496c4222adb7a6aa37c,26,D,call,pay,Middle,Replacement
+83d8403f227baca0464166c404dc0dc2,26,D,call,pay,Middle,Replacement
+14399e53229004f2c85ec3810d5cf776,26,D,hurry,pay,Middle,Replacement
+b8b10c5c32c46a8f278dc868ef65fd9d,27,A,wait,wait,Beginning,Original
+38515a2d399231bb4340622c162d7b1a,27,A,back,wait,Beginning,Original
+bac07a9a07d31bd971ed4288f10499d6,27,A,be patient,wait,Beginning,Original
+773048bc5ea832a6a6fb93f6da578bc6,27,A,wait,wait,Beginning,Original
+bc3b5c51f98f643be9a99134572a2170,27,A,wait,wait,Beginning,Original
+2b7058890eefa22341aa295a036985a9,27,B,rest,wait,Middle,Original
+58538dcb3f84e420200c601a4903dbef,27,B,get him first,wait,Middle,Original
+64e64662aa8b1a57c3e5254b48652bcc,27,B,cut the line,wait,Middle,Original
+8e6ad748c0685eaeffbadbae0050306d,27,B,wait,wait,Middle,Original
+46c4212ded545ed717b0ff376752ae11,27,B,wait,wait,Middle,Original
+9f8736428d68ef86c654e1f0f0b1058e,27,B,wait,wait,Middle,Original
+2817aa3ba5ce3496c4222adb7a6aa37c,27,C,wait,reschedule,Beginning,Replacement
+83d8403f227baca0464166c404dc0dc2,27,C,rush,reschedule,Beginning,Replacement
+14399e53229004f2c85ec3810d5cf776,27,C,come,reschedule,Beginning,Replacement
+9a8edf1b84fcdd4e9692881d31a5a26e,27,D,call,reschedule,Middle,Replacement
+559a558cc071b904f807f21b428370da,27,D,give up,reschedule,Middle,Replacement
+6df37ff0405e34325f86235ab8e45b66,27,D,wait,reschedule,Middle,Replacement
+2b7058890eefa22341aa295a036985a9,28,A,knit,knit,Beginning,Original
+58538dcb3f84e420200c601a4903dbef,28,A,knit,knit,Beginning,Original
+64e64662aa8b1a57c3e5254b48652bcc,28,A,get ready,knit,Beginning,Original
+8e6ad748c0685eaeffbadbae0050306d,28,A,knit,knit,Beginning,Original
+46c4212ded545ed717b0ff376752ae11,28,A,knit,knit,Beginning,Original
+9f8736428d68ef86c654e1f0f0b1058e,28,A,knit,knit,Beginning,Original
+2817aa3ba5ce3496c4222adb7a6aa37c,28,B,knit,knit,Middle,Original
+83d8403f227baca0464166c404dc0dc2,28,B,knit,knit,Middle,Original
+14399e53229004f2c85ec3810d5cf776,28,B,knit,knit,Middle,Original
+9a8edf1b84fcdd4e9692881d31a5a26e,28,C,worry,shop,Beginning,Replacement
+559a558cc071b904f807f21b428370da,28,C,buy yarn,shop,Beginning,Replacement
+6df37ff0405e34325f86235ab8e45b66,28,C,buy yarn,shop,Beginning,Replacement
+b8b10c5c32c46a8f278dc868ef65fd9d,28,D,meet,shop,Middle,Replacement
+38515a2d399231bb4340622c162d7b1a,28,D,sweater,shop,Middle,Replacement
+bac07a9a07d31bd971ed4288f10499d6,28,D,buy yarn,shop,Middle,Replacement
+773048bc5ea832a6a6fb93f6da578bc6,28,D,knit ,shop,Middle,Replacement
+bc3b5c51f98f643be9a99134572a2170,28,D,knit,shop,Middle,Replacement
+2817aa3ba5ce3496c4222adb7a6aa37c,29,A,take a statement,investigate,Beginning,Original
+83d8403f227baca0464166c404dc0dc2,29,A,take a statement,investigate,Beginning,Original
+14399e53229004f2c85ec3810d5cf776,29,A,investigate,investigate,Beginning,Original
+9a8edf1b84fcdd4e9692881d31a5a26e,29,B,call 911,investigate,Middle,Original
+559a558cc071b904f807f21b428370da,29,B,go back,investigate,Middle,Original
+6df37ff0405e34325f86235ab8e45b66,29,B,write a report,investigate,Middle,Original
+b8b10c5c32c46a8f278dc868ef65fd9d,29,C,begin,leave,Beginning,Replacement
+38515a2d399231bb4340622c162d7b1a,29,C,police,leave,Beginning,Replacement
+bac07a9a07d31bd971ed4288f10499d6,29,C,leave,leave,Beginning,Replacement
+773048bc5ea832a6a6fb93f6da578bc6,29,C,arrive,leave,Beginning,Replacement
+bc3b5c51f98f643be9a99134572a2170,29,C,take a statement,leave,Beginning,Replacement
+2b7058890eefa22341aa295a036985a9,29,D,find him,leave,Middle,Replacement
+58538dcb3f84e420200c601a4903dbef,29,D,look for him,leave,Middle,Replacement
+64e64662aa8b1a57c3e5254b48652bcc,29,D,be lazy,leave,Middle,Replacement
+8e6ad748c0685eaeffbadbae0050306d,29,D,resign,leave,Middle,Replacement
+46c4212ded545ed717b0ff376752ae11,29,D,call for help,leave,Middle,Replacement
+9f8736428d68ef86c654e1f0f0b1058e,29,D,write a report,leave,Middle,Replacement
+9a8edf1b84fcdd4e9692881d31a5a26e,30,A,scan them,scan,Beginning,Original
+559a558cc071b904f807f21b428370da,30,A,do their best,scan,Beginning,Original
+6df37ff0405e34325f86235ab8e45b66,30,A,scan them,scan,Beginning,Original
+b8b10c5c32c46a8f278dc868ef65fd9d,30,B,appear,scan,Middle,Original
+38515a2d399231bb4340622c162d7b1a,30,B,approach,scan,Middle,Original
+bac07a9a07d31bd971ed4288f10499d6,30,B,not move fast enough to keep up,scan,Middle,Original
+773048bc5ea832a6a6fb93f6da578bc6,30,B,do the calculations,scan,Middle,Original
+bc3b5c51f98f643be9a99134572a2170,30,B,prepare,scan,Middle,Original
+2b7058890eefa22341aa295a036985a9,30,C,be late,return,Beginning,Replacement
+58538dcb3f84e420200c601a4903dbef,30,C,come out,return,Beginning,Replacement
+64e64662aa8b1a57c3e5254b48652bcc,30,C,adjust,return,Beginning,Replacement
+8e6ad748c0685eaeffbadbae0050306d,30,C,delay,return,Beginning,Replacement
+46c4212ded545ed717b0ff376752ae11,30,C,be talked to about their performance,return,Beginning,Replacement
+9f8736428d68ef86c654e1f0f0b1058e,30,C,be late,return,Beginning,Replacement
+2817aa3ba5ce3496c4222adb7a6aa37c,30,D,scan them,return,Middle,Replacement
+83d8403f227baca0464166c404dc0dc2,30,D,scan them,return,Middle,Replacement
+14399e53229004f2c85ec3810d5cf776,30,D,cause the problems for the boss,return,Middle,Replacement
+b8b10c5c32c46a8f278dc868ef65fd9d,31,A,run,run,Beginning,Original
+38515a2d399231bb4340622c162d7b1a,31,A,track,run,Beginning,Original
+bac07a9a07d31bd971ed4288f10499d6,31,A,take off ,run,Beginning,Original
+773048bc5ea832a6a6fb93f6da578bc6,31,A,the space,run,Beginning,Original
+bc3b5c51f98f643be9a99134572a2170,31,A,go,run,Beginning,Original
+2b7058890eefa22341aa295a036985a9,31,B,run,run,Middle,Original
+58538dcb3f84e420200c601a4903dbef,31,B,take off,run,Middle,Original
+64e64662aa8b1a57c3e5254b48652bcc,31,B,run,run,Middle,Original
+8e6ad748c0685eaeffbadbae0050306d,31,B,run,run,Middle,Original
+46c4212ded545ed717b0ff376752ae11,31,B,start,run,Middle,Original
+9f8736428d68ef86c654e1f0f0b1058e,31,B,run,run,Middle,Original
+2817aa3ba5ce3496c4222adb7a6aa37c,31,C,take off,watch,Beginning,Replacement
+83d8403f227baca0464166c404dc0dc2,31,C,put on his shoes,watch,Beginning,Replacement
+14399e53229004f2c85ec3810d5cf776,31,C,come out to watch the game,watch,Beginning,Replacement
+9a8edf1b84fcdd4e9692881d31a5a26e,31,D,run,watch,Middle,Replacement
+559a558cc071b904f807f21b428370da,31,D,wish they were at the race and racing themselves,watch,Middle,Replacement
+6df37ff0405e34325f86235ab8e45b66,31,D,run,watch,Middle,Replacement
+2b7058890eefa22341aa295a036985a9,32,A,close it,greet,Beginning,Original
+58538dcb3f84e420200c601a4903dbef,32,A,greet,greet,Beginning,Original
+64e64662aa8b1a57c3e5254b48652bcc,32,A,prepare them,greet,Beginning,Original
+8e6ad748c0685eaeffbadbae0050306d,32,A,smile,greet,Beginning,Original
+46c4212ded545ed717b0ff376752ae11,32,A,announce the status,greet,Beginning,Original
+9f8736428d68ef86c654e1f0f0b1058e,32,A,greet,greet,Beginning,Original
+2817aa3ba5ce3496c4222adb7a6aa37c,32,B,check them in,greet,Middle,Original
+83d8403f227baca0464166c404dc0dc2,32,B,greet,greet,Middle,Original
+14399e53229004f2c85ec3810d5cf776,32,B,wait,greet,Middle,Original
+9a8edf1b84fcdd4e9692881d31a5a26e,32,C,seat them,arrive,Beginning,Replacement
+559a558cc071b904f807f21b428370da,32,C,worry,arrive,Beginning,Replacement
+6df37ff0405e34325f86235ab8e45b66,32,C,greet,arrive,Beginning,Replacement
+b8b10c5c32c46a8f278dc868ef65fd9d,32,D,begin,arrive,Middle,Replacement
+38515a2d399231bb4340622c162d7b1a,32,D,will,arrive,Middle,Replacement
+bac07a9a07d31bd971ed4288f10499d6,32,D,greet them,arrive,Middle,Replacement
+773048bc5ea832a6a6fb93f6da578bc6,32,D,begin,arrive,Middle,Replacement
+bc3b5c51f98f643be9a99134572a2170,32,D,board,arrive,Middle,Replacement
+2817aa3ba5ce3496c4222adb7a6aa37c,33,A,play,play,Beginning,Original
+83d8403f227baca0464166c404dc0dc2,33,A,strum,play,Beginning,Original
+14399e53229004f2c85ec3810d5cf776,33,A,wait,play,Beginning,Original
+9a8edf1b84fcdd4e9692881d31a5a26e,33,B,listen,play,Middle,Original
+559a558cc071b904f807f21b428370da,33,B,play,play,Middle,Original
+6df37ff0405e34325f86235ab8e45b66,33,B,play,play,Middle,Original
+b8b10c5c32c46a8f278dc868ef65fd9d,33,C,rehearse,drive,Beginning,Replacement
+38515a2d399231bb4340622c162d7b1a,33,C,van,drive,Beginning,Replacement
+bac07a9a07d31bd971ed4288f10499d6,33,C,run,drive,Beginning,Replacement
+773048bc5ea832a6a6fb93f6da578bc6,33,C,play,drive,Beginning,Replacement
+bc3b5c51f98f643be9a99134572a2170,33,C,get ready,drive,Beginning,Replacement
+2b7058890eefa22341aa295a036985a9,33,D,cheer,drive,Middle,Replacement
+58538dcb3f84e420200c601a4903dbef,33,D,play,drive,Middle,Replacement
+64e64662aa8b1a57c3e5254b48652bcc,33,D,try to do his best ,drive,Middle,Replacement
+8e6ad748c0685eaeffbadbae0050306d,33,D,enter,drive,Middle,Replacement
+46c4212ded545ed717b0ff376752ae11,33,D,depart,drive,Middle,Replacement
+9f8736428d68ef86c654e1f0f0b1058e,33,D,be late,drive,Middle,Replacement
+9a8edf1b84fcdd4e9692881d31a5a26e,34,A,get ready,tip,Beginning,Original
+559a558cc071b904f807f21b428370da,34,A,tip,tip,Beginning,Original
+6df37ff0405e34325f86235ab8e45b66,34,A,tip,tip,Beginning,Original
+b8b10c5c32c46a8f278dc868ef65fd9d,34,B,pour,tip,Middle,Original
+38515a2d399231bb4340622c162d7b1a,34,B,drink,tip,Middle,Original
+bac07a9a07d31bd971ed4288f10499d6,34,B,tip,tip,Middle,Original
+773048bc5ea832a6a6fb93f6da578bc6,34,B,buy more,tip,Middle,Original
+bc3b5c51f98f643be9a99134572a2170,34,B,tip,tip,Middle,Original
+2b7058890eefa22341aa295a036985a9,34,C,tip,sleep,Beginning,Replacement
+58538dcb3f84e420200c601a4903dbef,34,C,be very nice,sleep,Beginning,Replacement
+64e64662aa8b1a57c3e5254b48652bcc,34,C,consider,sleep,Beginning,Replacement
+8e6ad748c0685eaeffbadbae0050306d,34,C,drive,sleep,Beginning,Replacement
+46c4212ded545ed717b0ff376752ae11,34,C,tip,sleep,Beginning,Replacement
+9f8736428d68ef86c654e1f0f0b1058e,34,C,remember them,sleep,Beginning,Replacement
+2817aa3ba5ce3496c4222adb7a6aa37c,34,D,serve,sleep,Middle,Replacement
+83d8403f227baca0464166c404dc0dc2,34,D,tip,sleep,Middle,Replacement
+14399e53229004f2c85ec3810d5cf776,34,D,come,sleep,Middle,Replacement
+b8b10c5c32c46a8f278dc868ef65fd9d,35,A,faint,debug,Beginning,Original
+38515a2d399231bb4340622c162d7b1a,35,A,her,debug,Beginning,Original
+bac07a9a07d31bd971ed4288f10499d6,35,A,stay alert,debug,Beginning,Original
+773048bc5ea832a6a6fb93f6da578bc6,35,A,submit it,debug,Beginning,Original
+bc3b5c51f98f643be9a99134572a2170,35,A,write it down,debug,Beginning,Original
+2b7058890eefa22341aa295a036985a9,35,B,complete it,debug,Middle,Original
+58538dcb3f84e420200c601a4903dbef,35,B,repair it,debug,Middle,Original
+64e64662aa8b1a57c3e5254b48652bcc,35,B,get rid of the phone,debug,Middle,Original
+8e6ad748c0685eaeffbadbae0050306d,35,B,work,debug,Middle,Original
+46c4212ded545ed717b0ff376752ae11,35,B,resolve the issue,debug,Middle,Original
+9f8736428d68ef86c654e1f0f0b1058e,35,B,fix it,debug,Middle,Original
+2817aa3ba5ce3496c4222adb7a6aa37c,35,C,rush back,return,Beginning,Replacement
+83d8403f227baca0464166c404dc0dc2,35,C,get ready,return,Beginning,Replacement
+14399e53229004f2c85ec3810d5cf776,35,C,set another time,return,Beginning,Replacement
+9a8edf1b84fcdd4e9692881d31a5a26e,35,D,be prepared,return,Middle,Replacement
+559a558cc071b904f807f21b428370da,35,D,panic later,return,Middle,Replacement
+6df37ff0405e34325f86235ab8e45b66,35,D,work,return,Middle,Replacement
+2b7058890eefa22341aa295a036985a9,36,A,clean,clean up,Beginning,Original
+58538dcb3f84e420200c601a4903dbef,36,A,have a seat available,clean up,Beginning,Original
+64e64662aa8b1a57c3e5254b48652bcc,36,A,rest,clean up,Beginning,Original
+8e6ad748c0685eaeffbadbae0050306d,36,A,prepare,clean up,Beginning,Original
+46c4212ded545ed717b0ff376752ae11,36,A,clean,clean up,Beginning,Original
+9f8736428d68ef86c654e1f0f0b1058e,36,A,sweep,clean up,Beginning,Original
+2817aa3ba5ce3496c4222adb7a6aa37c,36,B,prepare,clean up,Middle,Original
+83d8403f227baca0464166c404dc0dc2,36,B,clean,clean up,Middle,Original
+14399e53229004f2c85ec3810d5cf776,36,B,had to take a snap,clean up,Middle,Original
+9a8edf1b84fcdd4e9692881d31a5a26e,36,C,wait,cook,Beginning,Replacement
+559a558cc071b904f807f21b428370da,36,C,prepare,cook,Beginning,Replacement
+6df37ff0405e34325f86235ab8e45b66,36,C,clean,cook,Beginning,Replacement
+b8b10c5c32c46a8f278dc868ef65fd9d,36,D,eat,cook,Middle,Replacement
+38515a2d399231bb4340622c162d7b1a,36,D,barber,cook,Middle,Replacement
+bac07a9a07d31bd971ed4288f10499d6,36,D,eat,cook,Middle,Replacement
+773048bc5ea832a6a6fb93f6da578bc6,36,D,come,cook,Middle,Replacement
+bc3b5c51f98f643be9a99134572a2170,36,D,clean,cook,Middle,Replacement
+2817aa3ba5ce3496c4222adb7a6aa37c,37,A,try and make the baby fall asleep,sing,Beginning,Original
+83d8403f227baca0464166c404dc0dc2,37,A,sing,sing,Beginning,Original
+14399e53229004f2c85ec3810d5cf776,37,A,try and make the baby fall asleep,sing,Beginning,Original
+9a8edf1b84fcdd4e9692881d31a5a26e,37,B,wait,sing,Middle,Original
+559a558cc071b904f807f21b428370da,37,B,rock the cradle,sing,Middle,Original
+6df37ff0405e34325f86235ab8e45b66,37,B,rock the cradle,sing,Middle,Original
+b8b10c5c32c46a8f278dc868ef65fd9d,37,C,return,return,Beginning,Replacement
+38515a2d399231bb4340622c162d7b1a,37,C,baby,return,Beginning,Replacement
+bac07a9a07d31bd971ed4288f10499d6,37,C,take the baby inside,return,Beginning,Replacement
+773048bc5ea832a6a6fb93f6da578bc6,37,C,help,return,Beginning,Replacement
+bc3b5c51f98f643be9a99134572a2170,37,C,play,return,Beginning,Replacement
+2b7058890eefa22341aa295a036985a9,37,D,help,return,Middle,Replacement
+58538dcb3f84e420200c601a4903dbef,37,D,come inside,return,Middle,Replacement
+64e64662aa8b1a57c3e5254b48652bcc,37,D,sing,return,Middle,Replacement
+8e6ad748c0685eaeffbadbae0050306d,37,D,play,return,Middle,Replacement
+46c4212ded545ed717b0ff376752ae11,37,D,comfort,return,Middle,Replacement
+9f8736428d68ef86c654e1f0f0b1058e,37,D,keep them awake,return,Middle,Replacement
+9a8edf1b84fcdd4e9692881d31a5a26e,38,A,set it up,sculpt,Beginning,Original
+559a558cc071b904f807f21b428370da,38,A,prepare,sculpt,Beginning,Original
+6df37ff0405e34325f86235ab8e45b66,38,A,work,sculpt,Beginning,Original
+b8b10c5c32c46a8f278dc868ef65fd9d,38,B,arrive,sculpt,Middle,Original
+38515a2d399231bb4340622c162d7b1a,38,B,invite,sculpt,Middle,Original
+bac07a9a07d31bd971ed4288f10499d6,38,B,rsvp,sculpt,Middle,Original
+773048bc5ea832a6a6fb93f6da578bc6,38,B,attended,sculpt,Middle,Original
+bc3b5c51f98f643be9a99134572a2170,38,B,greet,sculpt,Middle,Original
+2b7058890eefa22341aa295a036985a9,38,C,rest,order,Beginning,Replacement
+58538dcb3f84e420200c601a4903dbef,38,C,make sure his display is safe,order,Beginning,Replacement
+64e64662aa8b1a57c3e5254b48652bcc,38,C,measure,order,Beginning,Replacement
+8e6ad748c0685eaeffbadbae0050306d,38,C,celebrate,order,Beginning,Replacement
+46c4212ded545ed717b0ff376752ae11,38,C,decide what to make,order,Beginning,Replacement
+9f8736428d68ef86c654e1f0f0b1058e,38,C,finish eating,order,Beginning,Replacement
+2817aa3ba5ce3496c4222adb7a6aa37c,38,D,sculpt,order,Middle,Replacement
+83d8403f227baca0464166c404dc0dc2,38,D,gather his best works,order,Middle,Replacement
+14399e53229004f2c85ec3810d5cf776,38,D,make it known,order,Middle,Replacement
+b8b10c5c32c46a8f278dc868ef65fd9d,39,A,aim,shoot,Beginning,Original
+38515a2d399231bb4340622c162d7b1a,39,A,tree,shoot,Beginning,Original
+bac07a9a07d31bd971ed4288f10499d6,39,A,aim,shoot,Beginning,Original
+773048bc5ea832a6a6fb93f6da578bc6,39,A,climb,shoot,Beginning,Original
+bc3b5c51f98f643be9a99134572a2170,39,A,aim,shoot,Beginning,Original
+2b7058890eefa22341aa295a036985a9,39,B,shoot,shoot,Middle,Original
+58538dcb3f84e420200c601a4903dbef,39,B,shoot,shoot,Middle,Original
+64e64662aa8b1a57c3e5254b48652bcc,39,B,give up,shoot,Middle,Original
+8e6ad748c0685eaeffbadbae0050306d,39,B,shoot,shoot,Middle,Original
+46c4212ded545ed717b0ff376752ae11,39,B,hunt,shoot,Middle,Original
+9f8736428d68ef86c654e1f0f0b1058e,39,B,aim,shoot,Middle,Original
+2817aa3ba5ce3496c4222adb7a6aa37c,39,C,shoot,swim,Beginning,Replacement
+83d8403f227baca0464166c404dc0dc2,39,C,aim,swim,Beginning,Replacement
+14399e53229004f2c85ec3810d5cf776,39,C,set a trap,swim,Beginning,Replacement
+9a8edf1b84fcdd4e9692881d31a5a26e,39,D,be hunted down,swim,Middle,Replacement
+559a558cc071b904f807f21b428370da,39,D,aim,swim,Middle,Replacement
+6df37ff0405e34325f86235ab8e45b66,39,D,hide,swim,Middle,Replacement
+2b7058890eefa22341aa295a036985a9,40,A,take a photo,pose,Beginning,Original
+58538dcb3f84e420200c601a4903dbef,40,A,take a photo,pose,Beginning,Original
+64e64662aa8b1a57c3e5254b48652bcc,40,A,utilize it,pose,Beginning,Original
+8e6ad748c0685eaeffbadbae0050306d,40,A,pose,pose,Beginning,Original
+46c4212ded545ed717b0ff376752ae11,40,A,take a photo,pose,Beginning,Original
+9f8736428d68ef86c654e1f0f0b1058e,40,A,take a photo,pose,Beginning,Original
+2817aa3ba5ce3496c4222adb7a6aa37c,40,B,take a photo,pose,Middle,Original
+83d8403f227baca0464166c404dc0dc2,40,B,take a photo,pose,Middle,Original
+14399e53229004f2c85ec3810d5cf776,40,B,earn profit,pose,Middle,Original
+9a8edf1b84fcdd4e9692881d31a5a26e,40,C,enjoy the tourist season,eat,Beginning,Replacement
+559a558cc071b904f807f21b428370da,40,C,"be insufferable, because that is not an appropriate location to be using a selfie stick",eat,Beginning,Replacement
+6df37ff0405e34325f86235ab8e45b66,40,C,take a photo,eat,Beginning,Replacement
+b8b10c5c32c46a8f278dc868ef65fd9d,40,D,take a photo,eat,Middle,Replacement
+38515a2d399231bb4340622c162d7b1a,40,D,take a selfie,eat,Middle,Replacement
+bac07a9a07d31bd971ed4288f10499d6,40,D,bump into other patrons occasionally,eat,Middle,Replacement
+773048bc5ea832a6a6fb93f6da578bc6,40,D,take a photo,eat,Middle,Replacement
+bc3b5c51f98f643be9a99134572a2170,40,D,take a photo,eat,Middle,Replacement
+2817aa3ba5ce3496c4222adb7a6aa37c,41,A,tell them to quiet down,yell,Beginning,Original
+83d8403f227baca0464166c404dc0dc2,41,A,talk loudly,yell,Beginning,Original
+14399e53229004f2c85ec3810d5cf776,41,A,wait,yell,Beginning,Original
+9a8edf1b84fcdd4e9692881d31a5a26e,41,B,report on the incident,yell,Middle,Original
+559a558cc071b904f807f21b428370da,41,B,listen,yell,Middle,Original
+6df37ff0405e34325f86235ab8e45b66,41,B,talk loudly,yell,Middle,Original
+b8b10c5c32c46a8f278dc868ef65fd9d,41,C,talk loudly,record,Beginning,Replacement
+38515a2d399231bb4340622c162d7b1a,41,C,report,record,Beginning,Replacement
+bac07a9a07d31bd971ed4288f10499d6,41,C,listen ,record,Beginning,Replacement
+773048bc5ea832a6a6fb93f6da578bc6,41,C,stop,record,Beginning,Replacement
+bc3b5c51f98f643be9a99134572a2170,41,C,cover their ears,record,Beginning,Replacement
+2b7058890eefa22341aa295a036985a9,41,D,turn it down,record,Middle,Replacement
+58538dcb3f84e420200c601a4903dbef,41,D,go inside,record,Middle,Replacement
+64e64662aa8b1a57c3e5254b48652bcc,41,D,leave,record,Middle,Replacement
+8e6ad748c0685eaeffbadbae0050306d,41,D,cut,record,Middle,Replacement
+46c4212ded545ed717b0ff376752ae11,41,D,proceed,record,Middle,Replacement
+9f8736428d68ef86c654e1f0f0b1058e,41,D,stay inside,record,Middle,Replacement
+9a8edf1b84fcdd4e9692881d31a5a26e,42,A,be ready,walk,Beginning,Original
+559a558cc071b904f807f21b428370da,42,A,be ready,walk,Beginning,Original
+6df37ff0405e34325f86235ab8e45b66,42,A,walk,walk,Beginning,Original
+b8b10c5c32c46a8f278dc868ef65fd9d,42,B,practice,walk,Middle,Original
+38515a2d399231bb4340622c162d7b1a,42,B,dress,walk,Middle,Original
+bac07a9a07d31bd971ed4288f10499d6,42,B,prance,walk,Middle,Original
+773048bc5ea832a6a6fb93f6da578bc6,42,B,be on stage,walk,Middle,Original
+bc3b5c51f98f643be9a99134572a2170,42,B,go ,walk,Middle,Original
+2b7058890eefa22341aa295a036985a9,42,C,dress,wait,Beginning,Replacement
+58538dcb3f84e420200c601a4903dbef,42,C,head,wait,Beginning,Replacement
+64e64662aa8b1a57c3e5254b48652bcc,42,C,go ,wait,Beginning,Replacement
+8e6ad748c0685eaeffbadbae0050306d,42,C,travel,wait,Beginning,Replacement
+46c4212ded545ed717b0ff376752ae11,42,C,go ,wait,Beginning,Replacement
+9f8736428d68ef86c654e1f0f0b1058e,42,C,get on the bus,wait,Beginning,Replacement
+2817aa3ba5ce3496c4222adb7a6aa37c,42,D,get ready,wait,Middle,Replacement
+83d8403f227baca0464166c404dc0dc2,42,D,get ready,wait,Middle,Replacement
+14399e53229004f2c85ec3810d5cf776,42,D,head straight to the model hall,wait,Middle,Replacement
+b8b10c5c32c46a8f278dc868ef65fd9d,43,A,climb,climb ,Beginning,Original
+38515a2d399231bb4340622c162d7b1a,43,A,cliff,climb ,Beginning,Original
+bac07a9a07d31bd971ed4288f10499d6,43,A,hack into the ice,climb ,Beginning,Original
+773048bc5ea832a6a6fb93f6da578bc6,43,A,break,climb ,Beginning,Original
+bc3b5c51f98f643be9a99134572a2170,43,A,climb,climb ,Beginning,Original
+2b7058890eefa22341aa295a036985a9,43,B,intimidate ,climb ,Middle,Original
+58538dcb3f84e420200c601a4903dbef,43,B,be trying to save his life,climb ,Middle,Original
+64e64662aa8b1a57c3e5254b48652bcc,43,B,be terrified,climb ,Middle,Original
+8e6ad748c0685eaeffbadbae0050306d,43,B,climb,climb ,Middle,Original
+46c4212ded545ed717b0ff376752ae11,43,B,use the axe,climb ,Middle,Original
+9f8736428d68ef86c654e1f0f0b1058e,43,B,climb,climb ,Middle,Original
+2817aa3ba5ce3496c4222adb7a6aa37c,43,C,make sure his gear was good,shop,Beginning,Replacement
+83d8403f227baca0464166c404dc0dc2,43,C,plan,shop,Beginning,Replacement
+14399e53229004f2c85ec3810d5cf776,43,C,okay,shop,Beginning,Replacement
+9a8edf1b84fcdd4e9692881d31a5a26e,43,D,prepare,shop,Middle,Replacement
+559a558cc071b904f807f21b428370da,43,D,prepare,shop,Middle,Replacement
+6df37ff0405e34325f86235ab8e45b66,43,D,embark,shop,Middle,Replacement
+2b7058890eefa22341aa295a036985a9,44,A,find,investigate,Beginning,Original
+58538dcb3f84e420200c601a4903dbef,44,A,shine the light,investigate,Beginning,Original
+64e64662aa8b1a57c3e5254b48652bcc,44,A,get damaged,investigate,Beginning,Original
+8e6ad748c0685eaeffbadbae0050306d,44,A,see,investigate,Beginning,Original
+46c4212ded545ed717b0ff376752ae11,44,A,search,investigate,Beginning,Original
+9f8736428d68ef86c654e1f0f0b1058e,44,A,scan,investigate,Beginning,Original
+2817aa3ba5ce3496c4222adb7a6aa37c,44,B,look,investigate,Middle,Original
+83d8403f227baca0464166c404dc0dc2,44,B,shine the light,investigate,Middle,Original
+14399e53229004f2c85ec3810d5cf776,44,B,make it easier,investigate,Middle,Original
+9a8edf1b84fcdd4e9692881d31a5a26e,44,C,explore,depart,Beginning,Replacement
+559a558cc071b904f807f21b428370da,44,C,use it,depart,Beginning,Replacement
+6df37ff0405e34325f86235ab8e45b66,44,C,get ready,depart,Beginning,Replacement
+b8b10c5c32c46a8f278dc868ef65fd9d,44,D,scavenge,depart,Middle,Replacement
+38515a2d399231bb4340622c162d7b1a,44,D,light,depart,Middle,Replacement
+bac07a9a07d31bd971ed4288f10499d6,44,D,look,depart,Middle,Replacement
+773048bc5ea832a6a6fb93f6da578bc6,44,D,switch it on,depart,Middle,Replacement
+bc3b5c51f98f643be9a99134572a2170,44,D,use it,depart,Middle,Replacement
+2817aa3ba5ce3496c4222adb7a6aa37c,45,A,start,examine,Beginning,Original
+83d8403f227baca0464166c404dc0dc2,45,A,draw blood,examine,Beginning,Original
+14399e53229004f2c85ec3810d5cf776,45,A,get to know,examine,Beginning,Original
+9a8edf1b84fcdd4e9692881d31a5a26e,45,B,handle,examine,Middle,Original
+559a558cc071b904f807f21b428370da,45,B,tell,examine,Middle,Original
+6df37ff0405e34325f86235ab8e45b66,45,B,diagnose,examine,Middle,Original
+b8b10c5c32c46a8f278dc868ef65fd9d,45,C,examine,sleep,Beginning,Replacement
+38515a2d399231bb4340622c162d7b1a,45,C,bedroom,sleep,Beginning,Replacement
+bac07a9a07d31bd971ed4288f10499d6,45,C,work,sleep,Beginning,Replacement
+773048bc5ea832a6a6fb93f6da578bc6,45,C,take care,sleep,Beginning,Replacement
+bc3b5c51f98f643be9a99134572a2170,45,C,get checked out,sleep,Beginning,Replacement
+2b7058890eefa22341aa295a036985a9,45,D,rest,sleep,Middle,Replacement
+58538dcb3f84e420200c601a4903dbef,45,D,begin,sleep,Middle,Replacement
+64e64662aa8b1a57c3e5254b48652bcc,45,D,examine,sleep,Middle,Replacement
+8e6ad748c0685eaeffbadbae0050306d,45,D,examine,sleep,Middle,Replacement
+46c4212ded545ed717b0ff376752ae11,45,D,perform a procedure,sleep,Middle,Replacement
+9f8736428d68ef86c654e1f0f0b1058e,45,D,work,sleep,Middle,Replacement
+9a8edf1b84fcdd4e9692881d31a5a26e,46,A,invest,invest,Beginning,Original
+559a558cc071b904f807f21b428370da,46,A,invest,invest,Beginning,Original
+6df37ff0405e34325f86235ab8e45b66,46,A,profit,invest,Beginning,Original
+b8b10c5c32c46a8f278dc868ef65fd9d,46,B,sell,invest,Middle,Original
+38515a2d399231bb4340622c162d7b1a,46,B,banker,invest,Middle,Original
+bac07a9a07d31bd971ed4288f10499d6,46,B,sell,invest,Middle,Original
+773048bc5ea832a6a6fb93f6da578bc6,46,B,go high,invest,Middle,Original
+bc3b5c51f98f643be9a99134572a2170,46,B,sell,invest,Middle,Original
+2b7058890eefa22341aa295a036985a9,46,C,be thrilled,celebrate,Beginning,Replacement
+58538dcb3f84e420200c601a4903dbef,46,C,keep an eye on his stocks,celebrate,Beginning,Replacement
+64e64662aa8b1a57c3e5254b48652bcc,46,C,profit,celebrate,Beginning,Replacement
+8e6ad748c0685eaeffbadbae0050306d,46,C,exult,celebrate,Beginning,Replacement
+46c4212ded545ed717b0ff376752ae11,46,C,monitor,celebrate,Beginning,Replacement
+9f8736428d68ef86c654e1f0f0b1058e,46,C,get richer,celebrate,Beginning,Replacement
+2817aa3ba5ce3496c4222adb7a6aa37c,46,D,let their client know how it is going,celebrate,Middle,Replacement
+83d8403f227baca0464166c404dc0dc2,46,D,profit,celebrate,Middle,Replacement
+14399e53229004f2c85ec3810d5cf776,46,D,be happy,celebrate,Middle,Replacement
+b8b10c5c32c46a8f278dc868ef65fd9d,47,A,operate,operate,Beginning,Original
+38515a2d399231bb4340622c162d7b1a,47,A,room,operate,Beginning,Original
+bac07a9a07d31bd971ed4288f10499d6,47,A,finish,operate,Beginning,Original
+773048bc5ea832a6a6fb93f6da578bc6,47,A,take charge,operate,Beginning,Original
+bc3b5c51f98f643be9a99134572a2170,47,A,start,operate,Beginning,Original
+2b7058890eefa22341aa295a036985a9,47,B,check their vitals,operate,Middle,Original
+58538dcb3f84e420200c601a4903dbef,47,B,feel sleepy,operate,Middle,Original
+64e64662aa8b1a57c3e5254b48652bcc,47,B,take care,operate,Middle,Original
+8e6ad748c0685eaeffbadbae0050306d,47,B,operate,operate,Middle,Original
+46c4212ded545ed717b0ff376752ae11,47,B,proceed,operate,Middle,Original
+9f8736428d68ef86c654e1f0f0b1058e,47,B,start,operate,Middle,Original
+2817aa3ba5ce3496c4222adb7a6aa37c,47,C,finish,freshen up,Beginning,Replacement
+83d8403f227baca0464166c404dc0dc2,47,C,wash his hands,freshen up,Beginning,Replacement
+14399e53229004f2c85ec3810d5cf776,47,C,find some medicine to reduce the pain,freshen up,Beginning,Replacement
+9a8edf1b84fcdd4e9692881d31a5a26e,47,D,fix the patient's teeth,freshen up,Middle,Replacement
+559a558cc071b904f807f21b428370da,47,D,hurry,freshen up,Middle,Replacement
+6df37ff0405e34325f86235ab8e45b66,47,D,pull it,freshen up,Middle,Replacement
+2b7058890eefa22341aa295a036985a9,48,A,deliver,deliver,Beginning,Original
+58538dcb3f84e420200c601a4903dbef,48,A,be tired,deliver,Beginning,Original
+64e64662aa8b1a57c3e5254b48652bcc,48,A,be safe,deliver,Beginning,Original
+8e6ad748c0685eaeffbadbae0050306d,48,A,signal,deliver,Beginning,Original
+46c4212ded545ed717b0ff376752ae11,48,A,unload,deliver,Beginning,Original
+9f8736428d68ef86c654e1f0f0b1058e,48,A,deliver,deliver,Beginning,Original
+2817aa3ba5ce3496c4222adb7a6aa37c,48,B,verify,deliver,Middle,Original
+83d8403f227baca0464166c404dc0dc2,48,B,lift,deliver,Middle,Original
+14399e53229004f2c85ec3810d5cf776,48,B,have to take it to where the event is been held,deliver,Middle,Original
+9a8edf1b84fcdd4e9692881d31a5a26e,48,C,wait,rest,Beginning,Replacement
+559a558cc071b904f807f21b428370da,48,C,make sure it is not damaged in loading it for delivery,rest,Beginning,Replacement
+6df37ff0405e34325f86235ab8e45b66,48,C,deliver,rest,Beginning,Replacement
+b8b10c5c32c46a8f278dc868ef65fd9d,48,D,be there,rest,Middle,Replacement
+38515a2d399231bb4340622c162d7b1a,48,D,van,rest,Middle,Replacement
+bac07a9a07d31bd971ed4288f10499d6,48,D,have to get up and go,rest,Middle,Replacement
+773048bc5ea832a6a6fb93f6da578bc6,48,D,be replaced,rest,Middle,Replacement
+bc3b5c51f98f643be9a99134572a2170,48,D,drive off,rest,Middle,Replacement
+2817aa3ba5ce3496c4222adb7a6aa37c,49,A,fight the fire,evacuate,Beginning,Original
+83d8403f227baca0464166c404dc0dc2,49,A,rush,evacuate,Beginning,Original
+14399e53229004f2c85ec3810d5cf776,49,A,call,evacuate,Beginning,Original
+9a8edf1b84fcdd4e9692881d31a5a26e,49,B,stop the fire,evacuate,Middle,Original
+559a558cc071b904f807f21b428370da,49,B,work quickly and be mindful of any potential for a backdraft,evacuate,Middle,Original
+6df37ff0405e34325f86235ab8e45b66,49,B,stop the fire,evacuate,Middle,Original
+b8b10c5c32c46a8f278dc868ef65fd9d,49,C,wake up,sleep,Beginning,Replacement
+38515a2d399231bb4340622c162d7b1a,49,C,go to bed,sleep,Beginning,Replacement
+bac07a9a07d31bd971ed4288f10499d6,49,C,get up,sleep,Beginning,Replacement
+773048bc5ea832a6a6fb93f6da578bc6,49,C,spray,sleep,Beginning,Replacement
+bc3b5c51f98f643be9a99134572a2170,49,C,rush,sleep,Beginning,Replacement
+2b7058890eefa22341aa295a036985a9,49,D,stop the fire,sleep,Middle,Replacement
+58538dcb3f84e420200c601a4903dbef,49,D,stop the fire,sleep,Middle,Replacement
+64e64662aa8b1a57c3e5254b48652bcc,49,D,stop the fire,sleep,Middle,Replacement
+8e6ad748c0685eaeffbadbae0050306d,49,D,wake up,sleep,Middle,Replacement
+46c4212ded545ed717b0ff376752ae11,49,D,react quickly,sleep,Middle,Replacement
+9f8736428d68ef86c654e1f0f0b1058e,49,D,get up,sleep,Middle,Replacement
+9a8edf1b84fcdd4e9692881d31a5a26e,50,A,be short handed,explain,Beginning,Original
+559a558cc071b904f807f21b428370da,50,A,do their best,explain,Beginning,Original
+6df37ff0405e34325f86235ab8e45b66,50,A,calm them down,explain,Beginning,Original
+b8b10c5c32c46a8f278dc868ef65fd9d,50,B,apologize,explain,Middle,Original
+38515a2d399231bb4340622c162d7b1a,50,B,client,explain,Middle,Original
+bac07a9a07d31bd971ed4288f10499d6,50,B,do their best,explain,Middle,Original
+773048bc5ea832a6a6fb93f6da578bc6,50,B,fix ,explain,Middle,Original
+bc3b5c51f98f643be9a99134572a2170,50,B,write ,explain,Middle,Original
+2b7058890eefa22341aa295a036985a9,50,C,not help,ignore,Beginning,Replacement
+58538dcb3f84e420200c601a4903dbef,50,C,leave,ignore,Beginning,Replacement
+64e64662aa8b1a57c3e5254b48652bcc,50,C,fix ,ignore,Beginning,Replacement
+8e6ad748c0685eaeffbadbae0050306d,50,C,celebrate,ignore,Beginning,Replacement
+46c4212ded545ed717b0ff376752ae11,50,C,address ,ignore,Beginning,Replacement
+9f8736428d68ef86c654e1f0f0b1058e,50,C,take note,ignore,Beginning,Replacement
+2817aa3ba5ce3496c4222adb7a6aa37c,50,D,get help,ignore,Middle,Replacement
+83d8403f227baca0464166c404dc0dc2,50,D,fix ,ignore,Middle,Replacement
+14399e53229004f2c85ec3810d5cf776,50,D,bout the behaviors of the team members,ignore,Middle,Replacement
+b8b10c5c32c46a8f278dc868ef65fd9d,51,A,confess,agree,Beginning,Original
+38515a2d399231bb4340622c162d7b1a,51,A,student,agree,Beginning,Original
+bac07a9a07d31bd971ed4288f10499d6,51,A,do his best,agree,Beginning,Original
+773048bc5ea832a6a6fb93f6da578bc6,51,A,supervise,agree,Beginning,Original
+bc3b5c51f98f643be9a99134572a2170,51,A,give it to him,agree,Beginning,Original
+2b7058890eefa22341aa295a036985a9,51,B,help,agree,Middle,Original
+58538dcb3f84e420200c601a4903dbef,51,B,i dont know,agree,Middle,Original
+64e64662aa8b1a57c3e5254b48652bcc,51,B,make time,agree,Middle,Original
+8e6ad748c0685eaeffbadbae0050306d,51,B,supervise,agree,Middle,Original
+46c4212ded545ed717b0ff376752ae11,51,B,respond,agree,Middle,Original
+9f8736428d68ef86c654e1f0f0b1058e,51,B,help,agree,Middle,Original
+2817aa3ba5ce3496c4222adb7a6aa37c,51,C,help,relax,Beginning,Replacement
+83d8403f227baca0464166c404dc0dc2,51,C,help,relax,Beginning,Replacement
+14399e53229004f2c85ec3810d5cf776,51,C,to do what they think is right,relax,Beginning,Replacement
+9a8edf1b84fcdd4e9692881d31a5a26e,51,D,balance,relax,Middle,Replacement
+559a558cc071b904f807f21b428370da,51,D,make time,relax,Middle,Replacement
+6df37ff0405e34325f86235ab8e45b66,51,D,help,relax,Middle,Replacement
+2b7058890eefa22341aa295a036985a9,52,A,mediate ,listen,Beginning,Original
+58538dcb3f84e420200c601a4903dbef,52,A,interrupt,listen,Beginning,Original
+64e64662aa8b1a57c3e5254b48652bcc,52,A,listen,listen,Beginning,Original
+8e6ad748c0685eaeffbadbae0050306d,52,A,listen,listen,Beginning,Original
+46c4212ded545ed717b0ff376752ae11,52,A,mediate,listen,Beginning,Original
+9f8736428d68ef86c654e1f0f0b1058e,52,A,mediate,listen,Beginning,Original
+2817aa3ba5ce3496c4222adb7a6aa37c,52,B,evaluate,listen,Middle,Original
+83d8403f227baca0464166c404dc0dc2,52,B,listen,listen,Middle,Original
+14399e53229004f2c85ec3810d5cf776,52,B,hang,listen,Middle,Original
+9a8edf1b84fcdd4e9692881d31a5a26e,52,C,listen,get back,Beginning,Replacement
+559a558cc071b904f807f21b428370da,52,C,take a deep breath,get back,Beginning,Replacement
+6df37ff0405e34325f86235ab8e45b66,52,C,help,get back,Beginning,Replacement
+b8b10c5c32c46a8f278dc868ef65fd9d,52,D,decompress,get back,Middle,Replacement
+38515a2d399231bb4340622c162d7b1a,52,D,will,get back,Middle,Replacement
+bac07a9a07d31bd971ed4288f10499d6,52,D,hurry back,get back,Middle,Replacement
+773048bc5ea832a6a6fb93f6da578bc6,52,D,listen ,get back,Middle,Replacement
+bc3b5c51f98f643be9a99134572a2170,52,D,listen,get back,Middle,Replacement
+2817aa3ba5ce3496c4222adb7a6aa37c,53,A,start to sing,compose,Beginning,Original
+83d8403f227baca0464166c404dc0dc2,53,A,write the next hit,compose,Beginning,Original
+14399e53229004f2c85ec3810d5cf776,53,A,talk about it ,compose,Beginning,Original
+9a8edf1b84fcdd4e9692881d31a5a26e,53,B,make the song popular,compose,Middle,Original
+559a558cc071b904f807f21b428370da,53,B,prepare to do the same,compose,Middle,Original
+6df37ff0405e34325f86235ab8e45b66,53,B,write,compose,Middle,Original
+b8b10c5c32c46a8f278dc868ef65fd9d,53,C,danced,jog,Beginning,Replacement
+38515a2d399231bb4340622c162d7b1a,53,C,park,jog,Beginning,Replacement
+bac07a9a07d31bd971ed4288f10499d6,53,C,spread the news,jog,Beginning,Replacement
+773048bc5ea832a6a6fb93f6da578bc6,53,C,promote it,jog,Beginning,Replacement
+bc3b5c51f98f643be9a99134572a2170,53,C,read aloud,jog,Beginning,Replacement
+2b7058890eefa22341aa295a036985a9,53,D,also perform,jog,Middle,Replacement
+58538dcb3f84e420200c601a4903dbef,53,D,start to sing,jog,Middle,Replacement
+64e64662aa8b1a57c3e5254b48652bcc,53,D,good friends,jog,Middle,Replacement
+8e6ad748c0685eaeffbadbae0050306d,53,D,write,jog,Middle,Replacement
+46c4212ded545ed717b0ff376752ae11,53,D,perform,jog,Middle,Replacement
+9f8736428d68ef86c654e1f0f0b1058e,53,D,write about it,jog,Middle,Replacement
+9a8edf1b84fcdd4e9692881d31a5a26e,54,A,talk about the finished project,present,Beginning,Original
+559a558cc071b904f807f21b428370da,54,A,prepare their notes and presentation,present,Beginning,Original
+6df37ff0405e34325f86235ab8e45b66,54,A,speak,present,Beginning,Original
+b8b10c5c32c46a8f278dc868ef65fd9d,54,B,progress,present,Middle,Original
+38515a2d399231bb4340622c162d7b1a,54,B,team,present,Middle,Original
+bac07a9a07d31bd971ed4288f10499d6,54,B,tell the team what changes will be made,present,Middle,Original
+773048bc5ea832a6a6fb93f6da578bc6,54,B,talk,present,Middle,Original
+bc3b5c51f98f643be9a99134572a2170,54,B,preform,present,Middle,Original
+2b7058890eefa22341aa295a036985a9,54,C,leave,rush,Beginning,Replacement
+58538dcb3f84e420200c601a4903dbef,54,C,express gratitude for the meeting,rush,Beginning,Replacement
+64e64662aa8b1a57c3e5254b48652bcc,54,C,maintain composure,rush,Beginning,Replacement
+8e6ad748c0685eaeffbadbae0050306d,54,C,speak,rush,Beginning,Replacement
+46c4212ded545ed717b0ff376752ae11,54,C,speak with the team,rush,Beginning,Replacement
+9f8736428d68ef86c654e1f0f0b1058e,54,C,praise the team,rush,Beginning,Replacement
+2817aa3ba5ce3496c4222adb7a6aa37c,54,D,talk to the people,rush,Middle,Replacement
+83d8403f227baca0464166c404dc0dc2,54,D,eat lunch,rush,Middle,Replacement
+14399e53229004f2c85ec3810d5cf776,54,D,to take lunch,rush,Middle,Replacement
+b8b10c5c32c46a8f278dc868ef65fd9d,55,A,untie,repair,Beginning,Original
+38515a2d399231bb4340622c162d7b1a,55,A,mechanic,repair,Beginning,Original
+bac07a9a07d31bd971ed4288f10499d6,55,A,completely rebuild it ,repair,Beginning,Original
+773048bc5ea832a6a6fb93f6da578bc6,55,A,to pause,repair,Beginning,Original
+bc3b5c51f98f643be9a99134572a2170,55,A,fix it ,repair,Beginning,Original
+2b7058890eefa22341aa295a036985a9,55,B,fix it,repair,Middle,Original
+58538dcb3f84e420200c601a4903dbef,55,B,fix it,repair,Middle,Original
+64e64662aa8b1a57c3e5254b48652bcc,55,B,take another look at the car,repair,Middle,Original
+8e6ad748c0685eaeffbadbae0050306d,55,B,order,repair,Middle,Original
+46c4212ded545ed717b0ff376752ae11,55,B,tow the car,repair,Middle,Original
+9f8736428d68ef86c654e1f0f0b1058e,55,B,fix it,repair,Middle,Original
+2817aa3ba5ce3496c4222adb7a6aa37c,55,C,repair the engine. ,stop,Beginning,Replacement
+83d8403f227baca0464166c404dc0dc2,55,C,put out cones,stop,Beginning,Replacement
+14399e53229004f2c85ec3810d5cf776,55,C,fix,stop,Beginning,Replacement
+9a8edf1b84fcdd4e9692881d31a5a26e,55,D,consider the red engine light,stop,Middle,Replacement
+559a558cc071b904f807f21b428370da,55,D,help out the driver with their malfunctioning car,stop,Middle,Replacement
+6df37ff0405e34325f86235ab8e45b66,55,D,repair it,stop,Middle,Replacement
+2b7058890eefa22341aa295a036985a9,56,A,broadcast,report,Beginning,Original
+58538dcb3f84e420200c601a4903dbef,56,A,take photos,report,Beginning,Original
+64e64662aa8b1a57c3e5254b48652bcc,56,A,plan his actions,report,Beginning,Original
+8e6ad748c0685eaeffbadbae0050306d,56,A,report,report,Beginning,Original
+46c4212ded545ed717b0ff376752ae11,56,A,be filmed,report,Beginning,Original
+9f8736428d68ef86c654e1f0f0b1058e,56,A,report,report,Beginning,Original
+2817aa3ba5ce3496c4222adb7a6aa37c,56,B,begin talking into the camera,report,Middle,Original
+83d8403f227baca0464166c404dc0dc2,56,B,report the news,report,Middle,Original
+14399e53229004f2c85ec3810d5cf776,56,B,give her speech,report,Middle,Original
+9a8edf1b84fcdd4e9692881d31a5a26e,56,C,hide from the terrorist attack,order,Beginning,Replacement
+559a558cc071b904f807f21b428370da,56,C,realize they need to document what is happening as quickly as possible,order,Beginning,Replacement
+6df37ff0405e34325f86235ab8e45b66,56,C,document it,order,Beginning,Replacement
+b8b10c5c32c46a8f278dc868ef65fd9d,56,D,report,order,Middle,Replacement
+38515a2d399231bb4340622c162d7b1a,56,D,arrives,order,Middle,Replacement
+bac07a9a07d31bd971ed4288f10499d6,56,D,get ready to make news happen,order,Middle,Replacement
+773048bc5ea832a6a6fb93f6da578bc6,56,D,take pictures,order,Middle,Replacement
+bc3b5c51f98f643be9a99134572a2170,56,D,take pictures,order,Middle,Replacement
+2817aa3ba5ce3496c4222adb7a6aa37c,57,A,brainstorm ideas,design,Beginning,Original
+83d8403f227baca0464166c404dc0dc2,57,A,draw,design,Beginning,Original
+14399e53229004f2c85ec3810d5cf776,57,A,realize the capability of the couples,design,Beginning,Original
+9a8edf1b84fcdd4e9692881d31a5a26e,57,B,help the newly wedded couple build their home,design,Middle,Original
+559a558cc071b904f807f21b428370da,57,B,begin work on making the final blueprints a reality,design,Middle,Original
+6df37ff0405e34325f86235ab8e45b66,57,B,design,design,Middle,Original
+b8b10c5c32c46a8f278dc868ef65fd9d,57,C,adjust,eat,Beginning,Replacement
+38515a2d399231bb4340622c162d7b1a,57,C,kitchen,eat,Beginning,Replacement
+bac07a9a07d31bd971ed4288f10499d6,57,C,revise a few things,eat,Beginning,Replacement
+773048bc5ea832a6a6fb93f6da578bc6,57,C,draw the plan,eat,Beginning,Replacement
+bc3b5c51f98f643be9a99134572a2170,57,C,draw the rest,eat,Beginning,Replacement
+2b7058890eefa22341aa295a036985a9,57,D,make haste on it,eat,Middle,Replacement
+58538dcb3f84e420200c601a4903dbef,57,D,come up with,eat,Middle,Replacement
+64e64662aa8b1a57c3e5254b48652bcc,57,D,explain his paln,eat,Middle,Replacement
+8e6ad748c0685eaeffbadbae0050306d,57,D,revise,eat,Middle,Replacement
+46c4212ded545ed717b0ff376752ae11,57,D,record their desires for the build,eat,Middle,Replacement
+9f8736428d68ef86c654e1f0f0b1058e,57,D,finish the design,eat,Middle,Replacement
+9a8edf1b84fcdd4e9692881d31a5a26e,58,A,fill in for the big event,dance,Beginning,Original
+559a558cc071b904f807f21b428370da,58,A,make quick changes to the performance routine and choreography,dance,Beginning,Original
+6df37ff0405e34325f86235ab8e45b66,58,A,fill in,dance,Beginning,Original
+b8b10c5c32c46a8f278dc868ef65fd9d,58,B,investigate,dance,Middle,Original
+38515a2d399231bb4340622c162d7b1a,58,B,minute,dance,Middle,Original
+bac07a9a07d31bd971ed4288f10499d6,58,B,be flexible and call the stand-in,dance,Middle,Original
+773048bc5ea832a6a6fb93f6da578bc6,58,B,leave the group,dance,Middle,Original
+bc3b5c51f98f643be9a99134572a2170,58,B,cancel the show,dance,Middle,Original
+2b7058890eefa22341aa295a036985a9,58,C,perform,dress up,Beginning,Replacement
+58538dcb3f84e420200c601a4903dbef,58,C,substitute for him,dress up,Beginning,Replacement
+64e64662aa8b1a57c3e5254b48652bcc,58,C,replace him,dress up,Beginning,Replacement
+8e6ad748c0685eaeffbadbae0050306d,58,C,substitute,dress up,Beginning,Replacement
+46c4212ded545ed717b0ff376752ae11,58,C,find a substitute,dress up,Beginning,Replacement
+9f8736428d68ef86c654e1f0f0b1058e,58,C,adjust accordingly,dress up,Beginning,Replacement
+2817aa3ba5ce3496c4222adb7a6aa37c,58,D,find a replacement,dress up,Middle,Replacement
+83d8403f227baca0464166c404dc0dc2,58,D,call a back up,dress up,Middle,Replacement
+14399e53229004f2c85ec3810d5cf776,58,D,go to the hospital,dress up,Middle,Replacement
+b8b10c5c32c46a8f278dc868ef65fd9d,59,A,practiced,train,Beginning,Original
+38515a2d399231bb4340622c162d7b1a,59,A,stadium,train,Beginning,Original
+bac07a9a07d31bd971ed4288f10499d6,59,A,get ready%0aget ready,train,Beginning,Original
+773048bc5ea832a6a6fb93f6da578bc6,59,A,before the match,train,Beginning,Original
+bc3b5c51f98f643be9a99134572a2170,59,A,play hard,train,Beginning,Original
+2b7058890eefa22341aa295a036985a9,59,B,train,train,Middle,Original
+58538dcb3f84e420200c601a4903dbef,59,B,get prepared,train,Middle,Original
+64e64662aa8b1a57c3e5254b48652bcc,59,B,follow the instructions,train,Middle,Original
+8e6ad748c0685eaeffbadbae0050306d,59,B,train,train,Middle,Original
+46c4212ded545ed717b0ff376752ae11,59,B,participate in the game,train,Middle,Original
+9f8736428d68ef86c654e1f0f0b1058e,59,B,prepare,train,Middle,Original
+2817aa3ba5ce3496c4222adb7a6aa37c,59,C,check his calendar. ,cook,Beginning,Replacement
+83d8403f227baca0464166c404dc0dc2,59,C,work out,cook,Beginning,Replacement
+14399e53229004f2c85ec3810d5cf776,59,C,come and join the rest,cook,Beginning,Replacement
+9a8edf1b84fcdd4e9692881d31a5a26e,59,D,prepare for their events,cook,Middle,Replacement
+559a558cc071b904f807f21b428370da,59,D,make note of their role/assignments on the calendar,cook,Middle,Replacement
+6df37ff0405e34325f86235ab8e45b66,59,D,train,cook,Middle,Replacement
+2b7058890eefa22341aa295a036985a9,60,A,pitch,advertise,Beginning,Original
+58538dcb3f84e420200c601a4903dbef,60,A,pitch,advertise,Beginning,Original
+64e64662aa8b1a57c3e5254b48652bcc,60,A,increase sales,advertise,Beginning,Original
+8e6ad748c0685eaeffbadbae0050306d,60,A,hustle,advertise,Beginning,Original
+46c4212ded545ed717b0ff376752ae11,60,A,prepare,advertise,Beginning,Original
+9f8736428d68ef86c654e1f0f0b1058e,60,A,rehearse,advertise,Beginning,Original
+2817aa3ba5ce3496c4222adb7a6aa37c,60,B,prepare,advertise,Middle,Original
+83d8403f227baca0464166c404dc0dc2,60,B,come up with a pitch,advertise,Middle,Original
+14399e53229004f2c85ec3810d5cf776,60,B,help,advertise,Middle,Original
+9a8edf1b84fcdd4e9692881d31a5a26e,60,C,expand,relax,Beginning,Replacement
+559a558cc071b904f807f21b428370da,60,C,prepare,relax,Beginning,Replacement
+6df37ff0405e34325f86235ab8e45b66,60,C,practice,relax,Beginning,Replacement
+b8b10c5c32c46a8f278dc868ef65fd9d,60,D,sell,relax,Middle,Replacement
+38515a2d399231bb4340622c162d7b1a,60,D,products,relax,Middle,Replacement
+bac07a9a07d31bd971ed4288f10499d6,60,D,be ready,relax,Middle,Replacement
+773048bc5ea832a6a6fb93f6da578bc6,60,D,advertise,relax,Middle,Replacement
+bc3b5c51f98f643be9a99134572a2170,60,D,check,relax,Middle,Replacement
+2817aa3ba5ce3496c4222adb7a6aa37c,61,A,prepare the final work on the book,write,Beginning,Original
+83d8403f227baca0464166c404dc0dc2,61,A,prepare,write,Beginning,Original
+14399e53229004f2c85ec3810d5cf776,61,A,prepare,write,Beginning,Original
+9a8edf1b84fcdd4e9692881d31a5a26e,61,B,make more sales,write,Middle,Original
+559a558cc071b904f807f21b428370da,61,B,write,write,Middle,Original
+6df37ff0405e34325f86235ab8e45b66,61,B,write,write,Middle,Original
+b8b10c5c32c46a8f278dc868ef65fd9d,61,C,rewrite,order,Beginning,Replacement
+38515a2d399231bb4340622c162d7b1a,61,C,restaurant,order,Beginning,Replacement
+bac07a9a07d31bd971ed4288f10499d6,61,C,get back to work,order,Beginning,Replacement
+773048bc5ea832a6a6fb93f6da578bc6,61,C,continue,order,Beginning,Replacement
+bc3b5c51f98f643be9a99134572a2170,61,C,be proofread,order,Beginning,Replacement
+2b7058890eefa22341aa295a036985a9,61,D,edit,order,Middle,Replacement
+58538dcb3f84e420200c601a4903dbef,61,D,be prepared,order,Middle,Replacement
+64e64662aa8b1a57c3e5254b48652bcc,61,D,be prepared ,order,Middle,Replacement
+8e6ad748c0685eaeffbadbae0050306d,61,D,hurry,order,Middle,Replacement
+46c4212ded545ed717b0ff376752ae11,61,D,prepare,order,Middle,Replacement
+9f8736428d68ef86c654e1f0f0b1058e,61,D,finish,order,Middle,Replacement
+9a8edf1b84fcdd4e9692881d31a5a26e,62,A,consider,operate,Beginning,Original
+559a558cc071b904f807f21b428370da,62,A,write letters,operate,Beginning,Original
+6df37ff0405e34325f86235ab8e45b66,62,A,treat,operate,Beginning,Original
+b8b10c5c32c46a8f278dc868ef65fd9d,62,B,redo,operate,Middle,Original
+38515a2d399231bb4340622c162d7b1a,62,B,sicker,operate,Middle,Original
+bac07a9a07d31bd971ed4288f10499d6,62,B,prepare them,operate,Middle,Original
+773048bc5ea832a6a6fb93f6da578bc6,62,B,run tests,operate,Middle,Original
+bc3b5c51f98f643be9a99134572a2170,62,B,take medicine,operate,Middle,Original
+2b7058890eefa22341aa295a036985a9,62,C,shock him,drive,Beginning,Replacement
+58538dcb3f84e420200c601a4903dbef,62,C,hurry,drive,Beginning,Replacement
+64e64662aa8b1a57c3e5254b48652bcc,62,C,hurry,drive,Beginning,Replacement
+8e6ad748c0685eaeffbadbae0050306d,62,C,consult,drive,Beginning,Replacement
+46c4212ded545ed717b0ff376752ae11,62,C,help,drive,Beginning,Replacement
+9f8736428d68ef86c654e1f0f0b1058e,62,C,hurry,drive,Beginning,Replacement
+2817aa3ba5ce3496c4222adb7a6aa37c,62,D,hurry,drive,Middle,Replacement
+83d8403f227baca0464166c404dc0dc2,62,D,look through his medical book,drive,Middle,Replacement
+14399e53229004f2c85ec3810d5cf776,62,D,bout the thing,drive,Middle,Replacement
+b8b10c5c32c46a8f278dc868ef65fd9d,63,A,begin,translate,Beginning,Original
+38515a2d399231bb4340622c162d7b1a,63,A,law,translate,Beginning,Original
+bac07a9a07d31bd971ed4288f10499d6,63,A,go back,translate,Beginning,Original
+773048bc5ea832a6a6fb93f6da578bc6,63,A,translate,translate,Beginning,Original
+bc3b5c51f98f643be9a99134572a2170,63,A,listen,translate,Beginning,Original
+2b7058890eefa22341aa295a036985a9,63,B,sign,translate,Middle,Original
+58538dcb3f84e420200c601a4903dbef,63,B,come up with ideas,translate,Middle,Original
+64e64662aa8b1a57c3e5254b48652bcc,63,B,be subservient,translate,Middle,Original
+8e6ad748c0685eaeffbadbae0050306d,63,B,transcribe,translate,Middle,Original
+46c4212ded545ed717b0ff376752ae11,63,B,listen,translate,Middle,Original
+9f8736428d68ef86c654e1f0f0b1058e,63,B,listen,translate,Middle,Original
+2817aa3ba5ce3496c4222adb7a6aa37c,63,C,translate,freshen up,Beginning,Replacement
+83d8403f227baca0464166c404dc0dc2,63,C,get ready,freshen up,Beginning,Replacement
+14399e53229004f2c85ec3810d5cf776,63,C,hurry,freshen up,Beginning,Replacement
+9a8edf1b84fcdd4e9692881d31a5a26e,63,D,follow the rules,freshen up,Middle,Replacement
+559a558cc071b904f807f21b428370da,63,D,rush back,freshen up,Middle,Replacement
+6df37ff0405e34325f86235ab8e45b66,63,D,pass thd law,freshen up,Middle,Replacement
+2b7058890eefa22341aa295a036985a9,64,A,water them,drive,Beginning,Original
+58538dcb3f84e420200c601a4903dbef,64,A,get his work done,drive,Beginning,Original
+64e64662aa8b1a57c3e5254b48652bcc,64,A,optimize,drive,Beginning,Original
+8e6ad748c0685eaeffbadbae0050306d,64,A,plow,drive,Beginning,Original
+46c4212ded545ed717b0ff376752ae11,64,A,proceed,drive,Beginning,Original
+9f8736428d68ef86c654e1f0f0b1058e,64,A,get as much done as possible,drive,Beginning,Original
+2817aa3ba5ce3496c4222adb7a6aa37c,64,B,clean ,drive,Middle,Original
+83d8403f227baca0464166c404dc0dc2,64,B,take advantage,drive,Middle,Original
+14399e53229004f2c85ec3810d5cf776,64,B,plant,drive,Middle,Original
+9a8edf1b84fcdd4e9692881d31a5a26e,64,C,prepare,pay,Beginning,Replacement
+559a558cc071b904f807f21b428370da,64,C,prepare,pay,Beginning,Replacement
+6df37ff0405e34325f86235ab8e45b66,64,C,prepare,pay,Beginning,Replacement
+b8b10c5c32c46a8f278dc868ef65fd9d,64,D,gauge,pay,Middle,Replacement
+38515a2d399231bb4340622c162d7b1a,64,D,farmer,pay,Middle,Replacement
+bac07a9a07d31bd971ed4288f10499d6,64,D,work,pay,Middle,Replacement
+773048bc5ea832a6a6fb93f6da578bc6,64,D,be warm,pay,Middle,Replacement
+bc3b5c51f98f643be9a99134572a2170,64,D,go out,pay,Middle,Replacement
+2817aa3ba5ce3496c4222adb7a6aa37c,65,A,calm them down,assist,Beginning,Original
+83d8403f227baca0464166c404dc0dc2,65,A,tell everyone to remain calm,assist,Beginning,Original
+14399e53229004f2c85ec3810d5cf776,65,A,help,assist,Beginning,Original
+9a8edf1b84fcdd4e9692881d31a5a26e,65,B,announce,assist,Middle,Original
+559a558cc071b904f807f21b428370da,65,B,announce,assist,Middle,Original
+6df37ff0405e34325f86235ab8e45b66,65,B,calm them down,assist,Middle,Original
+b8b10c5c32c46a8f278dc868ef65fd9d,65,C,gain,return,Beginning,Replacement
+38515a2d399231bb4340622c162d7b1a,65,C,bathroom,return,Beginning,Replacement
+bac07a9a07d31bd971ed4288f10499d6,65,C,finish and go reassure the passengers to stay calm,return,Beginning,Replacement
+773048bc5ea832a6a6fb93f6da578bc6,65,C,hurry,return,Beginning,Replacement
+bc3b5c51f98f643be9a99134572a2170,65,C,finish,return,Beginning,Replacement
+2b7058890eefa22341aa295a036985a9,65,D,calm down,return,Middle,Replacement
+58538dcb3f84e420200c601a4903dbef,65,D,calm down,return,Middle,Replacement
+64e64662aa8b1a57c3e5254b48652bcc,65,D,finish up,return,Middle,Replacement
+8e6ad748c0685eaeffbadbae0050306d,65,D,calm them down,return,Middle,Replacement
+46c4212ded545ed717b0ff376752ae11,65,D,support them,return,Middle,Replacement
+9f8736428d68ef86c654e1f0f0b1058e,65,D,calm them down,return,Middle,Replacement
+9a8edf1b84fcdd4e9692881d31a5a26e,66,A,seat them,apologize,Beginning,Original
+559a558cc071b904f807f21b428370da,66,A,keep track,apologize,Beginning,Original
+6df37ff0405e34325f86235ab8e45b66,66,A,inform,apologize,Beginning,Original
+b8b10c5c32c46a8f278dc868ef65fd9d,66,B,wait,apologize,Middle,Original
+38515a2d399231bb4340622c162d7b1a,66,B,wait,apologize,Middle,Original
+bac07a9a07d31bd971ed4288f10499d6,66,B,do their best to assure the waiting customers that the wait won't be long,apologize,Middle,Original
+773048bc5ea832a6a6fb93f6da578bc6,66,B,make reservations,apologize,Middle,Original
+bc3b5c51f98f643be9a99134572a2170,66,B,relax,apologize,Middle,Original
+2b7058890eefa22341aa295a036985a9,66,C,attend,serve,Beginning,Replacement
+58538dcb3f84e420200c601a4903dbef,66,C,greet,serve,Beginning,Replacement
+64e64662aa8b1a57c3e5254b48652bcc,66,C,attend,serve,Beginning,Replacement
+8e6ad748c0685eaeffbadbae0050306d,66,C,stall,serve,Beginning,Replacement
+46c4212ded545ed717b0ff376752ae11,66,C,offer,serve,Beginning,Replacement
+9f8736428d68ef86c654e1f0f0b1058e,66,C,seat them,serve,Beginning,Replacement
+2817aa3ba5ce3496c4222adb7a6aa37c,66,D,check,serve,Middle,Replacement
+83d8403f227baca0464166c404dc0dc2,66,D,be polite,serve,Middle,Replacement
+14399e53229004f2c85ec3810d5cf776,66,D,wait,serve,Middle,Replacement
+b8b10c5c32c46a8f278dc868ef65fd9d,67,A,pose,pose,Beginning,Original
+38515a2d399231bb4340622c162d7b1a,67,A,show,pose,Beginning,Original
+bac07a9a07d31bd971ed4288f10499d6,67,A,be careful,pose,Beginning,Original
+773048bc5ea832a6a6fb93f6da578bc6,67,A,stage,pose,Beginning,Original
+bc3b5c51f98f643be9a99134572a2170,67,A,walk,pose,Beginning,Original
+2b7058890eefa22341aa295a036985a9,67,B,settle down,pose,Middle,Original
+58538dcb3f84e420200c601a4903dbef,67,B,prepare,pose,Middle,Original
+64e64662aa8b1a57c3e5254b48652bcc,67,B,watch,pose,Middle,Original
+8e6ad748c0685eaeffbadbae0050306d,67,B,proceed,pose,Middle,Original
+46c4212ded545ed717b0ff376752ae11,67,B,proceed,pose,Middle,Original
+9f8736428d68ef86c654e1f0f0b1058e,67,B,cheer,pose,Middle,Original
+2817aa3ba5ce3496c4222adb7a6aa37c,67,C,rush,shower,Beginning,Replacement
+83d8403f227baca0464166c404dc0dc2,67,C,put on makeup,shower,Beginning,Replacement
+14399e53229004f2c85ec3810d5cf776,67,C,rush,shower,Beginning,Replacement
+9a8edf1b84fcdd4e9692881d31a5a26e,67,D,wait,shower,Middle,Replacement
+559a558cc071b904f807f21b428370da,67,D,rush,shower,Middle,Replacement
+6df37ff0405e34325f86235ab8e45b66,67,D,walk,shower,Middle,Replacement
+2b7058890eefa22341aa295a036985a9,68,A,report,write,Beginning,Original
+58538dcb3f84e420200c601a4903dbef,68,A,write ,write,Beginning,Original
+64e64662aa8b1a57c3e5254b48652bcc,68,A,do research,write,Beginning,Original
+8e6ad748c0685eaeffbadbae0050306d,68,A,publish,write,Beginning,Original
+46c4212ded545ed717b0ff376752ae11,68,A,interview,write,Beginning,Original
+9f8736428d68ef86c654e1f0f0b1058e,68,A,write ,write,Beginning,Original
+2817aa3ba5ce3496c4222adb7a6aa37c,68,B,record,write,Middle,Original
+83d8403f227baca0464166c404dc0dc2,68,B,ask,write,Middle,Original
+14399e53229004f2c85ec3810d5cf776,68,B,send it,write,Middle,Original
+9a8edf1b84fcdd4e9692881d31a5a26e,68,C,talk,walk,Beginning,Replacement
+559a558cc071b904f807f21b428370da,68,C,resist the urge to panic and fear for how the election will go,walk,Beginning,Replacement
+6df37ff0405e34325f86235ab8e45b66,68,C,interview,walk,Beginning,Replacement
+b8b10c5c32c46a8f278dc868ef65fd9d,68,D,hurry,walk,Middle,Replacement
+38515a2d399231bb4340622c162d7b1a,68,D,politicians,walk,Middle,Replacement
+bac07a9a07d31bd971ed4288f10499d6,68,D,see what comments people have ,walk,Middle,Replacement
+773048bc5ea832a6a6fb93f6da578bc6,68,D,campaign ,walk,Middle,Replacement
+bc3b5c51f98f643be9a99134572a2170,68,D,write ,walk,Middle,Replacement
+2817aa3ba5ce3496c4222adb7a6aa37c,69,A,prepare,supervise,Beginning,Original
+83d8403f227baca0464166c404dc0dc2,69,A,clean,supervise,Beginning,Original
+14399e53229004f2c85ec3810d5cf776,69,A,prepare,supervise,Beginning,Original
+9a8edf1b84fcdd4e9692881d31a5a26e,69,B,manage,supervise,Middle,Original
+559a558cc071b904f807f21b428370da,69,B,double-check,supervise,Middle,Original
+6df37ff0405e34325f86235ab8e45b66,69,B,hurry,supervise,Middle,Original
+b8b10c5c32c46a8f278dc868ef65fd9d,69,C,work,sail,Beginning,Replacement
+38515a2d399231bb4340622c162d7b1a,69,C,boat,sail,Beginning,Replacement
+bac07a9a07d31bd971ed4288f10499d6,69,C,get to the event,sail,Beginning,Replacement
+773048bc5ea832a6a6fb93f6da578bc6,69,C,take off,sail,Beginning,Replacement
+bc3b5c51f98f643be9a99134572a2170,69,C,take off,sail,Beginning,Replacement
+2b7058890eefa22341aa295a036985a9,69,D,complete,sail,Middle,Replacement
+58538dcb3f84e420200c601a4903dbef,69,D,prepare,sail,Middle,Replacement
+64e64662aa8b1a57c3e5254b48652bcc,69,D,be careful,sail,Middle,Replacement
+8e6ad748c0685eaeffbadbae0050306d,69,D,prepare,sail,Middle,Replacement
+46c4212ded545ed717b0ff376752ae11,69,D,proceed,sail,Middle,Replacement
+9f8736428d68ef86c654e1f0f0b1058e,69,D,plan,sail,Middle,Replacement
+9a8edf1b84fcdd4e9692881d31a5a26e,70,A,be european,interpret,Beginning,Original
+559a558cc071b904f807f21b428370da,70,A,be ready,interpret,Beginning,Original
+6df37ff0405e34325f86235ab8e45b66,70,A,translate,interpret,Beginning,Original
+b8b10c5c32c46a8f278dc868ef65fd9d,70,B,inform,interpret,Middle,Original
+38515a2d399231bb4340622c162d7b1a,70,B,talk,interpret,Middle,Original
+bac07a9a07d31bd971ed4288f10499d6,70,B,translate,interpret,Middle,Original
+773048bc5ea832a6a6fb93f6da578bc6,70,B,interpret,interpret,Middle,Original
+bc3b5c51f98f643be9a99134572a2170,70,B,speak european,interpret,Middle,Original
+2b7058890eefa22341aa295a036985a9,70,C,interpret,rest,Beginning,Replacement
+58538dcb3f84e420200c601a4903dbef,70,C,translate,rest,Beginning,Replacement
+64e64662aa8b1a57c3e5254b48652bcc,70,C,leave,rest,Beginning,Replacement
+8e6ad748c0685eaeffbadbae0050306d,70,C,translate,rest,Beginning,Replacement
+46c4212ded545ed717b0ff376752ae11,70,C,translate,rest,Beginning,Replacement
+9f8736428d68ef86c654e1f0f0b1058e,70,C,translate,rest,Beginning,Replacement
+2817aa3ba5ce3496c4222adb7a6aa37c,70,D,get ready,rest,Middle,Replacement
+83d8403f227baca0464166c404dc0dc2,70,D,stay focused,rest,Middle,Replacement
+14399e53229004f2c85ec3810d5cf776,70,D,bout the program about to be held,rest,Middle,Replacement
+b8b10c5c32c46a8f278dc868ef65fd9d,71,A,placemat,install,Beginning,Original
+38515a2d399231bb4340622c162d7b1a,71,A,electrician,install,Beginning,Original
+bac07a9a07d31bd971ed4288f10499d6,71,A,let the workers know what needs to be done first,install,Beginning,Original
+773048bc5ea832a6a6fb93f6da578bc6,71,A,connect,install,Beginning,Original
+bc3b5c51f98f643be9a99134572a2170,71,A,use,install,Beginning,Original
+2b7058890eefa22341aa295a036985a9,71,B,read,install,Middle,Original
+58538dcb3f84e420200c601a4903dbef,71,B,clean,install,Middle,Original
+64e64662aa8b1a57c3e5254b48652bcc,71,B,start,install,Middle,Original
+8e6ad748c0685eaeffbadbae0050306d,71,B,oversee,install,Middle,Original
+46c4212ded545ed717b0ff376752ae11,71,B,implement them,install,Middle,Original
+9f8736428d68ef86c654e1f0f0b1058e,71,B,prepare,install,Middle,Original
+2817aa3ba5ce3496c4222adb7a6aa37c,71,C,look for,shop,Beginning,Replacement
+83d8403f227baca0464166c404dc0dc2,71,C,get them,shop,Beginning,Replacement
+14399e53229004f2c85ec3810d5cf776,71,C,go,shop,Beginning,Replacement
+9a8edf1b84fcdd4e9692881d31a5a26e,71,D,finish,shop,Middle,Replacement
+559a558cc071b904f807f21b428370da,71,D,prepare,shop,Middle,Replacement
+6df37ff0405e34325f86235ab8e45b66,71,D,get them,shop,Middle,Replacement
+2b7058890eefa22341aa295a036985a9,72,A,respond,investigate,Beginning,Original
+58538dcb3f84e420200c601a4903dbef,72,A,ask questions,investigate,Beginning,Original
+64e64662aa8b1a57c3e5254b48652bcc,72,A,calm her down,investigate,Beginning,Original
+8e6ad748c0685eaeffbadbae0050306d,72,A,withhold,investigate,Beginning,Original
+46c4212ded545ed717b0ff376752ae11,72,A,ask questions,investigate,Beginning,Original
+9f8736428d68ef86c654e1f0f0b1058e,72,A,explain,investigate,Beginning,Original
+2817aa3ba5ce3496c4222adb7a6aa37c,72,B,examine it,investigate,Middle,Original
+83d8403f227baca0464166c404dc0dc2,72,B,gather ,investigate,Middle,Original
+14399e53229004f2c85ec3810d5cf776,72,B,interview,investigate,Middle,Original
+9a8edf1b84fcdd4e9692881d31a5a26e,72,C,talk,return,Beginning,Replacement
+559a558cc071b904f807f21b428370da,72,C,resist the urge to tell her sensitive information about the case in an inappropriate location for that conversation,return,Beginning,Replacement
+6df37ff0405e34325f86235ab8e45b66,72,C,interview,return,Beginning,Replacement
+b8b10c5c32c46a8f278dc868ef65fd9d,72,D,wash,return,Middle,Replacement
+38515a2d399231bb4340622c162d7b1a,72,D,wife,return,Middle,Replacement
+bac07a9a07d31bd971ed4288f10499d6,72,D,tell,return,Middle,Replacement
+773048bc5ea832a6a6fb93f6da578bc6,72,D,report,return,Middle,Replacement
+bc3b5c51f98f643be9a99134572a2170,72,D,ask questions,return,Middle,Replacement
+2817aa3ba5ce3496c4222adb7a6aa37c,73,A,look at possible investments. ,invest,Beginning,Original
+83d8403f227baca0464166c404dc0dc2,73,A,invest,invest,Beginning,Original
+14399e53229004f2c85ec3810d5cf776,73,A,do well,invest,Beginning,Original
+9a8edf1b84fcdd4e9692881d31a5a26e,73,B,consider,invest,Middle,Original
+559a558cc071b904f807f21b428370da,73,B,evaluate,invest,Middle,Original
+6df37ff0405e34325f86235ab8e45b66,73,B,invest,invest,Middle,Original
+b8b10c5c32c46a8f278dc868ef65fd9d,73,C,explain,present,Beginning,Replacement
+38515a2d399231bb4340622c162d7b1a,73,C,room,present,Beginning,Replacement
+bac07a9a07d31bd971ed4288f10499d6,73,C,stay alert,present,Beginning,Replacement
+773048bc5ea832a6a6fb93f6da578bc6,73,C,take advantage,present,Beginning,Replacement
+bc3b5c51f98f643be9a99134572a2170,73,C,take risks,present,Beginning,Replacement
+2b7058890eefa22341aa295a036985a9,73,D,take risks,present,Middle,Replacement
+58538dcb3f84e420200c601a4903dbef,73,D,think about it before he does it,present,Middle,Replacement
+64e64662aa8b1a57c3e5254b48652bcc,73,D,take risks,present,Middle,Replacement
+8e6ad748c0685eaeffbadbae0050306d,73,D,invest,present,Middle,Replacement
+46c4212ded545ed717b0ff376752ae11,73,D,evaluate,present,Middle,Replacement
+9f8736428d68ef86c654e1f0f0b1058e,73,D,advise,present,Middle,Replacement
+9a8edf1b84fcdd4e9692881d31a5a26e,74,A,prepare,paint,Beginning,Original
+559a558cc071b904f807f21b428370da,74,A,take a moment,paint,Beginning,Original
+6df37ff0405e34325f86235ab8e45b66,74,A,work,paint,Beginning,Original
+b8b10c5c32c46a8f278dc868ef65fd9d,74,B,fish,paint,Middle,Original
+38515a2d399231bb4340622c162d7b1a,74,B,must,paint,Middle,Original
+bac07a9a07d31bd971ed4288f10499d6,74,B,prepare,paint,Middle,Original
+773048bc5ea832a6a6fb93f6da578bc6,74,B,prepare,paint,Middle,Original
+bc3b5c51f98f643be9a99134572a2170,74,B,prepare,paint,Middle,Original
+2b7058890eefa22341aa295a036985a9,74,C,complete,sleep,Beginning,Replacement
+58538dcb3f84e420200c601a4903dbef,74,C,get up and prepare,sleep,Beginning,Replacement
+64e64662aa8b1a57c3e5254b48652bcc,74,C,get new art,sleep,Beginning,Replacement
+8e6ad748c0685eaeffbadbae0050306d,74,C,imagine,sleep,Beginning,Replacement
+46c4212ded545ed717b0ff376752ae11,74,C,prepare,sleep,Beginning,Replacement
+9f8736428d68ef86c654e1f0f0b1058e,74,C,paint,sleep,Beginning,Replacement
+2817aa3ba5ce3496c4222adb7a6aa37c,74,D,prepare,sleep,Middle,Replacement
+83d8403f227baca0464166c404dc0dc2,74,D,plan,sleep,Middle,Replacement
+14399e53229004f2c85ec3810d5cf776,74,D,be successful,sleep,Middle,Replacement
+b8b10c5c32c46a8f278dc868ef65fd9d,75,A,investigate,observe,Beginning,Original
+38515a2d399231bb4340622c162d7b1a,75,A,telescope,observe,Beginning,Original
+bac07a9a07d31bd971ed4288f10499d6,75,A,see,observe,Beginning,Original
+773048bc5ea832a6a6fb93f6da578bc6,75,A,see,observe,Beginning,Original
+bc3b5c51f98f643be9a99134572a2170,75,A,check,observe,Beginning,Original
+2b7058890eefa22341aa295a036985a9,75,B,evaluate,observe,Middle,Original
+58538dcb3f84e420200c601a4903dbef,75,B,look,observe,Middle,Original
+64e64662aa8b1a57c3e5254b48652bcc,75,B,organize,observe,Middle,Original
+8e6ad748c0685eaeffbadbae0050306d,75,B,observe,observe,Middle,Original
+46c4212ded545ed717b0ff376752ae11,75,B,record,observe,Middle,Original
+9f8736428d68ef86c654e1f0f0b1058e,75,B,work,observe,Middle,Original
+2817aa3ba5ce3496c4222adb7a6aa37c,75,C,look,relax,Beginning,Replacement
+83d8403f227baca0464166c404dc0dc2,75,C,relax,relax,Beginning,Replacement
+14399e53229004f2c85ec3810d5cf776,75,C,relax,relax,Beginning,Replacement
+9a8edf1b84fcdd4e9692881d31a5a26e,75,D,balance,relax,Middle,Replacement
+559a558cc071b904f807f21b428370da,75,D,"know that they cannot peer into the sky much at this time, to avoid staring into the sun and damaging their eyes",relax,Middle,Replacement
+6df37ff0405e34325f86235ab8e45b66,75,D,head to work,relax,Middle,Replacement
+2b7058890eefa22341aa295a036985a9,76,A,provide intel,consult,Beginning,Original
+58538dcb3f84e420200c601a4903dbef,76,A,brainstorm,consult,Beginning,Original
+64e64662aa8b1a57c3e5254b48652bcc,76,A,provide guidance,consult,Beginning,Original
+8e6ad748c0685eaeffbadbae0050306d,76,A,analyze,consult,Beginning,Original
+46c4212ded545ed717b0ff376752ae11,76,A,brainstorm,consult,Beginning,Original
+9f8736428d68ef86c654e1f0f0b1058e,76,A,assist,consult,Beginning,Original
+2817aa3ba5ce3496c4222adb7a6aa37c,76,B,prepare,consult,Middle,Original
+83d8403f227baca0464166c404dc0dc2,76,B,prepare ,consult,Middle,Original
+14399e53229004f2c85ec3810d5cf776,76,B,efficient,consult,Middle,Original
+9a8edf1b84fcdd4e9692881d31a5a26e,76,C,prepare ,study,Beginning,Replacement
+559a558cc071b904f807f21b428370da,76,C,research,study,Beginning,Replacement
+6df37ff0405e34325f86235ab8e45b66,76,C,assist,study,Beginning,Replacement
+b8b10c5c32c46a8f278dc868ef65fd9d,76,D,provide guidance,study,Middle,Replacement
+38515a2d399231bb4340622c162d7b1a,76,D,company,study,Middle,Replacement
+bac07a9a07d31bd971ed4288f10499d6,76,D,make a plan,study,Middle,Replacement
+773048bc5ea832a6a6fb93f6da578bc6,76,D,make enquires,study,Middle,Replacement
+bc3b5c51f98f643be9a99134572a2170,76,D,ask,study,Middle,Replacement
+2817aa3ba5ce3496c4222adb7a6aa37c,77,A,prepare,fish,Beginning,Original
+83d8403f227baca0464166c404dc0dc2,77,A,cast his lines,fish,Beginning,Original
+14399e53229004f2c85ec3810d5cf776,77,A,prepare,fish,Beginning,Original
+9a8edf1b84fcdd4e9692881d31a5a26e,77,B,consider,fish,Middle,Original
+559a558cc071b904f807f21b428370da,77,B,stay out,fish,Middle,Original
+6df37ff0405e34325f86235ab8e45b66,77,B,sail,fish,Middle,Original
+b8b10c5c32c46a8f278dc868ef65fd9d,77,C,prepare,prepare,Beginning,Replacement
+38515a2d399231bb4340622c162d7b1a,77,C,fisherman,prepare,Beginning,Replacement
+bac07a9a07d31bd971ed4288f10499d6,77,C,catch fish,prepare,Beginning,Replacement
+773048bc5ea832a6a6fb93f6da578bc6,77,C,be careful ,prepare,Beginning,Replacement
+bc3b5c51f98f643be9a99134572a2170,77,C,fish,prepare,Beginning,Replacement
+2b7058890eefa22341aa295a036985a9,77,D,fish,prepare,Middle,Replacement
+58538dcb3f84e420200c601a4903dbef,77,D,cast ,prepare,Middle,Replacement
+64e64662aa8b1a57c3e5254b48652bcc,77,D,fish,prepare,Middle,Replacement
+8e6ad748c0685eaeffbadbae0050306d,77,D,continue,prepare,Middle,Replacement
+46c4212ded545ed717b0ff376752ae11,77,D,prepare,prepare,Middle,Replacement
+9f8736428d68ef86c654e1f0f0b1058e,77,D,cast,prepare,Middle,Replacement
+9a8edf1b84fcdd4e9692881d31a5a26e,78,A,cut it,cut,Beginning,Original
+559a558cc071b904f807f21b428370da,78,A,cut it,cut,Beginning,Original
+6df37ff0405e34325f86235ab8e45b66,78,A,cut it,cut,Beginning,Original
+b8b10c5c32c46a8f278dc868ef65fd9d,78,B,cut it,cut,Middle,Original
+38515a2d399231bb4340622c162d7b1a,78,B,long,cut,Middle,Original
+bac07a9a07d31bd971ed4288f10499d6,78,B,cut it,cut,Middle,Original
+773048bc5ea832a6a6fb93f6da578bc6,78,B,cut it,cut,Middle,Original
+bc3b5c51f98f643be9a99134572a2170,78,B,cut it,cut,Middle,Original
+2b7058890eefa22341aa295a036985a9,78,C,cut it,wait,Beginning,Replacement
+58538dcb3f84e420200c601a4903dbef,78,C,cut it,wait,Beginning,Replacement
+64e64662aa8b1a57c3e5254b48652bcc,78,C,cut it,wait,Beginning,Replacement
+8e6ad748c0685eaeffbadbae0050306d,78,C,shear,wait,Beginning,Replacement
+46c4212ded545ed717b0ff376752ae11,78,C,ask,wait,Beginning,Replacement
+9f8736428d68ef86c654e1f0f0b1058e,78,C,cut it,wait,Beginning,Replacement
+2817aa3ba5ce3496c4222adb7a6aa37c,78,D,think,wait,Middle,Replacement
+83d8403f227baca0464166c404dc0dc2,78,D,get ready,wait,Middle,Replacement
+14399e53229004f2c85ec3810d5cf776,78,D,wait,wait,Middle,Replacement
+b8b10c5c32c46a8f278dc868ef65fd9d,79,A,distribute,work,Beginning,Original
+38515a2d399231bb4340622c162d7b1a,79,A,lab,work,Beginning,Original
+bac07a9a07d31bd971ed4288f10499d6,79,A,prepare them,work,Beginning,Original
+773048bc5ea832a6a6fb93f6da578bc6,79,A,give them out,work,Beginning,Original
+bc3b5c51f98f643be9a99134572a2170,79,A,write it out,work,Beginning,Original
+2b7058890eefa22341aa295a036985a9,79,B,compy,work,Middle,Original
+58538dcb3f84e420200c601a4903dbef,79,B,wait,work,Middle,Original
+64e64662aa8b1a57c3e5254b48652bcc,79,B,be careful,work,Middle,Original
+8e6ad748c0685eaeffbadbae0050306d,79,B,deliver,work,Middle,Original
+46c4212ded545ed717b0ff376752ae11,79,B,support ,work,Middle,Original
+9f8736428d68ef86c654e1f0f0b1058e,79,B,instruct,work,Middle,Original
+2817aa3ba5ce3496c4222adb7a6aa37c,79,C,finish,order it,Beginning,Replacement
+83d8403f227baca0464166c404dc0dc2,79,C,fill,order it,Beginning,Replacement
+14399e53229004f2c85ec3810d5cf776,79,C,check,order it,Beginning,Replacement
+9a8edf1b84fcdd4e9692881d31a5a26e,79,D,follow,order it,Middle,Replacement
+559a558cc071b904f807f21b428370da,79,D,hurry,order it,Middle,Replacement
+6df37ff0405e34325f86235ab8e45b66,79,D,dispense,order it,Middle,Replacement
+2b7058890eefa22341aa295a036985a9,80,A,revitalize him,help,Beginning,Original
+58538dcb3f84e420200c601a4903dbef,80,A,do what they can,help,Beginning,Original
+64e64662aa8b1a57c3e5254b48652bcc,80,A,treat them,help,Beginning,Original
+8e6ad748c0685eaeffbadbae0050306d,80,A,triage,help,Beginning,Original
+46c4212ded545ed717b0ff376752ae11,80,A,treat them,help,Beginning,Original
+9f8736428d68ef86c654e1f0f0b1058e,80,A,transport them,help,Beginning,Original
+2817aa3ba5ce3496c4222adb7a6aa37c,80,B,help,help,Middle,Original
+83d8403f227baca0464166c404dc0dc2,80,B,act,help,Middle,Original
+14399e53229004f2c85ec3810d5cf776,80,B,in a dangerous situation,help,Middle,Original
+9a8edf1b84fcdd4e9692881d31a5a26e,80,C,transport them,get out,Beginning,Replacement
+559a558cc071b904f807f21b428370da,80,C,hurry,get out,Beginning,Replacement
+6df37ff0405e34325f86235ab8e45b66,80,C,save them,get out,Beginning,Replacement
+b8b10c5c32c46a8f278dc868ef65fd9d,80,D,save then,get out,Middle,Replacement
+38515a2d399231bb4340622c162d7b1a,80,D,accident,get out,Middle,Replacement
+bac07a9a07d31bd971ed4288f10499d6,80,D,damage,get out,Middle,Replacement
+773048bc5ea832a6a6fb93f6da578bc6,80,D,be rushed,get out,Middle,Replacement
+bc3b5c51f98f643be9a99134572a2170,80,D,treat them,get out,Middle,Replacement
