@@ -13,9 +13,10 @@ suppressPackageStartupMessages(library(data.table))
 suppressPackageStartupMessages(library(stringr))
 suppressPackageStartupMessages(library(dplyr))
 suppressPackageStartupMessages(library(ggplot2))
-suppressPackageStartupMessages(library(ez))
 suppressPackageStartupMessages(library(lme4))
 suppressPackageStartupMessages(library(gridExtra))
+suppressPackageStartupMessages(library(tidyr))
+suppressPackageStartupMessages(library(optimx))
 suppressPackageStartupMessages(library(car))
 ```
 
@@ -32,6 +33,13 @@ Since we are interested in the cloze probability of the target word in each
 Item + Condition, we need to an additional column ResponseIsTarget, which 
 indicates whether the participants gave Target or not.
 ```{r}
+data <- data %>%
+  mutate(Target = case_when(
+    Location == 'Original' ~ Target,
+    Location == 'Replacement' ~ NA
+  )) %>%
+  fill(Target, .direction='down')
+
 data <- data %>%
   mutate(ResponseIsTarget = Response == Target)
 summary(data)
@@ -103,6 +111,9 @@ g_model <- glmer(ResponseIsTarget ~ 1 + cp1 * l1 +
                 (1 + cp1 + l1|| Participant) + 
                 (1 + cp1 + l1|| Item), 
               data=data, 
+              control = glmerControl(
+                optimizer ='optimx', 
+                optCtrl=list(method='L-BFGS-B')),
               family = 'poisson',
               na.action = na.omit)
 summary(g_model)
