@@ -5,7 +5,7 @@ output: html_notebook
 ```{r setup, include=FALSE}
 
 ```
-Load our packages
+
 ```{r}
 knitr::opts_chunk$set(echo = TRUE)
 suppressPackageStartupMessages(library(Rmisc))
@@ -20,18 +20,15 @@ suppressPackageStartupMessages(library(optimx))
 suppressPackageStartupMessages(library(car))
 ```
 
-Load and summarize the data. We also want to switch the data types of 
-ClausePlacement and Location to categorical since they are just binary factors
-
 ```{r}
 data <- read.csv('../data/PreprocessedData.csv')
 data$ClausePlacement <- as.factor(data$ClausePlacement)
 data$Location <- as.factor(data$Location)
 summary(data)
 ```
-Since we are interested in the cloze probability of the target word in each 
-Item + Condition, we need to an additional column ResponseIsTarget, which 
-indicates whether the participants gave Target or not.
+Load and summarize the data. We also want to switch the data types of 
+ClausePlacement and Location to categorical since they are just binary factors
+
 ```{r}
 data <- data %>%
   mutate(Target = case_when(
@@ -44,8 +41,10 @@ data <- data %>%
   mutate(ResponseIsTarget = Response == Target)
 summary(data)
 ```
+Since we are interested in the cloze probability of the target word in each 
+Item + Condition, we need to an additional column ResponseIsTarget, which 
+indicates whether the participants gave Target or not.
 
-Setting up our contrasts (is this right? lol)
 ```{r}
 contrasts.Tri <- 
   matrix(c(1/2, 1/2,
@@ -64,6 +63,15 @@ data$cp1 <- model_matrix[,2]
 data$l1 <- model_matrix[,3]
 summary(data)
 ```
+Setting up our contrasts
+
+```{r}
+grouped_data <- data %>% 
+  group_by(Item, cp1, l1) %>%
+  summarise(ClozeProb = sum(ResponseIsTarget) / length(ResponseIsTarget),
+            )
+summary(grouped_data)
+```
 Since we are interested in the cloze probability in each condition, we need to 
 calculate that, too. For this, we'll create a new dataframe called grouped_data 
 because crucially, we are grouping all of our data by Item and Condition. 
@@ -73,18 +81,16 @@ Item: the item number
 cp1: the encoded clause placement level
 l1: the encoded location level
 Cloze Prob: the cloze probability of the target word for each item and condition
+
 ```{r}
-grouped_data <- data %>% 
-  group_by(Item, cp1, l1) %>%
-  summarise(ClozeProb = sum(ResponseIsTarget) / length(ResponseIsTarget), 
-            .groups = 'keep',
-            across(.cols=c('Condition','ClausePlacement','Location'))
-            )
-summary(grouped_data)
+mod <- aov(ClozeProb ~ cp1 * l1,
+  data = grouped_data
+)
+shapiro.test(mod$residuals)
 ```
-LMM model
-Now we are ready to create our models As mentioned before, we won't have any
-random effects by Subject, only by Item. 
+Our data is not normally distributed per the Shapiro-Wild test, barring us from
+using LM or ANOVA. 
+
 ```{r} 
 lm_model1 <- lmer(ClozeProb ~ 1 + cp1 * l1 +
                    (1 + cp1 + l1 + cp1 * l1 || Item),
@@ -95,16 +101,56 @@ lm_model1 <- lmer(ClozeProb ~ 1 + cp1 * l1 +
                  )
 summary(lm_model1) # one with the interaction in the random effects
 ```
-```{r}
-car::Anova(lm_model1)
-```
+LMM model
+Now we are ready to create our models As mentioned before, we won't have any
+random effects by Subject, only by Item. 
 In short, we observe a significant main effect for location. However, let's 
 create another model.
+```{r}
+grouped_data$res <- residuals(lm_model1)
+model1_res <- lmer(res ~ 1 + cp1 * l1 +
+                   (1 + cp1 + l1 + cp1 * l1 || Item),
+                  REML=FALSE, 
+                  data = grouped_data,
+                  control = lmerControl(calc.derivs=FALSE), 
+                  na.action = na.omit)
+summary(rePCA(model1_res))
+                  
+```
+As we can see, almost all variance is accounted for by the third component, so 
+we can do some model reduction.
+```{r}
+VarCorr(model1_res) 
+```
+It looks like the the intercept by Item is basically useless.
+```{r}
+lm_model2 <- lmer(ClozeProb ~ 1 + cp1 * l1 +
+                   (0 + cp1 + l1 + cp1 * l1 || Item),
+                 REML=FALSE, 
+                 data = grouped_data,
+                 control = lmerControl(calc.derivs=FALSE), 
+                 na.action = na.omit
+                 )
+summary(lm_model2)
+```
+We create a new model and repeat the process.
+```{r}
+grouped_data$res <- residuals(lm_model2)
+model2_res <- lmer(res ~ 1 + cp1 * l1 +
+                   (0 + cp1 + l1 + cp1 * l1 || Item),
+                  REML=FALSE, 
+                  data = grouped_data,
+                  control = lmerControl(calc.derivs=FALSE), 
+                  na.action = na.omit)
+summary(rePCA(model2_res))
+```
+Looks better!
+```{r}
+VarCorr(model2_res)
+```
+This looks like a good place to stop. lm_model2 is now our final model.
 
-An alternative: GLMM
-Here, our response variable is just ResponseIsTarget, a binary variable. We can
-use random effects by Subject since we aren't grouping our data by Item and 
-Condition as with the LMM. 
+-------------------
 ```{r}
 g_model <- glmer(ResponseIsTarget ~ 1 + cp1 * l1 +
                 (1 + cp1 + l1 + cp1 * l1|| Participant) + 
@@ -118,37 +164,36 @@ g_model <- glmer(ResponseIsTarget ~ 1 + cp1 * l1 +
 summary(g_model)
 ```
 
-```{r}
-car::Anova(g_model)
-```
-
+An alternative: GLMM
+Here, our response variable is just ResponseIsTarget, a binary variable. We can
+use random effects by Subject since we aren't grouping our data by Item and 
+Condition as with the LMM. 
 Once again, we only observe a significant main effect of Location.
 
-I'm going to make some figures.
 ```{r}
 grouped_data.SE <- summarySE(
   data = grouped_data, 
   measurevar = 'ClozeProb',
-  groupvars = c('ClausePlacement','Location'))
+  groupvars = c('cp1','l1'))
 
 # first, a bar chart
-ggplot(grouped_data.SE, aes(x = Location,y = ClozeProb,fill=Location)) +
+ggplot(grouped_data.SE, aes(x = l1,y = ClozeProb,fill=l1)) +
   geom_bar(stat = "identity") +
   scale_fill_manual(values = c('#00A36C','#BBA53D')) +
   labs(title = 'Cloze Probability of Target by Clause Placement and Condition',
        y = ' Cloze Probability of Target'
   ) +
   theme(plot.title = element_text(hjust = 0.5), legend.position="none") + 
-  facet_grid(~ClausePlacement) + 
+  facet_grid(~cp1) + 
   geom_errorbar(aes(ymin = ClozeProb - se, ymax = ClozeProb + se), 
                 width = 0.1, 
                 size = 0.5)
 
 ggplot(grouped_data.SE, 
-       aes(x = Location, 
+       aes(x = l1, 
            y = ClozeProb, 
-           group=ClausePlacement, 
-           color = ClausePlacement)
+           group=cp1, 
+           color = cp1)
        ) +
   geom_line() +
   geom_point() + 
