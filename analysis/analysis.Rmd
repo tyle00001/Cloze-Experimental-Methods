@@ -104,12 +104,11 @@ create another model.
 An alternative: GLMM
 Here, our response variable is just ResponseIsTarget, a binary variable. We can
 use random effects by Subject since we aren't grouping our data by Item and 
-Condition as with the LMM. However, this model failed to converge with 
-random effects on the interaction, so we had to remove it.
+Condition as with the LMM. 
 ```{r}
 g_model <- glmer(ResponseIsTarget ~ 1 + cp1 * l1 +
-                (1 + cp1 + l1|| Participant) + 
-                (1 + cp1 + l1|| Item), 
+                (1 + cp1 + l1 + cp1 * l1|| Participant) + 
+                (1 + cp1 + l1 + cp1 * l1|| Item), 
               data=data, 
               control = glmerControl(
                 optimizer ='optimx', 
