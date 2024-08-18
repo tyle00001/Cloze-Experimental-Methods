@@ -210,7 +210,7 @@ ggplot(grouped_data.SE,
        ) +
   geom_line() +
   geom_point() + 
-  scale_color_manual(values = c('#00A36C','#BBA53D'),name = 'Clause Placement') +
+  scale_color_manual(values = c('coral1','darkturquoise'),name = 'Clause Placement') +
   labs(title = 'Cloze Probability of Target by Clause Placement and Condition',
        y = ' Cloze Probability of Target'
   ) +
