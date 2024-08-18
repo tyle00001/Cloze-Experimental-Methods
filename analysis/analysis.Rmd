@@ -170,6 +170,9 @@ use random effects by Subject since we aren't grouping our data by Item and
 Condition as with the LMM. 
 Once again, we only observe a significant main effect of Location.
 
+
+Time for plots and tables!!!
+
 ```{r}
 grouped_data.SE <- summarySE(
   data = grouped_data, 
@@ -215,4 +218,9 @@ ggplot(grouped_data.SE,
                 width = 0.1, 
                 size = 0.5)
   
+```
+We create two plots based on the grouped data.
+
+```{r}
+grouped_data.SE
 ```
