@@ -1,7 +1,6 @@
 Participant,Item,Condition,Response,Target,ElapsedTime,ClausePlacement,Location
 2817aa3ba5ce3496c4222adb7a6aa37c,1,A,think,stop,5862.0,Beginning,Original
 83d8403f227baca0464166c404dc0dc2,1,A,pause,stop,4681.0,Beginning,Original
-14399e53229004f2c85ec3810d5cf776,1,A,replace,stop,21990.0,Beginning,Original
 9a8edf1b84fcdd4e9692881d31a5a26e,1,B,do more science,stop,4797.0,Middle,Original
 559a558cc071b904f807f21b428370da,1,B,pause,stop,3606.0,Middle,Original
 6df37ff0405e34325f86235ab8e45b66,1,B,fix,stop,1751.0,Middle,Original
@@ -10,7 +9,6 @@ b8b10c5c32c46a8f278dc868ef65fd9d,1,C,commence,park,3817.0,Beginning,Replacement
 bac07a9a07d31bd971ed4288f10499d6,1,C,come back,park,5802.0,Beginning,Replacement
 773048bc5ea832a6a6fb93f6da578bc6,1,C,leave,park,1489.0,Beginning,Replacement
 bc3b5c51f98f643be9a99134572a2170,1,C,leave,park,2132.0,Beginning,Replacement
-2b7058890eefa22341aa295a036985a9,1,D,recuperate,park,15337.0,Middle,Replacement
 58538dcb3f84e420200c601a4903dbef,1,D,fix,park,7274.0,Middle,Replacement
 64e64662aa8b1a57c3e5254b48652bcc,1,D,pause,park,4049.0,Middle,Replacement
 8e6ad748c0685eaeffbadbae0050306d,1,D,pass,park,1120.0,Middle,Replacement
@@ -21,16 +19,13 @@ bc3b5c51f98f643be9a99134572a2170,1,C,leave,park,2132.0,Beginning,Replacement
 6df37ff0405e34325f86235ab8e45b66,2,A,sort them,sort,6604.0,Beginning,Original
 b8b10c5c32c46a8f278dc868ef65fd9d,2,B,stock them,sort,11306.0,Middle,Original
 38515a2d399231bb4340622c162d7b1a,2,B,leave,sort,1624.0,Middle,Original
-bac07a9a07d31bd971ed4288f10499d6,2,B,sort them,sort,17650.0,Middle,Original
 773048bc5ea832a6a6fb93f6da578bc6,2,B,close it,sort,7717.0,Middle,Original
 bc3b5c51f98f643be9a99134572a2170,2,B,move it,sort,5676.0,Middle,Original
 2b7058890eefa22341aa295a036985a9,2,C,poor english,drink,2436.0,Beginning,Replacement
 58538dcb3f84e420200c601a4903dbef,2,C,leave,drink,4073.0,Beginning,Replacement
-64e64662aa8b1a57c3e5254b48652bcc,2,C,get them,drink,14631.0,Beginning,Replacement
 8e6ad748c0685eaeffbadbae0050306d,2,C,pay,drink,3614.0,Beginning,Replacement
 46c4212ded545ed717b0ff376752ae11,2,C,leave,drink,1484.0,Beginning,Replacement
 9f8736428d68ef86c654e1f0f0b1058e,2,C,stock them,drink,6254.0,Beginning,Replacement
-2817aa3ba5ce3496c4222adb7a6aa37c,2,D,leave,drink,14742.0,Middle,Replacement
 83d8403f227baca0464166c404dc0dc2,2,D,order,drink,3556.0,Middle,Replacement
 14399e53229004f2c85ec3810d5cf776,2,D,check the rest,drink,13196.0,Middle,Replacement
 b8b10c5c32c46a8f278dc868ef65fd9d,3,A,return,board,2149.0,Beginning,Original
@@ -58,7 +53,6 @@ bc3b5c51f98f643be9a99134572a2170,3,A,open,board,2191.0,Beginning,Original
 9f8736428d68ef86c654e1f0f0b1058e,4,A,rap,sing,2143.0,Beginning,Original
 2817aa3ba5ce3496c4222adb7a6aa37c,4,B,rap,sing,2966.0,Middle,Original
 83d8403f227baca0464166c404dc0dc2,4,B,rap,sing,861.0,Middle,Original
-14399e53229004f2c85ec3810d5cf776,4,B,prepare,sing,14481.0,Middle,Original
 9a8edf1b84fcdd4e9692881d31a5a26e,4,C,prepare,record,4721.0,Beginning,Replacement
 559a558cc071b904f807f21b428370da,4,C,rap,record,2065.0,Beginning,Replacement
 6df37ff0405e34325f86235ab8e45b66,4,C,sing,record,3466.0,Beginning,Replacement
@@ -137,23 +131,19 @@ bac07a9a07d31bd971ed4288f10499d6,8,D,hurry,pay,0.0,Middle,Replacement
 bc3b5c51f98f643be9a99134572a2170,8,D,board,pay,1.0,Middle,Replacement
 2817aa3ba5ce3496c4222adb7a6aa37c,9,A,rush,enter,4025.0,Beginning,Original
 83d8403f227baca0464166c404dc0dc2,9,A,use the bathroom,enter,3839.0,Beginning,Original
-14399e53229004f2c85ec3810d5cf776,9,A,go on a break,enter,14996.0,Beginning,Original
 9a8edf1b84fcdd4e9692881d31a5a26e,9,B,get ready,enter,5375.0,Middle,Original
 559a558cc071b904f807f21b428370da,9,B,run,enter,5074.0,Middle,Original
 6df37ff0405e34325f86235ab8e45b66,9,B,enter,enter,3077.0,Middle,Original
-b8b10c5c32c46a8f278dc868ef65fd9d,9,C,sleep,come back,13924.0,Beginning,Replacement
 38515a2d399231bb4340622c162d7b1a,9,C,had,come back,1112.0,Beginning,Replacement
 bac07a9a07d31bd971ed4288f10499d6,9,C,come back,come back,9067.0,Beginning,Replacement
 773048bc5ea832a6a6fb93f6da578bc6,9,C,leave,come back,2174.0,Beginning,Replacement
 bc3b5c51f98f643be9a99134572a2170,9,C,go home,come back,2713.0,Beginning,Replacement
 2b7058890eefa22341aa295a036985a9,9,D,come back,come back,7559.0,Middle,Replacement
 58538dcb3f84e420200c601a4903dbef,9,D,come back,come back,3054.0,Middle,Replacement
-64e64662aa8b1a57c3e5254b48652bcc,9,D,stop playing,come back,19708.0,Middle,Replacement
 8e6ad748c0685eaeffbadbae0050306d,9,D,come back,come back,1529.0,Middle,Replacement
 46c4212ded545ed717b0ff376752ae11,9,D,gather the students,come back,8155.0,Middle,Replacement
 9f8736428d68ef86c654e1f0f0b1058e,9,D,get to class,come back,2719.0,Middle,Replacement
 9a8edf1b84fcdd4e9692881d31a5a26e,10,A,prepare,speak,8513.0,Beginning,Original
-559a558cc071b904f807f21b428370da,10,A,prepare,speak,13870.0,Beginning,Original
 6df37ff0405e34325f86235ab8e45b66,10,A,speak,speak,6275.0,Beginning,Original
 b8b10c5c32c46a8f278dc868ef65fd9d,10,B,present,speak,8947.0,Middle,Original
 38515a2d399231bb4340622c162d7b1a,10,B,start,speak,1672.0,Middle,Original
@@ -225,7 +215,6 @@ bc3b5c51f98f643be9a99134572a2170,13,C,leave,leave,1.0,Beginning,Replacement
 6df37ff0405e34325f86235ab8e45b66,14,A,go inside,stop,1876.0,Beginning,Original
 b8b10c5c32c46a8f278dc868ef65fd9d,14,B,be mistaken,stop,3994.0,Middle,Original
 38515a2d399231bb4340622c162d7b1a,14,B,rain,stop,1398.0,Middle,Original
-bac07a9a07d31bd971ed4288f10499d6,14,B,get the supplies put up quickly,stop,13634.0,Middle,Original
 773048bc5ea832a6a6fb93f6da578bc6,14,B,stop,stop,1731.0,Middle,Original
 bc3b5c51f98f643be9a99134572a2170,14,B,shelter,stop,5860.0,Middle,Original
 2b7058890eefa22341aa295a036985a9,14,C,plant,cook,2041.0,Beginning,Replacement
@@ -236,7 +225,6 @@ bc3b5c51f98f643be9a99134572a2170,14,B,shelter,stop,5860.0,Middle,Original
 9f8736428d68ef86c654e1f0f0b1058e,14,C,wait,cook,4466.0,Beginning,Replacement
 2817aa3ba5ce3496c4222adb7a6aa37c,14,D,get ready,cook,7503.0,Middle,Replacement
 83d8403f227baca0464166c404dc0dc2,14,D,put his tools away,cook,4588.0,Middle,Replacement
-14399e53229004f2c85ec3810d5cf776,14,D,check the garden,cook,22601.0,Middle,Replacement
 b8b10c5c32c46a8f278dc868ef65fd9d,15,A,regroup,move,4555.0,Beginning,Original
 38515a2d399231bb4340622c162d7b1a,15,A,soldier,move,2545.0,Beginning,Original
 bac07a9a07d31bd971ed4288f10499d6,15,A,get to work,move,3074.0,Beginning,Original
@@ -250,7 +238,6 @@ bc3b5c51f98f643be9a99134572a2170,15,A,listen closely,move,2503.0,Beginning,Origi
 9f8736428d68ef86c654e1f0f0b1058e,15,B,deploy,move,11575.0,Middle,Original
 2817aa3ba5ce3496c4222adb7a6aa37c,15,C,return,get back,3432.0,Beginning,Replacement
 83d8403f227baca0464166c404dc0dc2,15,C,prepare,get back,4792.0,Beginning,Replacement
-14399e53229004f2c85ec3810d5cf776,15,C,hurry,get back,33740.0,Beginning,Replacement
 9a8edf1b84fcdd4e9692881d31a5a26e,15,D,report to duty,get back,3460.0,Middle,Replacement
 559a558cc071b904f807f21b428370da,15,D,prepare,get back,11345.0,Middle,Replacement
 6df37ff0405e34325f86235ab8e45b66,15,D,pack,get back,2376.0,Middle,Replacement
@@ -355,7 +342,6 @@ bc3b5c51f98f643be9a99134572a2170,21,C,speak,stream,2828.0,Beginning,Replacement
 64e64662aa8b1a57c3e5254b48652bcc,21,D,read the speech,stream,2391.0,Middle,Replacement
 8e6ad748c0685eaeffbadbae0050306d,21,D,play,stream,1452.0,Middle,Replacement
 46c4212ded545ed717b0ff376752ae11,21,D,speak,stream,1188.0,Middle,Replacement
-9f8736428d68ef86c654e1f0f0b1058e,21,D,introduce themselves,stream,20642.0,Middle,Replacement
 9a8edf1b84fcdd4e9692881d31a5a26e,22,A,write,write,0.0,Beginning,Original
 559a558cc071b904f807f21b428370da,22,A,focus,write,1.0,Beginning,Original
 6df37ff0405e34325f86235ab8e45b66,22,A,submit,write,2.0,Beginning,Original
@@ -398,7 +384,6 @@ bc3b5c51f98f643be9a99134572a2170,23,A,swim,swim,0.0,Beginning,Original
 9f8736428d68ef86c654e1f0f0b1058e,24,A,hurry,knock,992.0,Beginning,Original
 2817aa3ba5ce3496c4222adb7a6aa37c,24,B,deliver,knock,5189.0,Middle,Original
 83d8403f227baca0464166c404dc0dc2,24,B,run,knock,1053.0,Middle,Original
-14399e53229004f2c85ec3810d5cf776,24,B,deliver,knock,22385.0,Middle,Original
 9a8edf1b84fcdd4e9692881d31a5a26e,24,C,deliver ,leave,6616.0,Beginning,Replacement
 559a558cc071b904f807f21b428370da,24,C,hurry,leave,2406.0,Beginning,Replacement
 6df37ff0405e34325f86235ab8e45b66,24,C,hurry,leave,2632.0,Beginning,Replacement
@@ -522,7 +507,6 @@ bc3b5c51f98f643be9a99134572a2170,31,A,go,run,4381.0,Beginning,Original
 9f8736428d68ef86c654e1f0f0b1058e,31,B,run,run,2159.0,Middle,Original
 2817aa3ba5ce3496c4222adb7a6aa37c,31,C,take off,watch,5632.0,Beginning,Replacement
 83d8403f227baca0464166c404dc0dc2,31,C,put on his shoes,watch,5063.0,Beginning,Replacement
-14399e53229004f2c85ec3810d5cf776,31,C,come out to watch the game,watch,28687.0,Beginning,Replacement
 9a8edf1b84fcdd4e9692881d31a5a26e,31,D,run,watch,4171.0,Middle,Replacement
 559a558cc071b904f807f21b428370da,31,D,wish they were at the race and racing themselves,watch,7073.0,Middle,Replacement
 6df37ff0405e34325f86235ab8e45b66,31,D,run,watch,1150.0,Middle,Replacement
@@ -534,13 +518,10 @@ bc3b5c51f98f643be9a99134572a2170,31,A,go,run,4381.0,Beginning,Original
 9f8736428d68ef86c654e1f0f0b1058e,32,A,greet,greet,3635.0,Beginning,Original
 2817aa3ba5ce3496c4222adb7a6aa37c,32,B,check them in,greet,5555.0,Middle,Original
 83d8403f227baca0464166c404dc0dc2,32,B,greet,greet,3503.0,Middle,Original
-14399e53229004f2c85ec3810d5cf776,32,B,wait,greet,25071.0,Middle,Original
 9a8edf1b84fcdd4e9692881d31a5a26e,32,C,seat them,arrive,5396.0,Beginning,Replacement
-559a558cc071b904f807f21b428370da,32,C,worry,arrive,17930.0,Beginning,Replacement
 6df37ff0405e34325f86235ab8e45b66,32,C,greet,arrive,2113.0,Beginning,Replacement
 b8b10c5c32c46a8f278dc868ef65fd9d,32,D,begin,arrive,2756.0,Middle,Replacement
 38515a2d399231bb4340622c162d7b1a,32,D,will,arrive,9111.0,Middle,Replacement
-bac07a9a07d31bd971ed4288f10499d6,32,D,greet them,arrive,14604.0,Middle,Replacement
 773048bc5ea832a6a6fb93f6da578bc6,32,D,begin,arrive,1403.0,Middle,Replacement
 bc3b5c51f98f643be9a99134572a2170,32,D,board,arrive,1714.0,Middle,Replacement
 2817aa3ba5ce3496c4222adb7a6aa37c,33,A,play,play,6358.0,Beginning,Original
@@ -570,13 +551,11 @@ bac07a9a07d31bd971ed4288f10499d6,34,B,tip,tip,4632.0,Middle,Original
 bc3b5c51f98f643be9a99134572a2170,34,B,tip,tip,1187.0,Middle,Original
 2b7058890eefa22341aa295a036985a9,34,C,tip,sleep,1802.0,Beginning,Replacement
 58538dcb3f84e420200c601a4903dbef,34,C,be very nice,sleep,4648.0,Beginning,Replacement
-64e64662aa8b1a57c3e5254b48652bcc,34,C,consider,sleep,26867.0,Beginning,Replacement
 8e6ad748c0685eaeffbadbae0050306d,34,C,drive,sleep,1476.0,Beginning,Replacement
 46c4212ded545ed717b0ff376752ae11,34,C,tip,sleep,1400.0,Beginning,Replacement
 9f8736428d68ef86c654e1f0f0b1058e,34,C,remember them,sleep,3716.0,Beginning,Replacement
 2817aa3ba5ce3496c4222adb7a6aa37c,34,D,serve,sleep,4610.0,Middle,Replacement
 83d8403f227baca0464166c404dc0dc2,34,D,tip,sleep,3515.0,Middle,Replacement
-14399e53229004f2c85ec3810d5cf776,34,D,come,sleep,97099.0,Middle,Replacement
 b8b10c5c32c46a8f278dc868ef65fd9d,35,A,faint,debug,2.0,Beginning,Original
 38515a2d399231bb4340622c162d7b1a,35,A,her,debug,1.0,Beginning,Original
 bac07a9a07d31bd971ed4288f10499d6,35,A,stay alert,debug,0.0,Beginning,Original
@@ -602,7 +581,6 @@ bc3b5c51f98f643be9a99134572a2170,35,A,write it down,debug,1.0,Beginning,Original
 9f8736428d68ef86c654e1f0f0b1058e,36,A,sweep,clean up,6683.0,Beginning,Original
 2817aa3ba5ce3496c4222adb7a6aa37c,36,B,prepare,clean up,11246.0,Middle,Original
 83d8403f227baca0464166c404dc0dc2,36,B,clean,clean up,7812.0,Middle,Original
-14399e53229004f2c85ec3810d5cf776,36,B,had to take a snap,clean up,20488.0,Middle,Original
 9a8edf1b84fcdd4e9692881d31a5a26e,36,C,wait,cook,9059.0,Beginning,Replacement
 559a558cc071b904f807f21b428370da,36,C,prepare,cook,10288.0,Beginning,Replacement
 6df37ff0405e34325f86235ab8e45b66,36,C,clean,cook,3462.0,Beginning,Replacement
@@ -638,13 +616,10 @@ bac07a9a07d31bd971ed4288f10499d6,38,B,rsvp,sculpt,2524.0,Middle,Original
 bc3b5c51f98f643be9a99134572a2170,38,B,greet,sculpt,4200.0,Middle,Original
 2b7058890eefa22341aa295a036985a9,38,C,rest,order,6511.0,Beginning,Replacement
 58538dcb3f84e420200c601a4903dbef,38,C,make sure his display is safe,order,4889.0,Beginning,Replacement
-64e64662aa8b1a57c3e5254b48652bcc,38,C,measure,order,14374.0,Beginning,Replacement
 8e6ad748c0685eaeffbadbae0050306d,38,C,celebrate,order,2341.0,Beginning,Replacement
 46c4212ded545ed717b0ff376752ae11,38,C,decide what to make,order,5407.0,Beginning,Replacement
 9f8736428d68ef86c654e1f0f0b1058e,38,C,finish eating,order,4616.0,Beginning,Replacement
-2817aa3ba5ce3496c4222adb7a6aa37c,38,D,sculpt,order,39414.0,Middle,Replacement
 83d8403f227baca0464166c404dc0dc2,38,D,gather his best works,order,3822.0,Middle,Replacement
-14399e53229004f2c85ec3810d5cf776,38,D,make it known,order,19245.0,Middle,Replacement
 b8b10c5c32c46a8f278dc868ef65fd9d,39,A,aim,shoot,1.0,Beginning,Original
 38515a2d399231bb4340622c162d7b1a,39,A,tree,shoot,0.0,Beginning,Original
 bac07a9a07d31bd971ed4288f10499d6,39,A,aim,shoot,0.0,Beginning,Original
@@ -712,7 +687,6 @@ bc3b5c51f98f643be9a99134572a2170,42,B,go ,walk,7036.0,Middle,Original
 9f8736428d68ef86c654e1f0f0b1058e,42,C,get on the bus,wait,10647.0,Beginning,Replacement
 2817aa3ba5ce3496c4222adb7a6aa37c,42,D,get ready,wait,3229.0,Middle,Replacement
 83d8403f227baca0464166c404dc0dc2,42,D,get ready,wait,4844.0,Middle,Replacement
-14399e53229004f2c85ec3810d5cf776,42,D,head straight to the model hall,wait,25149.0,Middle,Replacement
 b8b10c5c32c46a8f278dc868ef65fd9d,43,A,climb,climb ,1.0,Beginning,Original
 38515a2d399231bb4340622c162d7b1a,43,A,cliff,climb ,0.0,Beginning,Original
 bac07a9a07d31bd971ed4288f10499d6,43,A,hack into the ice,climb ,1.0,Beginning,Original
@@ -817,9 +791,7 @@ bac07a9a07d31bd971ed4288f10499d6,48,D,have to get up and go,rest,1.0,Middle,Repl
 bc3b5c51f98f643be9a99134572a2170,48,D,drive off,rest,1.0,Middle,Replacement
 2817aa3ba5ce3496c4222adb7a6aa37c,49,A,fight the fire,evacuate,2927.0,Beginning,Original
 83d8403f227baca0464166c404dc0dc2,49,A,rush,evacuate,1019.0,Beginning,Original
-14399e53229004f2c85ec3810d5cf776,49,A,call,evacuate,19206.0,Beginning,Original
 9a8edf1b84fcdd4e9692881d31a5a26e,49,B,stop the fire,evacuate,1656.0,Middle,Original
-559a558cc071b904f807f21b428370da,49,B,work quickly and be mindful of any potential for a backdraft,evacuate,15298.0,Middle,Original
 6df37ff0405e34325f86235ab8e45b66,49,B,stop the fire,evacuate,1844.0,Middle,Original
 b8b10c5c32c46a8f278dc868ef65fd9d,49,C,wake up,sleep,3519.0,Beginning,Replacement
 38515a2d399231bb4340622c162d7b1a,49,C,go to bed,sleep,1500.0,Beginning,Replacement
@@ -880,7 +852,6 @@ bc3b5c51f98f643be9a99134572a2170,51,A,give it to him,agree,1.0,Beginning,Origina
 6df37ff0405e34325f86235ab8e45b66,52,C,help,get back,2179.0,Beginning,Replacement
 b8b10c5c32c46a8f278dc868ef65fd9d,52,D,decompress,get back,4791.0,Middle,Replacement
 38515a2d399231bb4340622c162d7b1a,52,D,will,get back,1617.0,Middle,Replacement
-bac07a9a07d31bd971ed4288f10499d6,52,D,hurry back,get back,14238.0,Middle,Replacement
 773048bc5ea832a6a6fb93f6da578bc6,52,D,listen ,get back,6976.0,Middle,Replacement
 bc3b5c51f98f643be9a99134572a2170,52,D,listen,get back,2027.0,Middle,Replacement
 2817aa3ba5ce3496c4222adb7a6aa37c,53,A,start to sing,compose,0.0,Beginning,Original
@@ -942,7 +913,6 @@ bc3b5c51f98f643be9a99134572a2170,55,A,fix it ,repair,0.0,Beginning,Original
 9f8736428d68ef86c654e1f0f0b1058e,56,A,report,report,2982.0,Beginning,Original
 2817aa3ba5ce3496c4222adb7a6aa37c,56,B,begin talking into the camera,report,12039.0,Middle,Original
 83d8403f227baca0464166c404dc0dc2,56,B,report the news,report,2246.0,Middle,Original
-14399e53229004f2c85ec3810d5cf776,56,B,give her speech,report,24047.0,Middle,Original
 9a8edf1b84fcdd4e9692881d31a5a26e,56,C,hide from the terrorist attack,order,7878.0,Beginning,Replacement
 559a558cc071b904f807f21b428370da,56,C,realize they need to document what is happening as quickly as possible,order,12014.0,Beginning,Replacement
 6df37ff0405e34325f86235ab8e45b66,56,C,document it,order,2186.0,Beginning,Replacement
@@ -953,7 +923,6 @@ bac07a9a07d31bd971ed4288f10499d6,56,D,get ready to make news happen,order,11310.
 bc3b5c51f98f643be9a99134572a2170,56,D,take pictures,order,3587.0,Middle,Replacement
 2817aa3ba5ce3496c4222adb7a6aa37c,57,A,brainstorm ideas,design,5316.0,Beginning,Original
 83d8403f227baca0464166c404dc0dc2,57,A,draw,design,1411.0,Beginning,Original
-14399e53229004f2c85ec3810d5cf776,57,A,realize the capability of the couples,design,28797.0,Beginning,Original
 9a8edf1b84fcdd4e9692881d31a5a26e,57,B,help the newly wedded couple build their home,design,11564.0,Middle,Original
 559a558cc071b904f807f21b428370da,57,B,begin work on making the final blueprints a reality,design,11618.0,Middle,Original
 6df37ff0405e34325f86235ab8e45b66,57,B,design,design,1651.0,Middle,Original
@@ -1010,9 +979,7 @@ bc3b5c51f98f643be9a99134572a2170,59,A,play hard,train,0.0,Beginning,Original
 9f8736428d68ef86c654e1f0f0b1058e,60,A,rehearse,advertise,6937.0,Beginning,Original
 2817aa3ba5ce3496c4222adb7a6aa37c,60,B,prepare,advertise,8263.0,Middle,Original
 83d8403f227baca0464166c404dc0dc2,60,B,come up with a pitch,advertise,4490.0,Middle,Original
-14399e53229004f2c85ec3810d5cf776,60,B,help,advertise,15359.0,Middle,Original
 9a8edf1b84fcdd4e9692881d31a5a26e,60,C,expand,relax,8969.0,Beginning,Replacement
-559a558cc071b904f807f21b428370da,60,C,prepare,relax,16647.0,Beginning,Replacement
 6df37ff0405e34325f86235ab8e45b66,60,C,practice,relax,1836.0,Beginning,Replacement
 b8b10c5c32c46a8f278dc868ef65fd9d,60,D,sell,relax,3121.0,Middle,Replacement
 38515a2d399231bb4340622c162d7b1a,60,D,products,relax,7713.0,Middle,Replacement
@@ -1089,18 +1056,14 @@ bac07a9a07d31bd971ed4288f10499d6,64,D,work,pay,1.0,Middle,Replacement
 bc3b5c51f98f643be9a99134572a2170,64,D,go out,pay,1.0,Middle,Replacement
 2817aa3ba5ce3496c4222adb7a6aa37c,65,A,calm them down,assist,7490.0,Beginning,Original
 83d8403f227baca0464166c404dc0dc2,65,A,tell everyone to remain calm,assist,4317.0,Beginning,Original
-14399e53229004f2c85ec3810d5cf776,65,A,help,assist,20862.0,Beginning,Original
 9a8edf1b84fcdd4e9692881d31a5a26e,65,B,announce,assist,9343.0,Middle,Original
-559a558cc071b904f807f21b428370da,65,B,announce,assist,15030.0,Middle,Original
 6df37ff0405e34325f86235ab8e45b66,65,B,calm them down,assist,3469.0,Middle,Original
 b8b10c5c32c46a8f278dc868ef65fd9d,65,C,gain,return,1720.0,Beginning,Replacement
 38515a2d399231bb4340622c162d7b1a,65,C,bathroom,return,3567.0,Beginning,Replacement
-bac07a9a07d31bd971ed4288f10499d6,65,C,finish and go reassure the passengers to stay calm,return,15786.0,Beginning,Replacement
 773048bc5ea832a6a6fb93f6da578bc6,65,C,hurry,return,4555.0,Beginning,Replacement
 bc3b5c51f98f643be9a99134572a2170,65,C,finish,return,3310.0,Beginning,Replacement
 2b7058890eefa22341aa295a036985a9,65,D,calm down,return,4092.0,Middle,Replacement
 58538dcb3f84e420200c601a4903dbef,65,D,calm down,return,3217.0,Middle,Replacement
-64e64662aa8b1a57c3e5254b48652bcc,65,D,finish up,return,22607.0,Middle,Replacement
 8e6ad748c0685eaeffbadbae0050306d,65,D,calm them down,return,1909.0,Middle,Replacement
 46c4212ded545ed717b0ff376752ae11,65,D,support them,return,6087.0,Middle,Replacement
 9f8736428d68ef86c654e1f0f0b1058e,65,D,calm them down,return,2143.0,Middle,Replacement
@@ -1173,12 +1136,10 @@ bc3b5c51f98f643be9a99134572a2170,69,C,take off,sail,1.0,Beginning,Replacement
 46c4212ded545ed717b0ff376752ae11,69,D,proceed,sail,0.0,Middle,Replacement
 9f8736428d68ef86c654e1f0f0b1058e,69,D,plan,sail,1.0,Middle,Replacement
 9a8edf1b84fcdd4e9692881d31a5a26e,70,A,be european,interpret,7123.0,Beginning,Original
-559a558cc071b904f807f21b428370da,70,A,be ready,interpret,19886.0,Beginning,Original
 6df37ff0405e34325f86235ab8e45b66,70,A,translate,interpret,4979.0,Beginning,Original
 b8b10c5c32c46a8f278dc868ef65fd9d,70,B,inform,interpret,1774.0,Middle,Original
 38515a2d399231bb4340622c162d7b1a,70,B,talk,interpret,1546.0,Middle,Original
 bac07a9a07d31bd971ed4288f10499d6,70,B,translate,interpret,5255.0,Middle,Original
-773048bc5ea832a6a6fb93f6da578bc6,70,B,interpret,interpret,56991.0,Middle,Original
 bc3b5c51f98f643be9a99134572a2170,70,B,speak european,interpret,4973.0,Middle,Original
 2b7058890eefa22341aa295a036985a9,70,C,interpret,rest,9607.0,Beginning,Replacement
 58538dcb3f84e420200c601a4903dbef,70,C,translate,rest,2562.0,Beginning,Replacement
@@ -1188,7 +1149,6 @@ bc3b5c51f98f643be9a99134572a2170,70,B,speak european,interpret,4973.0,Middle,Ori
 9f8736428d68ef86c654e1f0f0b1058e,70,C,translate,rest,2335.0,Beginning,Replacement
 2817aa3ba5ce3496c4222adb7a6aa37c,70,D,get ready,rest,6432.0,Middle,Replacement
 83d8403f227baca0464166c404dc0dc2,70,D,stay focused,rest,2514.0,Middle,Replacement
-14399e53229004f2c85ec3810d5cf776,70,D,bout the program about to be held,rest,27468.0,Middle,Replacement
 b8b10c5c32c46a8f278dc868ef65fd9d,71,A,placemat,install,2.0,Beginning,Original
 38515a2d399231bb4340622c162d7b1a,71,A,electrician,install,1.0,Beginning,Original
 bac07a9a07d31bd971ed4288f10499d6,71,A,let the workers know what needs to be done first,install,0.0,Beginning,Original
@@ -1274,9 +1234,7 @@ bc3b5c51f98f643be9a99134572a2170,75,A,check,observe,1.0,Beginning,Original
 9a8edf1b84fcdd4e9692881d31a5a26e,75,D,balance,relax,0.0,Middle,Replacement
 559a558cc071b904f807f21b428370da,75,D,"know that they cannot peer into the sky much at this time, to avoid staring into the sun and damaging their eyes",relax,0.0,Middle,Replacement
 6df37ff0405e34325f86235ab8e45b66,75,D,head to work,relax,2.0,Middle,Replacement
-2b7058890eefa22341aa295a036985a9,76,A,provide intel,consult,24622.0,Beginning,Original
 58538dcb3f84e420200c601a4903dbef,76,A,brainstorm,consult,5298.0,Beginning,Original
-64e64662aa8b1a57c3e5254b48652bcc,76,A,provide guidance,consult,28114.0,Beginning,Original
 8e6ad748c0685eaeffbadbae0050306d,76,A,analyze,consult,2012.0,Beginning,Original
 46c4212ded545ed717b0ff376752ae11,76,A,brainstorm,consult,2615.0,Beginning,Original
 9f8736428d68ef86c654e1f0f0b1058e,76,A,assist,consult,5188.0,Beginning,Original
@@ -1284,7 +1242,6 @@ bc3b5c51f98f643be9a99134572a2170,75,A,check,observe,1.0,Beginning,Original
 83d8403f227baca0464166c404dc0dc2,76,B,prepare ,consult,6815.0,Middle,Original
 14399e53229004f2c85ec3810d5cf776,76,B,efficient,consult,7926.0,Middle,Original
 9a8edf1b84fcdd4e9692881d31a5a26e,76,C,prepare ,study,4815.0,Beginning,Replacement
-559a558cc071b904f807f21b428370da,76,C,research,study,21612.0,Beginning,Replacement
 6df37ff0405e34325f86235ab8e45b66,76,C,assist,study,3116.0,Beginning,Replacement
 b8b10c5c32c46a8f278dc868ef65fd9d,76,D,provide guidance,study,6140.0,Middle,Replacement
 38515a2d399231bb4340622c162d7b1a,76,D,company,study,2006.0,Middle,Replacement
@@ -1332,25 +1289,20 @@ bac07a9a07d31bd971ed4288f10499d6,79,A,prepare them,work,12290.0,Beginning,Origin
 bc3b5c51f98f643be9a99134572a2170,79,A,write it out,work,3765.0,Beginning,Original
 2b7058890eefa22341aa295a036985a9,79,B,compy,work,2400.0,Middle,Original
 58538dcb3f84e420200c601a4903dbef,79,B,wait,work,3752.0,Middle,Original
-64e64662aa8b1a57c3e5254b48652bcc,79,B,be careful,work,18898.0,Middle,Original
 8e6ad748c0685eaeffbadbae0050306d,79,B,deliver,work,1502.0,Middle,Original
 46c4212ded545ed717b0ff376752ae11,79,B,support ,work,5360.0,Middle,Original
 9f8736428d68ef86c654e1f0f0b1058e,79,B,instruct,work,10972.0,Middle,Original
-2817aa3ba5ce3496c4222adb7a6aa37c,79,C,finish,order it,15462.0,Beginning,Replacement
 83d8403f227baca0464166c404dc0dc2,79,C,fill,order it,5680.0,Beginning,Replacement
-14399e53229004f2c85ec3810d5cf776,79,C,check,order it,32487.0,Beginning,Replacement
 9a8edf1b84fcdd4e9692881d31a5a26e,79,D,follow,order it,8452.0,Middle,Replacement
 559a558cc071b904f807f21b428370da,79,D,hurry,order it,8552.0,Middle,Replacement
 6df37ff0405e34325f86235ab8e45b66,79,D,dispense,order it,2473.0,Middle,Replacement
 2b7058890eefa22341aa295a036985a9,80,A,revitalize him,help,2597.0,Beginning,Original
 58538dcb3f84e420200c601a4903dbef,80,A,do what they can,help,2664.0,Beginning,Original
-64e64662aa8b1a57c3e5254b48652bcc,80,A,treat them,help,16501.0,Beginning,Original
 8e6ad748c0685eaeffbadbae0050306d,80,A,triage,help,1351.0,Beginning,Original
 46c4212ded545ed717b0ff376752ae11,80,A,treat them,help,4512.0,Beginning,Original
 9f8736428d68ef86c654e1f0f0b1058e,80,A,transport them,help,5891.0,Beginning,Original
 2817aa3ba5ce3496c4222adb7a6aa37c,80,B,help,help,5665.0,Middle,Original
 83d8403f227baca0464166c404dc0dc2,80,B,act,help,2298.0,Middle,Original
-14399e53229004f2c85ec3810d5cf776,80,B,in a dangerous situation,help,52374.0,Middle,Original
 9a8edf1b84fcdd4e9692881d31a5a26e,80,C,transport them,get out,10521.0,Beginning,Replacement
 559a558cc071b904f807f21b428370da,80,C,hurry,get out,13328.0,Beginning,Replacement
 6df37ff0405e34325f86235ab8e45b66,80,C,save them,get out,3611.0,Beginning,Replacement
