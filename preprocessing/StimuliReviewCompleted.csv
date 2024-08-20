@@ -2,13 +2,13 @@ Item;Condition;ID;MD5 hash of participant's IP address;Original_Value;Changed_Va
 1;A;1228;2817aa3ba5ce3496c4222adb7a6aa37c;think about what is next.;think;FALSE;maybe?;think;think
 ;A;6957;83d8403f227baca0464166c404dc0dc2;take a break;pause;FALSE;;pause;stop
 ;A;11881;14399e53229004f2c85ec3810d5cf776;Replace the broken apparatus;;FALSE;;replace;replace
-;B;2511;9a8edf1b84fcdd4e9692881d31a5a26e;do more science.;;FALSE;;;do
+;B;2511;9a8edf1b84fcdd4e9692881d31a5a26e;do more science.;;FALSE;;do;do
 ;B;4146;559a558cc071b904f807f21b428370da;pause work for the day;pause;FALSE;;pause;stop
 ;B;8230;6df37ff0405e34325f86235ab8e45b66;fix it;fix it;FALSE;;fix;fix
 ;B;9047;3028e7887ad94e66d4f5fe907c30cc88;because the apparatus broke down.;;TRUE;;;/
 ;C;738;b8b10c5c32c46a8f278dc868ef65fd9d;commence;;FALSE;;;/
 ;C;5649;38515a2d399231bb4340622c162d7b1a;decided;;TRUE;;;decide
-;C;6468;bac07a9a07d31bd971ed4288f10499d6;come back tomorrow ;come back;FALSE;Do you think it is too intervening if we include this to leave?;come back;come back
+;C;6468;bac07a9a07d31bd971ed4288f10499d6;come back tomorrow ;come back;FALSE;Do you think it is too intervening if we include this to leave?;return;come back
 ;C;11391;4f1511992b86c3d28f958bcbf4d56511;Once the apparatus broke down%2C the scientist inside of the science room has to ;;TRUE;;;/
 ;C;13844;773048bc5ea832a6a6fb93f6da578bc6;leave;;FALSE;;;/
 ;C;15482;bc3b5c51f98f643be9a99134572a2170;leave;;FALSE;;;/
@@ -18,45 +18,45 @@ Item;Condition;ID;MD5 hash of participant's IP address;Original_Value;Changed_Va
 ;D;10397;64e64662aa8b1a57c3e5254b48652bcc;take a break;pause;FALSE;;pause;stop
 ;D;12863;8e6ad748c0685eaeffbadbae0050306d;pass;;FALSE;this seems a bit off;;/
 ;D;14498;46c4212ded545ed717b0ff376752ae11;proceed without the others;proceed;FALSE;maybe?;proceed;proceed
-;D;16139;9f8736428d68ef86c654e1f0f0b1058e;go home for the day;leave;FALSE;;go home;go home
-2;A;3027;9a8edf1b84fcdd4e9692881d31a5a26e;return the books;;FALSE;;return them;return
-;A;4660;559a558cc071b904f807f21b428370da;continue to work at sorting the books.;sort them;FALSE;I think this is safe to merge, right?;sort them;sort
-;A;8744;6df37ff0405e34325f86235ab8e45b66;sort them;;FALSE;;sort them;sort
+;D;16139;9f8736428d68ef86c654e1f0f0b1058e;go home for the day;leave;FALSE;;go;go home
+2;A;3027;9a8edf1b84fcdd4e9692881d31a5a26e;return the books;;FALSE;;return;return
+;A;4660;559a558cc071b904f807f21b428370da;continue to work at sorting the books.;sort them;FALSE;I think this is safe to merge, right?;sort;sort
+;A;8744;6df37ff0405e34325f86235ab8e45b66;sort them;;FALSE;;sort;sort
 ;A;9562;3028e7887ad94e66d4f5fe907c30cc88;by the librarian by the library cart;;TRUE;;;/
-;B;659;b8b10c5c32c46a8f278dc868ef65fd9d;stocks them;stock them;FALSE;;stock them;stock
+;B;659;b8b10c5c32c46a8f278dc868ef65fd9d;stocks them;stock them;FALSE;;stock;stock
 ;B;5571;38515a2d399231bb4340622c162d7b1a;left;;TRUE;this seems a bit off, maybe they forgot more than the location;leave;leave
-;B;6389;bac07a9a07d31bd971ed4288f10499d6;get back to organizing the books;sort them;FALSE;Do you think this merging stands?;sort them;get back
+;B;6389;bac07a9a07d31bd971ed4288f10499d6;get back to organizing the books;sort them;FALSE;Do you think this merging stands?;sort;get back
 ;B;11311;4f1511992b86c3d28f958bcbf4d56511;The librarian in the library after his ? left has to ;;TRUE;;;/
-;B;13766;773048bc5ea832a6a6fb93f6da578bc6;close the door;;FALSE;definitely they forgot the location;close it;close
-;B;15404;bc3b5c51f98f643be9a99134572a2170;move the cart;;FALSE;;move it;move
-;C;2279;2b7058890eefa22341aa295a036985a9;lay books;;FALSE;;poor English;lie
+;B;13766;773048bc5ea832a6a6fb93f6da578bc6;close the door;;FALSE;definitely they forgot the location;close;close
+;B;15404;bc3b5c51f98f643be9a99134572a2170;move the cart;;FALSE;;move;move
+;C;2279;2b7058890eefa22341aa295a036985a9;lay books;;FALSE;;lay;lie
 ;C;3917;58538dcb3f84e420200c601a4903dbef;get up and leave aswell;leave;FALSE;;leave;leave
 ;C;8001;61f3559549de508d322e493e3c8fe90c;s his colleagues left;;TRUE;;leave;/
-;C;10461;64e64662aa8b1a57c3e5254b48652bcc;try to get books for himself;;FALSE;;get them;get
+;C;10461;64e64662aa8b1a57c3e5254b48652bcc;try to get books for himself;;FALSE;;get;get
 ;C;12927;8e6ad748c0685eaeffbadbae0050306d;pay;;FALSE;;pay;/
 ;C;14562;46c4212ded545ed717b0ff376752ae11;leave as well;leave;FALSE;;leave;leave
-;C;16203;9f8736428d68ef86c654e1f0f0b1058e;stock the books;;FALSE;;stock them;stock
+;C;16203;9f8736428d68ef86c654e1f0f0b1058e;stock the books;;FALSE;;stock;stock
 ;D;1312;2817aa3ba5ce3496c4222adb7a6aa37c;leave with the colleague. ;leave;FALSE;;leave;leave
 ;D;7041;83d8403f227baca0464166c404dc0dc2;order another drink;order;FALSE;;order;order
-;D;11967;14399e53229004f2c85ec3810d5cf776;Check the rest;;FALSE;it seems that they forgot the location too;;check
+;D;11967;14399e53229004f2c85ec3810d5cf776;Check the rest;;FALSE;it seems that they forgot the location too;check;check
 3;A;828;b8b10c5c32c46a8f278dc868ef65fd9d;return;;FALSE;;return;/
 ;A;5738;38515a2d399231bb4340622c162d7b1a;gate;;TRUE;;;/
-;A;6557;bac07a9a07d31bd971ed4288f10499d6;get ready;;FALSE;;;/
+;A;6557;bac07a9a07d31bd971ed4288f10499d6;get ready;;FALSE;;prepare;/
 ;A;11481;4f1511992b86c3d28f958bcbf4d56511;s the ?? began lining up%2C the driver at the station had to;;TRUE;;;/
 ;A;13933;773048bc5ea832a6a6fb93f6da578bc6;leave;;FALSE;;;/
 ;A;15572;bc3b5c51f98f643be9a99134572a2170;open;;FALSE;I think they got confused on this one that the gate will open and not what the passenger will do at the gate :/, I wouldn't throw them out bc I think these are issues that we may want to report as problems of the stimuli in our report;;/
 ;B;1947;2b7058890eefa22341aa295a036985a9;get in;board;FALSE;;board;/
 ;B;3588;58538dcb3f84e420200c601a4903dbef;rush the door;hurry;FALSE;maybe?;rush;rush
 ;B;7673;61f3559549de508d322e493e3c8fe90c;The travelers at the gate;;TRUE;;;/
-;B;10128;64e64662aa8b1a57c3e5254b48652bcc;line up as well;line up;FALSE;;line up;line up
+;B;10128;64e64662aa8b1a57c3e5254b48652bcc;line up as well;line up;FALSE;;queue;line up
 ;B;12599;8e6ad748c0685eaeffbadbae0050306d;board;;FALSE;;board;/
-;B;14233;46c4212ded545ed717b0ff376752ae11;proceed to depart;board;FALSE;maybe?;;proceed
+;B;14233;46c4212ded545ed717b0ff376752ae11;proceed to depart;board;FALSE;maybe?;proceed;proceed
 ;B;15872;9f8736428d68ef86c654e1f0f0b1058e;line up as well;line up;FALSE;;line up;line up
 ;C;1091;2817aa3ba5ce3496c4222adb7a6aa37c;swim to shore.;swim;FALSE;;swim;swim
 ;C;6820;83d8403f227baca0464166c404dc0dc2;jump excitedly;;FALSE;;jump;jump
-;C;11744;14399e53229004f2c85ec3810d5cf776;exciting;;TRUE;;;/
+;C;11744;14399e53229004f2c85ec3810d5cf776;exciting;;TRUE;;excite;/
 ;D;2833;9a8edf1b84fcdd4e9692881d31a5a26e;talk about their vacations;;FALSE;;talk;talk
-;D;4467;559a558cc071b904f807f21b428370da;be ready to go out on the water.;get out of the water;FALSE;or maybe smth shorter, like get out?;;get ready
+;D;4467;559a558cc071b904f807f21b428370da;be ready to go out on the water.;get out of the water;FALSE;or maybe smth shorter, like get out?;leave;get ready
 ;D;8551;6df37ff0405e34325f86235ab8e45b66;line up behind them;line up;FALSE;;line up;line up
 ;D;9369;3028e7887ad94e66d4f5fe907c30cc88;as people started lining up;;TRUE;;;/
 4;A;1926;2b7058890eefa22341aa295a036985a9;rap;;FALSE;;rap;/
@@ -75,30 +75,30 @@ Item;Condition;ID;MD5 hash of participant's IP address;Original_Value;Changed_Va
 ;C;9182;3028e7887ad94e66d4f5fe907c30cc88;when the beat dropped;;TRUE;;;/
 ;D;356;b8b10c5c32c46a8f278dc868ef65fd9d;rap;;FALSE;;rap;/
 ;D;5274;38515a2d399231bb4340622c162d7b1a;rapper;rap;TRUE;;rap;rap
-;D;6091;bac07a9a07d31bd971ed4288f10499d6;spit rhymes ;rap;FALSE;;;rap
+;D;6091;bac07a9a07d31bd971ed4288f10499d6;spit rhymes ;rap;FALSE;;rhyme;rap
 ;D;11008;4f1511992b86c3d28f958bcbf4d56511;The rapper in the studio%2C as the beat dropped began too ;;TRUE;;;/
 ;D;13469;773048bc5ea832a6a6fb93f6da578bc6;rap;;FALSE;;;/
 ;D;15106;bc3b5c51f98f643be9a99134572a2170;rap;;FALSE;;;/
-5;A;1015;2817aa3ba5ce3496c4222adb7a6aa37c;stop to drink some water.;drink water;FALSE;;drink water;drink
-;A;6744;83d8403f227baca0464166c404dc0dc2;have a drink;drink water;FALSE;;drink water;drink
-;A;11668;14399e53229004f2c85ec3810d5cf776;Give him water ;drink water;FALSE;;drink water;drink
-;B;2853;9a8edf1b84fcdd4e9692881d31a5a26e;drink more water;drink water;FALSE;;drink water;drink
-;B;4487;559a558cc071b904f807f21b428370da;stop for a drink of water.;drink water;FALSE;;drink water;drink
-;B;8571;6df37ff0405e34325f86235ab8e45b66;drink water;;FALSE;;;drink
+5;A;1015;2817aa3ba5ce3496c4222adb7a6aa37c;stop to drink some water.;drink water;FALSE;;drink;drink
+;A;6744;83d8403f227baca0464166c404dc0dc2;have a drink;drink water;FALSE;;drink;drink
+;A;11668;14399e53229004f2c85ec3810d5cf776;Give him water ;drink water;FALSE;;drink;drink
+;B;2853;9a8edf1b84fcdd4e9692881d31a5a26e;drink more water;drink water;FALSE;;drink;drink
+;B;4487;559a558cc071b904f807f21b428370da;stop for a drink of water.;drink water;FALSE;;drink;drink
+;B;8571;6df37ff0405e34325f86235ab8e45b66;drink water;;FALSE;;drink;drink
 ;B;9389;3028e7887ad94e66d4f5fe907c30cc88;the athletes on the track seems thirsty;;TRUE;;;/
 ;C;709;b8b10c5c32c46a8f278dc868ef65fd9d;engage;;FALSE;??;;/
-;C;5620;38515a2d399231bb4340622c162d7b1a;taxi;;TRUE;;;
-;C;6438;bac07a9a07d31bd971ed4288f10499d6;take a drink of water;drink water;FALSE;;drink water;drink
+;C;5620;38515a2d399231bb4340622c162d7b1a;taxi;;TRUE;;drink;
+;C;6438;bac07a9a07d31bd971ed4288f10499d6;take a drink of water;drink water;FALSE;;drink;drink
 ;C;11361;4f1511992b86c3d28f958bcbf4d56511;Because he was thirsty%2C the athlete in the cab decides to;;TRUE;;;/
-;C;13815;773048bc5ea832a6a6fb93f6da578bc6;drink water;;FALSE;;drink water;drink
-;C;15453;bc3b5c51f98f643be9a99134572a2170;grab some water;drink water;FALSE;;;drink
+;C;13815;773048bc5ea832a6a6fb93f6da578bc6;drink water;;FALSE;;drink;drink
+;C;15453;bc3b5c51f98f643be9a99134572a2170;grab some water;drink water;FALSE;;drink;drink
 ;D;2451;2b7058890eefa22341aa295a036985a9;drive;;FALSE;;drive;/
-;D;4086;58538dcb3f84e420200c601a4903dbef;stop and get something to drink;stop and drink;FALSE;;stop and drink;drink
+;D;4086;58538dcb3f84e420200c601a4903dbef;stop and get something to drink;stop and drink;FALSE;;drink;drink
 ;D;8170;61f3559549de508d322e493e3c8fe90c;The athlete in the stadium;;TRUE;;;/
-;D;10631;64e64662aa8b1a57c3e5254b48652bcc;buy water;;FALSE;;buy water;buy
-;D;13096;8e6ad748c0685eaeffbadbae0050306d;drink;;FALSE;;drink water;/
-;D;14731;46c4212ded545ed717b0ff376752ae11;ask for a drink;;FALSE;;drink water;drink
-;D;16373;9f8736428d68ef86c654e1f0f0b1058e;stop for a drink;stop and drink;FALSE;;stop and drink;drink
+;D;10631;64e64662aa8b1a57c3e5254b48652bcc;buy water;;FALSE;;buy;buy
+;D;13096;8e6ad748c0685eaeffbadbae0050306d;drink;;FALSE;;drink;/
+;D;14731;46c4212ded545ed717b0ff376752ae11;ask for a drink;;FALSE;;drink;drink
+;D;16373;9f8736428d68ef86c654e1f0f0b1058e;stop for a drink;stop and drink;FALSE;;drink;drink
 6;A;2657;9a8edf1b84fcdd4e9692881d31a5a26e;prepare for the evening;;FALSE;;prepare;prepare
 ;A;4292;559a558cc071b904f807f21b428370da;begin to peel and chop them.;peel and chop;FALSE;;peel;peel
 ;A;8376;6df37ff0405e34325f86235ab8e45b66;peel them;;FALSE;;peel;peel
@@ -108,23 +108,23 @@ Item;Condition;ID;MD5 hash of participant's IP address;Original_Value;Changed_Va
 ;B;6053;bac07a9a07d31bd971ed4288f10499d6;peel and prep them;peel and prepare them;FALSE;;peel;peel
 ;B;10970;4f1511992b86c3d28f958bcbf4d56511;the cook in the kitchen%2C after the potatoes were delivered had to ;;TRUE;;;/
 ;B;13431;773048bc5ea832a6a6fb93f6da578bc6;make preparations;prepare;FALSE;;prepare;prepare
-;B;15067;bc3b5c51f98f643be9a99134572a2170;bring them in;;FALSE;;;bring
+;B;15067;bc3b5c51f98f643be9a99134572a2170;bring them in;;FALSE;;bring;bring
 ;C;1698;2b7058890eefa22341aa295a036985a9;stop;;FALSE;;;stop
-;C;3342;58538dcb3f84e420200c601a4903dbef;pull up more potatoes;;FALSE;;;pull up
+;C;3342;58538dcb3f84e420200c601a4903dbef;pull up more potatoes;;FALSE;;bring;pull up
 ;C;7427;61f3559549de508d322e493e3c8fe90c;fter the potatoes were cook the cook in  the garden;;TRUE;;;/
 ;C;9877;64e64662aa8b1a57c3e5254b48652bcc;cook;;FALSE;;;/
 ;C;12353;8e6ad748c0685eaeffbadbae0050306d;return;;FALSE;;;/
 ;C;13986;46c4212ded545ed717b0ff376752ae11;cut them;;FALSE;;cut;cut
-;C;15625;9f8736428d68ef86c654e1f0f0b1058e;pick fresh produce;pick fresh products;FALSE;;;pick
-;D;1367;2817aa3ba5ce3496c4222adb7a6aa37c;check the rest of the vegetables. ;;FALSE;;;check
+;C;15625;9f8736428d68ef86c654e1f0f0b1058e;pick fresh produce;pick fresh products;FALSE;;pick;pick
+;D;1367;2817aa3ba5ce3496c4222adb7a6aa37c;check the rest of the vegetables. ;;FALSE;;check;check
 ;D;7096;83d8403f227baca0464166c404dc0dc2;peel them;;FALSE;;peel;peel
-;D;12022;14399e53229004f2c85ec3810d5cf776;Must go to the resturant;go to the restaurant;TRUE;;;go
+;D;12022;14399e53229004f2c85ec3810d5cf776;Must go to the resturant;go to the restaurant;TRUE;;go;go
 7;A;629;b8b10c5c32c46a8f278dc868ef65fd9d;cool;;FALSE;;;/
 ;A;5542;38515a2d399231bb4340622c162d7b1a;front;;TRUE;;;/
 ;A;6360;bac07a9a07d31bd971ed4288f10499d6;start screaming with excitement;scream;FALSE;;scream;scream
 ;A;11281;4f1511992b86c3d28f958bcbf4d56511;s the lights dimmed%2C the fan in the front row starts to ;;TRUE;;;/
 ;A;13737;773048bc5ea832a6a6fb93f6da578bc6;shine;;FALSE;;;/
-;A;15375;bc3b5c51f98f643be9a99134572a2170;sit down;;FALSE;;;sit
+;A;15375;bc3b5c51f98f643be9a99134572a2170;sit down;;FALSE;;sit;sit
 ;B;1667;2b7058890eefa22341aa295a036985a9;scream;;FALSE;;scream;/
 ;B;3311;58538dcb3f84e420200c601a4903dbef;be screaming;;FALSE;;scream;scream
 ;B;7396;61f3559549de508d322e493e3c8fe90c;The fan in the front row as the light are dimmed;;TRUE;;;/
@@ -132,24 +132,24 @@ Item;Condition;ID;MD5 hash of participant's IP address;Original_Value;Changed_Va
 ;B;12321;8e6ad748c0685eaeffbadbae0050306d;cheer;;FALSE;;scream;/
 ;B;13955;46c4212ded545ed717b0ff376752ae11;scream;;FALSE;;scream;/
 ;B;15594;9f8736428d68ef86c654e1f0f0b1058e;shout excitingly;scream;FALSE;;scream;shout
-;C;1613;2817aa3ba5ce3496c4222adb7a6aa37c;pushed around.;;TRUE;;;push
-;C;7342;83d8403f227baca0464166c404dc0dc2;try to get there fast;;FALSE;;;try
+;C;1613;2817aa3ba5ce3496c4222adb7a6aa37c;pushed around.;;TRUE;;push;push
+;C;7342;83d8403f227baca0464166c404dc0dc2;try to get there fast;;FALSE;;arrive;try
 ;C;12268;14399e53229004f2c85ec3810d5cf776;Continue;;FALSE;;;/
 ;D;3069;9a8edf1b84fcdd4e9692881d31a5a26e;the rock concert started to play;;TRUE;;;/
-;D;4702;559a558cc071b904f807f21b428370da;be frustrated and worry about missing the start of the show.;get frustrated;FALSE;;be frustrated;be frustrated
+;D;4702;559a558cc071b904f807f21b428370da;be frustrated and worry about missing the start of the show.;get frustrated;FALSE;;worry;be frustrated
 ;D;8786;6df37ff0405e34325f86235ab8e45b66;get frustrated;;FALSE;;be frustrated;be frustrated
 ;D;9604;3028e7887ad94e66d4f5fe907c30cc88;in traffic;;TRUE;;;sit 
-8;A;1888;2b7058890eefa22341aa295a036985a9;sit down;;FALSE;;;step
-;A;3530;58538dcb3f84e420200c601a4903dbef;step backwards ;;FALSE;;;/
+8;A;1888;2b7058890eefa22341aa295a036985a9;sit down;;FALSE;;sit;step
+;A;3530;58538dcb3f84e420200c601a4903dbef;step backwards ;;FALSE;;step;/
 ;A;7615;61f3559549de508d322e493e3c8fe90c;s the train arrived the;;TRUE;;;/
 ;A;10069;64e64662aa8b1a57c3e5254b48652bcc;alight;;TRUE;?;;
 ;A;12541;8e6ad748c0685eaeffbadbae0050306d;enter;;FALSE;;;/
 ;A;14175;46c4212ded545ed717b0ff376752ae11;prepare;;FALSE;;;/
-;A;15814;9f8736428d68ef86c654e1f0f0b1058e;get their bags ready;get ready;FALSE;maybe?;get ready;get ready
+;A;15814;9f8736428d68ef86c654e1f0f0b1058e;get their bags ready;get ready;FALSE;maybe?;prepare;get ready
 ;B;1502;2817aa3ba5ce3496c4222adb7a6aa37c;grab their items.;;FALSE;;grab;grab
-;B;7231;83d8403f227baca0464166c404dc0dc2;get ready to haul his suitcase;get ready;FALSE;;get ready;get ready
-;B;12157;14399e53229004f2c85ec3810d5cf776;Must be ready to the the bus;get ready;TRUE;why the bus????;get ready;get ready
-;C;2491;9a8edf1b84fcdd4e9692881d31a5a26e;be ready for the train;get ready;FALSE;;get ready;get ready
+;B;7231;83d8403f227baca0464166c404dc0dc2;get ready to haul his suitcase;get ready;FALSE;;prepare;get ready
+;B;12157;14399e53229004f2c85ec3810d5cf776;Must be ready to the the bus;get ready;TRUE;why the bus????;prepare;get ready
+;C;2491;9a8edf1b84fcdd4e9692881d31a5a26e;be ready for the train;get ready;FALSE;;prepare;get ready
 ;C;4126;559a558cc071b904f807f21b428370da;run to make his train on time.;;FALSE;;run;run
 ;C;8210;6df37ff0405e34325f86235ab8e45b66;leave;;FALSE;;leave;/
 ;C;9027;3028e7887ad94e66d4f5fe907c30cc88;as the traveler readies;get ready;TRUE;this is so sus;;/
@@ -160,25 +160,25 @@ Item;Condition;ID;MD5 hash of participant's IP address;Original_Value;Changed_Va
 ;D;13624;773048bc5ea832a6a6fb93f6da578bc6;more;;TRUE;;;/
 ;D;15262;bc3b5c51f98f643be9a99134572a2170;braod;board;FALSE;maybe?;board;board
 9;A;1082;2817aa3ba5ce3496c4222adb7a6aa37c;rush to class.;;FALSE;;rush;rush
-;A;6811;83d8403f227baca0464166c404dc0dc2;use the bathroom;;FALSE;;;use
-;A;11735;14399e53229004f2c85ec3810d5cf776;Go on a break;;FALSE;;;go
-;B;2902;9a8edf1b84fcdd4e9692881d31a5a26e;get ready for class;;FALSE;;get ready;get ready
+;A;6811;83d8403f227baca0464166c404dc0dc2;use the bathroom;;FALSE;;use;use
+;A;11735;14399e53229004f2c85ec3810d5cf776;Go on a break;;FALSE;;pause;go
+;B;2902;9a8edf1b84fcdd4e9692881d31a5a26e;get ready for class;;FALSE;;prepare;get ready
 ;B;4536;559a558cc071b904f807f21b428370da;run to make it to class on time.;;FALSE;;run;run
 ;B;8620;6df37ff0405e34325f86235ab8e45b66;come inside;;FALSE;;enter;enter
 ;B;9438;3028e7887ad94e66d4f5fe907c30cc88;as the bell rings;;TRUE;;;/
 ;C;729;b8b10c5c32c46a8f278dc868ef65fd9d;sleep;;FALSE;;;/
 ;C;5640;38515a2d399231bb4340622c162d7b1a;had;;TRUE;;;/
-;C;6459;bac07a9a07d31bd971ed4288f10499d6;head back inside;;FALSE;;come back;come back
+;C;6459;bac07a9a07d31bd971ed4288f10499d6;head back inside;;FALSE;;enter;come back
 ;C;11381;4f1511992b86c3d28f958bcbf4d56511;Once the bell rings%2C the student on the playground had to;;TRUE;;;/
 ;C;13835;773048bc5ea832a6a6fb93f6da578bc6;leave;;FALSE;;leave;/
-;C;15473;bc3b5c51f98f643be9a99134572a2170;go home;leave;FALSE;;go home;go home
-;D;1897;2b7058890eefa22341aa295a036985a9;return to class;return;FALSE;;come back;come back
-;D;3539;58538dcb3f84e420200c601a4903dbef;run inside;return;FALSE;maybe?;come back;run
+;C;15473;bc3b5c51f98f643be9a99134572a2170;go home;leave;FALSE;;go;go home
+;D;1897;2b7058890eefa22341aa295a036985a9;return to class;return;FALSE;;return;come back
+;D;3539;58538dcb3f84e420200c601a4903dbef;run inside;return;FALSE;maybe?;return;run
 ;D;7624;61f3559549de508d322e493e3c8fe90c;The student on the playing ground as ;;TRUE;;;/
-;D;10078;64e64662aa8b1a57c3e5254b48652bcc;stop playing;;FALSE;;stop playing;stop
-;D;12550;8e6ad748c0685eaeffbadbae0050306d;return;;FALSE;;come back;come back
-;D;14184;46c4212ded545ed717b0ff376752ae11;gather the students;;FALSE;;;gather
-;D;15823;9f8736428d68ef86c654e1f0f0b1058e;get to class;;FALSE;;;enter
+;D;10078;64e64662aa8b1a57c3e5254b48652bcc;stop playing;;FALSE;;stop;stop
+;D;12550;8e6ad748c0685eaeffbadbae0050306d;return;;FALSE;;return;come back
+;D;14184;46c4212ded545ed717b0ff376752ae11;gather the students;;FALSE;;gather;gather
+;D;15823;9f8736428d68ef86c654e1f0f0b1058e;get to class;;FALSE;;enter;enter
 10;A;2593;9a8edf1b84fcdd4e9692881d31a5a26e;prepare for the meeting.;;FALSE;;prepare;prepare
 ;A;4228;559a558cc071b904f807f21b428370da;prepare their presentation and for any questions others in the meeting might have.;prepare for the meeting.;FALSE;;prepare;prepare
 ;A;8312;6df37ff0405e34325f86235ab8e45b66;speak;;FALSE;;;/
@@ -192,31 +192,31 @@ Item;Condition;ID;MD5 hash of participant's IP address;Original_Value;Changed_Va
 ;C;2139;2b7058890eefa22341aa295a036985a9;run;hurry up;FALSE;;;/
 ;C;3779;58538dcb3f84e420200c601a4903dbef;hurry off the subway to the meeting;hurry up;FALSE;;hurry;hurry
 ;C;7864;61f3559549de508d322e493e3c8fe90c;s the meeting started the ;;TRUE;;;/
-;C;10323;64e64662aa8b1a57c3e5254b48652bcc;keep quiet;;FALSE;;;be quiet
+;C;10323;64e64662aa8b1a57c3e5254b48652bcc;keep quiet;;FALSE;;quieten;be quiet
 ;C;12790;8e6ad748c0685eaeffbadbae0050306d;travel;;FALSE;;;/
-;C;14425;46c4212ded545ed717b0ff376752ae11;decide next steps;;FALSE;;;decide
+;C;14425;46c4212ded545ed717b0ff376752ae11;decide next steps;;FALSE;;decide;decide
 ;C;16066;9f8736428d68ef86c654e1f0f0b1058e;hurry up;;FALSE;;hurry;hurry
 ;D;1376;2817aa3ba5ce3496c4222adb7a6aa37c;begin his speech.;;FALSE;;start;begin
-;D;7105;83d8403f227baca0464166c404dc0dc2;do his job;;FALSE;;;do
+;D;7105;83d8403f227baca0464166c404dc0dc2;do his job;;FALSE;;work;do
 ;D;12031;14399e53229004f2c85ec3810d5cf776;Must be prepared well;prepare for the meeting.;FALSE;;prepare;prepare
 11;A;327;b8b10c5c32c46a8f278dc868ef65fd9d;engage;;FALSE;;;/
 ;A;5245;38515a2d399231bb4340622c162d7b1a;camera;;TRUE;;;/
 ;A;6062;bac07a9a07d31bd971ed4288f10499d6;perform;;FALSE;;;/
 ;A;10979;4f1511992b86c3d28f958bcbf4d56511;s the camera rolls%2C the after on the set must ;;TRUE;;;/
-;A;13440;773048bc5ea832a6a6fb93f6da578bc6;set up;;FALSE;;;/
+;A;13440;773048bc5ea832a6a6fb93f6da578bc6;set up;;FALSE;;set up;/
 ;A;15076;bc3b5c51f98f643be9a99134572a2170;begin to act;perform;FALSE;;act;act
 ;B;1687;2b7058890eefa22341aa295a036985a9;record;;FALSE;;;/
-;B;3331;58538dcb3f84e420200c601a4903dbef;capture the moment;record;FALSE;maybe?;take a picture;capture
+;B;3331;58538dcb3f84e420200c601a4903dbef;capture the moment;record;FALSE;maybe?;capture;capture
 ;B;7416;61f3559549de508d322e493e3c8fe90c;The actor on the set as the camera roll;;TRUE;;;/
 ;B;9866;64e64662aa8b1a57c3e5254b48652bcc;talk;;FALSE;;;/
 ;B;12342;8e6ad748c0685eaeffbadbae0050306d;peform;perform;FALSE;;;/
 ;B;13975;46c4212ded545ed717b0ff376752ae11;prepare;;FALSE;;;/
-;B;15614;9f8736428d68ef86c654e1f0f0b1058e;get into character;;FALSE;;;embody
-;C;1511;2817aa3ba5ce3496c4222adb7a6aa37c;take the picture.;;FALSE;;take a picture;shoot
-;C;7240;83d8403f227baca0464166c404dc0dc2;get ready to act;;FALSE;;;act
+;B;15614;9f8736428d68ef86c654e1f0f0b1058e;get into character;;FALSE;;get;embody
+;C;1511;2817aa3ba5ce3496c4222adb7a6aa37c;take the picture.;;FALSE;;photograph;shoot
+;C;7240;83d8403f227baca0464166c404dc0dc2;get ready to act;;FALSE;;prepare;act
 ;C;12166;14399e53229004f2c85ec3810d5cf776;Start;;FALSE;;;start
 ;D;2724;9a8edf1b84fcdd4e9692881d31a5a26e;set up the shoot;;FALSE;;set up;prepare
-;D;4359;559a558cc071b904f807f21b428370da;wonder why he is behind the camera instead of in front of it.;;TRUE;;;wonder
+;D;4359;559a558cc071b904f807f21b428370da;wonder why he is behind the camera instead of in front of it.;;TRUE;;wonder;wonder
 ;D;8443;6df37ff0405e34325f86235ab8e45b66;act;;FALSE;;;act
 ;D;9261;3028e7887ad94e66d4f5fe907c30cc88;as the camera rolls;;TRUE;;;/
 12;A;2310;2b7058890eefa22341aa295a036985a9;dribble;;FALSE;;;/
@@ -227,64 +227,64 @@ Item;Condition;ID;MD5 hash of participant's IP address;Original_Value;Changed_Va
 ;A;14591;46c4212ded545ed717b0ff376752ae11;play the game;play;FALSE;;play;play
 ;A;16233;9f8736428d68ef86c654e1f0f0b1058e;serve;;FALSE;;serve;/
 ;B;886;2817aa3ba5ce3496c4222adb7a6aa37c;serve the ball.;serve;FALSE;;serve;serve
-;B;6615;83d8403f227baca0464166c404dc0dc2;get in the zone;;FALSE;;;get in
+;B;6615;83d8403f227baca0464166c404dc0dc2;get in the zone;;FALSE;;get;get in
 ;B;11539;14399e53229004f2c85ec3810d5cf776;Start;;FALSE;;;/
-;C;2882;9a8edf1b84fcdd4e9692881d31a5a26e;be ready for the competition;get ready;FALSE;;be ready;be ready
-;C;4516;559a558cc071b904f807f21b428370da;panic and need to hurry to the field.;hurry;FALSE;;panic and hurry;hurry
+;C;2882;9a8edf1b84fcdd4e9692881d31a5a26e;be ready for the competition;get ready;FALSE;;prepare;be ready
+;C;4516;559a558cc071b904f807f21b428370da;panic and need to hurry to the field.;hurry;FALSE;;hurry;hurry
 ;C;8600;6df37ff0405e34325f86235ab8e45b66;run;hurry;FALSE;;;/
 ;C;9418;3028e7887ad94e66d4f5fe907c30cc88;as soon as the game begins;;TRUE;;;/
-;D;700;b8b10c5c32c46a8f278dc868ef65fd9d;attention;;TRUE;;pay attention;/
+;D;700;b8b10c5c32c46a8f278dc868ef65fd9d;attention;;TRUE;;focus;/
 ;D;5611;38515a2d399231bb4340622c162d7b1a;game;;FALSE;what?;;/
-;D;6429;bac07a9a07d31bd971ed4288f10499d6;have to wait to eat;;FALSE;;wait to eat;wait
+;D;6429;bac07a9a07d31bd971ed4288f10499d6;have to wait to eat;;FALSE;;wait;wait
 ;D;11352;4f1511992b86c3d28f958bcbf4d56511;The player at the food stand%2C as soon as the game begins will;;TRUE;;;/
 ;D;13806;773048bc5ea832a6a6fb93f6da578bc6;play;;FALSE;;play;/
 ;D;15444;bc3b5c51f98f643be9a99134572a2170;play;;FALSE;;play;/
 13;A;1292;2817aa3ba5ce3496c4222adb7a6aa37c;wait until the weather cleared.;wait;FALSE;;wait;wait
 ;A;7021;83d8403f227baca0464166c404dc0dc2;wait for the weather to clear up;wait;FALSE;;wait;wait
-;A;11946;14399e53229004f2c85ec3810d5cf776;Take the order;;FALSE;;;take
+;A;11946;14399e53229004f2c85ec3810d5cf776;Take the order;;FALSE;;adhere;take
 ;B;2626;9a8edf1b84fcdd4e9692881d31a5a26e;wait for the coach;wait;FALSE;;wait;wait
-;B;4261;559a558cc071b904f807f21b428370da;wear jackets and sweaters over their uniforms to go outside.;get ready to go outside;FALSE;maybe?;;wear
+;B;4261;559a558cc071b904f807f21b428370da;wear jackets and sweaters over their uniforms to go outside.;get ready to go outside;FALSE;maybe?;wear;wear
 ;B;8345;6df37ff0405e34325f86235ab8e45b66;change;;FALSE;;change;/
 ;B;9162;3028e7887ad94e66d4f5fe907c30cc88;in the locker room;;TRUE;;;/
 ;C;670;b8b10c5c32c46a8f278dc868ef65fd9d;targeted;;TRUE;?;target;target
 ;C;5582;38515a2d399231bb4340622c162d7b1a;park;;TRUE;;;/
-;C;6400;bac07a9a07d31bd971ed4288f10499d6;head inside;leave;FALSE;maybe?;head inside;head
+;C;6400;bac07a9a07d31bd971ed4288f10499d6;head inside;leave;FALSE;maybe?;enter;head
 ;C;11322;4f1511992b86c3d28f958bcbf4d56511;Because it was raining%2C the players in the park ;;TRUE;;;/
 ;C;13777;773048bc5ea832a6a6fb93f6da578bc6;leave the park;leave;FALSE;;leave;leave
 ;C;15415;bc3b5c51f98f643be9a99134572a2170;leave;;FALSE;;;/
 ;D;2080;2b7058890eefa22341aa295a036985a9;suffer;;FALSE;;;/
-;D;3721;58538dcb3f84e420200c601a4903dbef;come inside;;FALSE;;head inside;come
+;D;3721;58538dcb3f84e420200c601a4903dbef;come inside;;FALSE;;enter;come
 ;D;7806;61f3559549de508d322e493e3c8fe90c;The player in the park;;TRUE;;;/
 ;D;10265;64e64662aa8b1a57c3e5254b48652bcc;stop the training session;stop;FALSE;;stop;stop
 ;D;12732;8e6ad748c0685eaeffbadbae0050306d;shelter;;FALSE;;shelter;shelter
 ;D;14367;46c4212ded545ed717b0ff376752ae11;find shelter;shelter;FALSE;;shelter;shelter
 ;D;16008;9f8736428d68ef86c654e1f0f0b1058e;take shelter;shelter;FALSE;;shelter;shelter
 14;A;3098;9a8edf1b84fcdd4e9692881d31a5a26e;prepare for the rain;prepare;FALSE;;prepare;prepare
-;A;4731;559a558cc071b904f807f21b428370da;continue working regardless of the state of the weather.;continue;FALSE;;continue working;work
-;A;8816;6df37ff0405e34325f86235ab8e45b66;go inside;;FALSE;;go inside;go
+;A;4731;559a558cc071b904f807f21b428370da;continue working regardless of the state of the weather.;continue;FALSE;;continue;work
+;A;8816;6df37ff0405e34325f86235ab8e45b66;go inside;;FALSE;;enter;go
 ;A;9633;3028e7887ad94e66d4f5fe907c30cc88;when the rain started;;TRUE;;;/
-;B;586;b8b10c5c32c46a8f278dc868ef65fd9d;mistaken;;TRUE;?;be mistaken;mistake
+;B;586;b8b10c5c32c46a8f278dc868ef65fd9d;mistaken;;TRUE;?;mistake;mistake
 ;B;5500;38515a2d399231bb4340622c162d7b1a;rain;;TRUE;;rain;rain
-;B;6318;bac07a9a07d31bd971ed4288f10499d6;get the supplies put up quickly;;FALSE;?;;get
+;B;6318;bac07a9a07d31bd971ed4288f10499d6;get the supplies put up quickly;;FALSE;?;put up;get
 ;B;11238;4f1511992b86c3d28f958bcbf4d56511;The gardener in the yard%2C once the rain started had to ;;TRUE;;;/
 ;B;13695;773048bc5ea832a6a6fb93f6da578bc6;stop;;FALSE;;;/
 ;B;15333;bc3b5c51f98f643be9a99134572a2170;take shelter;shelter;FALSE;;shelter;shelter
 ;C;2069;2b7058890eefa22341aa295a036985a9;plant;;FALSE;;;/
-;C;3710;58538dcb3f84e420200c601a4903dbef;come inside;;FALSE;;go inside;come
+;C;3710;58538dcb3f84e420200c601a4903dbef;come inside;;FALSE;;enter;come
 ;C;7795;61f3559549de508d322e493e3c8fe90c;When it started rain the gardener;;TRUE;;;/
-;C;10254;64e64662aa8b1a57c3e5254b48652bcc;get ready;;FALSE;;get ready;prepare
+;C;10254;64e64662aa8b1a57c3e5254b48652bcc;get ready;;FALSE;;prepare;prepare
 ;C;12721;8e6ad748c0685eaeffbadbae0050306d;rush;;FALSE;;;rush
 ;C;14356;46c4212ded545ed717b0ff376752ae11;stay in kitchen;;FALSE;;stay;stay
 ;C;15997;9f8736428d68ef86c654e1f0f0b1058e;wait for it stop;;FALSE;;wait;wait
-;D;857;2817aa3ba5ce3496c4222adb7a6aa37c;get ready;;FALSE;;get ready;prepare
-;D;6586;83d8403f227baca0464166c404dc0dc2;put his tools away;;FALSE;;;put away
-;D;11510;14399e53229004f2c85ec3810d5cf776;To check the garden;check the garden;TRUE;;check the garden;/
+;D;857;2817aa3ba5ce3496c4222adb7a6aa37c;get ready;;FALSE;;prepare;prepare
+;D;6586;83d8403f227baca0464166c404dc0dc2;put his tools away;;FALSE;;put away;put away
+;D;11510;14399e53229004f2c85ec3810d5cf776;To check the garden;check the garden;TRUE;;check;/
 15;A;90;b8b10c5c32c46a8f278dc868ef65fd9d;regroup;;FALSE;;;/
 ;A;5013;38515a2d399231bb4340622c162d7b1a;soldier;;FALSE;;;/
-;A;5829;bac07a9a07d31bd971ed4288f10499d6;get to work;;FALSE;;;work
+;A;5829;bac07a9a07d31bd971ed4288f10499d6;get to work;;FALSE;;work;work
 ;A;10745;4f1511992b86c3d28f958bcbf4d56511;When the order was given%2C the soldier on the base had to;;TRUE;;;/
 ;A;13207;773048bc5ea832a6a6fb93f6da578bc6;leave;;FALSE;;;/
-;A;14843;bc3b5c51f98f643be9a99134572a2170;listen closely;;FALSE;;;listen
+;A;14843;bc3b5c51f98f643be9a99134572a2170;listen closely;;FALSE;;listen;listen
 ;B;2401;2b7058890eefa22341aa295a036985a9;comply;;FALSE;;;/
 ;B;4037;58538dcb3f84e420200c601a4903dbef;meet the demands of the orders;comply;FALSE;maybe?;comply;fulfill
 ;B;8121;61f3559549de508d322e493e3c8fe90c;The solider on the base;;TRUE;;;/
@@ -295,60 +295,60 @@ Item;Condition;ID;MD5 hash of participant's IP address;Original_Value;Changed_Va
 ;C;1055;2817aa3ba5ce3496c4222adb7a6aa37c;return to post.;return;FALSE;;return;return
 ;C;6784;83d8403f227baca0464166c404dc0dc2;prepare to be deployed;deploy;FALSE;;prepare;deploy
 ;C;11708;14399e53229004f2c85ec3810d5cf776;Had to hurry up and get to grounds;return;FALSE;;hurry;hurry
-;D;2695;9a8edf1b84fcdd4e9692881d31a5a26e;report to duty;;FALSE;;;report
+;D;2695;9a8edf1b84fcdd4e9692881d31a5a26e;report to duty;;FALSE;;report;report
 ;D;4330;559a558cc071b904f807f21b428370da;mentally prepare and ready himself for eventual combat.;get ready for combat;FALSE;;prepare;prepare
 ;D;8414;6df37ff0405e34325f86235ab8e45b66;start packing;;FALSE;;pack;pack
 ;D;9232;3028e7887ad94e66d4f5fe907c30cc88;when the order was given;;TRUE;;;/
 16;A;1709;2b7058890eefa22341aa295a036985a9;brake;;FALSE;;;/
-;A;3353;58538dcb3f84e420200c601a4903dbef;look back;;FALSE;;;/
+;A;3353;58538dcb3f84e420200c601a4903dbef;look back;;FALSE;;look;/
 ;A;7438;61f3559549de508d322e493e3c8fe90c;when he as approaching the station%2C the driver in the driver's seat;;TRUE;;;/
 ;A;9888;64e64662aa8b1a57c3e5254b48652bcc;break;brake;FALSE;;brake;/
 ;A;12364;8e6ad748c0685eaeffbadbae0050306d;stop;;FALSE;;;/
 ;A;13997;46c4212ded545ed717b0ff376752ae11;stop;;FALSE;;;/
 ;A;15636;9f8736428d68ef86c654e1f0f0b1058e;stop;;FALSE;;;/
-;B;897;2817aa3ba5ce3496c4222adb7a6aa37c;pull over. ;;FALSE;;;/
-;B;6626;83d8403f227baca0464166c404dc0dc2;slow down;;FALSE;;;/
+;B;897;2817aa3ba5ce3496c4222adb7a6aa37c;pull over. ;;FALSE;;stop;/
+;B;6626;83d8403f227baca0464166c404dc0dc2;slow down;;FALSE;;slow down;/
 ;B;11550;14399e53229004f2c85ec3810d5cf776;Stop for passengers to hop into the bus;stop;FALSE;;stop;stop
-;C;2502;9a8edf1b84fcdd4e9692881d31a5a26e;get back on the crowded bus.;get back on the bus.;FALSE;;get back on;get back
+;C;2502;9a8edf1b84fcdd4e9692881d31a5a26e;get back on the crowded bus.;get back on the bus.;FALSE;;get on;get back
 ;C;4137;559a558cc071b904f807f21b428370da;stop quickly;;FALSE;;stop;stop
-;C;8221;6df37ff0405e34325f86235ab8e45b66;slow down;;FALSE;;;slow
+;C;8221;6df37ff0405e34325f86235ab8e45b66;slow down;;FALSE;;slow down;slow
 ;C;9038;3028e7887ad94e66d4f5fe907c30cc88;when it was approaching the finally destination.;;TRUE;;;/
 ;D;818;b8b10c5c32c46a8f278dc868ef65fd9d;grabbed;;TRUE;?;grab;/
 ;D;5729;38515a2d399231bb4340622c162d7b1a;final;;TRUE;?;;/
-;D;6548;bac07a9a07d31bd971ed4288f10499d6;get out of the way;;FALSE;;;/
+;D;6548;bac07a9a07d31bd971ed4288f10499d6;get out of the way;;FALSE;;leave;/
 ;D;11471;4f1511992b86c3d28f958bcbf4d56511;The driver on the sidewalk%2C as he approached the final station had to;;TRUE;;;/
 ;D;13924;773048bc5ea832a6a6fb93f6da578bc6;move;;FALSE;;;/
-;D;15563;bc3b5c51f98f643be9a99134572a2170;get off;;FALSE;;;/
+;D;15563;bc3b5c51f98f643be9a99134572a2170;get off;;FALSE;;depart;/
 17;A;1573;2817aa3ba5ce3496c4222adb7a6aa37c;relax.;;FALSE;;relax;/
-;A;7302;83d8403f227baca0464166c404dc0dc2;go to sleep;sleep;FALSE;;go to sleep;sleep
-;A;12228;14399e53229004f2c85ec3810d5cf776;Check up on the husband;;FALSE;;check up;check
+;A;7302;83d8403f227baca0464166c404dc0dc2;go to sleep;sleep;FALSE;;sleep;sleep
+;A;12228;14399e53229004f2c85ec3810d5cf776;Check up on the husband;;FALSE;;check;check
 ;B;3185;9a8edf1b84fcdd4e9692881d31a5a26e;relax after a hectic week;relax;FALSE;;relax;relax
-;B;4818;559a558cc071b904f807f21b428370da;go to sleep.;sleep;FALSE;;go to sleep;sleep
+;B;4818;559a558cc071b904f807f21b428370da;go to sleep.;sleep;FALSE;;sleep;sleep
 ;B;8903;6df37ff0405e34325f86235ab8e45b66;hurry;;FALSE;;;/
 ;B;9720;3028e7887ad94e66d4f5fe907c30cc88;since it was very late;;TRUE;;;/
 ;C;29;b8b10c5c32c46a8f278dc868ef65fd9d;leave;;FALSE;;;/
 ;C;4953;38515a2d399231bb4340622c162d7b1a;park;;FALSE;;;/
-;C;5769;bac07a9a07d31bd971ed4288f10499d6;head home;go home;FALSE;;;go
+;C;5769;bac07a9a07d31bd971ed4288f10499d6;head home;go home;FALSE;;go;go
 ;C;10683;4f1511992b86c3d28f958bcbf4d56511;Sense it was very late%2C the women in the park decided to;;TRUE;;;/
 ;C;13147;773048bc5ea832a6a6fb93f6da578bc6;close;;FALSE;;;/
-;C;14782;bc3b5c51f98f643be9a99134572a2170;go home;;FALSE;;head home;go
+;C;14782;bc3b5c51f98f643be9a99134572a2170;go home;;FALSE;;go;go
 ;D;2018;2b7058890eefa22341aa295a036985a9;run;leave;FALSE;maybe?;;/
-;D;3659;58538dcb3f84e420200c601a4903dbef;think of ways;;TRUE;;;think
+;D;3659;58538dcb3f84e420200c601a4903dbef;think of ways;;TRUE;;think;think
 ;D;7744;61f3559549de508d322e493e3c8fe90c;The woman in the;;TRUE;;;/
 ;D;10202;64e64662aa8b1a57c3e5254b48652bcc;leave;;FALSE;;;/
 ;D;12670;8e6ad748c0685eaeffbadbae0050306d;skip;;FALSE;?;;/
-;D;14305;46c4212ded545ed717b0ff376752ae11;shorten time at park;;TRUE;;;shorten
-;D;15945;9f8736428d68ef86c654e1f0f0b1058e;go home;;FALSE;;;go
-18;A;2873;9a8edf1b84fcdd4e9692881d31a5a26e;hydrate and relax;;FALSE;;;relax
+;D;14305;46c4212ded545ed717b0ff376752ae11;shorten time at park;;TRUE;;shorten;shorten
+;D;15945;9f8736428d68ef86c654e1f0f0b1058e;go home;;FALSE;;go;go
+18;A;2873;9a8edf1b84fcdd4e9692881d31a5a26e;hydrate and relax;;FALSE;;hydrate;relax
 ;A;4507;559a558cc071b904f807f21b428370da;train harder than usual.;train;FALSE;;train;train
 ;A;8591;6df37ff0405e34325f86235ab8e45b66;train;;FALSE;;;/
 ;A;9409;3028e7887ad94e66d4f5fe907c30cc88;because he was preparing for a competition;;TRUE;;;/
 ;B;407;b8b10c5c32c46a8f278dc868ef65fd9d;exercise;train;FALSE;;train;/
 ;B;5323;38515a2d399231bb4340622c162d7b1a;gym;;FALSE;;train;/
 ;B;6140;bac07a9a07d31bd971ed4288f10499d6;get going before it's too late;train;FALSE;maybe?;go;go
-;B;11057;4f1511992b86c3d28f958bcbf4d56511;The runner in the ?? was preparing for the competition had to ;;TRUE;;;/
+;B;11057;4f1511992b86c3d28f958bcbf4d56511;The runner in the ?? was preparing for the competition had to ;;TRUE;;go;/
 ;B;13518;773048bc5ea832a6a6fb93f6da578bc6;begin;;FALSE;;;/
-;B;15155;bc3b5c51f98f643be9a99134572a2170;start practicing;begin;FALSE;;;practice
+;B;15155;bc3b5c51f98f643be9a99134572a2170;start practicing;begin;FALSE;;practice;practice
 ;C;2049;2b7058890eefa22341aa295a036985a9;prepare;;FALSE;;prepare;/
 ;C;3690;58538dcb3f84e420200c601a4903dbef;stretch;;FALSE;;stretch;/
 ;C;7775;61f3559549de508d322e493e3c8fe90c;Because he was preparing for a competition;;TRUE;;;/
@@ -356,7 +356,7 @@ Item;Condition;ID;MD5 hash of participant's IP address;Original_Value;Changed_Va
 ;C;12701;8e6ad748c0685eaeffbadbae0050306d;eat;;FALSE;;;/
 ;C;14336;46c4212ded545ed717b0ff376752ae11;eat healthy meal;eat;FALSE;;eat;eat
 ;C;15977;9f8736428d68ef86c654e1f0f0b1058e;eat healthy;eat;FALSE;;eat;eat
-;D;1460;2817aa3ba5ce3496c4222adb7a6aa37c;prepare a healthy meal.;cook;FALSE;maybe?;;prepare
+;D;1460;2817aa3ba5ce3496c4222adb7a6aa37c;prepare a healthy meal.;cook;FALSE;maybe?;prepare;prepare
 ;D;7189;83d8403f227baca0464166c404dc0dc2;eat and get hydrated;eat;FALSE;maybe?;eat;eat
 ;D;12115;14399e53229004f2c85ec3810d5cf776;Win;;FALSE;;;/
 19;A;367;b8b10c5c32c46a8f278dc868ef65fd9d;perform;;FALSE;;;/
@@ -366,42 +366,42 @@ Item;Condition;ID;MD5 hash of participant's IP address;Original_Value;Changed_Va
 ;A;13480;773048bc5ea832a6a6fb93f6da578bc6;act;perform;FALSE;;;/
 ;A;15117;bc3b5c51f98f643be9a99134572a2170;act;perform;FALSE;;;/
 ;B;2060;2b7058890eefa22341aa295a036985a9;perform;;FALSE;;;/
-;B;3701;58538dcb3f84e420200c601a4903dbef;get ready for the show;get ready;FALSE;;get ready;prepare
+;B;3701;58538dcb3f84e420200c601a4903dbef;get ready for the show;get ready;FALSE;;prepare;prepare
 ;B;7786;61f3559549de508d322e493e3c8fe90c;The actor on the stage as the musician;;TRUE;;;/
-;B;10244;64e64662aa8b1a57c3e5254b48652bcc;sit down;;FALSE;;;sit
+;B;10244;64e64662aa8b1a57c3e5254b48652bcc;sit down;;FALSE;;sit;sit
 ;B;12712;8e6ad748c0685eaeffbadbae0050306d;dance;;FALSE;;;/
 ;B;14347;46c4212ded545ed717b0ff376752ae11;begin performing;perform;FALSE;;perform;perform
-;B;15988;9f8736428d68ef86c654e1f0f0b1058e;get into character;perform;FALSE;;get into character;get
-;C;1122;2817aa3ba5ce3496c4222adb7a6aa37c;walk back to his seat.;sit down;FALSE;maybe?;;walk
-;C;6851;83d8403f227baca0464166c404dc0dc2;get in the zone;;FALSE;what do they mean with that?;get into character;get
-;C;11775;14399e53229004f2c85ec3810d5cf776;Hurry up;;FALSE;;;hurry
+;B;15988;9f8736428d68ef86c654e1f0f0b1058e;get into character;perform;FALSE;;get;get
+;C;1122;2817aa3ba5ce3496c4222adb7a6aa37c;walk back to his seat.;sit down;FALSE;maybe?;walk back;walk
+;C;6851;83d8403f227baca0464166c404dc0dc2;get in the zone;;FALSE;what do they mean with that?;get;get
+;C;11775;14399e53229004f2c85ec3810d5cf776;Hurry up;;FALSE;;hurry;hurry
 ;D;2746;9a8edf1b84fcdd4e9692881d31a5a26e;go to the stage;;FALSE;;go;go
-;D;4381;559a558cc071b904f807f21b428370da;calm their nerves before performing.;calm down;FALSE;;calm down;calm
-;D;8465;6df37ff0405e34325f86235ab8e45b66;get ready;;FALSE;;;prepare
+;D;4381;559a558cc071b904f807f21b428370da;calm their nerves before performing.;calm down;FALSE;;calm;calm
+;D;8465;6df37ff0405e34325f86235ab8e45b66;get ready;;FALSE;;prepare;prepare
 ;D;9283;3028e7887ad94e66d4f5fe907c30cc88;musical concert started;;TRUE;;;/
 20;A;1656;2b7058890eefa22341aa295a036985a9;cook;;FALSE;;;/
-;A;3300;58538dcb3f84e420200c601a4903dbef;make up his order;prepare it;TRUE;;make it;make up
+;A;3300;58538dcb3f84e420200c601a4903dbef;make up his order;prepare it;TRUE;;make up;make up
 ;A;7384;61f3559549de508d322e493e3c8fe90c;Because a customer order for%2C the chef in the kitchen have to;;TRUE;;;/
 ;A;9835;64e64662aa8b1a57c3e5254b48652bcc;wake;;FALSE;;;/
 ;A;12310;8e6ad748c0685eaeffbadbae0050306d;cook;;FALSE;;;/
 ;A;13944;46c4212ded545ed717b0ff376752ae11;cook;;FALSE;;;/
 ;A;15583;9f8736428d68ef86c654e1f0f0b1058e;prepare it;;FALSE;;prepare;prepare
-;B;1323;2817aa3ba5ce3496c4222adb7a6aa37c;begin to make the dish.;cook;FALSE;maybe?;make it;cook
-;B;7052;83d8403f227baca0464166c404dc0dc2;prepare the food;prepare it;FALSE;;cook;cook
-;B;11978;14399e53229004f2c85ec3810d5cf776;Get it done;prepare it;FALSE;;make it;finish
-;C;2944;9a8edf1b84fcdd4e9692881d31a5a26e;be prepared for the full restaurant;get ready;FALSE;;get ready;prepare
-;C;4578;559a558cc071b904f807f21b428370da;go into the restaurant to start cooking the customer's order.;;FALSE;;;/
+;B;1323;2817aa3ba5ce3496c4222adb7a6aa37c;begin to make the dish.;cook;FALSE;maybe?;make;cook
+;B;7052;83d8403f227baca0464166c404dc0dc2;prepare the food;prepare it;FALSE;;prepare;cook
+;B;11978;14399e53229004f2c85ec3810d5cf776;Get it done;prepare it;FALSE;;make;finish
+;C;2944;9a8edf1b84fcdd4e9692881d31a5a26e;be prepared for the full restaurant;get ready;FALSE;;prepare;prepare
+;C;4578;559a558cc071b904f807f21b428370da;go into the restaurant to start cooking the customer's order.;;FALSE;;cook;/
 ;C;8662;6df37ff0405e34325f86235ab8e45b66;hurry;;FALSE;;;/
 ;C;9480;3028e7887ad94e66d4f5fe907c30cc88;a customer has ordered something;;TRUE;;;/
 ;D;209;b8b10c5c32c46a8f278dc868ef65fd9d;fallen;;TRUE;?;;/
 ;D;5128;38515a2d399231bb4340622c162d7b1a;chef;;TRUE;?;chef;/
 ;D;5945;bac07a9a07d31bd971ed4288f10499d6;rush back in and fix the order;;FALSE;;hurry;return
 ;D;10860;4f1511992b86c3d28f958bcbf4d56511;The chef in the car%2C sense the customer had ordered something had to  ;;TRUE;;;/
-;D;13323;773048bc5ea832a6a6fb93f6da578bc6;deliver;;FALSE;;deliver it;/
-;D;14958;bc3b5c51f98f643be9a99134572a2170;take it to them;deliver;FALSE;;deliver it;take
-21;A;1562;2817aa3ba5ce3496c4222adb7a6aa37c;read the speak aloud.;speak;FALSE;;read the speech;read
+;D;13323;773048bc5ea832a6a6fb93f6da578bc6;deliver;;FALSE;;deliver;/
+;D;14958;bc3b5c51f98f643be9a99134572a2170;take it to them;deliver;FALSE;;deliver;take
+21;A;1562;2817aa3ba5ce3496c4222adb7a6aa37c;read the speak aloud.;speak;FALSE;;read;read
 ;A;7291;83d8403f227baca0464166c404dc0dc2;speak;;FALSE;;;/
-;A;12217;14399e53229004f2c85ec3810d5cf776;Give his speech;speak;FALSE;;read the speech;speak
+;A;12217;14399e53229004f2c85ec3810d5cf776;Give his speech;speak;FALSE;;speak;speak
 ;B;3116;9a8edf1b84fcdd4e9692881d31a5a26e;prepare for the conference meetings;;FALSE;;prepare;prepare
 ;B;4749;559a558cc071b904f807f21b428370da;speak.;;FALSE;;speak;/
 ;B;8834;6df37ff0405e34325f86235ab8e45b66;speak;;FALSE;;speak;/
@@ -415,10 +415,10 @@ Item;Condition;ID;MD5 hash of participant's IP address;Original_Value;Changed_Va
 ;D;1718;2b7058890eefa22341aa295a036985a9;yell;;FALSE;;yell;/
 ;D;3362;58538dcb3f84e420200c601a4903dbef;speak;;FALSE;;speak;/
 ;D;7447;61f3559549de508d322e493e3c8fe90c;The speaker on the train was when everyone was quiet;;TRUE;;;/
-;D;9898;64e64662aa8b1a57c3e5254b48652bcc;give his speech;speak;FALSE;;read the speech;speak
+;D;9898;64e64662aa8b1a57c3e5254b48652bcc;give his speech;speak;FALSE;;speak;speak
 ;D;12373;8e6ad748c0685eaeffbadbae0050306d;play;;FALSE;;play;/
 ;D;14007;46c4212ded545ed717b0ff376752ae11;speak;;FALSE;;speak;/
-;D;15645;9f8736428d68ef86c654e1f0f0b1058e;introduce themselves;;FALSE;;introduce themselves;introduce
+;D;15645;9f8736428d68ef86c654e1f0f0b1058e;introduce themselves;;FALSE;;introduce;introduce
 22;A;2893;9a8edf1b84fcdd4e9692881d31a5a26e;write several articles before the deadline;write;FALSE;;write;write
 ;A;4527;559a558cc071b904f807f21b428370da;focus hard and try to write quickly and well.;write;FALSE;;focus;write
 ;A;8611;6df37ff0405e34325f86235ab8e45b66;submit the article;submit;FALSE;;submit;submit
@@ -434,37 +434,37 @@ Item;Condition;ID;MD5 hash of participant's IP address;Original_Value;Changed_Va
 ;C;8103;61f3559549de508d322e493e3c8fe90c;Because the deadline was approaching;;TRUE;;;/
 ;C;10563;64e64662aa8b1a57c3e5254b48652bcc;pause for a moment;pause;FALSE;;pause;pause
 ;C;13029;8e6ad748c0685eaeffbadbae0050306d;hurry;rush;FALSE;;hurry;/
-;C;14664;46c4212ded545ed717b0ff376752ae11;leave the car and perform requirements;;FALSE;;;leave
+;C;14664;46c4212ded545ed717b0ff376752ae11;leave the car and perform requirements;;FALSE;;leave;leave
 ;C;16306;9f8736428d68ef86c654e1f0f0b1058e;hurry up;rush;FALSE;;hurry;hurry
 ;D;1111;2817aa3ba5ce3496c4222adb7a6aa37c;rush to finish.;rush;FALSE;;hurry;rush
 ;D;6840;83d8403f227baca0464166c404dc0dc2;finish writing quickly;finish quickly;FALSE;;finish;write
 ;D;11764;14399e53229004f2c85ec3810d5cf776;Finish it up before the time is up;finish quickly;FALSE;;finish;finish
 23;A;231;b8b10c5c32c46a8f278dc868ef65fd9d;cook;;FALSE;;;/
 ;A;5150;38515a2d399231bb4340622c162d7b1a;family;;TRUE;;;/
-;A;5967;bac07a9a07d31bd971ed4288f10499d6;swim and cook;;FALSE;;;swim
+;A;5967;bac07a9a07d31bd971ed4288f10499d6;swim and cook;;FALSE;;swim;swim
 ;A;10883;4f1511992b86c3d28f958bcbf4d56511;s they set up the camp%2C the family at the lake prepared to;;TRUE;;;/
 ;A;13345;773048bc5ea832a6a6fb93f6da578bc6;duty;;TRUE;?;;/
 ;A;14980;bc3b5c51f98f643be9a99134572a2170;go in the water;go swimming;FALSE;maybe?;swim;swim
 ;B;1782;2b7058890eefa22341aa295a036985a9;cook;;FALSE;;;/
-;B;3426;58538dcb3f84e420200c601a4903dbef;take out their tent;;FALSE;;;be out
+;B;3426;58538dcb3f84e420200c601a4903dbef;take out their tent;;FALSE;;take out;be out
 ;B;7511;61f3559549de508d322e493e3c8fe90c;The family at the lake ;;TRUE;;;/
 ;B;9963;64e64662aa8b1a57c3e5254b48652bcc;settle;;FALSE;;;/
 ;B;12437;8e6ad748c0685eaeffbadbae0050306d;cook;;FALSE;;;/
 ;B;14071;46c4212ded545ed717b0ff376752ae11;relax.;;FALSE;;relax;/
 ;B;15710;9f8736428d68ef86c654e1f0f0b1058e;go swimming;;FALSE;;swim;swim
-;C;1026;2817aa3ba5ce3496c4222adb7a6aa37c;make a fire to cook food. ;make fire to cook;FALSE;;;cook
-;C;6755;83d8403f227baca0464166c404dc0dc2;roast marshmallows;make fire to cook;FALSE;;;roast
-;C;11679;14399e53229004f2c85ec3810d5cf776;Play games;;FALSE;;;play
-;D;3207;9a8edf1b84fcdd4e9692881d31a5a26e;get ready for camping;;FALSE;;get ready;get ready
+;C;1026;2817aa3ba5ce3496c4222adb7a6aa37c;make a fire to cook food. ;make fire to cook;FALSE;;cook;cook
+;C;6755;83d8403f227baca0464166c404dc0dc2;roast marshmallows;make fire to cook;FALSE;;roast;roast
+;C;11679;14399e53229004f2c85ec3810d5cf776;Play games;;FALSE;;play;play
+;D;3207;9a8edf1b84fcdd4e9692881d31a5a26e;get ready for camping;;FALSE;;prepare;get ready
 ;D;4840;559a558cc071b904f807f21b428370da;go to sleep for the night.;sleep;FALSE;;sleep;sleep
 ;D;8925;6df37ff0405e34325f86235ab8e45b66;cook;;FALSE;;;cook
 ;D;9742;3028e7887ad94e66d4f5fe907c30cc88;in the tent;;TRUE;;;/
 24;A;1998;2b7058890eefa22341aa295a036985a9;rush;hurry;FALSE;;hurry;/
-;A;3639;58538dcb3f84e420200c601a4903dbef;place it by the steps;;FALSE;;;place
+;A;3639;58538dcb3f84e420200c601a4903dbef;place it by the steps;;FALSE;;place;place
 ;A;7724;61f3559549de508d322e493e3c8fe90c;Because he is in a rush;;TRUE;;;/
 ;A;10182;64e64662aa8b1a57c3e5254b48652bcc;hurry up;hurry;FALSE;;hurry;hurry
 ;A;12650;8e6ad748c0685eaeffbadbae0050306d;hurry;;FALSE;;;/
-;A;14285;46c4212ded545ed717b0ff376752ae11;carry multiple packages at a time;;FALSE;;;carry
+;A;14285;46c4212ded545ed717b0ff376752ae11;carry multiple packages at a time;;FALSE;;carry;carry
 ;A;15925;9f8736428d68ef86c654e1f0f0b1058e;hurry;;FALSE;;;/
 ;B;866;2817aa3ba5ce3496c4222adb7a6aa37c;hand the packages over. ;deliver;FALSE;;deliver;hand over
 ;B;6595;83d8403f227baca0464166c404dc0dc2;run;hurry;FALSE;;;/
@@ -474,15 +474,15 @@ Item;Condition;ID;MD5 hash of participant's IP address;Original_Value;Changed_Va
 ;C;8239;6df37ff0405e34325f86235ab8e45b66;hurry;;FALSE;;;/
 ;C;9056;3028e7887ad94e66d4f5fe907c30cc88;because he was in a rush;;TRUE;;;/
 ;D;7;b8b10c5c32c46a8f278dc868ef65fd9d;drive;;FALSE;;;/
-;D;4931;38515a2d399231bb4340622c162d7b1a;gym;;FALSE;;;/
+;D;4931;38515a2d399231bb4340622c162d7b1a;gym;;FALSE;;train;/
 ;D;5747;bac07a9a07d31bd971ed4288f10499d6;get out quickly;leave;FALSE;;leave;leave
 ;D;10661;4f1511992b86c3d28f958bcbf4d56511;The delivery man in the gym%2C because he was in a rush had to;;TRUE;;;/
 ;D;13125;773048bc5ea832a6a6fb93f6da578bc6;be fast;hurry;FALSE;;hurry;/
 ;D;14760;bc3b5c51f98f643be9a99134572a2170;leave;;FALSE;;;/
 25;A;1239;2817aa3ba5ce3496c4222adb7a6aa37c;rush to make the transcript.;work on it fast;FALSE;;rush;rush
 ;A;6968;83d8403f227baca0464166c404dc0dc2;write one up;write;FALSE;;write;write
-;A;11892;14399e53229004f2c85ec3810d5cf776;Get new traniees;;FALSE;;get new trainees;get
-;B;2615;9a8edf1b84fcdd4e9692881d31a5a26e;open the office at 9am.;;TRUE;;;/
+;A;11892;14399e53229004f2c85ec3810d5cf776;Get new traniees;;FALSE;;hire;get
+;B;2615;9a8edf1b84fcdd4e9692881d31a5a26e;open the office at 9am.;;TRUE;;open;/
 ;B;4250;559a558cc071b904f807f21b428370da;begin working quickly on the transcription task.;work on it fast;FALSE;;work;working
 ;B;8334;6df37ff0405e34325f86235ab8e45b66;type;;FALSE;;;/
 ;B;9151;3028e7887ad94e66d4f5fe907c30cc88;because a transcript was needed urgently;;TRUE;;;/
@@ -495,26 +495,26 @@ Item;Condition;ID;MD5 hash of participant's IP address;Original_Value;Changed_Va
 ;D;1877;2b7058890eefa22341aa295a036985a9;dash;finish quickly;FALSE;maybe?;;/
 ;D;3519;58538dcb3f84e420200c601a4903dbef;finish the documents;finish;FALSE;;finish;finish
 ;D;7604;61f3559549de508d322e493e3c8fe90c;The trainee at the shop;;TRUE;;;/
-;D;10058;64e64662aa8b1a57c3e5254b48652bcc;go find one;;FALSE;;;go
+;D;10058;64e64662aa8b1a57c3e5254b48652bcc;go find one;;FALSE;;find;go
 ;D;12530;8e6ad748c0685eaeffbadbae0050306d;rush;;FALSE;;;/
-;D;14164;46c4212ded545ed717b0ff376752ae11;create and deliver it.;;FALSE;;;deliver
-;D;15803;9f8736428d68ef86c654e1f0f0b1058e;finish lunch;;FALSE;;;eat
-26;A;2604;9a8edf1b84fcdd4e9692881d31a5a26e;be prepared for surgery;get ready;FALSE;;get ready;prepare
-;A;4239;559a558cc071b904f807f21b428370da;scrub in and assist in prepping for the surgery.;get ready and assist;FALSE;maybe?;get ready;assist
-;A;8323;6df37ff0405e34325f86235ab8e45b66;wash his hands;get ready;FALSE;;;wash
+;D;14164;46c4212ded545ed717b0ff376752ae11;create and deliver it.;;FALSE;;deliver;deliver
+;D;15803;9f8736428d68ef86c654e1f0f0b1058e;finish lunch;;FALSE;;finish;eat
+26;A;2604;9a8edf1b84fcdd4e9692881d31a5a26e;be prepared for surgery;get ready;FALSE;;prepare;prepare
+;A;4239;559a558cc071b904f807f21b428370da;scrub in and assist in prepping for the surgery.;get ready and assist;FALSE;maybe?;scrub in;assist
+;A;8323;6df37ff0405e34325f86235ab8e45b66;wash his hands;get ready;FALSE;;wash;wash
 ;A;9140;3028e7887ad94e66d4f5fe907c30cc88;because a patient needs brain surgery;;TRUE;;;/
 ;B;492;b8b10c5c32c46a8f278dc868ef65fd9d;me;;TRUE;;;/
 ;B;5407;38515a2d399231bb4340622c162d7b1a;brain;;TRUE;;;/
 ;B;6225;bac07a9a07d31bd971ed4288f10499d6;focus and be very careful;focus;FALSE;;focus;focus
 ;B;11142;4f1511992b86c3d28f958bcbf4d56511;The surgeon in the operating room%2C must;;TRUE;;;/
-;B;13602;773048bc5ea832a6a6fb93f6da578bc6;change shifts;;FALSE;;;change
+;B;13602;773048bc5ea832a6a6fb93f6da578bc6;change shifts;;FALSE;;change;change
 ;B;15240;bc3b5c51f98f643be9a99134572a2170;assist;;FALSE;;;/
 ;C;2471;2b7058890eefa22341aa295a036985a9;come;;FALSE;;;/
-;C;4106;58538dcb3f84e420200c601a4903dbef;put on his gloves and get prepared;get ready;FALSE;;get ready;prepare
+;C;4106;58538dcb3f84e420200c601a4903dbef;put on his gloves and get prepared;get ready;FALSE;;prepare;prepare
 ;C;8190;61f3559549de508d322e493e3c8fe90c;Because a patient need head surgery;;TRUE;;;/
-;C;10651;64e64662aa8b1a57c3e5254b48652bcc;be patient;;FALSE;;;/
+;C;10651;64e64662aa8b1a57c3e5254b48652bcc;be patient;;FALSE;;be patient;/
 ;C;13116;8e6ad748c0685eaeffbadbae0050306d;decline;;FALSE;;;/
-;C;14751;46c4212ded545ed717b0ff376752ae11;call another doctor to support;;FALSE;;;call
+;C;14751;46c4212ded545ed717b0ff376752ae11;call another doctor to support;;FALSE;;call;call
 ;C;16393;9f8736428d68ef86c654e1f0f0b1058e;not do surgery;decline;FALSE;;decline;decline
 ;D;1334;2817aa3ba5ce3496c4222adb7a6aa37c;call and tell them to find someone else to do the surgery because he was probably drinking while in the pub.;decline;FALSE;;call;call
 ;D;7063;83d8403f227baca0464166c404dc0dc2;call into work as they have been drinking;decline;FALSE;;call;call
@@ -526,9 +526,9 @@ Item;Condition;ID;MD5 hash of participant's IP address;Original_Value;Changed_Va
 ;A;13591;773048bc5ea832a6a6fb93f6da578bc6;wait more;wait;FALSE;;wait;wait
 ;A;15229;bc3b5c51f98f643be9a99134572a2170;wait a long time;wait;FALSE;;wait;wait
 ;B;1814;2b7058890eefa22341aa295a036985a9;rest;;FALSE;;;rest
-;B;3457;58538dcb3f84e420200c601a4903dbef;get him first;;FALSE;;;get
+;B;3457;58538dcb3f84e420200c601a4903dbef;get him first;;FALSE;;get;get
 ;B;7542;61f3559549de508d322e493e3c8fe90c;The patient at the back%2C because there was a;;TRUE;;;/
-;B;9994;64e64662aa8b1a57c3e5254b48652bcc;cut the line;;FALSE;;cut the line;cut
+;B;9994;64e64662aa8b1a57c3e5254b48652bcc;cut the line;;FALSE;;cut;cut
 ;B;12468;8e6ad748c0685eaeffbadbae0050306d;wait;;FALSE;;wait;wait
 ;B;14102;46c4212ded545ed717b0ff376752ae11;wait.;;FALSE;;wait;wait
 ;B;15741;9f8736428d68ef86c654e1f0f0b1058e;wait patiently;wait;FALSE;;wait;wait
@@ -542,7 +542,7 @@ Item;Condition;ID;MD5 hash of participant's IP address;Original_Value;Changed_Va
 28;A;1678;2b7058890eefa22341aa295a036985a9;knit;;FALSE;;;/
 ;A;3322;58538dcb3f84e420200c601a4903dbef;knit;;FALSE;;;/
 ;A;7407;61f3559549de508d322e493e3c8fe90c;since she wanted to make them a sweater%2C the grandmother in the sitting room is;;TRUE;;;/
-;A;9857;64e64662aa8b1a57c3e5254b48652bcc;get ready;;FALSE;;;/
+;A;9857;64e64662aa8b1a57c3e5254b48652bcc;get ready;;FALSE;;prepare;/
 ;A;12333;8e6ad748c0685eaeffbadbae0050306d;knit;;FALSE;;;/
 ;A;13966;46c4212ded545ed717b0ff376752ae11;knit;;FALSE;;;/
 ;A;15605;9f8736428d68ef86c654e1f0f0b1058e;knit;;FALSE;;;/
@@ -550,92 +550,92 @@ Item;Condition;ID;MD5 hash of participant's IP address;Original_Value;Changed_Va
 ;B;7262;83d8403f227baca0464166c404dc0dc2;knit;;FALSE;;;/
 ;B;12188;14399e53229004f2c85ec3810d5cf776;Sow;knit;FALSE;;knit;sow
 ;C;2562;9a8edf1b84fcdd4e9692881d31a5a26e;worry the kids needed clothes for the winter.;;FALSE;;worry;worry
-;C;4197;559a558cc071b904f807f21b428370da;look for yarn to buy;buy yarn;FALSE;;buy yarn;buy
-;C;8281;6df37ff0405e34325f86235ab8e45b66;buy yarn;;FALSE;;;buy
-;C;9098;3028e7887ad94e66d4f5fe907c30cc88;to make them a sweater;make a sweater;FALSE;;make a sweater;make
+;C;4197;559a558cc071b904f807f21b428370da;look for yarn to buy;buy yarn;FALSE;;buy;buy
+;C;8281;6df37ff0405e34325f86235ab8e45b66;buy yarn;;FALSE;;buy;buy
+;C;9098;3028e7887ad94e66d4f5fe907c30cc88;to make them a sweater;make a sweater;FALSE;;make;make
 ;D;568;b8b10c5c32c46a8f278dc868ef65fd9d;meet;;FALSE;;;/
 ;D;5482;38515a2d399231bb4340622c162d7b1a;sweater;;TRUE;;;/
-;D;6300;bac07a9a07d31bd971ed4288f10499d6;peruse the yarn section ;buy yarn;FALSE;;buy yarn;/
+;D;6300;bac07a9a07d31bd971ed4288f10499d6;peruse the yarn section ;buy yarn;FALSE;;buy;/
 ;D;11219;4f1511992b86c3d28f958bcbf4d56511;The grandmother in the store%2C sense she wanted to make them a sweater started to ;;TRUE;;;/
 ;D;13677;773048bc5ea832a6a6fb93f6da578bc6;weave;;FALSE;;knit ;/
 ;D;15315;bc3b5c51f98f643be9a99134572a2170;knit;;FALSE;;;/
-29;A;1398;2817aa3ba5ce3496c4222adb7a6aa37c;take a statement.;;FALSE;;;state
-;A;7127;83d8403f227baca0464166c404dc0dc2;take a description;take a statement.;FALSE;;take a statement;descibe
+29;A;1398;2817aa3ba5ce3496c4222adb7a6aa37c;take a statement.;;FALSE;;interview;state
+;A;7127;83d8403f227baca0464166c404dc0dc2;take a description;take a statement.;FALSE;;interview;descibe
 ;A;12053;14399e53229004f2c85ec3810d5cf776;Investigate;;FALSE;;;/
-;B;2715;9a8edf1b84fcdd4e9692881d31a5a26e;call 911;;FALSE;;;call
-;B;4350;559a558cc071b904f807f21b428370da;go back to the station to make a report about the crime.;make a report;FALSE;;go back;return
-;B;8434;6df37ff0405e34325f86235ab8e45b66;fill out reports;make a report;FALSE;;write a report;fill
+;B;2715;9a8edf1b84fcdd4e9692881d31a5a26e;call 911;;FALSE;;call;call
+;B;4350;559a558cc071b904f807f21b428370da;go back to the station to make a report about the crime.;make a report;FALSE;;report;return
+;B;8434;6df37ff0405e34325f86235ab8e45b66;fill out reports;make a report;FALSE;;report;fill
 ;B;9252;3028e7887ad94e66d4f5fe907c30cc88;since the burglar escaped before the police came;;TRUE;;;/
 ;C;535;b8b10c5c32c46a8f278dc868ef65fd9d;begin;;FALSE;;;/
 ;C;5449;38515a2d399231bb4340622c162d7b1a;police;;FALSE;;;/
 ;C;6267;bac07a9a07d31bd971ed4288f10499d6;leave immediately;;FALSE;;leave;leave
 ;C;11186;4f1511992b86c3d28f958bcbf4d56511;Sense the burglar escaped before the officer arrived%2C the police man in the coffee shop has to;;TRUE;;;/
 ;C;13644;773048bc5ea832a6a6fb93f6da578bc6;arrived;;TRUE;;arrive;arrive
-;C;15282;bc3b5c51f98f643be9a99134572a2170;get statements;;FALSE;;take a statement;state
-;D;1751;2b7058890eefa22341aa295a036985a9;find;find him;FALSE;;find him;/
-;D;3395;58538dcb3f84e420200c601a4903dbef;be looking for him;find him;FALSE;;look for him;look for
+;C;15282;bc3b5c51f98f643be9a99134572a2170;get statements;;FALSE;;interview;state
+;D;1751;2b7058890eefa22341aa295a036985a9;find;find him;FALSE;;find;/
+;D;3395;58538dcb3f84e420200c601a4903dbef;be looking for him;find him;FALSE;;search;look for
 ;D;7480;61f3559549de508d322e493e3c8fe90c;The police officer in the coffee shop%2C since the burglar escape from the police;;TRUE;;;/
-;D;9932;64e64662aa8b1a57c3e5254b48652bcc;be lazy;;FALSE;;;/
+;D;9932;64e64662aa8b1a57c3e5254b48652bcc;be lazy;;FALSE;;be lazy;/
 ;D;12406;8e6ad748c0685eaeffbadbae0050306d;resign;;FALSE;;;/
-;D;14040;46c4212ded545ed717b0ff376752ae11;call for help;;FALSE;;;call 
-;D;15678;9f8736428d68ef86c654e1f0f0b1058e;write a report;make a report;FALSE;;write a report;write
-30;A;2779;9a8edf1b84fcdd4e9692881d31a5a26e;scan the items for sale.;scan;FALSE;;scan them;scan
-;A;4414;559a558cc071b904f807f21b428370da;do their best to complete the transaction quickly and accurately.;;FALSE;;do their best;complete
-;A;8498;6df37ff0405e34325f86235ab8e45b66;scan them;scan;FALSE;;;scan
+;D;14040;46c4212ded545ed717b0ff376752ae11;call for help;;FALSE;;call;call 
+;D;15678;9f8736428d68ef86c654e1f0f0b1058e;write a report;make a report;FALSE;;report;write
+30;A;2779;9a8edf1b84fcdd4e9692881d31a5a26e;scan the items for sale.;scan;FALSE;;scan;scan
+;A;4414;559a558cc071b904f807f21b428370da;do their best to complete the transaction quickly and accurately.;;FALSE;;complete;complete
+;A;8498;6df37ff0405e34325f86235ab8e45b66;scan them;scan;FALSE;;scan;scan
 ;A;9316;3028e7887ad94e66d4f5fe907c30cc88;as the goods approach;;TRUE;;;/
 ;B;186;b8b10c5c32c46a8f278dc868ef65fd9d;appear;;FALSE;;;/
 ;B;5106;38515a2d399231bb4340622c162d7b1a;approach;;FALSE;;;/
-;B;5923;bac07a9a07d31bd971ed4288f10499d6;not move fast enough to keep up;delay;FALSE;;;slow down
+;B;5923;bac07a9a07d31bd971ed4288f10499d6;not move fast enough to keep up;delay;FALSE;;delay;slow down
 ;B;10838;4f1511992b86c3d28f958bcbf4d56511;The cashier on the counter%2C as the goods from the belt appear will ;;TRUE;;;/
-;B;13301;773048bc5ea832a6a6fb93f6da578bc6;do the calculations;;FALSE;;;calculation
+;B;13301;773048bc5ea832a6a6fb93f6da578bc6;do the calculations;;FALSE;;calculate;calculation
 ;B;14936;bc3b5c51f98f643be9a99134572a2170;start to prepare;;FALSE;;prepare;prepare
-;C;1978;2b7058890eefa22341aa295a036985a9;be late;;FALSE;;;/
-;C;3619;58538dcb3f84e420200c601a4903dbef;come out;;FALSE;;;/
+;C;1978;2b7058890eefa22341aa295a036985a9;be late;;FALSE;;delay;/
+;C;3619;58538dcb3f84e420200c601a4903dbef;come out;;FALSE;;come;/
 ;C;7704;61f3559549de508d322e493e3c8fe90c;s the goods on the belts approach;;TRUE;;;/
 ;C;10161;64e64662aa8b1a57c3e5254b48652bcc;adjust;;FALSE;;;/
 ;C;12630;8e6ad748c0685eaeffbadbae0050306d;delay;;FALSE;;;/
-;C;14265;46c4212ded545ed717b0ff376752ae11;be talked to about their performance.;;FALSE;;;talk
-;C;15904;9f8736428d68ef86c654e1f0f0b1058e;be late;;FALSE;;;/
-;D;975;2817aa3ba5ce3496c4222adb7a6aa37c;start to scan the items. ;scan;FALSE;;scan them;scan
-;D;6704;83d8403f227baca0464166c404dc0dc2;have to scan quickly;scan;FALSE;;scan them;scan
+;C;14265;46c4212ded545ed717b0ff376752ae11;be talked to about their performance.;;FALSE;;talk;talk
+;C;15904;9f8736428d68ef86c654e1f0f0b1058e;be late;;FALSE;;delay;/
+;D;975;2817aa3ba5ce3496c4222adb7a6aa37c;start to scan the items. ;scan;FALSE;;scan;scan
+;D;6704;83d8403f227baca0464166c404dc0dc2;have to scan quickly;scan;FALSE;;scan;scan
 ;D;11628;14399e53229004f2c85ec3810d5cf776;Cause the problems for the boss;;FALSE;;;/
 31;A;595;b8b10c5c32c46a8f278dc868ef65fd9d;begin to run;run;FALSE;;run;run
 ;A;5509;38515a2d399231bb4340622c162d7b1a;track;run;FALSE;;;/
-;A;6327;bac07a9a07d31bd971ed4288f10499d6;take off ;;FALSE;;;/
+;A;6327;bac07a9a07d31bd971ed4288f10499d6;take off ;;FALSE;;start;/
 ;A;11248;4f1511992b86c3d28f958bcbf4d56511;Once the starting gun blasts%2C the ?? ;;TRUE;;;/
-;A;13704;773048bc5ea832a6a6fb93f6da578bc6;the space;;TRUE;;;/
+;A;13704;773048bc5ea832a6a6fb93f6da578bc6;the space;;TRUE;;space;/
 ;A;15342;bc3b5c51f98f643be9a99134572a2170;go to the starting point;start the race;FALSE;;go;go
 ;B;2372;2b7058890eefa22341aa295a036985a9;run;;FALSE;;;/
-;B;4008;58538dcb3f84e420200c601a4903dbef;take off fast;start the race;FALSE;maybe?;take off;take off
+;B;4008;58538dcb3f84e420200c601a4903dbef;take off fast;start the race;FALSE;maybe?;start;take off
 ;B;8092;61f3559549de508d322e493e3c8fe90c;The sprinter on the;;TRUE;;;/
 ;B;10552;64e64662aa8b1a57c3e5254b48652bcc;run as fast as he can;run;FALSE;;run;run
 ;B;13018;8e6ad748c0685eaeffbadbae0050306d;run;;FALSE;;;/
 ;B;14653;46c4212ded545ed717b0ff376752ae11;start the race;;FALSE;;start;start
 ;B;16295;9f8736428d68ef86c654e1f0f0b1058e;run;;FALSE;;run;/
-;C;944;2817aa3ba5ce3496c4222adb7a6aa37c;start to take off. ;start the race;FALSE;;take off;take off
-;C;6673;83d8403f227baca0464166c404dc0dc2;put on his shoes;;FALSE;;;put on
-;C;11597;14399e53229004f2c85ec3810d5cf776;Come out to watch the game;;FALSE;;;watch
+;C;944;2817aa3ba5ce3496c4222adb7a6aa37c;start to take off. ;start the race;FALSE;;start;take off
+;C;6673;83d8403f227baca0464166c404dc0dc2;put on his shoes;;FALSE;;put;put on
+;C;11597;14399e53229004f2c85ec3810d5cf776;Come out to watch the game;;FALSE;;watch;watch
 ;D;2933;9a8edf1b84fcdd4e9692881d31a5a26e;start running;run;FALSE;;run;run
-;D;4567;559a558cc071b904f807f21b428370da;wish they were at the race and racing themselves.;;FALSE;;;wish
+;D;4567;559a558cc071b904f807f21b428370da;wish they were at the race and racing themselves.;;FALSE;;wish;wish
 ;D;8651;6df37ff0405e34325f86235ab8e45b66;run;;FALSE;;run;/
 ;D;9469;3028e7887ad94e66d4f5fe907c30cc88;as the starting gun blasts;;TRUE;;;/
-32;A;2363;2b7058890eefa22341aa295a036985a9;close it;;FALSE;;close it;close
+32;A;2363;2b7058890eefa22341aa295a036985a9;close it;;FALSE;;close;close
 ;A;3999;58538dcb3f84e420200c601a4903dbef;greet everyone;greet;FALSE;;greet;greet
 ;A;8083;61f3559549de508d322e493e3c8fe90c;s the attendant are ready;;TRUE;;;/
-;A;10543;64e64662aa8b1a57c3e5254b48652bcc;prepare the passengers;;FALSE;;prepare them;prepare
+;A;10543;64e64662aa8b1a57c3e5254b48652bcc;prepare the passengers;;FALSE;;prepare;prepare
 ;A;13009;8e6ad748c0685eaeffbadbae0050306d;smile;;FALSE;;;/
-;A;14644;46c4212ded545ed717b0ff376752ae11;announce status;;FALSE;;announce the status;announce
+;A;14644;46c4212ded545ed717b0ff376752ae11;announce status;;FALSE;;announce;announce
 ;A;16286;9f8736428d68ef86c654e1f0f0b1058e;greet them;greet;FALSE;;greet;greet
-;B;1582;2817aa3ba5ce3496c4222adb7a6aa37c;check people in.;;FALSE;;check them in;check
+;B;1582;2817aa3ba5ce3496c4222adb7a6aa37c;check people in.;;FALSE;;check in;check
 ;B;7311;83d8403f227baca0464166c404dc0dc2;greet the passengers;greet;FALSE;;greet;greet
 ;B;12237;14399e53229004f2c85ec3810d5cf776;Have to wait for the piolt;;FALSE;;wait;wait
-;C;2964;9a8edf1b84fcdd4e9692881d31a5a26e;seat the passengers;;FALSE;;seat them;seat
+;C;2964;9a8edf1b84fcdd4e9692881d31a5a26e;seat the passengers;;FALSE;;seat;seat
 ;C;4598;559a558cc071b904f807f21b428370da;worry because if she is still on the train%2C then she is going to likely be too late to the flight she is meant to be working on.;worry;FALSE;;worry;worry
 ;C;8682;6df37ff0405e34325f86235ab8e45b66;greet them;greet;FALSE;;greet;greet
 ;C;9500;3028e7887ad94e66d4f5fe907c30cc88;the guest are ready;;TRUE;;;/
 ;D;758;b8b10c5c32c46a8f278dc868ef65fd9d;begin;;FALSE;;begin;/
 ;D;5669;38515a2d399231bb4340622c162d7b1a;will;;TRUE;;;/
-;D;6488;bac07a9a07d31bd971ed4288f10499d6;greet them and direct them to be seated;greet;FALSE;;greet them;greet
+;D;6488;bac07a9a07d31bd971ed4288f10499d6;greet them and direct them to be seated;greet;FALSE;;greet;greet
 ;D;11411;4f1511992b86c3d28f958bcbf4d56511;the stewartis in the train%2C as the ?? ;;TRUE;;;/
 ;D;13864;773048bc5ea832a6a6fb93f6da578bc6;start;;FALSE;;begin;/
 ;D;15503;bc3b5c51f98f643be9a99134572a2170;board;;FALSE;;board;/
@@ -651,15 +651,15 @@ Item;Condition;ID;MD5 hash of participant's IP address;Original_Value;Changed_Va
 ;C;5912;bac07a9a07d31bd971ed4288f10499d6;run to stage;;FALSE;;run;run
 ;C;10827;4f1511992b86c3d28f958bcbf4d56511;s the concert begins%2C the guitarist in the van will ;;TRUE;;;/
 ;C;13290;773048bc5ea832a6a6fb93f6da578bc6;play;;FALSE;;;/
-;C;14925;bc3b5c51f98f643be9a99134572a2170;get ready;;FALSE;;get ready;/
+;C;14925;bc3b5c51f98f643be9a99134572a2170;get ready;;FALSE;;prepare;/
 ;D;1967;2b7058890eefa22341aa295a036985a9;cheer;;FALSE;;;/
 ;D;3608;58538dcb3f84e420200c601a4903dbef;start playing;;FALSE;;play;play
 ;D;7693;61f3559549de508d322e493e3c8fe90c;The guitarist at the;;TRUE;;;/
-;D;10150;64e64662aa8b1a57c3e5254b48652bcc;try to do his best ;;FALSE;;;try
+;D;10150;64e64662aa8b1a57c3e5254b48652bcc;try to do his best ;;FALSE;;try;try
 ;D;12619;8e6ad748c0685eaeffbadbae0050306d;enter;;FALSE;;;/
 ;D;14254;46c4212ded545ed717b0ff376752ae11;depart and perform;;FALSE;;depart;depart
-;D;15892;9f8736428d68ef86c654e1f0f0b1058e;be late;;FALSE;;be late;/
-34;A;3163;9a8edf1b84fcdd4e9692881d31a5a26e;the bartender will get ready for nightshift;;TRUE;;get ready;/
+;D;15892;9f8736428d68ef86c654e1f0f0b1058e;be late;;FALSE;;delay;/
+34;A;3163;9a8edf1b84fcdd4e9692881d31a5a26e;the bartender will get ready for nightshift;;TRUE;;prepare;/
 ;A;4796;559a558cc071b904f807f21b428370da;tip them well.;tip;FALSE;;tip;tip
 ;A;8881;6df37ff0405e34325f86235ab8e45b66;tip;;FALSE;;tip;/
 ;A;9698;3028e7887ad94e66d4f5fe907c30cc88;as there were customers at the bar;;TRUE;;;/
@@ -667,15 +667,15 @@ Item;Condition;ID;MD5 hash of participant's IP address;Original_Value;Changed_Va
 ;B;4962;38515a2d399231bb4340622c162d7b1a;drinks;drink;FALSE;;drink;drink
 ;B;5778;bac07a9a07d31bd971ed4288f10499d6;get a tip;tip;FALSE;;tip;tip
 ;B;10693;4f1511992b86c3d28f958bcbf4d56511;The bartender because the drinks were nice had to;;TRUE;;;/
-;B;13156;773048bc5ea832a6a6fb93f6da578bc6;buy more;;FALSE;;buy more;buy
+;B;13156;773048bc5ea832a6a6fb93f6da578bc6;buy more;;FALSE;;buy;buy
 ;B;14791;bc3b5c51f98f643be9a99134572a2170;tip;;FALSE;;tip;tip
 ;C;2119;2b7058890eefa22341aa295a036985a9;tip him;tip;FALSE;;tip;tip
-;C;3759;58538dcb3f84e420200c601a4903dbef;be very nice;be polite;FALSE;;;be nice
+;C;3759;58538dcb3f84e420200c601a4903dbef;be very nice;be polite;FALSE;;be nice;be nice
 ;C;7844;61f3559549de508d322e493e3c8fe90c;Because the bartender was polite and the;;TRUE;;;/
 ;C;10303;64e64662aa8b1a57c3e5254b48652bcc;consider whether or not to patronise;;FALSE;what?;consider;consider
 ;C;12770;8e6ad748c0685eaeffbadbae0050306d;drive;;FALSE;;;/
 ;C;14405;46c4212ded545ed717b0ff376752ae11;tip more;tip;FALSE;;tip;tip
-;C;16046;9f8736428d68ef86c654e1f0f0b1058e;remember them;;FALSE;;remember them;remember
+;C;16046;9f8736428d68ef86c654e1f0f0b1058e;remember them;;FALSE;;remember;remember
 ;D;935;2817aa3ba5ce3496c4222adb7a6aa37c;serve the drinks.;;FALSE;;serve;serve
 ;D;6664;83d8403f227baca0464166c404dc0dc2;give a nice tip;tip;FALSE;;tip;tip
 ;D;11588;14399e53229004f2c85ec3810d5cf776;Come to the bar because the character the bartender  showed;come to the bar;TRUE;;come;come
@@ -683,24 +683,24 @@ Item;Condition;ID;MD5 hash of participant's IP address;Original_Value;Changed_Va
 ;A;5631;38515a2d399231bb4340622c162d7b1a;her;;TRUE;;;/
 ;A;6450;bac07a9a07d31bd971ed4288f10499d6;stay alert%0Abe alert;stay alert;FALSE;;stay alert;alert
 ;A;11372;4f1511992b86c3d28f958bcbf4d56511;s the warning message appears on her phone the ?? in the office decides to;;TRUE;;;/
-;A;13826;773048bc5ea832a6a6fb93f6da578bc6;submit the work;submit it;FALSE;;submit it;submit
-;A;15464;bc3b5c51f98f643be9a99134572a2170;write it down;work;FALSE;maybe?;write it down;write
-;B;2354;2b7058890eefa22341aa295a036985a9;complete it;;FALSE;;;complete
-;B;3990;58538dcb3f84e420200c601a4903dbef;repair it;fix it;FALSE;;;repair
+;A;13826;773048bc5ea832a6a6fb93f6da578bc6;submit the work;submit it;FALSE;;submit;submit
+;A;15464;bc3b5c51f98f643be9a99134572a2170;write it down;work;FALSE;maybe?;write;write
+;B;2354;2b7058890eefa22341aa295a036985a9;complete it;;FALSE;;complete;complete
+;B;3990;58538dcb3f84e420200c601a4903dbef;repair it;fix it;FALSE;;repair;repair
 ;B;8074;61f3559549de508d322e493e3c8fe90c;The programmer at the office;;TRUE;;;/
-;B;10534;64e64662aa8b1a57c3e5254b48652bcc;get rid of the phone;;FALSE;;;get rid of
+;B;10534;64e64662aa8b1a57c3e5254b48652bcc;get rid of the phone;;FALSE;;dump;get rid of
 ;B;13000;8e6ad748c0685eaeffbadbae0050306d;work;;FALSE;;;/
-;B;14635;46c4212ded545ed717b0ff376752ae11;resolve the issue;fix it;FALSE;;;resolve
-;B;16277;9f8736428d68ef86c654e1f0f0b1058e;fix it;;FALSE;;;fix
-;C;1281;2817aa3ba5ce3496c4222adb7a6aa37c;rush back in to finish the project.;work;FALSE;I think the meaning is the same here so I thought that work would cover everything here;rush back;return
-;C;7010;83d8403f227baca0464166c404dc0dc2;get ready to go into work;work;FALSE;;get ready;prepare
-;C;11935;14399e53229004f2c85ec3810d5cf776;Must set a another time;postpone;FALSE;;set another time;set
-;D;3218;9a8edf1b84fcdd4e9692881d31a5a26e;be prepared for the boss's deadline;work;FALSE;;be prepared;prepare
-;D;4851;559a558cc071b904f807f21b428370da;panic later%2C likely unaware of the message while in the garden and away from their phone and computer.;panic;FALSE;;panic later;/
-;D;8936;6df37ff0405e34325f86235ab8e45b66;start working;work;FALSE;;work;start
+;B;14635;46c4212ded545ed717b0ff376752ae11;resolve the issue;fix it;FALSE;;resolve;resolve
+;B;16277;9f8736428d68ef86c654e1f0f0b1058e;fix it;;FALSE;;fix;fix
+;C;1281;2817aa3ba5ce3496c4222adb7a6aa37c;rush back in to finish the project.;work;FALSE;I think the meaning is the same here so I thought that work would cover everything here;rush;return
+;C;7010;83d8403f227baca0464166c404dc0dc2;get ready to go into work;work;FALSE;;prepare;prepare
+;C;11935;14399e53229004f2c85ec3810d5cf776;Must set a another time;postpone;FALSE;;set;set
+;D;3218;9a8edf1b84fcdd4e9692881d31a5a26e;be prepared for the boss's deadline;work;FALSE;;prepare;prepare
+;D;4851;559a558cc071b904f807f21b428370da;panic later%2C likely unaware of the message while in the garden and away from their phone and computer.;panic;FALSE;;panic;/
+;D;8936;6df37ff0405e34325f86235ab8e45b66;start working;work;FALSE;;start;start
 ;D;9753;3028e7887ad94e66d4f5fe907c30cc88;as the warning message has appeared on her phone;;TRUE;;;/
 36;A;1791;2b7058890eefa22341aa295a036985a9;clean;;FALSE;;;/
-;A;3435;58538dcb3f84e420200c601a4903dbef;have a seat available;;FALSE;;;seat
+;A;3435;58538dcb3f84e420200c601a4903dbef;have a seat available;;FALSE;;have;seat
 ;A;7520;61f3559549de508d322e493e3c8fe90c;Before the costumer come in%2C the barber in the barbing shop will;;TRUE;;;/
 ;A;9972;64e64662aa8b1a57c3e5254b48652bcc;rest;;FALSE;;;/
 ;A;12446;8e6ad748c0685eaeffbadbae0050306d;prepare;;FALSE;;;/
@@ -708,7 +708,7 @@ Item;Condition;ID;MD5 hash of participant's IP address;Original_Value;Changed_Va
 ;A;15719;9f8736428d68ef86c654e1f0f0b1058e;sweep up hair;clean;FALSE;;sweep;sweep
 ;B;1064;2817aa3ba5ce3496c4222adb7a6aa37c;prepare to cut hair.;prepare;FALSE;;prepare;prepare
 ;B;6793;83d8403f227baca0464166c404dc0dc2;clean his tools;clean;FALSE;;clean;clean
-;B;11717;14399e53229004f2c85ec3810d5cf776;Had to take a snap;;FALSE;I don't understand this;;snap
+;B;11717;14399e53229004f2c85ec3810d5cf776;Had to take a snap;;FALSE;I don't understand this;take a snap;snap
 ;C;3154;9a8edf1b84fcdd4e9692881d31a5a26e;wait for the next customer;;FALSE;;wait;wait
 ;C;4787;559a558cc071b904f807f21b428370da;take a deep breath and prepare to continue work on a busier than usual day.;prepare;FALSE;;prepare;prepare
 ;C;8872;6df37ff0405e34325f86235ab8e45b66;clean his scissors;clean;FALSE;;clean;clean
@@ -719,27 +719,27 @@ Item;Condition;ID;MD5 hash of participant's IP address;Original_Value;Changed_Va
 ;D;10754;4f1511992b86c3d28f958bcbf4d56511;The barber in the kitchen%2C before the next customer had to will ;;TRUE;;;/
 ;D;13216;773048bc5ea832a6a6fb93f6da578bc6;come to shop;get back;FALSE;;come;come
 ;D;14852;bc3b5c51f98f643be9a99134572a2170;clean;;FALSE;;;clean
-37;A;1409;2817aa3ba5ce3496c4222adb7a6aa37c;try to get the baby to fall asleep.;try and make the baby fall asleep;FALSE;;try and make the baby fall asleep;soothe
+37;A;1409;2817aa3ba5ce3496c4222adb7a6aa37c;try to get the baby to fall asleep.;try and make the baby fall asleep;FALSE;;try;soothe
 ;A;7138;83d8403f227baca0464166c404dc0dc2;sing a lullaby;sing;FALSE;;sing;sing
-;A;12064;14399e53229004f2c85ec3810d5cf776;Try and make the baby fall asleep;;FALSE;;try and make the baby fall asleep;soothe
+;A;12064;14399e53229004f2c85ec3810d5cf776;Try and make the baby fall asleep;;FALSE;;try;soothe
 ;B;2757;9a8edf1b84fcdd4e9692881d31a5a26e;wait for the mother;;FALSE;;wait;wait
-;B;4392;559a558cc071b904f807f21b428370da;rock the cradle gently.;rock it;FALSE;;rock the cradle;rock
-;B;8476;6df37ff0405e34325f86235ab8e45b66;rock it;;FALSE;;rock the cradle;rock
+;B;4392;559a558cc071b904f807f21b428370da;rock the cradle gently.;rock it;FALSE;;rock;rock
+;B;8476;6df37ff0405e34325f86235ab8e45b66;rock it;;FALSE;;rock;rock
 ;B;9294;3028e7887ad94e66d4f5fe907c30cc88;as the baby can not fall asleep;;TRUE;;;/
 ;C;81;b8b10c5c32c46a8f278dc868ef65fd9d;return;get back;FALSE;;;/
 ;C;5004;38515a2d399231bb4340622c162d7b1a;baby;;TRUE;;;/
-;C;5820;bac07a9a07d31bd971ed4288f10499d6;take the baby inside;;FALSE;;;take
+;C;5820;bac07a9a07d31bd971ed4288f10499d6;take the baby inside;;FALSE;;take;take
 ;C;10735;4f1511992b86c3d28f958bcbf4d56511;s the baby cannot fall asleep%2C the mother in the yard should;;TRUE;;;/
 ;C;13198;773048bc5ea832a6a6fb93f6da578bc6;help out;;FALSE;;help;help
 ;C;14834;bc3b5c51f98f643be9a99134572a2170;play with the child;play;FALSE;;play;play
 ;D;2422;2b7058890eefa22341aa295a036985a9;assist ;;FALSE;;help;/
-;D;4057;58538dcb3f84e420200c601a4903dbef;come inside and rock the baby to sleep;get back;FALSE;;come inside;rock
+;D;4057;58538dcb3f84e420200c601a4903dbef;come inside and rock the baby to sleep;get back;FALSE;;enter;rock
 ;D;8141;61f3559549de508d322e493e3c8fe90c;The babysitter in the lab;;TRUE;what?;;/
 ;D;10601;64e64662aa8b1a57c3e5254b48652bcc;sing him a lullaby;sing;FALSE;;sing;sing
 ;D;13067;8e6ad748c0685eaeffbadbae0050306d;play;;FALSE;;;/
 ;D;14702;46c4212ded545ed717b0ff376752ae11;comfort the child;;FALSE;;comfort;comfort
-;D;16344;9f8736428d68ef86c654e1f0f0b1058e;keep them awake;;FALSE;;;awaken
-38;A;2686;9a8edf1b84fcdd4e9692881d31a5a26e;setup the gallery;;FALSE;;set it up;setup
+;D;16344;9f8736428d68ef86c654e1f0f0b1058e;keep them awake;;FALSE;;keep awake;awaken
+38;A;2686;9a8edf1b84fcdd4e9692881d31a5a26e;setup the gallery;;FALSE;;prepare;setup
 ;A;4321;559a558cc071b904f807f21b428370da;prepare to attend.;;FALSE;;prepare;prepare
 ;A;8405;6df37ff0405e34325f86235ab8e45b66;work;;FALSE;;;/
 ;A;9223;3028e7887ad94e66d4f5fe907c30cc88;as he accepted the invitation;;TRUE;;;/
@@ -750,15 +750,15 @@ Item;Condition;ID;MD5 hash of participant's IP address;Original_Value;Changed_Va
 ;B;13569;773048bc5ea832a6a6fb93f6da578bc6;attended;attend;FALSE;;;attend
 ;B;15206;bc3b5c51f98f643be9a99134572a2170;greet people;greet;FALSE;;greet;greet
 ;C;1823;2b7058890eefa22341aa295a036985a9;rest;;FALSE;;;/
-;C;3466;58538dcb3f84e420200c601a4903dbef;make sure his display is safe;;FALSE;;;make sure
+;C;3466;58538dcb3f84e420200c601a4903dbef;make sure his display is safe;;FALSE;;make sure;make sure
 ;C;7551;61f3559549de508d322e493e3c8fe90c;as he accepted the invitation the sculptor in the restuarant;;TRUE;;;/
 ;C;10003;64e64662aa8b1a57c3e5254b48652bcc;get a good measure of him;;FALSE;;measure;measure
 ;C;12477;8e6ad748c0685eaeffbadbae0050306d;celebrate;;FALSE;;;/
-;C;14111;46c4212ded545ed717b0ff376752ae11;decide what to make.;;FALSE;;;decide
-;C;15750;9f8736428d68ef86c654e1f0f0b1058e;finish eating;;FALSE;;;finish
+;C;14111;46c4212ded545ed717b0ff376752ae11;decide what to make.;;FALSE;;decide;decide
+;C;15750;9f8736428d68ef86c654e1f0f0b1058e;finish eating;;FALSE;;eat;finish
 ;D;1491;2817aa3ba5ce3496c4222adb7a6aa37c;make a sculpture. ;;FALSE;;sculpt;sculpt
-;D;7220;83d8403f227baca0464166c404dc0dc2;gather his best works;;FALSE;;;gather
-;D;12146;14399e53229004f2c85ec3810d5cf776;Make it known;announce;FALSE;;make it known;publicize
+;D;7220;83d8403f227baca0464166c404dc0dc2;gather his best works;;FALSE;;gather;gather
+;D;12146;14399e53229004f2c85ec3810d5cf776;Make it known;announce;FALSE;;publicize;publicize
 39;A;470;b8b10c5c32c46a8f278dc868ef65fd9d;aim;;FALSE;;;/
 ;A;5385;38515a2d399231bb4340622c162d7b1a;tree;;TRUE;;;/
 ;A;6203;bac07a9a07d31bd971ed4288f10499d6;steady their aim and shoot;aim and shoot;FALSE;I wonder if all of them need to turn into shoot;aim;shoot
@@ -768,66 +768,66 @@ Item;Condition;ID;MD5 hash of participant's IP address;Original_Value;Changed_Va
 ;B;2247;2b7058890eefa22341aa295a036985a9;shoot;;FALSE;;;/
 ;B;3886;58538dcb3f84e420200c601a4903dbef;shoot it;shoot;FALSE;;shoot;shoot
 ;B;7970;61f3559549de508d322e493e3c8fe90c;The hunter behind the tree as the deer;;TRUE;I don't understand how this happens, it is very weird how they copy a part of the sentence. Maybe there is something wrong with the log?;;/
-;B;10430;64e64662aa8b1a57c3e5254b48652bcc;give up;;FALSE;;;give up
+;B;10430;64e64662aa8b1a57c3e5254b48652bcc;give up;;FALSE;;quit;give up
 ;B;12896;8e6ad748c0685eaeffbadbae0050306d;fire;shoot;FALSE;;shoot;/
 ;B;14531;46c4212ded545ed717b0ff376752ae11;hunt the deer;;FALSE;;hunt;hunt
 ;B;16172;9f8736428d68ef86c654e1f0f0b1058e;get ready to shoot;aim;FALSE;;aim;shoot
 ;C;1142;2817aa3ba5ce3496c4222adb7a6aa37c;shoot the deer.;shoot;FALSE;;shoot;shoot
 ;C;6871;83d8403f227baca0464166c404dc0dc2;raise his rifle;;FALSE;;aim;raise
-;C;11795;14399e53229004f2c85ec3810d5cf776;Set a trap forthe deer;set trap;FALSE;;set a trap;hunt
-;D;2540;9a8edf1b84fcdd4e9692881d31a5a26e;be hunted down by the hunter.;be hunted down.;TRUE;;be hunted down;hunt
+;C;11795;14399e53229004f2c85ec3810d5cf776;Set a trap forthe deer;set trap;FALSE;;set;hunt
+;D;2540;9a8edf1b84fcdd4e9692881d31a5a26e;be hunted down by the hunter.;be hunted down.;TRUE;;be hunted;hunt
 ;D;4175;559a558cc071b904f807f21b428370da;take aim;aim;FALSE;;aim;aim
 ;D;8259;6df37ff0405e34325f86235ab8e45b66;hide;;FALSE;;;/
 ;D;9076;3028e7887ad94e66d4f5fe907c30cc88;as the deer approaches.;;TRUE;;;/
-40;A;2029;2b7058890eefa22341aa295a036985a9;take a photo;;FALSE;;take a photo;photograph
-;A;3670;58538dcb3f84e420200c601a4903dbef;take more photos;take photos;FALSE;;take a photo;photograph
+40;A;2029;2b7058890eefa22341aa295a036985a9;take a photo;;FALSE;;photograph;photograph
+;A;3670;58538dcb3f84e420200c601a4903dbef;take more photos;take photos;FALSE;;photograph;photograph
 ;A;7755;61f3559549de508d322e493e3c8fe90c;s they have a selfie stick in their hand;;TRUE;;;/
-;A;10213;64e64662aa8b1a57c3e5254b48652bcc;utilize it well;;FALSE;;utilize it;utilize
+;A;10213;64e64662aa8b1a57c3e5254b48652bcc;utilize it well;;FALSE;;utilize;utilize
 ;A;12681;8e6ad748c0685eaeffbadbae0050306d;pose;;FALSE;;;/
-;A;14316;46c4212ded545ed717b0ff376752ae11;take their picture;take photos;FALSE;;take a photo;photograph
-;A;15956;9f8736428d68ef86c654e1f0f0b1058e;take their picture;take photos;FALSE;;take a photo;photograph
-;B;839;2817aa3ba5ce3496c4222adb7a6aa37c;take a picture. ;take photos;FALSE;;take a photo;photograph
-;B;6568;83d8403f227baca0464166c404dc0dc2;take pictures;take photos;FALSE;;take a photo;photograph
-;B;11492;14399e53229004f2c85ec3810d5cf776;Earn profit;;FALSE;;earn profit;earn 
-;C;3238;9a8edf1b84fcdd4e9692881d31a5a26e;enjoy tourist season;;TRUE;;enjoy the tourist season;enjoy
-;C;4871;559a558cc071b904f807f21b428370da;be insufferable%2C because that is not an appropriate location to be using a selfie stick.;be annoying;FALSE;;;/
-;C;8956;6df37ff0405e34325f86235ab8e45b66;take pictures;take photos;FALSE;;take a photo;photograph
+;A;14316;46c4212ded545ed717b0ff376752ae11;take their picture;take photos;FALSE;;photograph;photograph
+;A;15956;9f8736428d68ef86c654e1f0f0b1058e;take their picture;take photos;FALSE;;photograph;photograph
+;B;839;2817aa3ba5ce3496c4222adb7a6aa37c;take a picture. ;take photos;FALSE;;photograph;photograph
+;B;6568;83d8403f227baca0464166c404dc0dc2;take pictures;take photos;FALSE;;photograph;photograph
+;B;11492;14399e53229004f2c85ec3810d5cf776;Earn profit;;FALSE;;earn;earn 
+;C;3238;9a8edf1b84fcdd4e9692881d31a5a26e;enjoy tourist season;;TRUE;;enjoy;enjoy
+;C;4871;559a558cc071b904f807f21b428370da;be insufferable%2C because that is not an appropriate location to be using a selfie stick.;be annoying;FALSE;;be insufferable;/
+;C;8956;6df37ff0405e34325f86235ab8e45b66;take pictures;take photos;FALSE;;photograph;photograph
 ;C;9773;3028e7887ad94e66d4f5fe907c30cc88;as they have a selfie stick in hand;;TRUE;;;/
-;D;119;b8b10c5c32c46a8f278dc868ef65fd9d;take pictures;take photos;FALSE;;take a photo;photograph
-;D;5042;38515a2d399231bb4340622c162d7b1a;selfie;take photos;TRUE;;take a selfie;/
-;D;5858;bac07a9a07d31bd971ed4288f10499d6;bump into other patrons occasionally;;FALSE;;;bump
+;D;119;b8b10c5c32c46a8f278dc868ef65fd9d;take pictures;take photos;FALSE;;photograph;photograph
+;D;5042;38515a2d399231bb4340622c162d7b1a;selfie;take photos;TRUE;;photograph;/
+;D;5858;bac07a9a07d31bd971ed4288f10499d6;bump into other patrons occasionally;;FALSE;;bump;bump
 ;D;10774;4f1511992b86c3d28f958bcbf4d56511;The tourists in the kitchen as they had a selfie stick had to ;;TRUE;;;/
-;D;13237;773048bc5ea832a6a6fb93f6da578bc6;take picture;take photos;FALSE;;take a photo;photograph
-;D;14872;bc3b5c51f98f643be9a99134572a2170;take pictures;take photos;FALSE;;take a photo;photograph
-41;A;1471;2817aa3ba5ce3496c4222adb7a6aa37c;tell them to quiet down.;;FALSE;;;tell
-;A;7200;83d8403f227baca0464166c404dc0dc2;talk loudly;yell;FALSE;;;yell
+;D;13237;773048bc5ea832a6a6fb93f6da578bc6;take picture;take photos;FALSE;;photograph;photograph
+;D;14872;bc3b5c51f98f643be9a99134572a2170;take pictures;take photos;FALSE;;photograph;photograph
+41;A;1471;2817aa3ba5ce3496c4222adb7a6aa37c;tell them to quiet down.;;FALSE;;hush;tell
+;A;7200;83d8403f227baca0464166c404dc0dc2;talk loudly;yell;FALSE;;yell;yell
 ;A;12126;14399e53229004f2c85ec3810d5cf776;Wait ;;FALSE;;wait;wait
-;B;2975;9a8edf1b84fcdd4e9692881d31a5a26e;report on the incident;;FALSE;;;report
+;B;2975;9a8edf1b84fcdd4e9692881d31a5a26e;report on the incident;;FALSE;;report;report
 ;B;4609;559a558cc071b904f807f21b428370da;listen closely and carefully.;listen carefully;FALSE;;listen;listen
-;B;8693;6df37ff0405e34325f86235ab8e45b66;speak loudly;yell;FALSE;;talk loudly;yell
+;B;8693;6df37ff0405e34325f86235ab8e45b66;speak loudly;yell;FALSE;;yell;yell
 ;B;9511;3028e7887ad94e66d4f5fe907c30cc88;as the scene was very loud outside;;TRUE;;;/
-;C;143;b8b10c5c32c46a8f278dc868ef65fd9d;yell;yell;FALSE;;talk loudly;/
+;C;143;b8b10c5c32c46a8f278dc868ef65fd9d;yell;yell;FALSE;;yell;/
 ;C;5064;38515a2d399231bb4340622c162d7b1a;reporters;;TRUE;;report;report
 ;C;5880;bac07a9a07d31bd971ed4288f10499d6;listen carefully;;FALSE;;listen ;listen
 ;C;10796;4f1511992b86c3d28f958bcbf4d56511;Because it was very loud outside%2C the reporters for the news had to%2C;;TRUE;;;/
 ;C;13259;773048bc5ea832a6a6fb93f6da578bc6;stop work;stop;FALSE;;stop;stop
-;C;14894;bc3b5c51f98f643be9a99134572a2170;cover their ears;;FALSE;;;cover
-;D;2225;2b7058890eefa22341aa295a036985a9;turn it down;;FALSE;;;turn down
-;D;3864;58538dcb3f84e420200c601a4903dbef;go inside;;FALSE;;;enter
+;C;14894;bc3b5c51f98f643be9a99134572a2170;cover their ears;;FALSE;;cover;cover
+;D;2225;2b7058890eefa22341aa295a036985a9;turn it down;;FALSE;;turn down;turn down
+;D;3864;58538dcb3f84e420200c601a4903dbef;go inside;;FALSE;;enter;enter
 ;D;7948;61f3559549de508d322e493e3c8fe90c;The reporters in the ;;TRUE;;;/
 ;D;10408;64e64662aa8b1a57c3e5254b48652bcc;leave the scene;;FALSE;;leave;leave
 ;D;12874;8e6ad748c0685eaeffbadbae0050306d;cut;stop;FALSE;;cut;cut
 ;D;14509;46c4212ded545ed717b0ff376752ae11;proceed with the interview;;FALSE;;proceed;proceed
-;D;16150;9f8736428d68ef86c654e1f0f0b1058e;stay inside;;FALSE;;;stay
-42;A;3107;9a8edf1b84fcdd4e9692881d31a5a26e;be prepared to walk the runway;get ready to walk;FALSE;;be ready;walk
-;A;4740;559a558cc071b904f807f21b428370da;be ready to walk.;get ready to walk;FALSE;;be ready;walk
+;D;16150;9f8736428d68ef86c654e1f0f0b1058e;stay inside;;FALSE;;stay;stay
+42;A;3107;9a8edf1b84fcdd4e9692881d31a5a26e;be prepared to walk the runway;get ready to walk;FALSE;;prepare;walk
+;A;4740;559a558cc071b904f807f21b428370da;be ready to walk.;get ready to walk;FALSE;;prepare;walk
 ;A;8825;6df37ff0405e34325f86235ab8e45b66;walk on stage;walk;FALSE;;walk;walk
 ;A;9642;3028e7887ad94e66d4f5fe907c30cc88;as soon as they dressed the runway;;TRUE;;;/
 ;B;336;b8b10c5c32c46a8f278dc868ef65fd9d;practice;;FALSE;;;/
 ;B;5254;38515a2d399231bb4340622c162d7b1a;dressed;dress up;TRUE;;dress;dress
 ;B;6071;bac07a9a07d31bd971ed4288f10499d6;prance down the catwalk;walk;FALSE;;prance;walk
 ;B;10988;4f1511992b86c3d28f958bcbf4d56511;The models on the runway%2C as soon as they are dressed should ;;TRUE;;;/
-;B;13449;773048bc5ea832a6a6fb93f6da578bc6;be on stage;get on stage;FALSE;;be on stage;be
+;B;13449;773048bc5ea832a6a6fb93f6da578bc6;be on stage;get on stage;FALSE;;strut;be
 ;B;15085;bc3b5c51f98f643be9a99134572a2170;go to the stage;get on stage;FALSE;;go ;go
 ;C;2460;2b7058890eefa22341aa295a036985a9;get dressed;dress up;FALSE;;dress;dress
 ;C;4095;58538dcb3f84e420200c601a4903dbef;head to the show;get to the show;FALSE;;head;head
@@ -835,24 +835,24 @@ Item;Condition;ID;MD5 hash of participant's IP address;Original_Value;Changed_Va
 ;C;10640;64e64662aa8b1a57c3e5254b48652bcc;go to the main event;get to the show;FALSE;;go ;go
 ;C;13105;8e6ad748c0685eaeffbadbae0050306d;travel;;FALSE;;;/
 ;C;14740;46c4212ded545ed717b0ff376752ae11;go to the show;get to the show;FALSE;;go ;go
-;C;16382;9f8736428d68ef86c654e1f0f0b1058e;get on the bus;;FALSE;;;get on
-;D;984;2817aa3ba5ce3496c4222adb7a6aa37c;get ready.;;FALSE;;get ready;prepare
-;D;6713;83d8403f227baca0464166c404dc0dc2;prepare to go down the runway;get ready to walk;FALSE;;get ready;prepare
-;D;11637;14399e53229004f2c85ec3810d5cf776;Head straight to the model hall;;FALSE;;;head
+;C;16382;9f8736428d68ef86c654e1f0f0b1058e;get on the bus;;FALSE;;board;get on
+;D;984;2817aa3ba5ce3496c4222adb7a6aa37c;get ready.;;FALSE;;prepare;prepare
+;D;6713;83d8403f227baca0464166c404dc0dc2;prepare to go down the runway;get ready to walk;FALSE;;prepare;prepare
+;D;11637;14399e53229004f2c85ec3810d5cf776;Head straight to the model hall;;FALSE;;head;head
 43;A;418;b8b10c5c32c46a8f278dc868ef65fd9d;climb;;FALSE;;;/
 ;A;5334;38515a2d399231bb4340622c162d7b1a;cliff;;TRUE;;;/
-;A;6151;bac07a9a07d31bd971ed4288f10499d6;hack into the ice to keep moving upward;climb;FALSE;;hack into the ice;climb
+;A;6151;bac07a9a07d31bd971ed4288f10499d6;hack into the ice to keep moving upward;climb;FALSE;;hack;climb
 ;A;11069;4f1511992b86c3d28f958bcbf4d56511;s they had an ice axe%2C the mountaineer on the trail has to;;TRUE;;;/
 ;A;13529;773048bc5ea832a6a6fb93f6da578bc6;break;;FALSE;;;/
 ;A;15166;bc3b5c51f98f643be9a99134572a2170;climb up;climb;FALSE;;climb;climb
 ;B;1762;2b7058890eefa22341aa295a036985a9;intimidate ;;FALSE;;;/
-;B;3406;58538dcb3f84e420200c601a4903dbef;be trying to save his life;;FALSE;;;save
+;B;3406;58538dcb3f84e420200c601a4903dbef;be trying to save his life;;FALSE;;save;save
 ;B;7491;61f3559549de508d322e493e3c8fe90c;The mountaineer face as ice axe;;TRUE;;;/
-;B;9943;64e64662aa8b1a57c3e5254b48652bcc;be terrified;;FALSE;;;/
+;B;9943;64e64662aa8b1a57c3e5254b48652bcc;be terrified;;FALSE;;be terrified;/
 ;B;12417;8e6ad748c0685eaeffbadbae0050306d;climb;;FALSE;;climb;/
-;B;14051;46c4212ded545ed717b0ff376752ae11;use the axe.;;FALSE;;use the axe;use
+;B;14051;46c4212ded545ed717b0ff376752ae11;use the axe.;;FALSE;;use;use
 ;B;15689;9f8736428d68ef86c654e1f0f0b1058e;climb steadily;climb;FALSE;;climb;climb
-;C;1522;2817aa3ba5ce3496c4222adb7a6aa37c;make sure his gear was good.;;FALSE;;;make sure
+;C;1522;2817aa3ba5ce3496c4222adb7a6aa37c;make sure his gear was good.;;FALSE;;assure;make sure
 ;C;7251;83d8403f227baca0464166c404dc0dc2;plan his adventure in his head;;FALSE;;plan;plan
 ;C;12177;14399e53229004f2c85ec3810d5cf776;Okay;;TRUE;;;/
 ;D;2986;9a8edf1b84fcdd4e9692881d31a5a26e;prepare for the mountain;prepare;FALSE;;prepare;prepare
@@ -860,25 +860,25 @@ Item;Condition;ID;MD5 hash of participant's IP address;Original_Value;Changed_Va
 ;D;8704;6df37ff0405e34325f86235ab8e45b66;embark;;FALSE;;;/
 ;D;9522;3028e7887ad94e66d4f5fe907c30cc88;at the convenience store;;TRUE;;;/
 44;A;1740;2b7058890eefa22341aa295a036985a9;found;find;FALSE;;find;find
-;A;3384;58538dcb3f84e420200c601a4903dbef;shine the light on the wreck;shine light to see;FALSE;;shine the light;shine
+;A;3384;58538dcb3f84e420200c601a4903dbef;shine the light on the wreck;shine light to see;FALSE;;shine light;shine
 ;A;7469;61f3559549de508d322e493e3c8fe90c;s they had the light in their hand the diver was;;TRUE;;;/
-;A;9921;64e64662aa8b1a57c3e5254b48652bcc;get damaged;;FALSE;;;damage
+;A;9921;64e64662aa8b1a57c3e5254b48652bcc;get damaged;;FALSE;;damage;damage
 ;A;12395;8e6ad748c0685eaeffbadbae0050306d;see;explore;FALSE;maybe?;;/
 ;A;14029;46c4212ded545ed717b0ff376752ae11;search;explore;FALSE;;;/
 ;A;15667;9f8736428d68ef86c654e1f0f0b1058e;scan the area;explore;FALSE;;scan;scan
 ;B;1387;2817aa3ba5ce3496c4222adb7a6aa37c;look at the wreck.;explore;FALSE;maybe?;look;look
-;B;7116;83d8403f227baca0464166c404dc0dc2;shine it at things so they could see;shine light to see;FALSE;;shine the light;shine
-;B;12042;14399e53229004f2c85ec3810d5cf776;Make it easier;;FALSE;;;simplify
+;B;7116;83d8403f227baca0464166c404dc0dc2;shine it at things so they could see;shine light to see;FALSE;;shine;shine
+;B;12042;14399e53229004f2c85ec3810d5cf776;Make it easier;;FALSE;;explore;simplify
 ;C;2677;9a8edf1b84fcdd4e9692881d31a5a26e;explore a shipwreck;explore;FALSE;;explore;explore
-;C;4312;559a558cc071b904f807f21b428370da;use it to help explore the wreck.;explore;FALSE;;use it;explore
-;C;8396;6df37ff0405e34325f86235ab8e45b66;get ready;;FALSE;;;/
+;C;4312;559a558cc071b904f807f21b428370da;use it to help explore the wreck.;explore;FALSE;;explore;explore
+;C;8396;6df37ff0405e34325f86235ab8e45b66;get ready;;FALSE;;prepare;/
 ;C;9214;3028e7887ad94e66d4f5fe907c30cc88;as they had a flashlight in hand;;TRUE;;;/
 ;D;49;b8b10c5c32c46a8f278dc868ef65fd9d;scavenge;;FALSE;;;/
 ;D;4973;38515a2d399231bb4340622c162d7b1a;flashlight;;TRUE;;light;/
 ;D;5789;bac07a9a07d31bd971ed4288f10499d6;look around;;FALSE;;look;look
 ;D;10704;4f1511992b86c3d28f958bcbf4d56511;The divers at the port%2C as they had a flashlight in hand had to;;TRUE;;;/
-;D;13167;773048bc5ea832a6a6fb93f6da578bc6;switch it on;shine light to see;FALSE;maybe?;;switch on
-;D;14802;bc3b5c51f98f643be9a99134572a2170;use it to see;shine light to see;FALSE;;use it;see
+;D;13167;773048bc5ea832a6a6fb93f6da578bc6;switch it on;shine light to see;FALSE;maybe?;switch on;switch on
+;D;14802;bc3b5c51f98f643be9a99134572a2170;use it to see;shine light to see;FALSE;;use;see
 45;A;995;2817aa3ba5ce3496c4222adb7a6aa37c;start his work. ;start working;FALSE;;start;start
 ;A;6724;83d8403f227baca0464166c404dc0dc2;draw blood;;FALSE;;;draw
 ;A;11648;14399e53229004f2c85ec3810d5cf776;Get to know the situation;examine;FALSE;;get to know;know
@@ -891,13 +891,13 @@ Item;Condition;ID;MD5 hash of participant's IP address;Original_Value;Changed_Va
 ;C;5956;bac07a9a07d31bd971ed4288f10499d6;get to work;start working;FALSE;;work;work
 ;C;10871;4f1511992b86c3d28f958bcbf4d56511;s the patient laid down%2C the pathologist in the bedroom will;;TRUE;;;/
 ;C;13334;773048bc5ea832a6a6fb93f6da578bc6;take care;;FALSE;;;/
-;C;14969;bc3b5c51f98f643be9a99134572a2170;get checked out;;FALSE;;;check out
+;C;14969;bc3b5c51f98f643be9a99134572a2170;get checked out;;FALSE;;check out;check out
 ;D;1958;2b7058890eefa22341aa295a036985a9;rest;;FALSE;;;/
 ;D;3599;58538dcb3f84e420200c601a4903dbef;begin;start working;FALSE;;;/
 ;D;7684;61f3559549de508d322e493e3c8fe90c;The pathologist at the bedroom;;TRUE;;;/
 ;D;10140;64e64662aa8b1a57c3e5254b48652bcc;examine the patient;examine;FALSE;;examine;examine
 ;D;12610;8e6ad748c0685eaeffbadbae0050306d;examine;;FALSE;;;/
-;D;14245;46c4212ded545ed717b0ff376752ae11;perform procedure;;TRUE;;perform a procedure;perform
+;D;14245;46c4212ded545ed717b0ff376752ae11;perform procedure;;TRUE;;operate;perform
 ;D;15883;9f8736428d68ef86c654e1f0f0b1058e;get to work;start working;FALSE;;work;work
 46;A;2790;9a8edf1b84fcdd4e9692881d31a5a26e;invest more into startups;invest;FALSE;;invest;invest
 ;A;4425;559a558cc071b904f807f21b428370da;remember to invest wisely%2C and not assume any stock will be only gains and will never fall/crash.;invest;FALSE;;invest;invest
@@ -907,16 +907,16 @@ Item;Condition;ID;MD5 hash of participant's IP address;Original_Value;Changed_Va
 ;B;5161;38515a2d399231bb4340622c162d7b1a;banker;;TRUE;;;/
 ;B;5978;bac07a9a07d31bd971ed4288f10499d6;sell;;FALSE;;;/
 ;B;10894;4f1511992b86c3d28f958bcbf4d56511;The banker in the stock exchange%2C as the price increases will ;;TRUE;;;/
-;B;13356;773048bc5ea832a6a6fb93f6da578bc6;go high;;FALSE;;;soar
+;B;13356;773048bc5ea832a6a6fb93f6da578bc6;go high;;FALSE;;soar;soar
 ;B;14992;bc3b5c51f98f643be9a99134572a2170;sell fast;sell;FALSE;;sell;sell
-;C;1834;2b7058890eefa22341aa295a036985a9;be thrilled;;FALSE;;;/
-;C;3477;58538dcb3f84e420200c601a4903dbef;keep an eye on his stocks;keep monitor;FALSE;;;monitor
+;C;1834;2b7058890eefa22341aa295a036985a9;be thrilled;;FALSE;;excite;/
+;C;3477;58538dcb3f84e420200c601a4903dbef;keep an eye on his stocks;keep monitor;FALSE;;monitor;monitor
 ;C;7562;61f3559549de508d322e493e3c8fe90c;s the soar the banker in the suite was;;TRUE;;;/
 ;C;10014;64e64662aa8b1a57c3e5254b48652bcc;make profit;;FALSE;;profit;make profit
 ;C;12488;8e6ad748c0685eaeffbadbae0050306d;exult;;FALSE;;;/
 ;C;14122;46c4212ded545ed717b0ff376752ae11;monitor status of the earnings;keep monitor;FALSE;;monitor;monitor
-;C;15761;9f8736428d68ef86c654e1f0f0b1058e;get richer;;FALSE;;;make profit
-;D;1208;2817aa3ba5ce3496c4222adb7a6aa37c;let their client know how it is going.;inform the client;FALSE;;;inform
+;C;15761;9f8736428d68ef86c654e1f0f0b1058e;get richer;;FALSE;;get rich;make profit
+;D;1208;2817aa3ba5ce3496c4222adb7a6aa37c;let their client know how it is going.;inform the client;FALSE;;inform;inform
 ;D;6937;83d8403f227baca0464166c404dc0dc2;take profits;make profit;FALSE;;profit;make profit
 ;D;11861;14399e53229004f2c85ec3810d5cf776;happily;;TRUE;;be happy;/
 47;A;265;b8b10c5c32c46a8f278dc868ef65fd9d;operate;;FALSE;;;/
@@ -925,7 +925,7 @@ Item;Condition;ID;MD5 hash of participant's IP address;Original_Value;Changed_Va
 ;A;10916;4f1511992b86c3d28f958bcbf4d56511;s the patient is under ?? the ?? in the ?? has to;;TRUE;;;/
 ;A;13378;773048bc5ea832a6a6fb93f6da578bc6;take in charge;;FALSE;;take charge;manage
 ;A;15014;bc3b5c51f98f643be9a99134572a2170;start the procedure;;FALSE;;start;start
-;B;2040;2b7058890eefa22341aa295a036985a9;check vitals;;FALSE;;check their vitals;check
+;B;2040;2b7058890eefa22341aa295a036985a9;check vitals;;FALSE;;check;check
 ;B;3681;58538dcb3f84e420200c601a4903dbef;feel completely sleep;;TRUE;not sure;feel sleepy;sleep
 ;B;7766;61f3559549de508d322e493e3c8fe90c;The doctor in the patient room;;TRUE;;;/
 ;B;10224;64e64662aa8b1a57c3e5254b48652bcc;take care of the patient;;FALSE;;take care;take care
@@ -933,11 +933,11 @@ Item;Condition;ID;MD5 hash of participant's IP address;Original_Value;Changed_Va
 ;B;14327;46c4212ded545ed717b0ff376752ae11;proceed with procedure;;FALSE;;proceed;proceed
 ;B;15967;9f8736428d68ef86c654e1f0f0b1058e;get started;start the procedure;FALSE;;start;start
 ;C;1175;2817aa3ba5ce3496c4222adb7a6aa37c;finish and return to their patent.;;FALSE;;finish;finish
-;C;6904;83d8403f227baca0464166c404dc0dc2;wash his hands;;FALSE;;;wash
-;C;11828;14399e53229004f2c85ec3810d5cf776;Find some medicine to reduce the pain;;FALSE;;;reduce
-;D;2924;9a8edf1b84fcdd4e9692881d31a5a26e;fix the patient's teeth;;FALSE;;;fix
+;C;6904;83d8403f227baca0464166c404dc0dc2;wash his hands;;FALSE;;wash;wash
+;C;11828;14399e53229004f2c85ec3810d5cf776;Find some medicine to reduce the pain;;FALSE;;medicate;reduce
+;D;2924;9a8edf1b84fcdd4e9692881d31a5a26e;fix the patient's teeth;;FALSE;;treat;fix
 ;D;4558;559a558cc071b904f807f21b428370da;hurry to get back to the patient%2C as they should not be taking breaks of any kind in the middle of an active procedure involving local anesthesia.;get back;FALSE;;hurry;hurry
-;D;8642;6df37ff0405e34325f86235ab8e45b66;pull it;;FALSE;;;pull
+;D;8642;6df37ff0405e34325f86235ab8e45b66;pull it;;FALSE;;pull;pull
 ;D;9460;3028e7887ad94e66d4f5fe907c30cc88;the patient is under local anesthesia;;TRUE;;;/
 48;A;1729;2b7058890eefa22341aa295a036985a9;deliver;;FALSE;;;/
 ;A;3373;58538dcb3f84e420200c601a4903dbef;tired;;TRUE;;be tired;/
@@ -948,64 +948,64 @@ Item;Condition;ID;MD5 hash of participant's IP address;Original_Value;Changed_Va
 ;A;15656;9f8736428d68ef86c654e1f0f0b1058e;deliver it;deliver;FALSE;;deliver;deliver
 ;B;1602;2817aa3ba5ce3496c4222adb7a6aa37c;verify the paperwork to make its the correct person.;;FALSE;;verify;verify
 ;B;7331;83d8403f227baca0464166c404dc0dc2;lift the package;;FALSE;;lift;lift
-;B;12257;14399e53229004f2c85ec3810d5cf776;Have to take it to where the event is been held;;FALSE;;;deliver
+;B;12257;14399e53229004f2c85ec3810d5cf776;Have to take it to where the event is been held;;FALSE;;take;deliver
 ;C;2637;9a8edf1b84fcdd4e9692881d31a5a26e;wait for the ordered chair;;FALSE;;wait;wait
-;C;4272;559a558cc071b904f807f21b428370da;make sure it is not damaged in loading it for delivery.;;FALSE;;;make sure
+;C;4272;559a558cc071b904f807f21b428370da;make sure it is not damaged in loading it for delivery.;;FALSE;;assure;make sure
 ;C;8356;6df37ff0405e34325f86235ab8e45b66;deliver it;deliver;FALSE;;deliver;deliver
 ;C;9173;3028e7887ad94e66d4f5fe907c30cc88;as the package was loaded on the van;;TRUE;;;/
-;D;388;b8b10c5c32c46a8f278dc868ef65fd9d;be there;;FALSE;;;be
+;D;388;b8b10c5c32c46a8f278dc868ef65fd9d;be there;;FALSE;;be present;be
 ;D;5305;38515a2d399231bb4340622c162d7b1a;van;;FALSE;;;/
-;D;6122;bac07a9a07d31bd971ed4288f10499d6;have to get up and go;;FALSE;;;go
+;D;6122;bac07a9a07d31bd971ed4288f10499d6;have to get up and go;;FALSE;;go;go
 ;D;11039;4f1511992b86c3d28f958bcbf4d56511;The courier on the couch%2C as the ?? was loaded into the van had to ;;TRUE;;;/
 ;D;13500;773048bc5ea832a6a6fb93f6da578bc6;be replaced;;FALSE;;;replace
 ;D;15137;bc3b5c51f98f643be9a99134572a2170;drive off;;FALSE;;;drive
-49;A;964;2817aa3ba5ce3496c4222adb7a6aa37c;fight the fire.;stop the fire;FALSE;;;fight
+49;A;964;2817aa3ba5ce3496c4222adb7a6aa37c;fight the fire.;stop the fire;FALSE;;fight;fight
 ;A;6693;83d8403f227baca0464166c404dc0dc2;rush;;FALSE;;;/
 ;A;11617;14399e53229004f2c85ec3810d5cf776;Call fire service;;TRUE;This is so irrelevant;call;call
-;B;2996;9a8edf1b84fcdd4e9692881d31a5a26e;stop the fire;;FALSE;;;stop
-;B;4629;559a558cc071b904f807f21b428370da;work quickly and be mindful of any potential for a backdraft.;;FALSE;;;work
-;B;8713;6df37ff0405e34325f86235ab8e45b66;put it out;stop the fire;FALSE;;stop the fire;put out
+;B;2996;9a8edf1b84fcdd4e9692881d31a5a26e;stop the fire;;FALSE;;extinguish;stop
+;B;4629;559a558cc071b904f807f21b428370da;work quickly and be mindful of any potential for a backdraft.;;FALSE;;work;work
+;B;8713;6df37ff0405e34325f86235ab8e45b66;put it out;stop the fire;FALSE;;extinguish;put out
 ;B;9531;3028e7887ad94e66d4f5fe907c30cc88;as the fire spreads;;TRUE;;;/
 ;C;807;b8b10c5c32c46a8f278dc868ef65fd9d;wake up;;FALSE;;;wake
-;C;5718;38515a2d399231bb4340622c162d7b1a;bed;;TRUE;;go to bed;/
+;C;5718;38515a2d399231bb4340622c162d7b1a;bed;;TRUE;;;/
 ;C;6537;bac07a9a07d31bd971ed4288f10499d6;hop up and get to work;wake up and get to work;FALSE;;get up;hop up
 ;C;11460;4f1511992b86c3d28f958bcbf4d56511;s the fire approaches fast%2C the ?? in the ;;TRUE;;;/
 ;C;13913;773048bc5ea832a6a6fb93f6da578bc6;spray;;FALSE;;;/
 ;C;15552;bc3b5c51f98f643be9a99134572a2170;rush out;;FALSE;;rush;rush
-;D;1844;2b7058890eefa22341aa295a036985a9;extinguish the flames ;stop the fire;FALSE;;stop the fire;extinguish
-;D;3486;58538dcb3f84e420200c601a4903dbef;be put out;stop the fire;FALSE;;stop the fire;put out
+;D;1844;2b7058890eefa22341aa295a036985a9;extinguish the flames ;stop the fire;FALSE;;extinguish;extinguish
+;D;3486;58538dcb3f84e420200c601a4903dbef;be put out;stop the fire;FALSE;;extinguish;put out
 ;D;7571;61f3559549de508d322e493e3c8fe90c;The firefighter in the bed as fire spread;;TRUE;;;/
-;D;10024;64e64662aa8b1a57c3e5254b48652bcc;extinguish it;stop the fire;FALSE;;stop the fire;extinguish
+;D;10024;64e64662aa8b1a57c3e5254b48652bcc;extinguish it;stop the fire;FALSE;;extinguish;extinguish
 ;D;12497;8e6ad748c0685eaeffbadbae0050306d;wake;wake up;FALSE;;wake up;/
-;D;14131;46c4212ded545ed717b0ff376752ae11;react quickly.;;FALSE;;;react
+;D;14131;46c4212ded545ed717b0ff376752ae11;react quickly.;;FALSE;;react;react
 ;D;15770;9f8736428d68ef86c654e1f0f0b1058e;get up;wake up;FALSE;;get up;get up
 50;A;3289;9a8edf1b84fcdd4e9692881d31a5a26e;be short handed;;FALSE;?;;/
-;A;4922;559a558cc071b904f807f21b428370da;do their best to assist them%2C while acknowledging and apologizing for the company being short-staffed.;assist them;FALSE;;do their best;assist
-;A;9007;6df37ff0405e34325f86235ab8e45b66;calm them down;;FALSE;;;calm
+;A;4922;559a558cc071b904f807f21b428370da;do their best to assist them%2C while acknowledging and apologizing for the company being short-staffed.;assist them;FALSE;;try;assist
+;A;9007;6df37ff0405e34325f86235ab8e45b66;calm them down;;FALSE;;calm down;calm
 ;A;9824;3028e7887ad94e66d4f5fe907c30cc88;as the client complains;;TRUE;;;/
 ;B;197;b8b10c5c32c46a8f278dc868ef65fd9d;apologize;;FALSE;;;/
 ;B;5117;38515a2d399231bb4340622c162d7b1a;client;;TRUE;;;/
-;B;5934;bac07a9a07d31bd971ed4288f10499d6;do their best to solve the issue;assist them;FALSE;;do their best;solve
+;B;5934;bac07a9a07d31bd971ed4288f10499d6;do their best to solve the issue;assist them;FALSE;;try;solve
 ;B;10849;4f1511992b86c3d28f958bcbf4d56511;The agent on the service line%2C as the client complained will%2C ;;TRUE;;;/
 ;B;13312;773048bc5ea832a6a6fb93f6da578bc6;fix everything;fix up;FALSE;;fix ;fix
 ;B;14947;bc3b5c51f98f643be9a99134572a2170;write it down;take note;FALSE;;write ;write
-;C;2269;2b7058890eefa22341aa295a036985a9;not help;;FALSE;;;ignore
+;C;2269;2b7058890eefa22341aa295a036985a9;not help;;FALSE;;not help;ignore
 ;C;3908;58538dcb3f84e420200c601a4903dbef;get up and leave;leave;FALSE;;leave;leave
 ;C;7992;61f3559549de508d322e493e3c8fe90c;s the client as complained;;TRUE;;;/
 ;C;10452;64e64662aa8b1a57c3e5254b48652bcc;fix up;;FALSE;;fix ;fix
 ;C;12918;8e6ad748c0685eaeffbadbae0050306d;celebrate;;FALSE;;;/
 ;C;14553;46c4212ded545ed717b0ff376752ae11;address the complaints;fix up;FALSE;;address ;address
-;C;16194;9f8736428d68ef86c654e1f0f0b1058e;take note;;FALSE;;;note
-;D;1006;2817aa3ba5ce3496c4222adb7a6aa37c;try to get extra help.;get help;FALSE;;get help;help
+;C;16194;9f8736428d68ef86c654e1f0f0b1058e;take note;;FALSE;;note;note
+;D;1006;2817aa3ba5ce3496c4222adb7a6aa37c;try to get extra help.;get help;FALSE;;get;help
 ;D;6735;83d8403f227baca0464166c404dc0dc2;try to fix their issue;fix up;FALSE;;fix ;fix
 ;D;11659;14399e53229004f2c85ec3810d5cf776;bout the behaviors of the team members;;TRUE;;;/
 51;A;155;b8b10c5c32c46a8f278dc868ef65fd9d;confess;;FALSE;?;;/
 ;A;5075;38515a2d399231bb4340622c162d7b1a;student;;TRUE;;;/
-;A;5891;bac07a9a07d31bd971ed4288f10499d6;do his best to help;help;FALSE;;do his best;help
+;A;5891;bac07a9a07d31bd971ed4288f10499d6;do his best to help;help;FALSE;;try;help
 ;A;10807;4f1511992b86c3d28f958bcbf4d56511;Sense the student is asking for supervision%2C the principal in the office will;;TRUE;;;sense
 ;A;13270;773048bc5ea832a6a6fb93f6da578bc6;supervise;;FALSE;;;/
-;A;14905;bc3b5c51f98f643be9a99134572a2170;give it to him;agree;FALSE;maybe?;;give
-;B;1917;2b7058890eefa22341aa295a036985a9;assist them;help;FALSE;;help;assist
+;A;14905;bc3b5c51f98f643be9a99134572a2170;give it to him;agree;FALSE;maybe?;give;give
+;B;1917;2b7058890eefa22341aa295a036985a9;assist them;help;FALSE;;assist;assist
 ;B;3559;58538dcb3f84e420200c601a4903dbef;i dont know;;TRUE;;;/
 ;B;7644;61f3559549de508d322e493e3c8fe90c;The professor in the office;;TRUE;;;/
 ;B;10099;64e64662aa8b1a57c3e5254b48652bcc;have to make time ;make time;FALSE;;make time;arrange
@@ -1014,7 +1014,7 @@ Item;Condition;ID;MD5 hash of participant's IP address;Original_Value;Changed_Va
 ;B;15843;9f8736428d68ef86c654e1f0f0b1058e;assist;help;FALSE;;help;/
 ;C;1037;2817aa3ba5ce3496c4222adb7a6aa37c;help.;;FALSE;;help;/
 ;C;6766;83d8403f227baca0464166c404dc0dc2;help them;help;FALSE;;help;help
-;C;11690;14399e53229004f2c85ec3810d5cf776;To do what they think is right;respond;FALSE;maybe?;;respond
+;C;11690;14399e53229004f2c85ec3810d5cf776;To do what they think is right;respond;FALSE;maybe?;do;respond
 ;D;2551;9a8edf1b84fcdd4e9692881d31a5a26e;be balancing research responsibilities and personal time;;FALSE;;balance;/
 ;D;4186;559a558cc071b904f807f21b428370da;take extra time to help the student;help;FALSE;;make time;help
 ;D;8270;6df37ff0405e34325f86235ab8e45b66;help him;help;FALSE;;help;help
@@ -1030,164 +1030,164 @@ Item;Condition;ID;MD5 hash of participant's IP address;Original_Value;Changed_Va
 ;B;6802;83d8403f227baca0464166c404dc0dc2;listen;;FALSE;;;/
 ;B;11726;14399e53229004f2c85ec3810d5cf776;Hanging;;TRUE;;hang;hang
 ;C;3058;9a8edf1b84fcdd4e9692881d31a5a26e;listen to the couple;listen;FALSE;;listen;listen
-;C;4691;559a558cc071b904f807f21b428370da;take a deep breath and then go back to listen to and help their clients.;listen and help;FALSE;;take a deep breath;listen
+;C;4691;559a558cc071b904f807f21b428370da;take a deep breath and then go back to listen to and help their clients.;listen and help;FALSE;;help;listen
 ;C;8775;6df37ff0405e34325f86235ab8e45b66;help them;help;FALSE;;help;help
 ;C;9593;3028e7887ad94e66d4f5fe907c30cc88;when the couples start talkin to a therapist;;TRUE;;;/
 ;D;679;b8b10c5c32c46a8f278dc868ef65fd9d;decompress;;FALSE;;;/
 ;D;5591;38515a2d399231bb4340622c162d7b1a;will;;TRUE;;;/
-;D;6409;bac07a9a07d31bd971ed4288f10499d6;hurry back and apologize for being late;;FALSE;;hurry back;get back
+;D;6409;bac07a9a07d31bd971ed4288f10499d6;hurry back and apologize for being late;;FALSE;;hurry;get back
 ;D;11331;4f1511992b86c3d28f958bcbf4d56511;The therapist in the break room%2C once the couple starts to talk has to ;;TRUE;;;/
 ;D;13786;773048bc5ea832a6a6fb93f6da578bc6;listen ;;FALSE;;;/
 ;D;15424;bc3b5c51f98f643be9a99134572a2170;listen;;FALSE;;;/
-53;A;1186;2817aa3ba5ce3496c4222adb7a6aa37c;start to sing.;sing;FALSE;;;sing
-;A;6915;83d8403f227baca0464166c404dc0dc2;write the next hit;;FALSE;;;write
-;A;11839;14399e53229004f2c85ec3810d5cf776;Talk about it ;;FALSE;;;talk
-;B;2584;9a8edf1b84fcdd4e9692881d31a5a26e;make the song popular;;FALSE;;;popularize
-;B;4219;559a558cc071b904f807f21b428370da;prepare to do the same.;;FALSE;;;prepare
+53;A;1186;2817aa3ba5ce3496c4222adb7a6aa37c;start to sing.;sing;FALSE;;sing;sing
+;A;6915;83d8403f227baca0464166c404dc0dc2;write the next hit;;FALSE;;write;write
+;A;11839;14399e53229004f2c85ec3810d5cf776;Talk about it ;;FALSE;;discuss;talk
+;B;2584;9a8edf1b84fcdd4e9692881d31a5a26e;make the song popular;;FALSE;;popularize;popularize
+;B;4219;559a558cc071b904f807f21b428370da;prepare to do the same.;;FALSE;;prepare;prepare
 ;B;8303;6df37ff0405e34325f86235ab8e45b66;write;;FALSE;;;/
 ;B;9120;3028e7887ad94e66d4f5fe907c30cc88;in the studio;;TRUE;;;/
 ;C;287;b8b10c5c32c46a8f278dc868ef65fd9d;danced;;FALSE;;;dance
 ;C;5205;38515a2d399231bb4340622c162d7b1a;park;;FALSE;;;/
-;C;6022;bac07a9a07d31bd971ed4288f10499d6;spread the news;;FALSE;;;spread
+;C;6022;bac07a9a07d31bd971ed4288f10499d6;spread the news;;FALSE;;spread;spread
 ;C;10938;4f1511992b86c3d28f958bcbf4d56511;s the singer promoted a new collab%2C a singer in the park had to;;TRUE;;;/
-;C;13400;773048bc5ea832a6a6fb93f6da578bc6;promote it;;FALSE;;;promote
-;C;15036;bc3b5c51f98f643be9a99134572a2170;read aloud;;FALSE;;;read
-;D;2332;2b7058890eefa22341aa295a036985a9;also perform;perform;FALSE;;;perform
-;D;3968;58538dcb3f84e420200c601a4903dbef;start to sing;sing;FALSE;;;sing
+;C;13400;773048bc5ea832a6a6fb93f6da578bc6;promote it;;FALSE;;promote;promote
+;C;15036;bc3b5c51f98f643be9a99134572a2170;read aloud;;FALSE;;read;read
+;D;2332;2b7058890eefa22341aa295a036985a9;also perform;perform;FALSE;;perform;perform
+;D;3968;58538dcb3f84e420200c601a4903dbef;start to sing;sing;FALSE;;sing;sing
 ;D;8052;61f3559549de508d322e493e3c8fe90c;The author at the park as the singer;;TRUE;;;/
 ;D;10512;64e64662aa8b1a57c3e5254b48652bcc;good friends;;TRUE;;;/
 ;D;12978;8e6ad748c0685eaeffbadbae0050306d;write;;FALSE;;;/
 ;D;14613;46c4212ded545ed717b0ff376752ae11;perform;;FALSE;;;/
-;D;16255;9f8736428d68ef86c654e1f0f0b1058e;write about it;;FALSE;?;;write
-54;A;3196;9a8edf1b84fcdd4e9692881d31a5a26e;talk about the finished project;;FALSE;;;talk
-;A;4829;559a558cc071b904f807f21b428370da;prepare their notes and presentation.;prepare;FALSE;;;prepare
+;D;16255;9f8736428d68ef86c654e1f0f0b1058e;write about it;;FALSE;?;write;write
+54;A;3196;9a8edf1b84fcdd4e9692881d31a5a26e;talk about the finished project;;FALSE;;talk;talk
+;A;4829;559a558cc071b904f807f21b428370da;prepare their notes and presentation.;prepare;FALSE;;prepare;prepare
 ;A;8914;6df37ff0405e34325f86235ab8e45b66;speak;;FALSE;;;/
 ;A;9731;3028e7887ad94e66d4f5fe907c30cc88;in the meeting room;;TRUE;;;/
 ;B;690;b8b10c5c32c46a8f278dc868ef65fd9d;progress;;FALSE;;;/
 ;B;5602;38515a2d399231bb4340622c162d7b1a;team;;TRUE;;;/
-;B;6420;bac07a9a07d31bd971ed4288f10499d6;tell the team what changes will be made;present changes;FALSE;;;tell
+;B;6420;bac07a9a07d31bd971ed4288f10499d6;tell the team what changes will be made;present changes;FALSE;;tell;tell
 ;B;11342;4f1511992b86c3d28f958bcbf4d56511;The ?? in the ?? starts to;;TRUE;;;/
 ;B;13797;773048bc5ea832a6a6fb93f6da578bc6;talk;speak;FALSE;;;/
 ;B;15435;bc3b5c51f98f643be9a99134572a2170;preform;;FALSE;?;;/
 ;C;1803;2b7058890eefa22341aa295a036985a9;leave;;FALSE;;;/
-;C;3446;58538dcb3f84e420200c601a4903dbef;express gratitude for the meeting;;FALSE;;;thank
+;C;3446;58538dcb3f84e420200c601a4903dbef;express gratitude for the meeting;;FALSE;;thank;thank
 ;C;7531;61f3559549de508d322e493e3c8fe90c;s the meeting begin%2C the team leader;;TRUE;;;/
-;C;9983;64e64662aa8b1a57c3e5254b48652bcc;maintain composure;;FALSE;;;maintain
+;C;9983;64e64662aa8b1a57c3e5254b48652bcc;maintain composure;;FALSE;;maintain;maintain
 ;C;12457;8e6ad748c0685eaeffbadbae0050306d;speak;;FALSE;;;/
-;C;14091;46c4212ded545ed717b0ff376752ae11;speak with the team;speak;FALSE;;;speak
-;C;15730;9f8736428d68ef86c654e1f0f0b1058e;praise the team;;FALSE;;;praise
-;D;1219;2817aa3ba5ce3496c4222adb7a6aa37c;talk to the people.;speak;FALSE;;;talk
-;D;6948;83d8403f227baca0464166c404dc0dc2;eat lunch;;FALSE;;;eat
-;D;11872;14399e53229004f2c85ec3810d5cf776;To take lunch;eat lunch;FALSE;;;eat
+;C;14091;46c4212ded545ed717b0ff376752ae11;speak with the team;speak;FALSE;;speak;speak
+;C;15730;9f8736428d68ef86c654e1f0f0b1058e;praise the team;;FALSE;;praise;praise
+;D;1219;2817aa3ba5ce3496c4222adb7a6aa37c;talk to the people.;speak;FALSE;;talk;talk
+;D;6948;83d8403f227baca0464166c404dc0dc2;eat lunch;;FALSE;;eat;eat
+;D;11872;14399e53229004f2c85ec3810d5cf776;To take lunch;eat lunch;FALSE;;eat;eat
 55;A;557;b8b10c5c32c46a8f278dc868ef65fd9d;untie;;FALSE;;;/
 ;A;5471;38515a2d399231bb4340622c162d7b1a;mechanic;;TRUE;;;/
-;A;6289;bac07a9a07d31bd971ed4288f10499d6;completely rebuild it ;rebuild it;FALSE;;;rebuild
+;A;6289;bac07a9a07d31bd971ed4288f10499d6;completely rebuild it ;rebuild it;FALSE;;rebuild;rebuild
 ;A;11208;4f1511992b86c3d28f958bcbf4d56511;Sense the engine broke down%2C the mechanic in the shop had to;;TRUE;;;/
-;A;13666;773048bc5ea832a6a6fb93f6da578bc6;to pause;pause;FALSE;;;pause
-;A;15304;bc3b5c51f98f643be9a99134572a2170;fix it ;;FALSE;;;fix
-;B;2194;2b7058890eefa22341aa295a036985a9;fix it;;FALSE;;;fix
-;B;3833;58538dcb3f84e420200c601a4903dbef;fix it;;FALSE;;;fix
+;A;13666;773048bc5ea832a6a6fb93f6da578bc6;to pause;pause;FALSE;;pause;pause
+;A;15304;bc3b5c51f98f643be9a99134572a2170;fix it ;;FALSE;;fix ;fix
+;B;2194;2b7058890eefa22341aa295a036985a9;fix it;;FALSE;;fix ;fix
+;B;3833;58538dcb3f84e420200c601a4903dbef;fix it;;FALSE;;fix ;fix
 ;B;7917;61f3559549de508d322e493e3c8fe90c;The mechanic in the shop;;TRUE;;;/
-;B;10377;64e64662aa8b1a57c3e5254b48652bcc;take another look at the car;;FALSE;;;look
+;B;10377;64e64662aa8b1a57c3e5254b48652bcc;take another look at the car;;FALSE;;look;look
 ;B;12843;8e6ad748c0685eaeffbadbae0050306d;order;;FALSE;;;order
-;B;14478;46c4212ded545ed717b0ff376752ae11;tow the car;;FALSE;;;tow
-;B;16119;9f8736428d68ef86c654e1f0f0b1058e;fix it;;FALSE;;;fix
-;C;877;2817aa3ba5ce3496c4222adb7a6aa37c;repair the engine. ;fix it;FALSE;;;repair
-;C;6606;83d8403f227baca0464166c404dc0dc2;put out cones;;FALSE;;;put out
-;C;11530;14399e53229004f2c85ec3810d5cf776;Fix;fix it;FALSE;;;fix
-;D;3136;9a8edf1b84fcdd4e9692881d31a5a26e;consider the red engine light;;FALSE;;;consider
-;D;4769;559a558cc071b904f807f21b428370da;help out the driver with their malfunctioning car.;fix it;FALSE;maybe?;;help
-;D;8854;6df37ff0405e34325f86235ab8e45b66;repair it;fix it;FALSE;;;repair
+;B;14478;46c4212ded545ed717b0ff376752ae11;tow the car;;FALSE;;tow;tow
+;B;16119;9f8736428d68ef86c654e1f0f0b1058e;fix it;;FALSE;;fix ;fix
+;C;877;2817aa3ba5ce3496c4222adb7a6aa37c;repair the engine. ;fix it;FALSE;;repair;repair
+;C;6606;83d8403f227baca0464166c404dc0dc2;put out cones;;FALSE;;put out;put out
+;C;11530;14399e53229004f2c85ec3810d5cf776;Fix;fix it;FALSE;;fix ;fix
+;D;3136;9a8edf1b84fcdd4e9692881d31a5a26e;consider the red engine light;;FALSE;;consider;consider
+;D;4769;559a558cc071b904f807f21b428370da;help out the driver with their malfunctioning car.;fix it;FALSE;maybe?;help;help
+;D;8854;6df37ff0405e34325f86235ab8e45b66;repair it;fix it;FALSE;;repair;repair
 ;D;9671;3028e7887ad94e66d4f5fe907c30cc88;because the engine broke down;;TRUE;;;/
 56;A;2392;2b7058890eefa22341aa295a036985a9;broadcast;;FALSE;;;/
-;A;4028;58538dcb3f84e420200c601a4903dbef;take photos;;FALSE;;;photograph
+;A;4028;58538dcb3f84e420200c601a4903dbef;take photos;;FALSE;;photograph;photograph
 ;A;8112;61f3559549de508d322e493e3c8fe90c;s the photographer arrives as the journalist;;TRUE;;;/
-;A;10572;64e64662aa8b1a57c3e5254b48652bcc;plan his actions;;FALSE;;;plan
+;A;10572;64e64662aa8b1a57c3e5254b48652bcc;plan his actions;;FALSE;;plan;plan
 ;A;13038;8e6ad748c0685eaeffbadbae0050306d;report;;FALSE;;;/
 ;A;14673;46c4212ded545ed717b0ff376752ae11;be filmed;;FALSE;;;film
 ;A;16315;9f8736428d68ef86c654e1f0f0b1058e;report;;FALSE;;;/
-;B;1248;2817aa3ba5ce3496c4222adb7a6aa37c;begin talking into the camera.;report;FALSE;maybe?;;talk
-;B;6977;83d8403f227baca0464166c404dc0dc2;report the news;report;FALSE;;;report
-;B;11901;14399e53229004f2c85ec3810d5cf776;Give her speech;give speech;FALSE;;;speak
-;C;3145;9a8edf1b84fcdd4e9692881d31a5a26e;hide from the terrorist attack;hide;FALSE;;;hide
-;C;4778;559a558cc071b904f807f21b428370da;realize they need to document what is happening as quickly as possible.;document it;FALSE;;;realize
-;C;8863;6df37ff0405e34325f86235ab8e45b66;document it;;FALSE;;;document
+;B;1248;2817aa3ba5ce3496c4222adb7a6aa37c;begin talking into the camera.;report;FALSE;maybe?;talk;talk
+;B;6977;83d8403f227baca0464166c404dc0dc2;report the news;report;FALSE;;report;report
+;B;11901;14399e53229004f2c85ec3810d5cf776;Give her speech;give speech;FALSE;;speak;speak
+;C;3145;9a8edf1b84fcdd4e9692881d31a5a26e;hide from the terrorist attack;hide;FALSE;;hide;hide
+;C;4778;559a558cc071b904f807f21b428370da;realize they need to document what is happening as quickly as possible.;document it;FALSE;;realize;realize
+;C;8863;6df37ff0405e34325f86235ab8e45b66;document it;;FALSE;;document;document
 ;C;9680;3028e7887ad94e66d4f5fe907c30cc88;as the journalist arrives;;TRUE;;;/
 ;D;397;b8b10c5c32c46a8f278dc868ef65fd9d;report;;FALSE;;;/
 ;D;5314;38515a2d399231bb4340622c162d7b1a;arrives;arrive;FALSE;;;arrive
-;D;6131;bac07a9a07d31bd971ed4288f10499d6;get ready to make news happen;;FALSE;?;;get ready
+;D;6131;bac07a9a07d31bd971ed4288f10499d6;get ready to make news happen;;FALSE;?;prepare;get ready
 ;D;11048;4f1511992b86c3d28f958bcbf4d56511;The journalist behind the counter as the reporter arrived will ;;TRUE;;;/
-;D;13509;773048bc5ea832a6a6fb93f6da578bc6;take pictures;;FALSE;;;photograph
-;D;15146;bc3b5c51f98f643be9a99134572a2170;take pictures;;FALSE;;;photograph
-57;A;1131;2817aa3ba5ce3496c4222adb7a6aa37c;brainstorm ideas.;brainstrorm;FALSE;;;brainstorm
+;D;13509;773048bc5ea832a6a6fb93f6da578bc6;take pictures;;FALSE;;photograph;photograph
+;D;15146;bc3b5c51f98f643be9a99134572a2170;take pictures;;FALSE;;photograph;photograph
+57;A;1131;2817aa3ba5ce3496c4222adb7a6aa37c;brainstorm ideas.;brainstrorm;FALSE;;brainstorm;brainstorm
 ;A;6860;83d8403f227baca0464166c404dc0dc2;draw;;FALSE;;;/
-;A;11784;14399e53229004f2c85ec3810d5cf776;Realize the capability of the couples;;FALSE;?;;realize
-;B;3247;9a8edf1b84fcdd4e9692881d31a5a26e;help the newly wedded couple build their home.;help;FALSE;;;help
-;B;4880;559a558cc071b904f807f21b428370da;begin work on making the final blueprints a reality.;work;FALSE;;;work
+;A;11784;14399e53229004f2c85ec3810d5cf776;Realize the capability of the couples;;FALSE;?;realize;realize
+;B;3247;9a8edf1b84fcdd4e9692881d31a5a26e;help the newly wedded couple build their home.;help;FALSE;;help;help
+;B;4880;559a558cc071b904f807f21b428370da;begin work on making the final blueprints a reality.;work;FALSE;;work;work
 ;B;8965;6df37ff0405e34325f86235ab8e45b66;design;;FALSE;;;/
 ;B;9782;3028e7887ad94e66d4f5fe907c30cc88;after meeting with the couples about the blueprint ideas;;TRUE;;;/
 ;C;108;b8b10c5c32c46a8f278dc868ef65fd9d;adjust;;FALSE;;;/
 ;C;5031;38515a2d399231bb4340622c162d7b1a;kitchen;;TRUE;;;/
-;C;5847;bac07a9a07d31bd971ed4288f10499d6;revise a few things;revise;FALSE;;;revise
+;C;5847;bac07a9a07d31bd971ed4288f10499d6;revise a few things;revise;FALSE;;revise;revise
 ;C;10763;4f1511992b86c3d28f958bcbf4d56511;fter meeting with the couple about the blueprint%2C the architect in the kitchen had to ;;TRUE;;;/
-;C;13225;773048bc5ea832a6a6fb93f6da578bc6;draw the plan;draw;FALSE;maybe?;;draw
-;C;14861;bc3b5c51f98f643be9a99134572a2170;draw the rest;draw;FALSE;maybe?;;draw
-;D;2007;2b7058890eefa22341aa295a036985a9;make haste on it;;FALSE;;;haste
-;D;3648;58538dcb3f84e420200c601a4903dbef;come up with;;FALSE;?;;suggest
+;C;13225;773048bc5ea832a6a6fb93f6da578bc6;draw the plan;draw;FALSE;maybe?;draw;draw
+;C;14861;bc3b5c51f98f643be9a99134572a2170;draw the rest;draw;FALSE;maybe?;draw;draw
+;D;2007;2b7058890eefa22341aa295a036985a9;make haste on it;;FALSE;;haste;haste
+;D;3648;58538dcb3f84e420200c601a4903dbef;come up with;;FALSE;?;come up;suggest
 ;D;7733;61f3559549de508d322e493e3c8fe90c;The architect in the;;TRUE;;;/
-;D;10191;64e64662aa8b1a57c3e5254b48652bcc;explain his paln;explain his plan;FALSE;;;explain
+;D;10191;64e64662aa8b1a57c3e5254b48652bcc;explain his paln;explain his plan;FALSE;;explain;explain
 ;D;12659;8e6ad748c0685eaeffbadbae0050306d;revise;;FALSE;;;/
-;D;14294;46c4212ded545ed717b0ff376752ae11;record their desires for the build;note down;FALSE;;;record
-;D;15934;9f8736428d68ef86c654e1f0f0b1058e;finish the design;;FALSE;;;finish
-58;A;3038;9a8edf1b84fcdd4e9692881d31a5a26e;fill in for the big event.;fill in;FALSE;;;fill
-;A;4671;559a558cc071b904f807f21b428370da;make quick changes to the performance routine and choreography.;adjust;FALSE;;;change
+;D;14294;46c4212ded545ed717b0ff376752ae11;record their desires for the build;note down;FALSE;;record;record
+;D;15934;9f8736428d68ef86c654e1f0f0b1058e;finish the design;;FALSE;;finish;finish
+58;A;3038;9a8edf1b84fcdd4e9692881d31a5a26e;fill in for the big event.;fill in;FALSE;;fill in;fill
+;A;4671;559a558cc071b904f807f21b428370da;make quick changes to the performance routine and choreography.;adjust;FALSE;;change;change
 ;A;8755;6df37ff0405e34325f86235ab8e45b66;fill in;;FALSE;;;fill
 ;A;9573;3028e7887ad94e66d4f5fe907c30cc88;as one of the performers got sick at the last minute;;TRUE;;;/
 ;B;546;b8b10c5c32c46a8f278dc868ef65fd9d;investigate;;FALSE;;;/
 ;B;5460;38515a2d399231bb4340622c162d7b1a;minute;;TRUE;;;/
-;B;6278;bac07a9a07d31bd971ed4288f10499d6;be flexible and call the stand-in;call stand-in;FALSE;;;call
+;B;6278;bac07a9a07d31bd971ed4288f10499d6;be flexible and call the stand-in;call stand-in;FALSE;;call;call
 ;B;11197;4f1511992b86c3d28f958bcbf4d56511;The chirographer on stage%2C as one of the dancers got sick last minute had to%2C ;;TRUE;;;/
-;B;13655;773048bc5ea832a6a6fb93f6da578bc6;leave the group;leave;FALSE;;;leave
-;B;15293;bc3b5c51f98f643be9a99134572a2170;cancel the show;;FALSE;;;cancel
+;B;13655;773048bc5ea832a6a6fb93f6da578bc6;leave the group;leave;FALSE;;leave;leave
+;B;15293;bc3b5c51f98f643be9a99134572a2170;cancel the show;;FALSE;;cancel;cancel
 ;C;2151;2b7058890eefa22341aa295a036985a9;perform;;FALSE;;;/
-;C;3790;58538dcb3f84e420200c601a4903dbef;substitute for him;fill in;FALSE;;;substitute
+;C;3790;58538dcb3f84e420200c601a4903dbef;substitute for him;fill in;FALSE;;substitute;substitute
 ;C;7875;61f3559549de508d322e493e3c8fe90c;s one of the performance get sick the;;TRUE;;;/
-;C;10335;64e64662aa8b1a57c3e5254b48652bcc;replace him;fill in;FALSE;;;replace
+;C;10335;64e64662aa8b1a57c3e5254b48652bcc;replace him;fill in;FALSE;;replace;replace
 ;C;12801;8e6ad748c0685eaeffbadbae0050306d;substitute;fill in;FALSE;;;/
-;C;14436;46c4212ded545ed717b0ff376752ae11;find a substitute;fill in;FALSE;;;substitute
-;C;16077;9f8736428d68ef86c654e1f0f0b1058e;adjust accordingly;adjust;FALSE;;;adjust
-;D;1544;2817aa3ba5ce3496c4222adb7a6aa37c;find a replacement.;fill in;FALSE;;;replace
-;D;7273;83d8403f227baca0464166c404dc0dc2;call a back up;call stand-in;FALSE;;;call
-;D;12199;14399e53229004f2c85ec3810d5cf776;Go to the hospital;;FALSE;;;go
-59;A;166;b8b10c5c32c46a8f278dc868ef65fd9d;practiced;practice;FALSE;;;practice
+;C;14436;46c4212ded545ed717b0ff376752ae11;find a substitute;fill in;FALSE;;substitute;substitute
+;C;16077;9f8736428d68ef86c654e1f0f0b1058e;adjust accordingly;adjust;FALSE;;adjust;adjust
+;D;1544;2817aa3ba5ce3496c4222adb7a6aa37c;find a replacement.;fill in;FALSE;;replace;replace
+;D;7273;83d8403f227baca0464166c404dc0dc2;call a back up;call stand-in;FALSE;;call;call
+;D;12199;14399e53229004f2c85ec3810d5cf776;Go to the hospital;;FALSE;;go;go
+59;A;166;b8b10c5c32c46a8f278dc868ef65fd9d;practiced;practice;FALSE;;practice;practice
 ;A;5086;38515a2d399231bb4340622c162d7b1a;stadium;;TRUE;;;/
-;A;5903;bac07a9a07d31bd971ed4288f10499d6;get ready%0Aget ready;get ready;FALSE;;;prepare
+;A;5903;bac07a9a07d31bd971ed4288f10499d6;get ready%0Aget ready;get ready;FALSE;;prepare;prepare
 ;A;10818;4f1511992b86c3d28f958bcbf4d56511;fter the schedule was announced the athlete in the stadium had to%2C ;;TRUE;;;/
 ;A;13281;773048bc5ea832a6a6fb93f6da578bc6;before the match;;TRUE;;;/
-;A;14916;bc3b5c51f98f643be9a99134572a2170;play hard;;FALSE;;;play
+;A;14916;bc3b5c51f98f643be9a99134572a2170;play hard;;FALSE;;play;play
 ;B;2442;2b7058890eefa22341aa295a036985a9;train;;FALSE;;;/
-;B;4077;58538dcb3f84e420200c601a4903dbef;get prepared;get ready;FALSE;;;prepare
+;B;4077;58538dcb3f84e420200c601a4903dbef;get prepared;get ready;FALSE;;prepare;prepare
 ;B;8161;61f3559549de508d322e493e3c8fe90c;The athlete in the stadium;;TRUE;;;/
-;B;10621;64e64662aa8b1a57c3e5254b48652bcc;follow the instructions;;FALSE;;;follow
+;B;10621;64e64662aa8b1a57c3e5254b48652bcc;follow the instructions;;FALSE;;follow;follow
 ;B;13087;8e6ad748c0685eaeffbadbae0050306d;train;;FALSE;;;/
-;B;14722;46c4212ded545ed717b0ff376752ae11;participate in the game;participate;FALSE;;;/
+;B;14722;46c4212ded545ed717b0ff376752ae11;participate in the game;participate;FALSE;;participate;/
 ;B;16364;9f8736428d68ef86c654e1f0f0b1058e;prepare;get ready;FALSE;;;/
-;C;926;2817aa3ba5ce3496c4222adb7a6aa37c;check his calendar. ;;FALSE;;;check
-;C;6655;83d8403f227baca0464166c404dc0dc2;work out;train;FALSE;;;work
-;C;11579;14399e53229004f2c85ec3810d5cf776;Come and join the rest;participate;FALSE;;;rest
-;D;3018;9a8edf1b84fcdd4e9692881d31a5a26e;prepare for their events;get ready;FALSE;;;prepare
-;D;4651;559a558cc071b904f807f21b428370da;make note of their role/assignments on the calendar.;;FALSE;;;note
+;C;926;2817aa3ba5ce3496c4222adb7a6aa37c;check his calendar. ;;FALSE;;check;check
+;C;6655;83d8403f227baca0464166c404dc0dc2;work out;train;FALSE;;work out;work
+;C;11579;14399e53229004f2c85ec3810d5cf776;Come and join the rest;participate;FALSE;;come;rest
+;D;3018;9a8edf1b84fcdd4e9692881d31a5a26e;prepare for their events;get ready;FALSE;;prepare;prepare
+;D;4651;559a558cc071b904f807f21b428370da;make note of their role/assignments on the calendar.;;FALSE;;note;note
 ;D;8735;6df37ff0405e34325f86235ab8e45b66;train;;FALSE;;;/
 ;D;9553;3028e7887ad94e66d4f5fe907c30cc88;after the schedule was announced;;TRUE;;;/
 60;A;2089;2b7058890eefa22341aa295a036985a9;pitch ideas;;FALSE;;pitch;pitch
 ;A;3730;58538dcb3f84e420200c601a4903dbef;come up with new ideas;pitch ideas;FALSE;;pitch;ideate
 ;A;7815;61f3559549de508d322e493e3c8fe90c;s the marketing department preparing for a campaign;;TRUE;;;/
-;A;10274;64e64662aa8b1a57c3e5254b48652bcc;increase sales;;FALSE;;;increase
+;A;10274;64e64662aa8b1a57c3e5254b48652bcc;increase sales;;FALSE;;increase;increase
 ;A;12741;8e6ad748c0685eaeffbadbae0050306d;hustle;;FALSE;;;/
 ;A;14376;46c4212ded545ed717b0ff376752ae11;prepare for new products;prepare;FALSE;maybe?;prepare;prepare
 ;A;16017;9f8736428d68ef86c654e1f0f0b1058e;rehearse their pitches;;FALSE;;rehearse;rehearse
 ;B;1429;2817aa3ba5ce3496c4222adb7a6aa37c;prepare the campaigns. ;prepare;FALSE;maybe?;prepare;prepare
-;B;7158;83d8403f227baca0464166c404dc0dc2;come up with a pitch;pitch ideas;FALSE;;;pitch
+;B;7158;83d8403f227baca0464166c404dc0dc2;come up with a pitch;pitch ideas;FALSE;;pitch;pitch
 ;B;12084;14399e53229004f2c85ec3810d5cf776;Help the campign;;FALSE;;help;help
 ;C;2529;9a8edf1b84fcdd4e9692881d31a5a26e;expand in many different countries;expand;FALSE;;expand;expand
 ;C;4164;559a558cc071b904f807f21b428370da;prepare for work by reading information provided by the Marketing Department.;prepare;FALSE;maybe?;prepare;prepare
@@ -1199,16 +1199,16 @@ Item;Condition;ID;MD5 hash of participant's IP address;Original_Value;Changed_Va
 ;D;10724;4f1511992b86c3d28f958bcbf4d56511;the salesman in the ?? as the ?? prepares the ?? had to;;TRUE;;;/
 ;D;13187;773048bc5ea832a6a6fb93f6da578bc6;advertise;;FALSE;;;/
 ;D;14822;bc3b5c51f98f643be9a99134572a2170;first check;check;FALSE;;check;check
-61;A;1644;2817aa3ba5ce3496c4222adb7a6aa37c;prepare the final work on the book.;prepare final draft;FALSE;;;prepare
+61;A;1644;2817aa3ba5ce3496c4222adb7a6aa37c;prepare the final work on the book.;prepare final draft;FALSE;;prepare;prepare
 ;A;7373;83d8403f227baca0464166c404dc0dc2;be ready to go on a book tour;prepare for book tour;FALSE;;prepare;prepare
 ;A;12299;14399e53229004f2c85ec3810d5cf776;Get ready;;FALSE;;prepare;prepare
-;B;2823;9a8edf1b84fcdd4e9692881d31a5a26e;make more sales in the next few months.;make more sales;FALSE;;make more sales;/
+;B;2823;9a8edf1b84fcdd4e9692881d31a5a26e;make more sales in the next few months.;make more sales;FALSE;;sell;/
 ;B;4458;559a558cc071b904f807f21b428370da;write as quickly as possible%2C so as to be able to edit as soon as possible%2C to have a final manuscript to hand over to their publisher and/or editor.;;FALSE;;write;write
 ;B;8542;6df37ff0405e34325f86235ab8e45b66;write;;FALSE;;;/
 ;B;9360;3028e7887ad94e66d4f5fe907c30cc88;after being notified that the new book needs to be published;;TRUE;;;/
 ;C;307;b8b10c5c32c46a8f278dc868ef65fd9d;rewrite;;FALSE;;;/
 ;C;5225;38515a2d399231bb4340622c162d7b1a;resturant;;TRUE;;restaurant;/
-;C;6042;bac07a9a07d31bd971ed4288f10499d6;get back to work quickly;continue working;FALSE;;get back to work;work
+;C;6042;bac07a9a07d31bd971ed4288f10499d6;get back to work quickly;continue working;FALSE;;get back;work
 ;C;10959;4f1511992b86c3d28f958bcbf4d56511;s the new book had to be published%2C the author in the restaraunt had to ;;TRUE;;;/
 ;C;13420;773048bc5ea832a6a6fb93f6da578bc6;continue;continue working;FALSE;;;/
 ;C;15056;bc3b5c51f98f643be9a99134572a2170;be proof read;proofread;FALSE;;be proofread;proofread
@@ -1220,16 +1220,16 @@ Item;Condition;ID;MD5 hash of participant's IP address;Original_Value;Changed_Va
 ;D;14142;46c4212ded545ed717b0ff376752ae11;prepare to support increased orders.;be prepared;FALSE;;prepare;prepare
 ;D;15781;9f8736428d68ef86c654e1f0f0b1058e;finish the book.;;FALSE;;finish;finish
 62;A;2812;9a8edf1b84fcdd4e9692881d31a5a26e;consider the rare illness.;;FALSE;;consider;conside
-;A;4447;559a558cc071b904f807f21b428370da;write letters reaching out to other specialists to ask for help with this case.;reach to other specialists;FALSE;;write letters;write
+;A;4447;559a558cc071b904f807f21b428370da;write letters reaching out to other specialists to ask for help with this case.;reach to other specialists;FALSE;;write;write
 ;A;8531;6df37ff0405e34325f86235ab8e45b66;treat her;treat;FALSE;;treat;treat
 ;A;9349;3028e7887ad94e66d4f5fe907c30cc88;as the patient was getting sicker and sicker;;TRUE;;;/
 ;B;276;b8b10c5c32c46a8f278dc868ef65fd9d;redo;;FALSE;?;redo;/
 ;B;5194;38515a2d399231bb4340622c162d7b1a;sicker;;TRUE;;;/
-;B;6011;bac07a9a07d31bd971ed4288f10499d6;prepare them for the worst;;FALSE;;prepare them;prepare
+;B;6011;bac07a9a07d31bd971ed4288f10499d6;prepare them for the worst;;FALSE;;prepare;prepare
 ;B;10927;4f1511992b86c3d28f958bcbf4d56511;The doctor in the hospital%2C as the patient was getting sicker and sicker had to ;;TRUE;;;/
-;B;13389;773048bc5ea832a6a6fb93f6da578bc6;run tests;;FALSE;;;test
-;B;15025;bc3b5c51f98f643be9a99134572a2170;take medicine;;FALSE;;;take medicine
-;C;2109;2b7058890eefa22341aa295a036985a9;shock him;;FALSE;;;shock
+;B;13389;773048bc5ea832a6a6fb93f6da578bc6;run tests;;FALSE;;test;test
+;B;15025;bc3b5c51f98f643be9a99134572a2170;take medicine;;FALSE;;medicate;take medicine
+;C;2109;2b7058890eefa22341aa295a036985a9;shock him;;FALSE;;shock;shock
 ;C;3750;58538dcb3f84e420200c601a4903dbef;speed to the hospital;hurry;FALSE;;hurry;rush
 ;C;7835;61f3559549de508d322e493e3c8fe90c;s the patient was getting sicker and;;TRUE;;;/
 ;C;10294;64e64662aa8b1a57c3e5254b48652bcc;rush to the patient;hurry;FALSE;;hurry;rush
@@ -1241,12 +1241,12 @@ Item;Condition;ID;MD5 hash of participant's IP address;Original_Value;Changed_Va
 ;D;11913;14399e53229004f2c85ec3810d5cf776;bout the thing;;TRUE;;;/
 63;A;778;b8b10c5c32c46a8f278dc868ef65fd9d;begin;;FALSE;;;/
 ;A;5689;38515a2d399231bb4340622c162d7b1a;law;;TRUE;;;/
-;A;6508;bac07a9a07d31bd971ed4288f10499d6;go back;;FALSE;;;return
+;A;6508;bac07a9a07d31bd971ed4288f10499d6;go back;;FALSE;;return;return
 ;A;11431;4f1511992b86c3d28f958bcbf4d56511;Sense all countries must implement the law%2C the translator in the bedroom has to;;TRUE;how is this possible? Condition A has the translator in the office;;/
 ;A;13884;773048bc5ea832a6a6fb93f6da578bc6;translate;;FALSE;;;/
 ;A;15523;bc3b5c51f98f643be9a99134572a2170;listen closely;listen;FALSE;;listen;listen
 ;B;1989;2b7058890eefa22341aa295a036985a9;sign;;FALSE;;;/
-;B;3630;58538dcb3f84e420200c601a4903dbef;come up with ideas;;FALSE;;;suggest
+;B;3630;58538dcb3f84e420200c601a4903dbef;come up with ideas;;FALSE;;brainstorm;suggest
 ;B;7715;61f3559549de508d322e493e3c8fe90c;The transitor in the officer;;TRUE;;;/
 ;B;10173;64e64662aa8b1a57c3e5254b48652bcc;be subservient;;FALSE;;;/
 ;B;12641;8e6ad748c0685eaeffbadbae0050306d;transcribe;;FALSE;;;/
@@ -1257,17 +1257,17 @@ Item;Condition;ID;MD5 hash of participant's IP address;Original_Value;Changed_Va
 ;C;12075;14399e53229004f2c85ec3810d5cf776;Had to hurry up ;hurry up;TRUE;;hurry;hurry
 ;D;3278;9a8edf1b84fcdd4e9692881d31a5a26e;follow the agreed upon rules;follow the law;FALSE;;follow the rules;follow
 ;D;4911;559a558cc071b904f807f21b428370da;rush to get back to everyone%2C to translate information about the law to everyone else.;translate;FALSE;;rush back;/
-;D;8996;6df37ff0405e34325f86235ab8e45b66;pass the law;;FALSE;;pass thd law;pass
+;D;8996;6df37ff0405e34325f86235ab8e45b66;pass the law;;FALSE;;pass;pass
 ;D;9813;3028e7887ad94e66d4f5fe907c30cc88;since all countries need to implement the new law;;TRUE;;;/
-64;A;2183;2b7058890eefa22341aa295a036985a9;water them;;FALSE;;water them;water
-;A;3822;58538dcb3f84e420200c601a4903dbef;get his work done;work;FALSE;;;finish
+64;A;2183;2b7058890eefa22341aa295a036985a9;water them;;FALSE;;water;water
+;A;3822;58538dcb3f84e420200c601a4903dbef;get his work done;work;FALSE;;finish;finish
 ;A;7906;61f3559549de508d322e493e3c8fe90c;s the weather is still good;;TRUE;;;/
 ;A;10366;64e64662aa8b1a57c3e5254b48652bcc;optimize planting;plant;FALSE;;optimize;optinize
 ;A;12832;8e6ad748c0685eaeffbadbae0050306d;plow;;FALSE;;;/
 ;A;14467;46c4212ded545ed717b0ff376752ae11;proceed with farming actions;farm;TRUE;;proceed;proceed
-;A;16108;9f8736428d68ef86c654e1f0f0b1058e;get as much done as possible;work;FALSE;;;finish
+;A;16108;9f8736428d68ef86c654e1f0f0b1058e;get as much done as possible;work;FALSE;;finish;finish
 ;B;1482;2817aa3ba5ce3496c4222adb7a6aa37c;clean his tractor. ;;FALSE;;clean ;clean
-;B;7211;83d8403f227baca0464166c404dc0dc2;take advantage of the good weather;;FALSE;;take advantage;take advantage
+;B;7211;83d8403f227baca0464166c404dc0dc2;take advantage of the good weather;;FALSE;;benefit;take advantage
 ;B;12137;14399e53229004f2c85ec3810d5cf776;Plant new crops;plant;FALSE;;plant;plant
 ;C;3049;9a8edf1b84fcdd4e9692881d31a5a26e;prepare for the farming season;get ready;FALSE;In such cases like this and the next one, we could generalize even more with get ready. I add it and please change it if you see fit;prepare;prepare
 ;C;4682;559a558cc071b904f807f21b428370da;be ready to sell his wares and produce.;get ready;FALSE;;prepare;prepare
@@ -1279,16 +1279,16 @@ Item;Condition;ID;MD5 hash of participant's IP address;Original_Value;Changed_Va
 ;D;11293;4f1511992b86c3d28f958bcbf4d56511;The farmer at the market%2C as the weather is still good%2C must ;;TRUE;;;/
 ;D;13748;773048bc5ea832a6a6fb93f6da578bc6;be warm;;FALSE;;;/
 ;D;15386;bc3b5c51f98f643be9a99134572a2170;go out;;FALSE;;;/
-65;A;1591;2817aa3ba5ce3496c4222adb7a6aa37c;calm the passengers down.;calm them down;FALSE;;calm them down;calm
+65;A;1591;2817aa3ba5ce3496c4222adb7a6aa37c;calm the passengers down.;calm them down;FALSE;;calm down;calm
 ;A;7320;83d8403f227baca0464166c404dc0dc2;tell everyone to remain calm;calm them down;FALSE;;;calm
 ;A;12246;14399e53229004f2c85ec3810d5cf776;Help the baby;;FALSE;?;help;help
 ;B;2666;9a8edf1b84fcdd4e9692881d31a5a26e;announce there is turbulence in the flight;announce;FALSE;;announce;announce
 ;B;4301;559a558cc071b904f807f21b428370da;make an announcement about the turbulence to try and assure and calm the passengers.;announce and calm them down;FALSE;;announce;announce
-;B;8385;6df37ff0405e34325f86235ab8e45b66;calm them down;calm them down;FALSE;;calm them down;calm
+;B;8385;6df37ff0405e34325f86235ab8e45b66;calm them down;calm them down;FALSE;;calm down;calm
 ;B;9202;3028e7887ad94e66d4f5fe907c30cc88;as the passengers are quite distressed;;TRUE;;;/
 ;C;767;b8b10c5c32c46a8f278dc868ef65fd9d;gain;;FALSE;;;/
 ;C;5678;38515a2d399231bb4340622c162d7b1a;bathroom;;TRUE;;;/
-;C;6497;bac07a9a07d31bd971ed4288f10499d6;finish and go reassure the passengers to stay calm;finish up and calm them down;FALSE;;;finish
+;C;6497;bac07a9a07d31bd971ed4288f10499d6;finish and go reassure the passengers to stay calm;finish up and calm them down;FALSE;;reassure;finish
 ;C;11420;4f1511992b86c3d28f958bcbf4d56511;s the passengers were quite distressed%2C the flight attendant in the bathroom must ;;TRUE;;;/
 ;C;13873;773048bc5ea832a6a6fb93f6da578bc6;hurry;;FALSE;;hurry;/
 ;C;15512;bc3b5c51f98f643be9a99134572a2170;finish up;;FALSE;;finish;finish
@@ -1296,18 +1296,18 @@ Item;Condition;ID;MD5 hash of participant's IP address;Original_Value;Changed_Va
 ;D;3937;58538dcb3f84e420200c601a4903dbef;remain calm;;FALSE;;calm down;calm
 ;D;8021;61f3559549de508d322e493e3c8fe90c;The flight attendant;;TRUE;;;/
 ;D;10481;64e64662aa8b1a57c3e5254b48652bcc;finish his business fast and come attend to the passengers;finish up and calm them down;FALSE;;finish up;finish
-;D;12947;8e6ad748c0685eaeffbadbae0050306d;placate;;FALSE;;calm them down;/
-;D;14582;46c4212ded545ed717b0ff376752ae11;support the passengers when able;help them;FALSE;;support them;support
-;D;16224;9f8736428d68ef86c654e1f0f0b1058e;calm them;calm them down;FALSE;;calm them down;calm
-66;A;2955;9a8edf1b84fcdd4e9692881d31a5a26e;seat the customers;;FALSE;;seat them;seat
+;D;12947;8e6ad748c0685eaeffbadbae0050306d;placate;;FALSE;;calm down;/
+;D;14582;46c4212ded545ed717b0ff376752ae11;support the passengers when able;help them;FALSE;;support ;support
+;D;16224;9f8736428d68ef86c654e1f0f0b1058e;calm them;calm them down;FALSE;;calm down;calm
+66;A;2955;9a8edf1b84fcdd4e9692881d31a5a26e;seat the customers;;FALSE;;seat;seat
 ;A;4589;559a558cc071b904f807f21b428370da;keep careful track of which customers have been waiting the longest%2C to ensure they are first to get any tables that open up.;seat the customers;FALSE;maybe?;keep track;track
 ;A;8673;6df37ff0405e34325f86235ab8e45b66;inform people;;FALSE;;inform;inform
 ;A;9491;3028e7887ad94e66d4f5fe907c30cc88;the restaurant was busy;;TRUE;;;/
 ;B;347;b8b10c5c32c46a8f278dc868ef65fd9d;wait;;FALSE;;;/
 ;B;5265;38515a2d399231bb4340622c162d7b1a;waiting;wait;TRUE;;wait;wait
-;B;6082;bac07a9a07d31bd971ed4288f10499d6;do their best to assure the waiting customers that the wait won't be long;assist the customers;FALSE;;;try
+;B;6082;bac07a9a07d31bd971ed4288f10499d6;do their best to assure the waiting customers that the wait won't be long;assist the customers;FALSE;;reassure;try
 ;B;10999;4f1511992b86c3d28f958bcbf4d56511;the waitress at the door%2C as the restaurant was busy and had a wait time should ;;TRUE;? This is weird;;/
-;B;13460;773048bc5ea832a6a6fb93f6da578bc6;make reservations;;FALSE;;;reserve
+;B;13460;773048bc5ea832a6a6fb93f6da578bc6;make reservations;;FALSE;;reserve;reserve
 ;B;15096;bc3b5c51f98f643be9a99134572a2170;relax;;FALSE;;;relax
 ;C;2236;2b7058890eefa22341aa295a036985a9;attend to them;;FALSE;;attend;attend
 ;C;3875;58538dcb3f84e420200c601a4903dbef;greet everyone and explain the situation;greet;FALSE;;greet;explain
@@ -1315,7 +1315,7 @@ Item;Condition;ID;MD5 hash of participant's IP address;Original_Value;Changed_Va
 ;C;10419;64e64662aa8b1a57c3e5254b48652bcc;attend to those that need attention;attend to them;FALSE;;attend;attend
 ;C;12885;8e6ad748c0685eaeffbadbae0050306d;stall;;FALSE;;;/
 ;C;14520;46c4212ded545ed717b0ff376752ae11;offer refreshments to the customers;;FALSE;;offer;offer
-;C;16161;9f8736428d68ef86c654e1f0f0b1058e;begin seating customers;seat the customers;FALSE;;seat them;seat
+;C;16161;9f8736428d68ef86c654e1f0f0b1058e;begin seating customers;seat the customers;FALSE;;seat;seat
 ;D;1270;2817aa3ba5ce3496c4222adb7a6aa37c;check to see if there are any openings.;;FALSE;;check;check
 ;D;6999;83d8403f227baca0464166c404dc0dc2;be polite to customers;;FALSE;;be polite;be polite
 ;D;11924;14399e53229004f2c85ec3810d5cf776;Be keep waiting;wait;FALSE;;wait;wait
@@ -1333,7 +1333,7 @@ Item;Condition;ID;MD5 hash of participant's IP address;Original_Value;Changed_Va
 ;B;14224;46c4212ded545ed717b0ff376752ae11;proceed to performance;proceed;FALSE;;proceed;proceed
 ;B;15863;9f8736428d68ef86c654e1f0f0b1058e;cheer;;FALSE;;;/
 ;C;1153;2817aa3ba5ce3496c4222adb7a6aa37c;rush to get ready.;get ready;FALSE;;rush;rush
-;C;6882;83d8403f227baca0464166c404dc0dc2;put on makeup;get ready;FALSE;;;make up
+;C;6882;83d8403f227baca0464166c404dc0dc2;put on makeup;get ready;FALSE;;make up;make up
 ;C;11806;14399e53229004f2c85ec3810d5cf776;Had to rush to the Paris Fashion ;rush to the event;FALSE;;rush;rush
 ;D;3174;9a8edf1b84fcdd4e9692881d31a5a26e;wait for the fashion show to begin;wait;FALSE;;wait;wait
 ;D;4807;559a558cc071b904f807f21b428370da;hurry to finish up and get dressed for their turn on the catwalk.;get ready;FALSE;maybe?;rush;hurry
@@ -1348,14 +1348,14 @@ Item;Condition;ID;MD5 hash of participant's IP address;Original_Value;Changed_Va
 ;A;16130;9f8736428d68ef86c654e1f0f0b1058e;write a good story;write;FALSE;;write ;write 
 ;B;1633;2817aa3ba5ce3496c4222adb7a6aa37c;record their answers.;record;FALSE;;record;record
 ;B;7362;83d8403f227baca0464166c404dc0dc2;ask good questions;ask;FALSE;;ask;ask
-;B;12288;14399e53229004f2c85ec3810d5cf776;send it into all social media;publish;FALSE;;send it;send
+;B;12288;14399e53229004f2c85ec3810d5cf776;send it into all social media;publish;FALSE;;send;send
 ;C;2735;9a8edf1b84fcdd4e9692881d31a5a26e;talk about the elections.;;FALSE;;talk;talk
-;C;4370;559a558cc071b904f807f21b428370da;resist the urge to panic and fear for how the election will go.;;FALSE;?;;resist
+;C;4370;559a558cc071b904f807f21b428370da;resist the urge to panic and fear for how the election will go.;;FALSE;?;resist;resist
 ;C;8454;6df37ff0405e34325f86235ab8e45b66;interview;;FALSE;;;/
 ;C;9272;3028e7887ad94e66d4f5fe907c30cc88;as the interviews are held on the street;;TRUE;;;/
 ;D;606;b8b10c5c32c46a8f278dc868ef65fd9d;hurry;;FALSE;;;/
 ;D;5520;38515a2d399231bb4340622c162d7b1a;politicians;;TRUE;;;/
-;D;6338;bac07a9a07d31bd971ed4288f10499d6;see what comments people have ;;FALSE;;;see
+;D;6338;bac07a9a07d31bd971ed4288f10499d6;see what comments people have ;;FALSE;;see;see
 ;D;11259;4f1511992b86c3d28f958bcbf4d56511;The reporter on the street once the ?? has started must ;;TRUE;;;/
 ;D;13715;773048bc5ea832a6a6fb93f6da578bc6;campaign ;;FALSE;;;/
 ;D;15353;bc3b5c51f98f643be9a99134572a2170;write the report;report;FALSE;;write ;write
@@ -1368,7 +1368,7 @@ Item;Condition;ID;MD5 hash of participant's IP address;Original_Value;Changed_Va
 ;B;9109;3028e7887ad94e66d4f5fe907c30cc88;in the ballroom;;TRUE;;;/
 ;C;429;b8b10c5c32c46a8f278dc868ef65fd9d;work;;FALSE;;;/
 ;C;5345;38515a2d399231bb4340622c162d7b1a;boat;;FALSE;;;/
-;C;6163;bac07a9a07d31bd971ed4288f10499d6;get to the event%0Aget there;go to event;FALSE;;get to the event;/
+;C;6163;bac07a9a07d31bd971ed4288f10499d6;get to the event%0Aget there;go to event;FALSE;;go;/
 ;C;11080;4f1511992b86c3d28f958bcbf4d56511;s the preparation's were being had%2C the sailor on the sail boat had to;;TRUE;;;/
 ;C;13540;773048bc5ea832a6a6fb93f6da578bc6;take off;;FALSE;;;/
 ;C;15177;bc3b5c51f98f643be9a99134572a2170;take off;;FALSE;;;/
@@ -1380,7 +1380,7 @@ Item;Condition;ID;MD5 hash of participant's IP address;Original_Value;Changed_Va
 ;D;14602;46c4212ded545ed717b0ff376752ae11;proceed with required next steps;;FALSE;?;proceed;proceed
 ;D;16244;9f8736428d68ef86c654e1f0f0b1058e;plan accordingly;;FALSE;;plan;plan
 70;A;2480;9a8edf1b84fcdd4e9692881d31a5a26e;be European;;FALSE;;;/
-;A;4115;559a558cc071b904f807f21b428370da;be ready to translate for multiple languages%2C from one to another. ;translate;FALSE;;be ready;be ready
+;A;4115;559a558cc071b904f807f21b428370da;be ready to translate for multiple languages%2C from one to another. ;translate;FALSE;;prepare;be ready
 ;A;8199;6df37ff0405e34325f86235ab8e45b66;translate;;FALSE;;;/
 ;A;9016;3028e7887ad94e66d4f5fe907c30cc88;whiles talks in the European countries are held.;;TRUE;;;/
 ;B;377;b8b10c5c32c46a8f278dc868ef65fd9d;inform;;FALSE;;;/
@@ -1396,12 +1396,12 @@ Item;Condition;ID;MD5 hash of participant's IP address;Original_Value;Changed_Va
 ;C;13076;8e6ad748c0685eaeffbadbae0050306d;translate;;FALSE;;;/
 ;C;14711;46c4212ded545ed717b0ff376752ae11;translate;;FALSE;;;/
 ;C;16353;9f8736428d68ef86c654e1f0f0b1058e;translate them;translate;FALSE;;translate;translate
-;D;1100;2817aa3ba5ce3496c4222adb7a6aa37c;get ready for the conference.;get ready;FALSE;;get ready;be ready
+;D;1100;2817aa3ba5ce3496c4222adb7a6aa37c;get ready for the conference.;get ready;FALSE;;prepare;be ready
 ;D;6829;83d8403f227baca0464166c404dc0dc2;stay focused;;FALSE;;stay focused;focus
 ;D;11753;14399e53229004f2c85ec3810d5cf776;bout the program about to be held;;TRUE;;;/
 71;A;503;b8b10c5c32c46a8f278dc868ef65fd9d;placemat;;TRUE;?;;/
 ;A;5418;38515a2d399231bb4340622c162d7b1a;electrician;;TRUE;;;/
-;A;6236;bac07a9a07d31bd971ed4288f10499d6;let the workers know what needs to be done first;guide workers;FALSE;maybe?;;priorize
+;A;6236;bac07a9a07d31bd971ed4288f10499d6;let the workers know what needs to be done first;guide workers;FALSE;maybe?;inform;priorize
 ;A;11153;4f1511992b86c3d28f958bcbf4d56511;The electrician at the construction site has to ;;TRUE;;;/
 ;A;13613;773048bc5ea832a6a6fb93f6da578bc6;connect;;FALSE;;;/
 ;A;15251;bc3b5c51f98f643be9a99134572a2170;use them;;FALSE;;use;use
@@ -1410,27 +1410,27 @@ Item;Condition;ID;MD5 hash of participant's IP address;Original_Value;Changed_Va
 ;B;7886;61f3559549de508d322e493e3c8fe90c;The electrician at the construction site;;TRUE;;;/
 ;B;10346;64e64662aa8b1a57c3e5254b48652bcc;get started with execution;start working;FALSE;;start;start
 ;B;12812;8e6ad748c0685eaeffbadbae0050306d;oversee;supervise;FALSE;;oversee;oversee
-;B;14447;46c4212ded545ed717b0ff376752ae11;implement the desired plans;implement plans;FALSE;;implement them;inplement
+;B;14447;46c4212ded545ed717b0ff376752ae11;implement the desired plans;implement plans;FALSE;;implement;inplement
 ;B;16088;9f8736428d68ef86c654e1f0f0b1058e;get prepared to work;start working;FALSE;;prepare;prepare
 ;C;1451;2817aa3ba5ce3496c4222adb7a6aa37c;look for the correct parts.;;FALSE;"could we generalize that as ""shop"" or not?";look for;look for
-;C;7180;83d8403f227baca0464166c404dc0dc2;get everything he needs;shop;FALSE;;get them;get
+;C;7180;83d8403f227baca0464166c404dc0dc2;get everything he needs;shop;FALSE;;get;get
 ;C;12106;14399e53229004f2c85ec3810d5cf776;Go to the contruction ground;;FALSE;;go;go
 ;D;2864;9a8edf1b84fcdd4e9692881d31a5a26e;finish the electrical job.;;FALSE;;finish;finish
 ;D;4498;559a558cc071b904f807f21b428370da;prepare to begin his work.;get ready;FALSE;;prepare;prepare
 ;D;8582;6df37ff0405e34325f86235ab8e45b66;get supplies;shop;FALSE;;get them;get
 ;D;9400;3028e7887ad94e66d4f5fe907c30cc88;the blue prints of electricity are prepared;;TRUE;I think these results show how difficult was the task, so we need to carefully consider if we need them or not;;/
 72;A;1866;2b7058890eefa22341aa295a036985a9;respond;;FALSE;;;/
-;A;3508;58538dcb3f84e420200c601a4903dbef;ask a few more questions;ask questions;FALSE;;ask questions;ask
+;A;3508;58538dcb3f84e420200c601a4903dbef;ask a few more questions;ask questions;FALSE;;ask;ask
 ;A;7593;61f3559549de508d322e493e3c8fe90c;s the victim wife wanted to know more;;TRUE;;;/
-;A;10046;64e64662aa8b1a57c3e5254b48652bcc;get her to calm down;calm her down;FALSE;;calm her down;calm down
+;A;10046;64e64662aa8b1a57c3e5254b48652bcc;get her to calm down;calm her down;FALSE;;calm down;calm down
 ;A;12519;8e6ad748c0685eaeffbadbae0050306d;withold;withhold;FALSE;;withhold;/
-;A;14153;46c4212ded545ed717b0ff376752ae11;ask more questions;ask questions;FALSE;;ask questions;ask
+;A;14153;46c4212ded545ed717b0ff376752ae11;ask more questions;ask questions;FALSE;;ask;ask
 ;A;15792;9f8736428d68ef86c654e1f0f0b1058e;explain;;FALSE;;;/
-;B;1303;2817aa3ba5ce3496c4222adb7a6aa37c;examine the body.;;FALSE;;examine it;examine
+;B;1303;2817aa3ba5ce3496c4222adb7a6aa37c;examine the body.;;FALSE;;examine;examine
 ;B;7032;83d8403f227baca0464166c404dc0dc2;gather more information;;FALSE;;gather ;gather
 ;B;11958;14399e53229004f2c85ec3810d5cf776;sk the victim's wife;interrogate her;FALSE;maybe?;interview;/
 ;C;2768;9a8edf1b84fcdd4e9692881d31a5a26e;talk about the homicide;explain;FALSE;;talk;talk
-;C;4403;559a558cc071b904f807f21b428370da;resist the urge to tell her sensitive information about the case in an inappropriate location for that conversation.;withhold;FALSE;;;resist
+;C;4403;559a558cc071b904f807f21b428370da;resist the urge to tell her sensitive information about the case in an inappropriate location for that conversation.;withhold;FALSE;;resist;resist
 ;C;8487;6df37ff0405e34325f86235ab8e45b66;interview her;interrogate her;FALSE;maybe?;interview;interview
 ;C;9305;3028e7887ad94e66d4f5fe907c30cc88;as they want to know what happened.;;TRUE;;;/
 ;D;798;b8b10c5c32c46a8f278dc868ef65fd9d;wash;;FALSE;;;/
@@ -1438,24 +1438,24 @@ Item;Condition;ID;MD5 hash of participant's IP address;Original_Value;Changed_Va
 ;D;6528;bac07a9a07d31bd971ed4288f10499d6;tell them what they've learned;give information;FALSE;or maybe explain?;tell;tell
 ;D;11451;4f1511992b86c3d28f958bcbf4d56511;The detective in the car wash%2C as the victims wife wants to know more about what happened has to;;TRUE;;;/
 ;D;13904;773048bc5ea832a6a6fb93f6da578bc6;report;;FALSE;;;/
-;D;15543;bc3b5c51f98f643be9a99134572a2170;ask more questions;ask questions;FALSE;;ask questions;ask
-73;A;1356;2817aa3ba5ce3496c4222adb7a6aa37c;look at possible investments. ;invest;FALSE;;;invest
+;D;15543;bc3b5c51f98f643be9a99134572a2170;ask more questions;ask questions;FALSE;;ask;ask
+73;A;1356;2817aa3ba5ce3496c4222adb7a6aa37c;look at possible investments. ;invest;FALSE;;look at;invest
 ;A;7085;83d8403f227baca0464166c404dc0dc2;buy some stocks;invest;FALSE;;invest;invest
 ;A;12011;14399e53229004f2c85ec3810d5cf776;Do well;;FALSE;;do well;do
 ;B;2844;9a8edf1b84fcdd4e9692881d31a5a26e;consider the economy is improving;;FALSE;;consider;consider
 ;B;4478;559a558cc071b904f807f21b428370da;evaluate what financial risks seem worth their while.;evaluate;FALSE;maybe?;evaluate;evaluate
 ;B;8562;6df37ff0405e34325f86235ab8e45b66;invest;;FALSE;;invest;/
-;B;9380;3028e7887ad94e66d4f5fe907c30cc88;the timing seems appropriate;evaluate;TRUE;;;/
+;B;9380;3028e7887ad94e66d4f5fe907c30cc88;the timing seems appropriate;evaluate;TRUE;;evaluate;/
 ;C;254;b8b10c5c32c46a8f278dc868ef65fd9d;explain;;FALSE;;;/
 ;C;5172;38515a2d399231bb4340622c162d7b1a;room;;TRUE;;;/
 ;C;5989;bac07a9a07d31bd971ed4288f10499d6;stay alert and seal the deal;;FALSE;;stay alert;seal the deal
 ;C;10905;4f1511992b86c3d28f958bcbf4d56511;?? as the risk to ?? the banker in the ?? must;;TRUE;;;/
 ;C;13367;773048bc5ea832a6a6fb93f6da578bc6;take advantage;;FALSE;;take advantage;take advantage
-;C;15003;bc3b5c51f98f643be9a99134572a2170;take risk;;FALSE;;take risks;risk
-;D;2130;2b7058890eefa22341aa295a036985a9;gamble;take risk;FALSE;maybe?;take risks;/
-;D;3770;58538dcb3f84e420200c601a4903dbef;think about it before he does it;evaluate;FALSE;;;think
+;C;15003;bc3b5c51f98f643be9a99134572a2170;take risk;;FALSE;;risk;risk
+;D;2130;2b7058890eefa22341aa295a036985a9;gamble;take risk;FALSE;maybe?;risk;/
+;D;3770;58538dcb3f84e420200c601a4903dbef;think about it before he does it;evaluate;FALSE;;think;think
 ;D;7855;61f3559549de508d322e493e3c8fe90c;The conference room;;TRUE;;;/
-;D;10314;64e64662aa8b1a57c3e5254b48652bcc;take the risks;take risk;FALSE;;take risks;risk
+;D;10314;64e64662aa8b1a57c3e5254b48652bcc;take the risks;take risk;FALSE;;rick;risk
 ;D;12781;8e6ad748c0685eaeffbadbae0050306d;invest;;FALSE;;;/
 ;D;14416;46c4212ded545ed717b0ff376752ae11;evaluate decisions on next steps;evaluate;FALSE;;evaluate;evaluate
 ;D;16057;9f8736428d68ef86c654e1f0f0b1058e;advise accordingly;advise;FALSE;;advise;advise
@@ -1470,9 +1470,9 @@ Item;Condition;ID;MD5 hash of participant's IP address;Original_Value;Changed_Va
 ;B;13757;773048bc5ea832a6a6fb93f6da578bc6;be ready;get ready;FALSE;;prepare;/
 ;B;15395;bc3b5c51f98f643be9a99134572a2170;get prepares;get ready;FALSE;;prepare;prepare
 ;C;1906;2b7058890eefa22341aa295a036985a9;complete it;;FALSE;;complete;complete
-;C;3548;58538dcb3f84e420200c601a4903dbef;get up and get prepared;get ready;FALSE;;get up and prepare;prepare
+;C;3548;58538dcb3f84e420200c601a4903dbef;get up and get prepared;get ready;FALSE;;prepare;prepare
 ;C;7633;61f3559549de508d322e493e3c8fe90c;fter arranging all the ;;TRUE;;;/
-;C;10088;64e64662aa8b1a57c3e5254b48652bcc;get new art;;FALSE;;;get
+;C;10088;64e64662aa8b1a57c3e5254b48652bcc;get new art;;FALSE;;get;get
 ;C;12559;8e6ad748c0685eaeffbadbae0050306d;imagine;;FALSE;;;/
 ;C;14193;46c4212ded545ed717b0ff376752ae11;prepare for showings.;get ready;FALSE;;prepare;prepare
 ;C;15832;9f8736428d68ef86c654e1f0f0b1058e;get painting;;FALSE;;paint;get
@@ -1496,13 +1496,13 @@ Item;Condition;ID;MD5 hash of participant's IP address;Original_Value;Changed_Va
 ;C;6926;83d8403f227baca0464166c404dc0dc2;relax and sunbathe;relax;FALSE;;relax;relax
 ;C;11850;14399e53229004f2c85ec3810d5cf776;Take a leisure time ;relax;FALSE;;relax;relax
 ;D;3089;9a8edf1b84fcdd4e9692881d31a5a26e;balance work life together;;FALSE;;balance;balance
-;D;4722;559a558cc071b904f807f21b428370da;know that they cannot peer into the sky much at this time%2C to avoid staring into the sun and damaging their eyes.;not work;FALSE;maybe?;;/
-;D;8806;6df37ff0405e34325f86235ab8e45b66;head to work;get to work;FALSE;;head to work;work
+;D;4722;559a558cc071b904f807f21b428370da;know that they cannot peer into the sky much at this time%2C to avoid staring into the sun and damaging their eyes.;not work;FALSE;maybe?;avoid;/
+;D;8806;6df37ff0405e34325f86235ab8e45b66;head to work;get to work;FALSE;;work;work
 ;D;9624;3028e7887ad94e66d4f5fe907c30cc88;at the beach;;TRUE;;;/
-76;A;2098;2b7058890eefa22341aa295a036985a9;provide intel ;provide guidance;FALSE;maybe?;provide intel;provide
+76;A;2098;2b7058890eefa22341aa295a036985a9;provide intel ;provide guidance;FALSE;maybe?;provide;provide
 ;A;3739;58538dcb3f84e420200c601a4903dbef;start brainstorming ideas;brainstrorm;FALSE;;brainstorm;brainstorm
 ;A;7824;61f3559549de508d322e493e3c8fe90c;s the company need a workflow;;TRUE;;;/
-;A;10283;64e64662aa8b1a57c3e5254b48652bcc;provide proper guidance;provide guidance;FALSE;;provide guidance;provide
+;A;10283;64e64662aa8b1a57c3e5254b48652bcc;provide proper guidance;provide guidance;FALSE;;guide;provide
 ;A;12750;8e6ad748c0685eaeffbadbae0050306d;analyze;;FALSE;;;/
 ;A;14385;46c4212ded545ed717b0ff376752ae11;record various ideas;brainstrorm;FALSE;;brainstorm;record
 ;A;16026;9f8736428d68ef86c654e1f0f0b1058e;assist them;;FALSE;;assist;assist
@@ -1513,14 +1513,14 @@ Item;Condition;ID;MD5 hash of participant's IP address;Original_Value;Changed_Va
 ;C;4711;559a558cc071b904f807f21b428370da;research the sort of business the company works on%2C and prepare special suggestions based upon that information.;provide guidance;FALSE;maybe?;research;research
 ;C;8795;6df37ff0405e34325f86235ab8e45b66;assist them;;FALSE;;assist;assist
 ;C;9613;3028e7887ad94e66d4f5fe907c30cc88;as the company needs some guidance with it work flows;;TRUE;;;/
-;D;577;b8b10c5c32c46a8f278dc868ef65fd9d;direct them;provide guidance;FALSE;;provide guidance;direct
+;D;577;b8b10c5c32c46a8f278dc868ef65fd9d;direct them;provide guidance;FALSE;;guide;direct
 ;D;5491;38515a2d399231bb4340622c162d7b1a;company;;TRUE;;;/
-;D;6309;bac07a9a07d31bd971ed4288f10499d6;make a gameplan;;FALSE;;make a plan;plan
+;D;6309;bac07a9a07d31bd971ed4288f10499d6;make a gameplan;;FALSE;;plan;plan
 ;D;11229;4f1511992b86c3d28f958bcbf4d56511;??;;FALSE;how to treat this?;;/
-;D;13686;773048bc5ea832a6a6fb93f6da578bc6;make enquires;ask;FALSE;;;enquiry
+;D;13686;773048bc5ea832a6a6fb93f6da578bc6;make enquires;ask;FALSE;;enquiry;enquiry
 ;D;15324;bc3b5c51f98f643be9a99134572a2170;ask for help;;FALSE;;ask;ask
 77;A;955;2817aa3ba5ce3496c4222adb7a6aa37c;prepare the bait. ;;FALSE;;prepare;prepare
-;A;6684;83d8403f227baca0464166c404dc0dc2;cast his lines;;FALSE;;;cast
+;A;6684;83d8403f227baca0464166c404dc0dc2;cast his lines;;FALSE;;cast;cast
 ;A;11608;14399e53229004f2c85ec3810d5cf776;Get ready for fishing;get ready;FALSE;;prepare;prepare
 ;B;2913;9a8edf1b84fcdd4e9692881d31a5a26e;consider the fishing season is open;;FALSE;;consider;consider
 ;B;4547;559a558cc071b904f807f21b428370da;stay out as long as possible on the water to fish.;;FALSE;;stay out;stay out
@@ -1528,7 +1528,7 @@ Item;Condition;ID;MD5 hash of participant's IP address;Original_Value;Changed_Va
 ;B;9449;3028e7887ad94e66d4f5fe907c30cc88;as the weather is good;;TRUE;;;/
 ;C;618;b8b10c5c32c46a8f278dc868ef65fd9d;prepare;get ready;FALSE;;prepare;/
 ;C;5531;38515a2d399231bb4340622c162d7b1a;fisherman;;TRUE;;;/
-;C;6349;bac07a9a07d31bd971ed4288f10499d6;catch as many fish as possible;fish;FALSE;;catch fish;fish
+;C;6349;bac07a9a07d31bd971ed4288f10499d6;catch as many fish as possible;fish;FALSE;;fish;fish
 ;C;11270;4f1511992b86c3d28f958bcbf4d56511;s the weather is good and the sea is calm%2C the fisherman at the boat must%2C ;;TRUE;;;/
 ;C;13726;773048bc5ea832a6a6fb93f6da578bc6;be careful ;;FALSE;;;/
 ;C;15364;bc3b5c51f98f643be9a99134572a2170;fish;;FALSE;;fish;/
@@ -1539,32 +1539,32 @@ Item;Condition;ID;MD5 hash of participant's IP address;Original_Value;Changed_Va
 ;D;12938;8e6ad748c0685eaeffbadbae0050306d;continue;;FALSE;;continue;/
 ;D;14573;46c4212ded545ed717b0ff376752ae11;prepare for the expedition;get ready;FALSE;;prepare;prepare
 ;D;16215;9f8736428d68ef86c654e1f0f0b1058e;cast their line;;FALSE;I think C/D have again high probability. What do you think?;cast;cast
-78;A;3258;9a8edf1b84fcdd4e9692881d31a5a26e;cut her hair;cut it;FALSE;;cut it;cut
-;A;4891;559a558cc071b904f807f21b428370da;cut her hair as short as the client requests it. ;cut it;FALSE;;cut it;cut
-;A;8976;6df37ff0405e34325f86235ab8e45b66;cut it;cut it;FALSE;;cut it;cut
+78;A;3258;9a8edf1b84fcdd4e9692881d31a5a26e;cut her hair;cut it;FALSE;;cut;cut
+;A;4891;559a558cc071b904f807f21b428370da;cut her hair as short as the client requests it. ;cut it;FALSE;;cut;cut
+;A;8976;6df37ff0405e34325f86235ab8e45b66;cut it;cut it;FALSE;;cut;cut
 ;A;9793;3028e7887ad94e66d4f5fe907c30cc88;because the girl hates her long hair;;TRUE;;;/
-;B;18;b8b10c5c32c46a8f278dc868ef65fd9d;cut it;cut it;FALSE;;cut it;cut
+;B;18;b8b10c5c32c46a8f278dc868ef65fd9d;cut it;cut it;FALSE;;cut;cut
 ;B;4942;38515a2d399231bb4340622c162d7b1a;long;;TRUE;;;/
-;B;5758;bac07a9a07d31bd971ed4288f10499d6;get it cut;cut it;FALSE;;cut it;cut
+;B;5758;bac07a9a07d31bd971ed4288f10499d6;get it cut;cut it;FALSE;;cut;cut
 ;B;10672;4f1511992b86c3d28f958bcbf4d56511;the hairdresser in the hair salon%2C because the girl hates her long hair had to;;TRUE;;;/
-;B;13136;773048bc5ea832a6a6fb93f6da578bc6;cut it short;cut it;FALSE;;cut it;cut
-;B;14771;bc3b5c51f98f643be9a99134572a2170;cut it;cut it;FALSE;;cut it;cut
-;C;2343;2b7058890eefa22341aa295a036985a9;cut it;cut it;FALSE;;cut it;cut
-;C;3979;58538dcb3f84e420200c601a4903dbef;cut her hair shorter;cut it;FALSE;;cut it;cut
+;B;13136;773048bc5ea832a6a6fb93f6da578bc6;cut it short;cut it;FALSE;;cut;cut
+;B;14771;bc3b5c51f98f643be9a99134572a2170;cut it;cut it;FALSE;;cut;cut
+;C;2343;2b7058890eefa22341aa295a036985a9;cut it;cut it;FALSE;;cut;cut
+;C;3979;58538dcb3f84e420200c601a4903dbef;cut her hair shorter;cut it;FALSE;;cut;cut
 ;C;8063;61f3559549de508d322e493e3c8fe90c;Because the girl hate her long hair;;TRUE;;;/
-;C;10523;64e64662aa8b1a57c3e5254b48652bcc;cut it off;cut it;FALSE;;cut it;cut
+;C;10523;64e64662aa8b1a57c3e5254b48652bcc;cut it off;cut it;FALSE;;cut;cut
 ;C;12989;8e6ad748c0685eaeffbadbae0050306d;shear;;FALSE;;;shear
 ;C;14624;46c4212ded545ed717b0ff376752ae11;ask how to proceed with the appointment;;FALSE;here?;ask;ask
-;C;16266;9f8736428d68ef86c654e1f0f0b1058e;cut her hair;cut it;FALSE;;cut it;cut
+;C;16266;9f8736428d68ef86c654e1f0f0b1058e;cut her hair;cut it;FALSE;;cut;cut
 ;D;1164;2817aa3ba5ce3496c4222adb7a6aa37c;think of how she wants her hair cut.;;FALSE;and here?;think;think
-;D;6893;83d8403f227baca0464166c404dc0dc2;get her scissors ready;get ready;FALSE;;get ready;get ready
+;D;6893;83d8403f227baca0464166c404dc0dc2;get her scissors ready;get ready;FALSE;;prepare;get ready
 ;D;11817;14399e53229004f2c85ec3810d5cf776;Hasto wait for the hairdreeser;wait;FALSE;;wait;wait
 79;A;787;b8b10c5c32c46a8f278dc868ef65fd9d;distributed;distribute;FALSE;;distribute;distributed
 ;A;5698;38515a2d399231bb4340622c162d7b1a;lab;;TRUE;;;/
-;A;6517;bac07a9a07d31bd971ed4288f10499d6;prepare her prescriptions ;;FALSE;;prepare them;prepare
+;A;6517;bac07a9a07d31bd971ed4288f10499d6;prepare her prescriptions ;;FALSE;;prepare;prepare
 ;A;11440;4f1511992b86c3d28f958bcbf4d56511;While the patient needs to take all of ?? the pharmacist in the lab has to ;;TRUE;;;/
-;A;13893;773048bc5ea832a6a6fb93f6da578bc6;give out;;FALSE;;give them out;give
-;A;15532;bc3b5c51f98f643be9a99134572a2170;write it out;give out;FALSE;maybe?;write it out;write
+;A;13893;773048bc5ea832a6a6fb93f6da578bc6;give out;;FALSE;;give out;give
+;A;15532;bc3b5c51f98f643be9a99134572a2170;write it out;give out;FALSE;maybe?;write;write
 ;B;2410;2b7058890eefa22341aa295a036985a9;comply;;FALSE;;compy;/
 ;B;4046;58538dcb3f84e420200c601a4903dbef;wait patiently;wait;FALSE;;wait;wait
 ;B;8130;61f3559549de508d322e493e3c8fe90c;The pharmacist in the lab;;TRUE;;;/
@@ -1579,23 +1579,23 @@ Item;Condition;ID;MD5 hash of participant's IP address;Original_Value;Changed_Va
 ;D;4339;559a558cc071b904f807f21b428370da;hurry to complete filling the prescription.;fill the prescription;FALSE;;hurry;hurry
 ;D;8423;6df37ff0405e34325f86235ab8e45b66;dispense it;;FALSE;;dispense;dispense
 ;D;9241;3028e7887ad94e66d4f5fe907c30cc88;whiles the patient needs to take some medications;;FALSE;how can we treat this one?;;/
-80;A;2172;2b7058890eefa22341aa295a036985a9;revitalize him;rescue;FALSE;;;revitalize
+80;A;2172;2b7058890eefa22341aa295a036985a9;revitalize him;rescue;FALSE;;revitalize;revitalize
 ;A;3811;58538dcb3f84e420200c601a4903dbef;do what they can;help;FALSE;;;help
 ;A;7895;61f3559549de508d322e493e3c8fe90c;s there was some victims due to the accident;;TRUE;;;/
-;A;10355;64e64662aa8b1a57c3e5254b48652bcc;attend to as many victims as possible;help;FALSE;;treat them;help
+;A;10355;64e64662aa8b1a57c3e5254b48652bcc;attend to as many victims as possible;help;FALSE;;treat;help
 ;A;12821;8e6ad748c0685eaeffbadbae0050306d;triage;;FALSE;;;/
-;A;14456;46c4212ded545ed717b0ff376752ae11;treat the victims;rescue;FALSE;;treat them;treat
-;A;16097;9f8736428d68ef86c654e1f0f0b1058e;transport them to the hospital;;FALSE;;transport them;transport
+;A;14456;46c4212ded545ed717b0ff376752ae11;treat the victims;rescue;FALSE;;treat;treat
+;A;16097;9f8736428d68ef86c654e1f0f0b1058e;transport them to the hospital;;FALSE;;transport;transport
 ;B;1046;2817aa3ba5ce3496c4222adb7a6aa37c;help the injured.;help;FALSE;;help;help
 ;B;6775;83d8403f227baca0464166c404dc0dc2;act quickly;help;FALSE;maybe?;act;hurry
 ;B;11699;14399e53229004f2c85ec3810d5cf776;In a dangerous situation;;FALSE;this again shows difficulty I think;;/
-;C;3267;9a8edf1b84fcdd4e9692881d31a5a26e;take the victims to the hospital;transport them to the hospital;FALSE;;transport them;transport
+;C;3267;9a8edf1b84fcdd4e9692881d31a5a26e;take the victims to the hospital;transport them to the hospital;FALSE;;transport;transport
 ;C;4900;559a558cc071b904f807f21b428370da;hurry to get to the scene of the accident to assist the victims.;help;FALSE;;hurry;hurry
-;C;8985;6df37ff0405e34325f86235ab8e45b66;save them;rescue;FALSE;;save them;save
+;C;8985;6df37ff0405e34325f86235ab8e45b66;save them;rescue;FALSE;;save;save
 ;C;9802;3028e7887ad94e66d4f5fe907c30cc88;as there were some victims;;TRUE;;;/
-;D;438;b8b10c5c32c46a8f278dc868ef65fd9d;rescue;;FALSE;;save then;/
+;D;438;b8b10c5c32c46a8f278dc868ef65fd9d;rescue;;FALSE;;rescue;/
 ;D;5354;38515a2d399231bb4340622c162d7b1a;accident;;TRUE;this again shows difficulty I think;;/
 ;D;6172;bac07a9a07d31bd971ed4288f10499d6;damage;;FALSE;this again shows difficulty I think;;/
 ;D;11089;4f1511992b86c3d28f958bcbf4d56511;the paramedics in the elevator%2C as there were some ?? due to the accident had to ;;TRUE;;;/
 ;D;13549;773048bc5ea832a6a6fb93f6da578bc6;be rushed to the hospital;rush to the hospital;FALSE;;be rushed;hurry
-;D;15186;bc3b5c51f98f643be9a99134572a2170;care for them;rescue;FALSE;maybe?;treat them;help
+;D;15186;bc3b5c51f98f643be9a99134572a2170;care for them;rescue;FALSE;maybe?;treat;help
