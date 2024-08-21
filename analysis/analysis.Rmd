@@ -92,14 +92,14 @@ Our data is not normally distributed per the Shapiro-Wild test, barring us from
 using LM or ANOVA. 
 
 ```{r} 
-lm_model1 <- lmer(ClozeProb ~ 1 + cp1 * l1 +
-                   (1 + cp1 + l1 + cp1 * l1 || Item),
+lm_model1 <- lmer(ClozeProb ~ 1 + cp1*l1 +
+                   (1 + cp1 + l1 + cp1:l1 || Item),
                  REML=FALSE, 
                  data = grouped_data,
                  control = lmerControl(calc.derivs=FALSE), 
                  na.action = na.omit
                  )
-summary(lm_model1) # one with the interaction in the random effects
+summary(lm_model1)
 ```
 LMM model
 Now we are ready to create our models As mentioned before, we won't have any
@@ -107,9 +107,9 @@ random effects by Subject, only by Item.
 In short, we observe a significant main effect for location. However, let's 
 create another model.
 ```{r}
-grouped_data$res <- residuals(lm_model1)
-model1_res <- lmer(res ~ 1 + cp1 * l1 +
-                   (1 + cp1 + l1 + cp1 * l1 || Item),
+grouped_data$res1 <- residuals(lm_model1)
+model1_res <- lmer(res1 ~ 1 + cp1*l1 +
+                   (1 + cp1 + l1 + cp1:l1 || Item),
                   REML=FALSE, 
                   data = grouped_data,
                   control = lmerControl(calc.derivs=FALSE), 
@@ -117,15 +117,16 @@ model1_res <- lmer(res ~ 1 + cp1 * l1 +
 summary(rePCA(model1_res))
                   
 ```
-As we can see, almost all variance is accounted for by the third component, so 
+As we can see, almost all variance is accounted for by three components, so 
 we can do some model reduction.
 ```{r}
 VarCorr(model1_res) 
 ```
-It looks like the the intercept by Item is basically useless.
+Let's remove the intercept, then.
+
 ```{r}
 lm_model2 <- lmer(ClozeProb ~ 1 + cp1 * l1 +
-                   (0 + cp1 + l1 + cp1 * l1 || Item),
+                   (0 + cp1 + l1 + cp1:l1 || Item),
                  REML=FALSE, 
                  data = grouped_data,
                  control = lmerControl(calc.derivs=FALSE), 
@@ -133,22 +134,25 @@ lm_model2 <- lmer(ClozeProb ~ 1 + cp1 * l1 +
                  )
 summary(lm_model2)
 ```
-We create a new model and repeat the process.
+
 ```{r}
-grouped_data$res <- residuals(lm_model2)
-model2_res <- lmer(res ~ 1 + cp1 * l1 +
-                   (0 + cp1 + l1 + cp1 * l1 || Item),
+grouped_data$res2 <- residuals(lm_model2)
+model2_res <- lmer(res2 ~ 1 + cp1 * l1 +
+                   (0 + cp1 + l1 + cp1:l1 || Item),
                   REML=FALSE, 
                   data = grouped_data,
                   control = lmerControl(calc.derivs=FALSE), 
                   na.action = na.omit)
 summary(rePCA(model2_res))
 ```
-Looks better!
 ```{r}
 VarCorr(model2_res)
 ```
-This looks like a good place to stop. lm_model2 is now our final model.
+```{r}
+anova(lm_model1, lm_model2)
+```
+Model 2 is a significant improvement over model 1. 
+
 
 Time for plots and tables!!!
 
