@@ -64,6 +64,18 @@ summary(data)
 ```
 Setting up our contrasts
 
+```{r}
+model <- glmer(ResponseIsTarget ~ 1 + cp1*l1 +
+                     (1 + cp1 + l1 + cp1:l1 || Item) +
+                     (1 + cp1 + l1 + cp1:l1 || Participant),
+                 data = data,
+                 control = glmerControl(calc.derivs=FALSE),
+                 family="binomial",
+                 na.action = na.omit
+                 )
+summary(model)
+```
+
 Time for plots and tables!!!
 ```{r}
 grouped_data <- data %>% 
@@ -78,7 +90,7 @@ condition.
 ```{r}
 grouped_data.SE <- summarySE(
   data = grouped_data, 
-  measurevar = 'ClozeProb',
+  measurevar = 'percentTarget',
   groupvars = c('cp1','l1'))
 
 grouped_data.SE = grouped_data.SE %>%
@@ -92,31 +104,31 @@ grouped_data.SE = grouped_data.SE %>%
   ))
 
 # first, a bar chart
-ggplot(grouped_data.SE, aes(x = Location,y = ClozeProb,fill=Location)) +
+ggplot(grouped_data.SE, aes(x = Location,y = percentTarget,fill=Location)) +
   geom_bar(stat = "identity") +
   scale_fill_manual(values = c('#00A36C','#BBA53D')) +
-  labs(title = 'Cloze Probability of Target by Clause Placement and Location',
-       y = ' Cloze Probability of Target'
+  labs(title = 'Percentage of Responses Equal to Target by Clause Placement and Location',
+       y = 'Percentage equal to Target'
   ) +
   theme(plot.title = element_text(hjust = 0.5), legend.position="none") + 
   facet_grid(~ClausePlacement) + 
-  geom_errorbar(aes(ymin = ClozeProb - se, ymax = ClozeProb + se), 
+  geom_errorbar(aes(ymin = percentTarget - se, ymax = percentTarget + se), 
                 width = 0.1, 
                 size = 0.5)
 
 ggplot(grouped_data.SE, 
        aes(x = Location, 
-           y = ClozeProb, 
+           y = percentTarget, 
            group=ClausePlacement, 
            color = ClausePlacement)
        ) +
   geom_line() +
   geom_point() + 
   scale_color_manual(values = c('coral1','darkturquoise'),name = 'Clause Placement') +
-  labs(title = 'Cloze Probability of Target by Clause Placement and Location',
-       y = ' Cloze Probability of Target'
+  labs(title = 'Percentage of Responses Equal to Target by Clause Placement and Location',
+       y = 'Percentage equal to Target'
   ) +
-  geom_errorbar(aes(ymin = ClozeProb - se, ymax = ClozeProb + se), 
+  geom_errorbar(aes(ymin = percentTarget - se, ymax = percentTarget + se), 
                 width = 0.1, 
                 size = 0.5)
   
