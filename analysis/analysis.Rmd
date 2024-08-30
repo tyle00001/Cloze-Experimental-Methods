@@ -95,8 +95,8 @@ grouped_data.SE <- summarySE(
 
 grouped_data.SE = grouped_data.SE %>%
   mutate(Location = case_when(
-    l1 == -0.5 ~ 'Original',
-    l1 == 0.5 ~ 'Replacement',
+    l1 == -0.5 ~ 'Related',
+    l1 == 0.5 ~ 'Unrelated',
   )) %>%
   mutate(ClausePlacement = case_when(
     cp1 == -0.5 ~ 'Leading',
