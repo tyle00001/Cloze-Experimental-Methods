@@ -107,8 +107,8 @@ grouped_data.SE = grouped_data.SE %>%
 ggplot(grouped_data.SE, aes(x = Location,y = percentTarget,fill=Location)) +
   geom_bar(stat = "identity") +
   scale_fill_manual(values = c('#00A36C','#BBA53D')) +
-  labs(title = 'Percentage of Responses Equal to Target by Clause Placement and Location',
-       y = 'Percentage equal to Target'
+  labs(title = 'Cloze Probability of Target by Clause Placement and Location',
+       y = 'Cloze Probability of Target'
   ) +
   theme(plot.title = element_text(hjust = 0.5), legend.position="none") + 
   facet_grid(~ClausePlacement) + 
@@ -125,8 +125,8 @@ ggplot(grouped_data.SE,
   geom_line() +
   geom_point() + 
   scale_color_manual(values = c('coral1','darkturquoise'),name = 'Clause Placement') +
-  labs(title = 'Percentage of Responses Equal to Target by Clause Placement and Location',
-       y = 'Percentage equal to Target'
+  labs(title = 'Cloze Probability of Target by Clause Placement and Location',
+       y = 'Cloze Probability of Target'
   ) +
   geom_errorbar(aes(ymin = percentTarget - se, ymax = percentTarget + se), 
                 width = 0.1, 
