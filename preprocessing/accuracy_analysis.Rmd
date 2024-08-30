@@ -1,0 +1,73 @@
+---
+title: "accuracy_analysis"
+output: html_document
+date: "2024-08-30"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+suppressPackageStartupMessages(library(Rmisc))
+suppressPackageStartupMessages(library(data.table))
+suppressPackageStartupMessages(library(stringr))
+suppressPackageStartupMessages(library(dplyr))
+suppressPackageStartupMessages(library(ggplot2))
+suppressPackageStartupMessages(library(lme4))
+suppressPackageStartupMessages(library(gridExtra))
+suppressPackageStartupMessages(library(tidyr))
+```
+
+```{r}
+data = read.csv('data_review/accuracy_data.csv')
+
+data <- data %>%
+  mutate('Location' = case_when(
+    Condition %in% c('A','B')  ~ 'Related',
+    Condition %in% c('C','D')  ~ 'Unrelated'
+  ))
+data <- data %>%
+  mutate('ClausePlacement' = case_when(
+    Condition %in% c('A','C')  ~ 'Leading',
+    Condition %in% c('B','D')  ~ 'Intervening'
+  ))
+
+data$SubjectCorrect <- as.logical(data$SubjectCorrect)
+  
+
+data <- rename(data, Subject = MD5.hash.of.participant.s.IP.address )
+
+summary(data)
+```
+
+```{r}
+data$Location <- as.factor(data$Location)
+data$ClausePlacement <- as.factor(data$ClausePlacement)
+
+contrasts.Tri <- 
+  matrix(c(1/2, 1/2,
+           -1, 1), 
+         ncol = 2) %>%
+  t(.) %>%
+  solve(.) %>%
+  .[,2:2]
+
+contrasts(data$ClausePlacement) <- contrasts.Tri
+contrasts(data$Location) <- c(-.5,.5)
+
+model_matrix <- model.matrix( ~ ClausePlacement * Location, data)
+
+data$cp1 <- model_matrix[,2]
+data$l1 <- model_matrix[,3]
+summary(data)
+```
+
+```{r}
+model <- glmer(SubjectCorrect ~ 1 + cp1*l1 +
+                     (1 + cp1 + l1 + cp1:l1 || Item) +
+                     (1 + cp1 + l1 + cp1:l1 || Subject),
+                 data = data,
+                 control = glmerControl(calc.derivs=FALSE),
+                 family="binomial",
+                 na.action = na.omit
+                 )
+summary(model)
+```
