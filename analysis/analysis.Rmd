@@ -41,8 +41,7 @@ data <- data %>%
   mutate(ResponseIsTarget = Response == Target)
 summary(data)
 ```
-Since we are interested in the cloze probability of the target word in each 
-Item + Condition, we need to an additional column ResponseIsTarget, which 
+We need to an additional column ResponseIsTarget, which 
 indicates whether the participants gave Target or not.
 
 ```{r}
@@ -65,96 +64,16 @@ summary(data)
 ```
 Setting up our contrasts
 
+Time for plots and tables!!!
 ```{r}
 grouped_data <- data %>% 
   group_by(Item, cp1, l1) %>%
-  summarise(ClozeProb = sum(ResponseIsTarget) / length(ResponseIsTarget),
+  summarise(percentTarget = sum(ResponseIsTarget) / length(ResponseIsTarget),
             )
 summary(grouped_data)
 ```
-Since we are interested in the cloze probability in each condition, we need to 
-calculate that, too. For this, we'll create a new dataframe called grouped_data 
-because crucially, we are grouping all of our data by Item and Condition. 
-Notably, this means we won't have random effects by Subject, only by Item.
-grouped_data has the following columns
-Item: the item number
-cp1: the encoded clause placement level
-l1: the encoded location level
-Cloze Prob: the cloze probability of the target word for each item and condition
-
-```{r}
-mod <- aov(ClozeProb ~ cp1 * l1,
-  data = grouped_data
-)
-shapiro.test(mod$residuals)
-```
-Our data is not normally distributed per the Shapiro-Wild test, barring us from
-using LM or ANOVA. 
-
-```{r} 
-lm_model1 <- lmer(ClozeProb ~ 1 + cp1*l1 +
-                   (1 + cp1 + l1 + cp1:l1 || Item),
-                 REML=FALSE, 
-                 data = grouped_data,
-                 control = lmerControl(calc.derivs=FALSE), 
-                 na.action = na.omit
-                 )
-summary(lm_model1)
-```
-LMM model
-Now we are ready to create our models As mentioned before, we won't have any
-random effects by Subject, only by Item. 
-In short, we observe a significant main effect for location. However, let's 
-create another model.
-```{r}
-grouped_data$res1 <- residuals(lm_model1)
-model1_res <- lmer(res1 ~ 1 + cp1*l1 +
-                   (1 + cp1 + l1 + cp1:l1 || Item),
-                  REML=FALSE, 
-                  data = grouped_data,
-                  control = lmerControl(calc.derivs=FALSE), 
-                  na.action = na.omit)
-summary(rePCA(model1_res))
-                  
-```
-As we can see, almost all variance is accounted for by three components, so 
-we can do some model reduction.
-```{r}
-VarCorr(model1_res) 
-```
-Let's remove the intercept, then.
-
-```{r}
-lm_model2 <- lmer(ClozeProb ~ 1 + cp1 * l1 +
-                   (0 + cp1 + l1 + cp1:l1 || Item),
-                 REML=FALSE, 
-                 data = grouped_data,
-                 control = lmerControl(calc.derivs=FALSE), 
-                 na.action = na.omit
-                 )
-summary(lm_model2)
-```
-
-```{r}
-grouped_data$res2 <- residuals(lm_model2)
-model2_res <- lmer(res2 ~ 1 + cp1 * l1 +
-                   (0 + cp1 + l1 + cp1:l1 || Item),
-                  REML=FALSE, 
-                  data = grouped_data,
-                  control = lmerControl(calc.derivs=FALSE), 
-                  na.action = na.omit)
-summary(rePCA(model2_res))
-```
-```{r}
-VarCorr(model2_res)
-```
-```{r}
-anova(lm_model1, lm_model2)
-```
-Model 2 is a significant improvement over model 1. 
-
-
-Time for plots and tables!!!
+We'll use the percentage of responses which equaled the target for each
+condition.
 
 ```{r}
 grouped_data.SE <- summarySE(
